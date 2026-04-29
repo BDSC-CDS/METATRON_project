@@ -1,0 +1,845 @@
+Case_N,Domain,Label,Model_List,Expert_List,Metric,Value
+1,tumor_biology,primary_site,['Left colon'],['Left colon'],TSR,100.0
+1,tumor_biology,primary_site,['Left colon'],['Left colon'],Exact_Match_P,1.0
+1,primary_tumor_status,primary_resection,['False'],['False'],TSR,100.0
+1,primary_tumor_status,primary_resection,['False'],['False'],Exact_Match_P,1.0
+1,primary_tumor_status,primary_symptoms,['Obstruction'],['Obstruction'],TSR,100.0
+1,primary_tumor_status,primary_symptoms,['Obstruction'],['Obstruction'],Exact_Match_P,1.0
+1,liver_metastases,number_of_liver_metastases,['2'],['2'],TSR,100.0
+1,liver_metastases,number_of_liver_metastases,['2'],['2'],Exact_Match_P,1.0
+1,liver_metastases,liver_metastases_size,['3'],['3'],TSR,100.0
+1,liver_metastases,liver_metastases_size,['3'],['3'],Exact_Match_P,1.0
+1,liver_metastases,liver_metastases_distribution,['Peripheral'],['Bilobar'],TSR,24.0
+1,liver_metastases,liver_metastases_distribution,['Peripheral'],['Bilobar'],Exact_Match_P,0.0
+1,liver_metastases,hepatic_segments_involved,"['Seg 2', 'Seg 5']","['Seg 2', 'Seg 5']",TSR,100.0
+1,liver_metastases,hepatic_segments_involved,"['Seg 2', 'Seg 5']","['Seg 2', 'Seg 5']",Exact_Match_P,1.0
+1,imaging,imaging_modality,['CT'],"['MRI', 'CT', 'PET-CT']",TSR,66.66666666666667
+1,imaging,imaging_modality,['CT'],"['MRI', 'CT', 'PET-CT']",Exact_Match_P,0.3333333333333333
+1,systemic_therapy,chemotherapy_regimen,['FOLFOX'],"['FOLFOX', 'FOLFIRI']",TSR,81.0
+1,systemic_therapy,chemotherapy_regimen,['FOLFOX'],"['FOLFOX', 'FOLFIRI']",Exact_Match_P,0.5
+1,systemic_therapy,chemotherapy_line,"['neoadjuvant', 'adjuvant']","['neoadjuvant', 'adjuvant']",TSR,100.0
+1,systemic_therapy,chemotherapy_line,"['neoadjuvant', 'adjuvant']","['neoadjuvant', 'adjuvant']",Exact_Match_P,1.0
+1,systemic_therapy,targeted_immuno,['cetuximab'],['cetuximab'],TSR,100.0
+1,systemic_therapy,targeted_immuno,['cetuximab'],['cetuximab'],Exact_Match_P,1.0
+1,surgical_planning,surgical_strategy,"['combined resection', 'two-stage']",['one-stage'],TSR,78.0
+1,surgical_planning,surgical_strategy,"['combined resection', 'two-stage']",['one-stage'],Exact_Match_P,0.0
+2,tumor_biology,primary_site,['Right colon'],['Right colon'],TSR,100.0
+2,tumor_biology,primary_site,['Right colon'],['Right colon'],Exact_Match_P,1.0
+2,tumor_biology,molecular_marker,['KRAS'],['KRAS'],TSR,100.0
+2,tumor_biology,molecular_marker,['KRAS'],['KRAS'],Exact_Match_P,1.0
+2,liver_metastases,number_of_liver_metastases,['1'],['1'],TSR,100.0
+2,liver_metastases,number_of_liver_metastases,['1'],['1'],Exact_Match_P,1.0
+2,liver_metastases,liver_metastases_size,['2.5'],['2.5'],TSR,100.0
+2,liver_metastases,liver_metastases_size,['2.5'],['2.5'],Exact_Match_P,1.0
+2,liver_metastases,liver_metastases_distribution,['Peripheral'],['Peripheral'],TSR,100.0
+2,liver_metastases,liver_metastases_distribution,['Peripheral'],['Peripheral'],Exact_Match_P,1.0
+2,liver_metastases,hepatic_segments_involved,['Seg 6'],['Seg 6'],TSR,100.0
+2,liver_metastases,hepatic_segments_involved,['Seg 6'],['Seg 6'],Exact_Match_P,1.0
+2,imaging,imaging_modality,"['PET-CT', 'CT']","['MRI', 'CT']",TSR,50.0
+2,imaging,imaging_modality,"['PET-CT', 'CT']","['MRI', 'CT']",Exact_Match_P,0.5
+2,systemic_therapy,chemotherapy_regimen,['FOLFOX'],['FOLFOX'],TSR,100.0
+2,systemic_therapy,chemotherapy_regimen,['FOLFOX'],['FOLFOX'],Exact_Match_P,1.0
+2,systemic_therapy,chemotherapy_line,"['adjuvant', 'neoadjuvant']",['neoadjuvant'],TSR,100.0
+2,systemic_therapy,chemotherapy_line,"['adjuvant', 'neoadjuvant']",['neoadjuvant'],Exact_Match_P,1.0
+2,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],TSR,100.0
+2,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],Exact_Match_P,1.0
+2,surgical_planning,surgical_strategy,['one-stage'],['one-stage'],TSR,100.0
+2,surgical_planning,surgical_strategy,['one-stage'],['one-stage'],Exact_Match_P,1.0
+3,tumor_biology,primary_site,['Upper rectum'],['Upper rectum'],TSR,100.0
+3,tumor_biology,primary_site,['Upper rectum'],['Upper rectum'],Exact_Match_P,1.0
+3,liver_metastases,number_of_liver_metastases,[1],['1'],TSR,100.0
+3,liver_metastases,number_of_liver_metastases,[1],['1'],Exact_Match_P,0.0
+3,liver_metastases,liver_metastases_size,[1.8],['1.8'],TSR,100.0
+3,liver_metastases,liver_metastases_size,[1.8],['1.8'],Exact_Match_P,0.0
+3,liver_metastases,liver_metastases_distribution,['Unilobar'],['Peripheral'],TSR,22.0
+3,liver_metastases,liver_metastases_distribution,['Unilobar'],['Peripheral'],Exact_Match_P,0.0
+3,liver_metastases,hepatic_segments_involved,['Seg 3'],['Seg 3'],TSR,100.0
+3,liver_metastases,hepatic_segments_involved,['Seg 3'],['Seg 3'],Exact_Match_P,1.0
+3,imaging,imaging_modality,"['MRI', 'CT', 'PET-CT']","['MRI', 'CT']",TSR,100.0
+3,imaging,imaging_modality,"['MRI', 'CT', 'PET-CT']","['MRI', 'CT']",Exact_Match_P,1.0
+3,systemic_therapy,chemotherapy_regimen,['FOLFOX'],['FOLFOX'],TSR,100.0
+3,systemic_therapy,chemotherapy_regimen,['FOLFOX'],['FOLFOX'],Exact_Match_P,1.0
+3,systemic_therapy,chemotherapy_line,['adjuvant'],['neoadjuvant'],TSR,84.0
+3,systemic_therapy,chemotherapy_line,['adjuvant'],['neoadjuvant'],Exact_Match_P,0.0
+3,systemic_therapy,targeted_immuno,['cetuximab'],"['bevacizumab', 'cetuximab']",TSR,75.0
+3,systemic_therapy,targeted_immuno,['cetuximab'],"['bevacizumab', 'cetuximab']",Exact_Match_P,0.5
+3,surgical_planning,surgical_strategy,['combined resection'],['combined resection'],TSR,100.0
+3,surgical_planning,surgical_strategy,['combined resection'],['combined resection'],Exact_Match_P,1.0
+4,tumor_biology,primary_site,['Transverse'],['Transverse'],TSR,100.0
+4,tumor_biology,primary_site,['Transverse'],['Transverse'],Exact_Match_P,1.0
+4,tumor_biology,molecular_marker,['KRAS'],['KRAS'],TSR,100.0
+4,tumor_biology,molecular_marker,['KRAS'],['KRAS'],Exact_Match_P,1.0
+4,tumor_biology,CEA,['Elevated'],['410'],TSR,0.0
+4,tumor_biology,CEA,['Elevated'],['410'],Exact_Match_P,0.0
+4,liver_metastases,number_of_liver_metastases,[3],['3'],TSR,100.0
+4,liver_metastases,number_of_liver_metastases,[3],['3'],Exact_Match_P,0.0
+4,liver_metastases,liver_metastases_size,[3.0],['2-3'],TSR,67.0
+4,liver_metastases,liver_metastases_size,[3.0],['2-3'],Exact_Match_P,0.0
+4,liver_metastases,liver_metastases_distribution,['Bilobar'],['Unilobar'],TSR,80.0
+4,liver_metastases,liver_metastases_distribution,['Bilobar'],['Unilobar'],Exact_Match_P,0.0
+4,liver_metastases,hepatic_segments_involved,"['Seg 4', 'Seg 5', 'Seg 6']","['Seg 4', 'Seg 5', 'Seg 6']",TSR,100.0
+4,liver_metastases,hepatic_segments_involved,"['Seg 4', 'Seg 5', 'Seg 6']","['Seg 4', 'Seg 5', 'Seg 6']",Exact_Match_P,1.0
+4,imaging,imaging_modality,"['CT', 'MRI']","['MRI', 'CT', 'PET-CT']",TSR,100.0
+4,imaging,imaging_modality,"['CT', 'MRI']","['MRI', 'CT', 'PET-CT']",Exact_Match_P,0.6666666666666666
+4,systemic_therapy,chemotherapy_regimen,['FOLFOX'],"['FOLFOX', 'FOLFIRI']",TSR,81.0
+4,systemic_therapy,chemotherapy_regimen,['FOLFOX'],"['FOLFOX', 'FOLFIRI']",Exact_Match_P,0.5
+4,systemic_therapy,chemotherapy_line,['neoadjuvant'],['neoadjuvant'],TSR,100.0
+4,systemic_therapy,chemotherapy_line,['neoadjuvant'],['neoadjuvant'],Exact_Match_P,1.0
+4,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],TSR,100.0
+4,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],Exact_Match_P,1.0
+4,surgical_planning,surgical_strategy,"['one-stage', 'two-stage']",['combined resection'],TSR,44.0
+4,surgical_planning,surgical_strategy,"['one-stage', 'two-stage']",['combined resection'],Exact_Match_P,0.0
+5,tumor_biology,primary_site,['Left colon'],['Left colon'],TSR,100.0
+5,tumor_biology,primary_site,['Left colon'],['Left colon'],Exact_Match_P,1.0
+5,tumor_biology,CEA,['200'],['200'],TSR,100.0
+5,tumor_biology,CEA,['200'],['200'],Exact_Match_P,1.0
+5,liver_metastases,number_of_liver_metastases,['4'],['4'],TSR,100.0
+5,liver_metastases,number_of_liver_metastases,['4'],['4'],Exact_Match_P,1.0
+5,liver_metastases,liver_metastases_size,['3'],['3'],TSR,100.0
+5,liver_metastases,liver_metastases_size,['3'],['3'],Exact_Match_P,1.0
+5,liver_metastases,liver_metastases_distribution,['Peripheral'],['Bilobar'],TSR,24.0
+5,liver_metastases,liver_metastases_distribution,['Peripheral'],['Bilobar'],Exact_Match_P,0.0
+5,liver_metastases,hepatic_segments_involved,"['Seg 2', 'Seg 3', 'Seg 5', 'Seg 8']","['Seg 2', 'Seg 3', 'Seg 5', 'Seg 8']",TSR,100.0
+5,liver_metastases,hepatic_segments_involved,"['Seg 2', 'Seg 3', 'Seg 5', 'Seg 8']","['Seg 2', 'Seg 3', 'Seg 5', 'Seg 8']",Exact_Match_P,1.0
+5,imaging,imaging_modality,"['CT', 'MRI', 'ultrasound']","['CT', 'MRI', 'PET-CT', 'ultrasound']",TSR,100.0
+5,imaging,imaging_modality,"['CT', 'MRI', 'ultrasound']","['CT', 'MRI', 'PET-CT', 'ultrasound']",Exact_Match_P,0.75
+5,systemic_therapy,chemotherapy_regimen,['FOLFOX'],"['FOLFOX', 'FOLFIRI']",TSR,81.0
+5,systemic_therapy,chemotherapy_regimen,['FOLFOX'],"['FOLFOX', 'FOLFIRI']",Exact_Match_P,0.5
+5,systemic_therapy,chemotherapy_line,['adjuvant'],['neoadjuvant'],TSR,84.0
+5,systemic_therapy,chemotherapy_line,['adjuvant'],['neoadjuvant'],Exact_Match_P,0.0
+5,systemic_therapy,targeted_immuno,['cetuximab'],['cetuximab'],TSR,100.0
+5,systemic_therapy,targeted_immuno,['cetuximab'],['cetuximab'],Exact_Match_P,1.0
+5,surgical_planning,surgical_strategy,['one-stage'],['combined resection'],TSR,44.0
+5,surgical_planning,surgical_strategy,['one-stage'],['combined resection'],Exact_Match_P,0.0
+6,tumor_biology,primary_site,['Right colon'],['Right colon'],TSR,100.0
+6,tumor_biology,primary_site,['Right colon'],['Right colon'],Exact_Match_P,1.0
+6,tumor_biology,molecular_marker,['KRAS'],['KRAS'],TSR,100.0
+6,tumor_biology,molecular_marker,['KRAS'],['KRAS'],Exact_Match_P,1.0
+6,primary_tumor_status,primary_resection,['False'],['False'],TSR,100.0
+6,primary_tumor_status,primary_resection,['False'],['False'],Exact_Match_P,1.0
+6,primary_tumor_status,primary_T_Stage,['T4'],['T4'],TSR,100.0
+6,primary_tumor_status,primary_T_Stage,['T4'],['T4'],Exact_Match_P,1.0
+6,primary_tumor_status,primary_N_stage,['N2'],['N2'],TSR,100.0
+6,primary_tumor_status,primary_N_stage,['N2'],['N2'],Exact_Match_P,1.0
+6,liver_metastases,number_of_liver_metastases,['2'],['2'],TSR,100.0
+6,liver_metastases,number_of_liver_metastases,['2'],['2'],Exact_Match_P,1.0
+6,liver_metastases,liver_metastases_size,['3'],['3'],TSR,100.0
+6,liver_metastases,liver_metastases_size,['3'],['3'],Exact_Match_P,1.0
+6,liver_metastases,liver_metastases_distribution,['Unilobar'],['Unilobar'],TSR,100.0
+6,liver_metastases,liver_metastases_distribution,['Unilobar'],['Unilobar'],Exact_Match_P,1.0
+6,liver_metastases,hepatic_segments_involved,"['Seg 2', 'Seg 4']","['Seg 2', 'Seg 4']",TSR,100.0
+6,liver_metastases,hepatic_segments_involved,"['Seg 2', 'Seg 4']","['Seg 2', 'Seg 4']",Exact_Match_P,1.0
+6,imaging,imaging_modality,"['MRI', 'CT']","['MRI', 'PET-CT', 'CT']",TSR,100.0
+6,imaging,imaging_modality,"['MRI', 'CT']","['MRI', 'PET-CT', 'CT']",Exact_Match_P,0.6666666666666666
+6,systemic_therapy,chemotherapy_regimen,['FOLFOX'],"['FOLFOX', 'FOLFIRI']",TSR,81.0
+6,systemic_therapy,chemotherapy_regimen,['FOLFOX'],"['FOLFOX', 'FOLFIRI']",Exact_Match_P,0.5
+6,systemic_therapy,chemotherapy_line,"['neoadjuvant', 'adjuvant']",['neoadjuvant'],TSR,100.0
+6,systemic_therapy,chemotherapy_line,"['neoadjuvant', 'adjuvant']",['neoadjuvant'],Exact_Match_P,1.0
+6,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],TSR,100.0
+6,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],Exact_Match_P,1.0
+6,surgical_planning,surgical_strategy,['one-stage'],['one-stage'],TSR,100.0
+6,surgical_planning,surgical_strategy,['one-stage'],['one-stage'],Exact_Match_P,1.0
+7,tumor_biology,primary_site,['Upper rectum'],['Upper rectum'],TSR,100.0
+7,tumor_biology,primary_site,['Upper rectum'],['Upper rectum'],Exact_Match_P,1.0
+7,primary_tumor_status,primary_N_stage,['N0'],['N0'],TSR,100.0
+7,primary_tumor_status,primary_N_stage,['N0'],['N0'],Exact_Match_P,1.0
+7,liver_metastases,number_of_liver_metastases,['3'],['3'],TSR,100.0
+7,liver_metastases,number_of_liver_metastases,['3'],['3'],Exact_Match_P,1.0
+7,liver_metastases,liver_metastases_size,['1.5'],['1.5'],TSR,100.0
+7,liver_metastases,liver_metastases_size,['1.5'],['1.5'],Exact_Match_P,1.0
+7,liver_metastases,liver_metastases_distribution,['Unilobar'],['Unilobar'],TSR,100.0
+7,liver_metastases,liver_metastases_distribution,['Unilobar'],['Unilobar'],Exact_Match_P,1.0
+7,liver_metastases,hepatic_segments_involved,"['Seg 6', 'Seg 7', 'Seg 8']","['Seg 6', 'Seg 7', 'Seg 8']",TSR,100.0
+7,liver_metastases,hepatic_segments_involved,"['Seg 6', 'Seg 7', 'Seg 8']","['Seg 6', 'Seg 7', 'Seg 8']",Exact_Match_P,1.0
+7,imaging,imaging_modality,"['PET-CT', 'MRI', 'CT']","['CT', 'MRI', 'ultrasound']",TSR,72.33333333333333
+7,imaging,imaging_modality,"['PET-CT', 'MRI', 'CT']","['CT', 'MRI', 'ultrasound']",Exact_Match_P,0.6666666666666666
+7,systemic_therapy,chemotherapy_regimen,['FOLFOX'],['FOLFOX'],TSR,100.0
+7,systemic_therapy,chemotherapy_regimen,['FOLFOX'],['FOLFOX'],Exact_Match_P,1.0
+7,systemic_therapy,chemotherapy_line,"['neoadjuvant', 'adjuvant']","['neoadjuvant', 'adjuvant']",TSR,100.0
+7,systemic_therapy,chemotherapy_line,"['neoadjuvant', 'adjuvant']","['neoadjuvant', 'adjuvant']",Exact_Match_P,1.0
+7,systemic_therapy,targeted_immuno,['cetuximab'],"['bevacizumab', 'cetuximab']",TSR,75.0
+7,systemic_therapy,targeted_immuno,['cetuximab'],"['bevacizumab', 'cetuximab']",Exact_Match_P,0.5
+7,surgical_planning,surgical_strategy,"['one-stage', 'two-stage']","['one-stage', 'two-stage']",TSR,100.0
+7,surgical_planning,surgical_strategy,"['one-stage', 'two-stage']","['one-stage', 'two-stage']",Exact_Match_P,1.0
+8,tumor_biology,primary_site,['Left colon'],['Left colon'],TSR,100.0
+8,tumor_biology,primary_site,['Left colon'],['Left colon'],Exact_Match_P,1.0
+8,liver_metastases,number_of_liver_metastases,['1'],['1'],TSR,100.0
+8,liver_metastases,number_of_liver_metastases,['1'],['1'],Exact_Match_P,1.0
+8,liver_metastases,liver_metastases_size,['2.7'],['2.7'],TSR,100.0
+8,liver_metastases,liver_metastases_size,['2.7'],['2.7'],Exact_Match_P,1.0
+8,liver_metastases,liver_metastases_distribution,['Unilobar'],['Unilobar'],TSR,100.0
+8,liver_metastases,liver_metastases_distribution,['Unilobar'],['Unilobar'],Exact_Match_P,1.0
+8,liver_metastases,hepatic_segments_involved,['Seg 4'],['Seg 4'],TSR,100.0
+8,liver_metastases,hepatic_segments_involved,['Seg 4'],['Seg 4'],Exact_Match_P,1.0
+8,imaging,imaging_modality,"['CT', 'MRI', 'ultrasound']","['MRI', 'CT', 'ultrasound']",TSR,100.0
+8,imaging,imaging_modality,"['CT', 'MRI', 'ultrasound']","['MRI', 'CT', 'ultrasound']",Exact_Match_P,1.0
+8,systemic_therapy,chemotherapy_regimen,['FOLFOX'],['FOLFOX'],TSR,100.0
+8,systemic_therapy,chemotherapy_regimen,['FOLFOX'],['FOLFOX'],Exact_Match_P,1.0
+8,systemic_therapy,chemotherapy_line,['adjuvant'],['neoadjuvant'],TSR,84.0
+8,systemic_therapy,chemotherapy_line,['adjuvant'],['neoadjuvant'],Exact_Match_P,0.0
+8,systemic_therapy,targeted_immuno,['cetuximab'],['bevacizumab'],TSR,50.0
+8,systemic_therapy,targeted_immuno,['cetuximab'],['bevacizumab'],Exact_Match_P,0.0
+8,surgical_planning,surgical_strategy,['combined resection'],['one-stage'],TSR,44.0
+8,surgical_planning,surgical_strategy,['combined resection'],['one-stage'],Exact_Match_P,0.0
+9,tumor_biology,primary_site,['Left colon'],['Left colon'],TSR,100.0
+9,tumor_biology,primary_site,['Left colon'],['Left colon'],Exact_Match_P,1.0
+9,tumor_biology,molecular_marker,['KRAS'],['KRAS'],TSR,100.0
+9,tumor_biology,molecular_marker,['KRAS'],['KRAS'],Exact_Match_P,1.0
+9,tumor_biology,CEA,['Elevated'],['180.0'],TSR,0.0
+9,tumor_biology,CEA,['Elevated'],['180.0'],Exact_Match_P,0.0
+9,primary_tumor_status,primary_resection,['False'],['False'],TSR,100.0
+9,primary_tumor_status,primary_resection,['False'],['False'],Exact_Match_P,1.0
+9,liver_metastases,number_of_liver_metastases,['2'],['2.0'],TSR,100.0
+9,liver_metastases,number_of_liver_metastases,['2'],['2.0'],Exact_Match_P,0.0
+9,liver_metastases,liver_metastases_distribution,['Unilobar'],['Peripheral'],TSR,22.0
+9,liver_metastases,liver_metastases_distribution,['Unilobar'],['Peripheral'],Exact_Match_P,0.0
+9,liver_metastases,hepatic_segments_involved,['Seg 6'],['Seg 6'],TSR,100.0
+9,liver_metastases,hepatic_segments_involved,['Seg 6'],['Seg 6'],Exact_Match_P,1.0
+9,imaging,imaging_modality,"['CT', 'MRI']","['MRI', 'CT', 'PET-CT', 'ultrasound']",TSR,79.25
+9,imaging,imaging_modality,"['CT', 'MRI']","['MRI', 'CT', 'PET-CT', 'ultrasound']",Exact_Match_P,0.5
+9,systemic_therapy,chemotherapy_regimen,['FOLFOX'],['FOLFOX'],TSR,100.0
+9,systemic_therapy,chemotherapy_regimen,['FOLFOX'],['FOLFOX'],Exact_Match_P,1.0
+9,systemic_therapy,chemotherapy_line,['adjuvant'],['neoadjuvant'],TSR,84.0
+9,systemic_therapy,chemotherapy_line,['adjuvant'],['neoadjuvant'],Exact_Match_P,0.0
+9,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],TSR,100.0
+9,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],Exact_Match_P,1.0
+9,surgical_planning,surgical_strategy,['one-stage'],"['one-stage', 'two-stage']",TSR,89.0
+9,surgical_planning,surgical_strategy,['one-stage'],"['one-stage', 'two-stage']",Exact_Match_P,0.5
+10,tumor_biology,primary_site,['Right colon'],['Right colon'],TSR,100.0
+10,tumor_biology,primary_site,['Right colon'],['Right colon'],Exact_Match_P,1.0
+10,liver_metastases,number_of_liver_metastases,['1'],[1],TSR,100.0
+10,liver_metastases,number_of_liver_metastases,['1'],[1],Exact_Match_P,0.0
+10,liver_metastases,liver_metastases_size,['3'],[3],TSR,100.0
+10,liver_metastases,liver_metastases_size,['3'],[3],Exact_Match_P,0.0
+10,liver_metastases,liver_metastases_distribution,['Unilobar'],['Unilobar'],TSR,100.0
+10,liver_metastases,liver_metastases_distribution,['Unilobar'],['Unilobar'],Exact_Match_P,1.0
+10,liver_metastases,hepatic_segments_involved,['Seg 7'],['Seg 7'],TSR,100.0
+10,liver_metastases,hepatic_segments_involved,['Seg 7'],['Seg 7'],Exact_Match_P,1.0
+10,imaging,imaging_modality,"['MRI', 'CT']","['CT', 'MRI']",TSR,100.0
+10,imaging,imaging_modality,"['MRI', 'CT']","['CT', 'MRI']",Exact_Match_P,1.0
+10,systemic_therapy,chemotherapy_regimen,['FOLFOX'],['FOLFOX'],TSR,100.0
+10,systemic_therapy,chemotherapy_regimen,['FOLFOX'],['FOLFOX'],Exact_Match_P,1.0
+10,systemic_therapy,chemotherapy_line,['adjuvant'],"['neoadjuvant', 'adjuvant']",TSR,92.0
+10,systemic_therapy,chemotherapy_line,['adjuvant'],"['neoadjuvant', 'adjuvant']",Exact_Match_P,0.5
+10,systemic_therapy,targeted_immuno,['cetuximab'],"['bevacizumab', 'cetuximab']",TSR,75.0
+10,systemic_therapy,targeted_immuno,['cetuximab'],"['bevacizumab', 'cetuximab']",Exact_Match_P,0.5
+10,surgical_planning,surgical_strategy,['one-stage'],['two-stage'],TSR,78.0
+10,surgical_planning,surgical_strategy,['one-stage'],['two-stage'],Exact_Match_P,0.0
+11,tumor_biology,primary_site,['Left colon'],['Left colon'],TSR,100.0
+11,tumor_biology,primary_site,['Left colon'],['Left colon'],Exact_Match_P,1.0
+11,tumor_biology,molecular_marker,['KRAS'],['KRAS'],TSR,100.0
+11,tumor_biology,molecular_marker,['KRAS'],['KRAS'],Exact_Match_P,1.0
+11,liver_metastases,number_of_liver_metastases,['3'],['3'],TSR,100.0
+11,liver_metastases,number_of_liver_metastases,['3'],['3'],Exact_Match_P,1.0
+11,liver_metastases,liver_metastases_size,['1-2.5'],['2.5'],TSR,100.0
+11,liver_metastases,liver_metastases_size,['1-2.5'],['2.5'],Exact_Match_P,0.0
+11,liver_metastases,liver_metastases_distribution,['Unilobar'],['Unilobar'],TSR,100.0
+11,liver_metastases,liver_metastases_distribution,['Unilobar'],['Unilobar'],Exact_Match_P,1.0
+11,liver_metastases,hepatic_segments_involved,"['Seg 2', 'Seg 3', 'Seg 4']","['Seg 2', 'Seg 3', 'Seg 4']",TSR,100.0
+11,liver_metastases,hepatic_segments_involved,"['Seg 2', 'Seg 3', 'Seg 4']","['Seg 2', 'Seg 3', 'Seg 4']",Exact_Match_P,1.0
+11,imaging,imaging_modality,"['MRI', 'CT']","['MRI', 'CT', 'PET-CT']",TSR,100.0
+11,imaging,imaging_modality,"['MRI', 'CT']","['MRI', 'CT', 'PET-CT']",Exact_Match_P,0.6666666666666666
+11,systemic_therapy,chemotherapy_regimen,['FOLFOX'],['FOLFOX'],TSR,100.0
+11,systemic_therapy,chemotherapy_regimen,['FOLFOX'],['FOLFOX'],Exact_Match_P,1.0
+11,systemic_therapy,chemotherapy_line,['adjuvant'],"['neoadjuvant', 'adjuvant']",TSR,92.0
+11,systemic_therapy,chemotherapy_line,['adjuvant'],"['neoadjuvant', 'adjuvant']",Exact_Match_P,0.5
+11,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],TSR,100.0
+11,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],Exact_Match_P,1.0
+11,surgical_planning,surgical_strategy,['one-stage'],"['one-stage', 'two-stage']",TSR,89.0
+11,surgical_planning,surgical_strategy,['one-stage'],"['one-stage', 'two-stage']",Exact_Match_P,0.5
+12,tumor_biology,primary_site,['Upper rectum'],['Upper rectum'],TSR,100.0
+12,tumor_biology,primary_site,['Upper rectum'],['Upper rectum'],Exact_Match_P,1.0
+12,primary_tumor_status,primary_T_stage,['T3'],['T3'],TSR,100.0
+12,primary_tumor_status,primary_T_stage,['T3'],['T3'],Exact_Match_P,1.0
+12,primary_tumor_status,primary_N_stage,['N1'],['N1'],TSR,100.0
+12,primary_tumor_status,primary_N_stage,['N1'],['N1'],Exact_Match_P,1.0
+12,liver_metastases,number_of_liver_metastases,['1'],['1'],TSR,100.0
+12,liver_metastases,number_of_liver_metastases,['1'],['1'],Exact_Match_P,1.0
+12,liver_metastases,hepatic_segments_involved,['Seg 2'],['Seg 2'],TSR,100.0
+12,liver_metastases,hepatic_segments_involved,['Seg 2'],['Seg 2'],Exact_Match_P,1.0
+12,imaging,imaging_modality,"['MRI', 'CT']","['CT', 'MRI']",TSR,100.0
+12,imaging,imaging_modality,"['MRI', 'CT']","['CT', 'MRI']",Exact_Match_P,1.0
+12,systemic_therapy,chemotherapy_regimen,['FOLFOX'],['FOLFOX'],TSR,100.0
+12,systemic_therapy,chemotherapy_regimen,['FOLFOX'],['FOLFOX'],Exact_Match_P,1.0
+12,systemic_therapy,chemotherapy_line,['neoadjuvant'],['neoadjuvant'],TSR,100.0
+12,systemic_therapy,chemotherapy_line,['neoadjuvant'],['neoadjuvant'],Exact_Match_P,1.0
+12,systemic_therapy,targeted_immuno,['cetuximab'],"['bevacizumab', 'cetuximab']",TSR,75.0
+12,systemic_therapy,targeted_immuno,['cetuximab'],"['bevacizumab', 'cetuximab']",Exact_Match_P,0.5
+12,surgical_planning,surgical_strategy,"['one-stage', 'two-stage']",['combined resection'],TSR,44.0
+12,surgical_planning,surgical_strategy,"['one-stage', 'two-stage']",['combined resection'],Exact_Match_P,0.0
+13,tumor_biology,primary_site,['Left colon'],['Left colon'],TSR,100.0
+13,tumor_biology,primary_site,['Left colon'],['Left colon'],Exact_Match_P,1.0
+13,tumor_biology,molecular_marker,['KRAS'],['KRAS'],TSR,100.0
+13,tumor_biology,molecular_marker,['KRAS'],['KRAS'],Exact_Match_P,1.0
+13,tumor_biology,CEA,['330'],['330'],TSR,100.0
+13,tumor_biology,CEA,['330'],['330'],Exact_Match_P,1.0
+13,primary_tumor_status,primary_resection,['False'],['False'],TSR,100.0
+13,primary_tumor_status,primary_resection,['False'],['False'],Exact_Match_P,1.0
+13,primary_tumor_status,primary_T_Stage,['T4'],['T4'],TSR,100.0
+13,primary_tumor_status,primary_T_Stage,['T4'],['T4'],Exact_Match_P,1.0
+13,primary_tumor_status,primary_N_stage,['N2'],['N2'],TSR,100.0
+13,primary_tumor_status,primary_N_stage,['N2'],['N2'],Exact_Match_P,1.0
+13,liver_metastases,number_of_liver_metastases,['3'],['3'],TSR,100.0
+13,liver_metastases,number_of_liver_metastases,['3'],['3'],Exact_Match_P,1.0
+13,liver_metastases,liver_metastases_size,['4'],['3.8'],TSR,0.0
+13,liver_metastases,liver_metastases_size,['4'],['3.8'],Exact_Match_P,0.0
+13,liver_metastases,liver_metastases_distribution,['Unilobar'],['Central'],TSR,27.0
+13,liver_metastases,liver_metastases_distribution,['Unilobar'],['Central'],Exact_Match_P,0.0
+13,liver_metastases,hepatic_segments_involved,"['Seg 4', 'Seg 5', 'Seg 8']","['Seg 4', 'Seg 5', 'Seg 8']",TSR,100.0
+13,liver_metastases,hepatic_segments_involved,"['Seg 4', 'Seg 5', 'Seg 8']","['Seg 4', 'Seg 5', 'Seg 8']",Exact_Match_P,1.0
+13,imaging,imaging_modality,"['MRI', 'CT']","['CT', 'MRI', 'PET-CT']",TSR,100.0
+13,imaging,imaging_modality,"['MRI', 'CT']","['CT', 'MRI', 'PET-CT']",Exact_Match_P,0.6666666666666666
+13,systemic_therapy,chemotherapy_regimen,"['FOLFOX', 'FOLOXIRI']",['FOLFOX'],TSR,100.0
+13,systemic_therapy,chemotherapy_regimen,"['FOLFOX', 'FOLOXIRI']",['FOLFOX'],Exact_Match_P,1.0
+13,systemic_therapy,chemotherapy_line,"['neoadjuvant', 'adjuvant']",['neoadjuvant'],TSR,100.0
+13,systemic_therapy,chemotherapy_line,"['neoadjuvant', 'adjuvant']",['neoadjuvant'],Exact_Match_P,1.0
+13,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],TSR,100.0
+13,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],Exact_Match_P,1.0
+13,surgical_planning,surgical_strategy,['two-stage'],['two-stage'],TSR,100.0
+13,surgical_planning,surgical_strategy,['two-stage'],['two-stage'],Exact_Match_P,1.0
+14,tumor_biology,primary_site,['Right colon'],['Right colon'],TSR,100.0
+14,tumor_biology,primary_site,['Right colon'],['Right colon'],Exact_Match_P,1.0
+14,liver_metastases,number_of_liver_metastases,['2'],[2],TSR,100.0
+14,liver_metastases,number_of_liver_metastases,['2'],[2],Exact_Match_P,0.0
+14,liver_metastases,liver_metastases_size,['3'],[2.2],TSR,0.0
+14,liver_metastases,liver_metastases_size,['3'],[2.2],Exact_Match_P,0.0
+14,liver_metastases,liver_metastases_distribution,['Bilobar'],['Bilobar'],TSR,100.0
+14,liver_metastases,liver_metastases_distribution,['Bilobar'],['Bilobar'],Exact_Match_P,1.0
+14,liver_metastases,hepatic_segments_involved,"['Seg 3', 'Seg 6']","['Seg 3', 'Seg 6']",TSR,100.0
+14,liver_metastases,hepatic_segments_involved,"['Seg 3', 'Seg 6']","['Seg 3', 'Seg 6']",Exact_Match_P,1.0
+14,imaging,imaging_modality,"['CT', 'MRI', 'ultrasound']","['MRI', 'CT', 'ultrasound']",TSR,100.0
+14,imaging,imaging_modality,"['CT', 'MRI', 'ultrasound']","['MRI', 'CT', 'ultrasound']",Exact_Match_P,1.0
+14,systemic_therapy,chemotherapy_regimen,['FOLFOX'],['FOLFOX'],TSR,100.0
+14,systemic_therapy,chemotherapy_regimen,['FOLFOX'],['FOLFOX'],Exact_Match_P,1.0
+14,systemic_therapy,chemotherapy_line,"['neoadjuvant', 'adjuvant']",['neoadjuvant'],TSR,100.0
+14,systemic_therapy,chemotherapy_line,"['neoadjuvant', 'adjuvant']",['neoadjuvant'],Exact_Match_P,1.0
+14,surgical_planning,surgical_strategy,['one-stage'],['combined resection'],TSR,44.0
+14,surgical_planning,surgical_strategy,['one-stage'],['combined resection'],Exact_Match_P,0.0
+15,tumor_biology,molecular_marker,['KRAS'],['KRAS'],TSR,100.0
+15,tumor_biology,molecular_marker,['KRAS'],['KRAS'],Exact_Match_P,1.0
+15,primary_tumor_status,primary_T_stage,['T2'],['T2'],TSR,100.0
+15,primary_tumor_status,primary_T_stage,['T2'],['T2'],Exact_Match_P,1.0
+15,primary_tumor_status,primary_N_stage,['N0'],['N0'],TSR,100.0
+15,primary_tumor_status,primary_N_stage,['N0'],['N0'],Exact_Match_P,1.0
+15,liver_metastases,number_of_liver_metastases,[1],['1'],TSR,100.0
+15,liver_metastases,number_of_liver_metastases,[1],['1'],Exact_Match_P,0.0
+15,liver_metastases,liver_metastases_size,[2.8],['2.8'],TSR,100.0
+15,liver_metastases,liver_metastases_size,[2.8],['2.8'],Exact_Match_P,0.0
+15,liver_metastases,liver_metastases_distribution,['Unilobar'],['Peripheral'],TSR,22.0
+15,liver_metastases,liver_metastases_distribution,['Unilobar'],['Peripheral'],Exact_Match_P,0.0
+15,liver_metastases,hepatic_segments_involved,['Seg 5'],['Seg 5'],TSR,100.0
+15,liver_metastases,hepatic_segments_involved,['Seg 5'],['Seg 5'],Exact_Match_P,1.0
+15,imaging,imaging_modality,"['CT', 'MRI']","['CT', 'MRI']",TSR,100.0
+15,imaging,imaging_modality,"['CT', 'MRI']","['CT', 'MRI']",Exact_Match_P,1.0
+15,systemic_therapy,chemotherapy_regimen,['FOLFOX'],['FOLFOX'],TSR,100.0
+15,systemic_therapy,chemotherapy_regimen,['FOLFOX'],['FOLFOX'],Exact_Match_P,1.0
+15,systemic_therapy,chemotherapy_line,['adjuvant'],['neoadjuvant'],TSR,84.0
+15,systemic_therapy,chemotherapy_line,['adjuvant'],['neoadjuvant'],Exact_Match_P,0.0
+15,surgical_planning,surgical_strategy,['two-stage'],['combined resection'],TSR,30.0
+15,surgical_planning,surgical_strategy,['two-stage'],['combined resection'],Exact_Match_P,0.0
+16,tumor_biology,molecular_marker,['KRAS'],['KRAS'],TSR,100.0
+16,tumor_biology,molecular_marker,['KRAS'],['KRAS'],Exact_Match_P,1.0
+16,liver_metastases,number_of_liver_metastases,['7'],['7'],TSR,100.0
+16,liver_metastases,number_of_liver_metastases,['7'],['7'],Exact_Match_P,1.0
+16,liver_metastases,liver_metastases_distribution,['Bilobar'],['Bilobar'],TSR,100.0
+16,liver_metastases,liver_metastases_distribution,['Bilobar'],['Bilobar'],Exact_Match_P,1.0
+16,liver_metastases,vascular_involvement,['Portal vein'],['Portal vein'],TSR,100.0
+16,liver_metastases,vascular_involvement,['Portal vein'],['Portal vein'],Exact_Match_P,1.0
+16,imaging,imaging_modality,"['MRI', 'CT']","['PET-CT', 'MRI']",TSR,100.0
+16,imaging,imaging_modality,"['MRI', 'CT']","['PET-CT', 'MRI']",Exact_Match_P,0.5
+16,systemic_therapy,chemotherapy_line,['neoadjuvant'],['neoadjuvant'],TSR,100.0
+16,systemic_therapy,chemotherapy_line,['neoadjuvant'],['neoadjuvant'],Exact_Match_P,1.0
+16,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],TSR,100.0
+16,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],Exact_Match_P,1.0
+16,surgical_planning,surgical_strategy,"['one-stage', 'two-stage', 'ALPPS']","['two-stage', 'combined resection']",TSR,72.0
+16,surgical_planning,surgical_strategy,"['one-stage', 'two-stage', 'ALPPS']","['two-stage', 'combined resection']",Exact_Match_P,0.5
+17,tumor_biology,molecular_marker,['KRAS'],['KRAS'],TSR,100.0
+17,tumor_biology,molecular_marker,['KRAS'],['KRAS'],Exact_Match_P,1.0
+17,liver_metastases,number_of_liver_metastases,[4],['4'],TSR,100.0
+17,liver_metastases,number_of_liver_metastases,[4],['4'],Exact_Match_P,0.0
+17,liver_metastases,liver_metastases_distribution,['Bilobar'],['Bilobar'],TSR,100.0
+17,liver_metastases,liver_metastases_distribution,['Bilobar'],['Bilobar'],Exact_Match_P,1.0
+17,liver_metastases,hepatic_segments_involved,"['Seg 2', 'Seg 3', 'Seg 6', 'Seg 8']","['Seg 2', 'Seg 3', 'Seg 6', 'Seg 8']",TSR,100.0
+17,liver_metastases,hepatic_segments_involved,"['Seg 2', 'Seg 3', 'Seg 6', 'Seg 8']","['Seg 2', 'Seg 3', 'Seg 6', 'Seg 8']",Exact_Match_P,1.0
+17,liver_metastases,vascular_involvement,['Hepatic vein'],['Hepatic vein'],TSR,100.0
+17,liver_metastases,vascular_involvement,['Hepatic vein'],['Hepatic vein'],Exact_Match_P,1.0
+17,imaging,imaging_modality,"['MRI', 'CT']","['MRI', 'CT', 'PET-CT']",TSR,100.0
+17,imaging,imaging_modality,"['MRI', 'CT']","['MRI', 'CT', 'PET-CT']",Exact_Match_P,0.6666666666666666
+17,systemic_therapy,chemotherapy_regimen,"['FOLOXIRI', 'FOLFOX']","['FOLFOX', 'FOLFIRI']",TSR,90.0
+17,systemic_therapy,chemotherapy_regimen,"['FOLOXIRI', 'FOLFOX']","['FOLFOX', 'FOLFIRI']",Exact_Match_P,0.5
+17,systemic_therapy,chemotherapy_line,['neoadjuvant'],['neoadjuvant'],TSR,100.0
+17,systemic_therapy,chemotherapy_line,['neoadjuvant'],['neoadjuvant'],Exact_Match_P,1.0
+17,systemic_therapy,targeted_immuno,"['bevacizumab', 'cetuximab']",['cetuximab'],TSR,100.0
+17,systemic_therapy,targeted_immuno,"['bevacizumab', 'cetuximab']",['cetuximab'],Exact_Match_P,1.0
+17,surgical_planning,surgical_strategy,"['one-stage', 'two-stage']","['one-stage', 'two-stage']",TSR,100.0
+17,surgical_planning,surgical_strategy,"['one-stage', 'two-stage']","['one-stage', 'two-stage']",Exact_Match_P,1.0
+18,liver_metastases,number_of_liver_metastases,['8'],['8'],TSR,100.0
+18,liver_metastases,number_of_liver_metastases,['8'],['8'],Exact_Match_P,1.0
+18,liver_metastases,vascular_involvement,['IVC'],['IVC'],TSR,100.0
+18,liver_metastases,vascular_involvement,['IVC'],['IVC'],Exact_Match_P,1.0
+18,imaging,imaging_modality,"['CT', 'MRI']","['MRI', 'PET-CT', 'CT']",TSR,100.0
+18,imaging,imaging_modality,"['CT', 'MRI']","['MRI', 'PET-CT', 'CT']",Exact_Match_P,0.6666666666666666
+18,systemic_therapy,chemotherapy_line,['neoadjuvant'],['neoadjuvant'],TSR,100.0
+18,systemic_therapy,chemotherapy_line,['neoadjuvant'],['neoadjuvant'],Exact_Match_P,1.0
+18,systemic_therapy,targeted_immuno,['cetuximab'],['cetuximab'],TSR,100.0
+18,systemic_therapy,targeted_immuno,['cetuximab'],['cetuximab'],Exact_Match_P,1.0
+18,surgical_planning,surgical_strategy,"['two-stage', 'combined resection']","['two-stage', 'ALPPS']",TSR,57.0
+18,surgical_planning,surgical_strategy,"['two-stage', 'combined resection']","['two-stage', 'ALPPS']",Exact_Match_P,0.5
+19,tumor_biology,primary_site,['Upper rectum'],['Upper rectum'],TSR,100.0
+19,tumor_biology,primary_site,['Upper rectum'],['Upper rectum'],Exact_Match_P,1.0
+19,tumor_biology,molecular_marker,['KRAS'],['KRAS'],TSR,100.0
+19,tumor_biology,molecular_marker,['KRAS'],['KRAS'],Exact_Match_P,1.0
+19,liver_metastases,number_of_liver_metastases,['6'],['6'],TSR,100.0
+19,liver_metastases,number_of_liver_metastases,['6'],['6'],Exact_Match_P,1.0
+19,liver_metastases,liver_metastases_distribution,['Bilobar'],['Bilobar'],TSR,100.0
+19,liver_metastases,liver_metastases_distribution,['Bilobar'],['Bilobar'],Exact_Match_P,1.0
+19,liver_metastases,vascular_involvement,['Hepatic vein'],['Hepatic vein'],TSR,100.0
+19,liver_metastases,vascular_involvement,['Hepatic vein'],['Hepatic vein'],Exact_Match_P,1.0
+19,imaging,imaging_modality,"['MRI', 'CT']","['PET-CT', 'MRI', 'CT']",TSR,100.0
+19,imaging,imaging_modality,"['MRI', 'CT']","['PET-CT', 'MRI', 'CT']",Exact_Match_P,0.6666666666666666
+19,systemic_therapy,chemotherapy_regimen,['FOLFOXIRI'],['FOLOXIRI'],TSR,94.0
+19,systemic_therapy,chemotherapy_regimen,['FOLFOXIRI'],['FOLOXIRI'],Exact_Match_P,0.0
+19,systemic_therapy,chemotherapy_line,['neoadjuvant'],['neoadjuvant'],TSR,100.0
+19,systemic_therapy,chemotherapy_line,['neoadjuvant'],['neoadjuvant'],Exact_Match_P,1.0
+19,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],TSR,100.0
+19,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],Exact_Match_P,1.0
+19,surgical_planning,surgical_strategy,"['two-stage', 'ALPPS']","['two-stage', 'ALPPS']",TSR,100.0
+19,surgical_planning,surgical_strategy,"['two-stage', 'ALPPS']","['two-stage', 'ALPPS']",Exact_Match_P,1.0
+20,tumor_biology,primary_site,['Right colon'],['Right colon'],TSR,100.0
+20,tumor_biology,primary_site,['Right colon'],['Right colon'],Exact_Match_P,1.0
+20,tumor_biology,molecular_marker,['KRAS'],['KRAS'],TSR,100.0
+20,tumor_biology,molecular_marker,['KRAS'],['KRAS'],Exact_Match_P,1.0
+20,liver_metastases,hepatic_segments_involved,"['Seg 4', 'Seg 5', 'Seg 7', 'Seg 8']","['Seg 4', 'Seg 5', 'Seg 7', 'Seg 8']",TSR,100.0
+20,liver_metastases,hepatic_segments_involved,"['Seg 4', 'Seg 5', 'Seg 7', 'Seg 8']","['Seg 4', 'Seg 5', 'Seg 7', 'Seg 8']",Exact_Match_P,1.0
+20,imaging,imaging_modality,"['CT', 'MRI']","['MRI', 'PET-CT']",TSR,100.0
+20,imaging,imaging_modality,"['CT', 'MRI']","['MRI', 'PET-CT']",Exact_Match_P,0.5
+20,systemic_therapy,chemotherapy_regimen,"['FOLOXIRI', 'FOLFOX']","['FOLFOX', 'FOLFIRI']",TSR,90.0
+20,systemic_therapy,chemotherapy_regimen,"['FOLOXIRI', 'FOLFOX']","['FOLFOX', 'FOLFIRI']",Exact_Match_P,0.5
+20,systemic_therapy,chemotherapy_line,['neoadjuvant'],['neoadjuvant'],TSR,100.0
+20,systemic_therapy,chemotherapy_line,['neoadjuvant'],['neoadjuvant'],Exact_Match_P,1.0
+20,systemic_therapy,targeted_immuno,"['bevacizumab', 'cetuximab']",['cetuximab'],TSR,100.0
+20,systemic_therapy,targeted_immuno,"['bevacizumab', 'cetuximab']",['cetuximab'],Exact_Match_P,1.0
+20,surgical_planning,surgical_strategy,"['two-stage', 'combined resection']","['combined resection', 'two-stage', 'ALPPS']",TSR,71.33333333333333
+20,surgical_planning,surgical_strategy,"['two-stage', 'combined resection']","['combined resection', 'two-stage', 'ALPPS']",Exact_Match_P,0.6666666666666666
+21,tumor_biology,primary_site,['Transverse'],['Right colon'],TSR,19.0
+21,tumor_biology,primary_site,['Transverse'],['Right colon'],Exact_Match_P,0.0
+21,tumor_biology,molecular_marker,['KRAS'],['KRAS'],TSR,100.0
+21,tumor_biology,molecular_marker,['KRAS'],['KRAS'],Exact_Match_P,1.0
+21,liver_metastases,number_of_liver_metastases,['9'],['9'],TSR,100.0
+21,liver_metastases,number_of_liver_metastases,['9'],['9'],Exact_Match_P,1.0
+21,liver_metastases,liver_metastases_distribution,['Bilobar'],['Bilobar'],TSR,100.0
+21,liver_metastases,liver_metastases_distribution,['Bilobar'],['Bilobar'],Exact_Match_P,1.0
+21,liver_metastases,vascular_involvement,['Hepatic vein'],['Hepatic vein'],TSR,100.0
+21,liver_metastases,vascular_involvement,['Hepatic vein'],['Hepatic vein'],Exact_Match_P,1.0
+21,imaging,imaging_modality,"['MRI', 'CT']","['CT', 'MRI', 'PET-CT']",TSR,100.0
+21,imaging,imaging_modality,"['MRI', 'CT']","['CT', 'MRI', 'PET-CT']",Exact_Match_P,0.6666666666666666
+21,systemic_therapy,chemotherapy_regimen,['FOLOXIRI'],['FOLOXIRI'],TSR,100.0
+21,systemic_therapy,chemotherapy_regimen,['FOLOXIRI'],['FOLOXIRI'],Exact_Match_P,1.0
+21,systemic_therapy,chemotherapy_line,['neoadjuvant'],['neoadjuvant'],TSR,100.0
+21,systemic_therapy,chemotherapy_line,['neoadjuvant'],['neoadjuvant'],Exact_Match_P,1.0
+21,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],TSR,100.0
+21,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],Exact_Match_P,1.0
+21,surgical_planning,surgical_strategy,"['two-stage', 'ALPPS']","['two-stage', 'ALPPS', 'combined resection']",TSR,76.66666666666667
+21,surgical_planning,surgical_strategy,"['two-stage', 'ALPPS']","['two-stage', 'ALPPS', 'combined resection']",Exact_Match_P,0.6666666666666666
+22,liver_metastases,number_of_liver_metastases,['5'],['5'],TSR,100.0
+22,liver_metastases,number_of_liver_metastases,['5'],['5'],Exact_Match_P,1.0
+22,liver_metastases,liver_metastases_distribution,['Bilobar'],['Bilobar'],TSR,100.0
+22,liver_metastases,liver_metastases_distribution,['Bilobar'],['Bilobar'],Exact_Match_P,1.0
+22,imaging,imaging_modality,"['MRI', 'CT']","['PET-CT', 'CT', 'MRI']",TSR,100.0
+22,imaging,imaging_modality,"['MRI', 'CT']","['PET-CT', 'CT', 'MRI']",Exact_Match_P,0.6666666666666666
+22,systemic_therapy,chemotherapy_regimen,['FOLFOX'],['FOLFOX'],TSR,100.0
+22,systemic_therapy,chemotherapy_regimen,['FOLFOX'],['FOLFOX'],Exact_Match_P,1.0
+22,systemic_therapy,chemotherapy_line,['neoadjuvant'],['neoadjuvant'],TSR,100.0
+22,systemic_therapy,chemotherapy_line,['neoadjuvant'],['neoadjuvant'],Exact_Match_P,1.0
+22,systemic_therapy,targeted_immuno,['cetuximab'],['cetuximab'],TSR,100.0
+22,systemic_therapy,targeted_immuno,['cetuximab'],['cetuximab'],Exact_Match_P,1.0
+22,surgical_planning,surgical_strategy,"['one-stage', 'two-stage', 'ALPPS']","['combined resection', 'two-stage']",TSR,72.0
+22,surgical_planning,surgical_strategy,"['one-stage', 'two-stage', 'ALPPS']","['combined resection', 'two-stage']",Exact_Match_P,0.5
+23,tumor_biology,primary_site,['Left colon'],['Left colon'],TSR,100.0
+23,tumor_biology,primary_site,['Left colon'],['Left colon'],Exact_Match_P,1.0
+23,tumor_biology,molecular_marker,['KRAS'],['KRAS'],TSR,100.0
+23,tumor_biology,molecular_marker,['KRAS'],['KRAS'],Exact_Match_P,1.0
+23,liver_metastases,number_of_liver_metastases,['7'],['7'],TSR,100.0
+23,liver_metastases,number_of_liver_metastases,['7'],['7'],Exact_Match_P,1.0
+23,imaging,imaging_modality,"['CT', 'MRI']","['PET-CT', 'MRI']",TSR,100.0
+23,imaging,imaging_modality,"['CT', 'MRI']","['PET-CT', 'MRI']",Exact_Match_P,0.5
+23,systemic_therapy,chemotherapy_regimen,['FOLOXIRI'],['FOLOXIRI'],TSR,100.0
+23,systemic_therapy,chemotherapy_regimen,['FOLOXIRI'],['FOLOXIRI'],Exact_Match_P,1.0
+23,systemic_therapy,chemotherapy_line,['neoadjuvant'],['neoadjuvant'],TSR,100.0
+23,systemic_therapy,chemotherapy_line,['neoadjuvant'],['neoadjuvant'],Exact_Match_P,1.0
+23,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],TSR,100.0
+23,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],Exact_Match_P,1.0
+23,surgical_planning,surgical_strategy,['two-stage'],['two-stage'],TSR,100.0
+23,surgical_planning,surgical_strategy,['two-stage'],['two-stage'],Exact_Match_P,1.0
+24,tumor_biology,primary_site,['Right colon'],['Right colon'],TSR,100.0
+24,tumor_biology,primary_site,['Right colon'],['Right colon'],Exact_Match_P,1.0
+24,tumor_biology,molecular_marker,['KRAS'],['KRAS'],TSR,100.0
+24,tumor_biology,molecular_marker,['KRAS'],['KRAS'],Exact_Match_P,1.0
+24,primary_tumor_status,primary_resection,['False'],['False'],TSR,100.0
+24,primary_tumor_status,primary_resection,['False'],['False'],Exact_Match_P,1.0
+24,liver_metastases,number_of_liver_metastases,['10'],['10'],TSR,100.0
+24,liver_metastases,number_of_liver_metastases,['10'],['10'],Exact_Match_P,1.0
+24,liver_metastases,liver_metastases_distribution,['Bilobar'],['Bilobar'],TSR,100.0
+24,liver_metastases,liver_metastases_distribution,['Bilobar'],['Bilobar'],Exact_Match_P,1.0
+24,liver_metastases,vascular_involvement,['Portal vein'],['IVC'],TSR,14.0
+24,liver_metastases,vascular_involvement,['Portal vein'],['IVC'],Exact_Match_P,0.0
+24,imaging,imaging_modality,"['CT', 'MRI', 'PET-CT']","['PET-CT', 'CT', 'MRI']",TSR,100.0
+24,imaging,imaging_modality,"['CT', 'MRI', 'PET-CT']","['PET-CT', 'CT', 'MRI']",Exact_Match_P,1.0
+24,systemic_therapy,chemotherapy_regimen,"['FOLOXIRI', 'FOLFOX', 'FOLFIRI']",['FOLOXIRI'],TSR,100.0
+24,systemic_therapy,chemotherapy_regimen,"['FOLOXIRI', 'FOLFOX', 'FOLFIRI']",['FOLOXIRI'],Exact_Match_P,1.0
+24,systemic_therapy,chemotherapy_line,['neoadjuvant'],['neoadjuvant'],TSR,100.0
+24,systemic_therapy,chemotherapy_line,['neoadjuvant'],['neoadjuvant'],Exact_Match_P,1.0
+24,systemic_therapy,targeted_immuno,"['bevacizumab', 'cetuximab']",['bevacizumab'],TSR,100.0
+24,systemic_therapy,targeted_immuno,"['bevacizumab', 'cetuximab']",['bevacizumab'],Exact_Match_P,1.0
+24,surgical_planning,surgical_strategy,"['two-stage', 'ALPPS', 'combined resection']","['two-stage', 'ALPPS']",TSR,100.0
+24,surgical_planning,surgical_strategy,"['two-stage', 'ALPPS', 'combined resection']","['two-stage', 'ALPPS']",Exact_Match_P,1.0
+24,surgical_planning,local_treatment,"['RFA', 'microwave ablation']","['RFA', 'microwave ablation']",TSR,100.0
+24,surgical_planning,local_treatment,"['RFA', 'microwave ablation']","['RFA', 'microwave ablation']",Exact_Match_P,1.0
+25,tumor_biology,molecular_marker,['KRAS'],['KRAS'],TSR,100.0
+25,tumor_biology,molecular_marker,['KRAS'],['KRAS'],Exact_Match_P,1.0
+25,liver_metastases,number_of_liver_metastases,['5'],['5'],TSR,100.0
+25,liver_metastases,number_of_liver_metastases,['5'],['5'],Exact_Match_P,1.0
+25,liver_metastases,liver_metastases_size,['4.1'],['4.1'],TSR,100.0
+25,liver_metastases,liver_metastases_size,['4.1'],['4.1'],Exact_Match_P,1.0
+25,liver_metastases,liver_metastases_distribution,['Bilobar'],['Bilobar'],TSR,100.0
+25,liver_metastases,liver_metastases_distribution,['Bilobar'],['Bilobar'],Exact_Match_P,1.0
+25,imaging,imaging_modality,"['MRI', 'CT']","['PET-CT', 'CT', 'MRI']",TSR,100.0
+25,imaging,imaging_modality,"['MRI', 'CT']","['PET-CT', 'CT', 'MRI']",Exact_Match_P,0.6666666666666666
+25,systemic_therapy,chemotherapy_regimen,['FOLOXIRI'],['FOLOXIRI'],TSR,100.0
+25,systemic_therapy,chemotherapy_regimen,['FOLOXIRI'],['FOLOXIRI'],Exact_Match_P,1.0
+25,systemic_therapy,chemotherapy_line,['neoadjuvant'],['neoadjuvant'],TSR,100.0
+25,systemic_therapy,chemotherapy_line,['neoadjuvant'],['neoadjuvant'],Exact_Match_P,1.0
+25,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],TSR,100.0
+25,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],Exact_Match_P,1.0
+25,surgical_planning,surgical_strategy,['two-stage'],"['two-stage', 'ALPPS', 'combined resection']",TSR,48.0
+25,surgical_planning,surgical_strategy,['two-stage'],"['two-stage', 'ALPPS', 'combined resection']",Exact_Match_P,0.3333333333333333
+26,tumor_biology,molecular_marker,['KRAS'],['KRAS'],TSR,100.0
+26,tumor_biology,molecular_marker,['KRAS'],['KRAS'],Exact_Match_P,1.0
+26,liver_metastases,number_of_liver_metastases,['2'],['2.0'],TSR,100.0
+26,liver_metastases,number_of_liver_metastases,['2'],['2.0'],Exact_Match_P,0.0
+26,liver_metastases,liver_metastases_size,['3.5'],['2.8'],TSR,33.0
+26,liver_metastases,liver_metastases_size,['3.5'],['2.8'],Exact_Match_P,0.0
+26,liver_metastases,liver_metastases_distribution,['Unilobar'],['Peripheral'],TSR,22.0
+26,liver_metastases,liver_metastases_distribution,['Unilobar'],['Peripheral'],Exact_Match_P,0.0
+26,liver_metastases,hepatic_segments_involved,"['Seg 5', 'Seg 8']","['Seg 5', 'Seg 8']",TSR,100.0
+26,liver_metastases,hepatic_segments_involved,"['Seg 5', 'Seg 8']","['Seg 5', 'Seg 8']",Exact_Match_P,1.0
+26,imaging,imaging_modality,"['CT', 'MRI', 'ultrasound']","['PET-CT', 'MRI']",TSR,100.0
+26,imaging,imaging_modality,"['CT', 'MRI', 'ultrasound']","['PET-CT', 'MRI']",Exact_Match_P,0.5
+26,systemic_therapy,chemotherapy_regimen,['FOLFOX'],"['FOLFOX', 'FOLFIRI']",TSR,81.0
+26,systemic_therapy,chemotherapy_regimen,['FOLFOX'],"['FOLFOX', 'FOLFIRI']",Exact_Match_P,0.5
+26,systemic_therapy,chemotherapy_line,['adjuvant'],['neoadjuvant'],TSR,84.0
+26,systemic_therapy,chemotherapy_line,['adjuvant'],['neoadjuvant'],Exact_Match_P,0.0
+26,surgical_planning,surgical_strategy,"['one-stage', 'two-stage']",['one-stage'],TSR,100.0
+26,surgical_planning,surgical_strategy,"['one-stage', 'two-stage']",['one-stage'],Exact_Match_P,1.0
+27,liver_metastases,liver_metastasis_timing,['Metachronous'],['Metachronous'],TSR,100.0
+27,liver_metastases,liver_metastasis_timing,['Metachronous'],['Metachronous'],Exact_Match_P,1.0
+27,liver_metastases,number_of_liver_metastases,['2'],[2],TSR,100.0
+27,liver_metastases,number_of_liver_metastases,['2'],[2],Exact_Match_P,0.0
+27,liver_metastases,liver_metastases_size,['2.5'],[2.5],TSR,100.0
+27,liver_metastases,liver_metastases_size,['2.5'],[2.5],Exact_Match_P,0.0
+27,liver_metastases,liver_metastases_distribution,['Bilobar'],['Peripheral'],TSR,24.0
+27,liver_metastases,liver_metastases_distribution,['Bilobar'],['Peripheral'],Exact_Match_P,0.0
+27,liver_metastases,hepatic_segments_involved,"['Seg 2', 'Seg 5']","['Seg 2', 'Seg 5']",TSR,100.0
+27,liver_metastases,hepatic_segments_involved,"['Seg 2', 'Seg 5']","['Seg 2', 'Seg 5']",Exact_Match_P,1.0
+27,systemic_therapy,chemotherapy_regimen,['FOLFOX'],['FOLFOX'],TSR,100.0
+27,systemic_therapy,chemotherapy_regimen,['FOLFOX'],['FOLFOX'],Exact_Match_P,1.0
+27,systemic_therapy,chemotherapy_line,['neoadjuvant'],['adjuvant'],TSR,84.0
+27,systemic_therapy,chemotherapy_line,['neoadjuvant'],['adjuvant'],Exact_Match_P,0.0
+27,systemic_therapy,targeted_immuno,['cetuximab'],['cetuximab'],TSR,100.0
+27,systemic_therapy,targeted_immuno,['cetuximab'],['cetuximab'],Exact_Match_P,1.0
+27,surgical_planning,surgical_strategy,['one-stage'],['one-stage'],TSR,100.0
+27,surgical_planning,surgical_strategy,['one-stage'],['one-stage'],Exact_Match_P,1.0
+28,liver_metastases,number_of_liver_metastases,[3],['3'],TSR,100.0
+28,liver_metastases,number_of_liver_metastases,[3],['3'],Exact_Match_P,0.0
+28,liver_metastases,liver_metastases_size,['2-3'],['2-3'],TSR,100.0
+28,liver_metastases,liver_metastases_size,['2-3'],['2-3'],Exact_Match_P,1.0
+28,liver_metastases,liver_metastases_distribution,['Bilobar'],['Bilobar'],TSR,100.0
+28,liver_metastases,liver_metastases_distribution,['Bilobar'],['Bilobar'],Exact_Match_P,1.0
+28,imaging,imaging_modality,"['CT', 'MRI', 'PET-CT']","['MRI', 'CT']",TSR,100.0
+28,imaging,imaging_modality,"['CT', 'MRI', 'PET-CT']","['MRI', 'CT']",Exact_Match_P,1.0
+28,systemic_therapy,chemotherapy_regimen,['FOLOXIRI'],"['FOLFOX', 'FOLFIRI']",TSR,75.5
+28,systemic_therapy,chemotherapy_regimen,['FOLOXIRI'],"['FOLFOX', 'FOLFIRI']",Exact_Match_P,0.0
+28,systemic_therapy,chemotherapy_line,['neoadjuvant'],['neoadjuvant'],TSR,100.0
+28,systemic_therapy,chemotherapy_line,['neoadjuvant'],['neoadjuvant'],Exact_Match_P,1.0
+28,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],TSR,100.0
+28,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],Exact_Match_P,1.0
+28,surgical_planning,surgical_strategy,"['two-stage', 'one-stage', 'combined resection']","['one-stage', 'two-stage']",TSR,100.0
+28,surgical_planning,surgical_strategy,"['two-stage', 'one-stage', 'combined resection']","['one-stage', 'two-stage']",Exact_Match_P,1.0
+29,tumor_biology,molecular_marker,['KRAS'],['KRAS'],TSR,100.0
+29,tumor_biology,molecular_marker,['KRAS'],['KRAS'],Exact_Match_P,1.0
+29,liver_metastases,number_of_liver_metastases,['1'],['1'],TSR,100.0
+29,liver_metastases,number_of_liver_metastases,['1'],['1'],Exact_Match_P,1.0
+29,liver_metastases,liver_metastases_size,['3.4'],['3.4'],TSR,100.0
+29,liver_metastases,liver_metastases_size,['3.4'],['3.4'],Exact_Match_P,1.0
+29,liver_metastases,liver_metastases_distribution,['Unilobar'],['Unilobar'],TSR,100.0
+29,liver_metastases,liver_metastases_distribution,['Unilobar'],['Unilobar'],Exact_Match_P,1.0
+29,liver_metastases,hepatic_segments_involved,['Seg 6'],['Seg 6'],TSR,100.0
+29,liver_metastases,hepatic_segments_involved,['Seg 6'],['Seg 6'],Exact_Match_P,1.0
+29,extrahepatic_disease,number_of_extrahepatic_metastases,['0'],['0'],TSR,100.0
+29,extrahepatic_disease,number_of_extrahepatic_metastases,['0'],['0'],Exact_Match_P,1.0
+29,imaging,imaging_modality,"['CT', 'PET-CT', 'ultrasound']",['MRI'],TSR,15.0
+29,imaging,imaging_modality,"['CT', 'PET-CT', 'ultrasound']",['MRI'],Exact_Match_P,0.0
+29,systemic_therapy,chemotherapy_regimen,['FOLFOX'],['FOLFOX'],TSR,100.0
+29,systemic_therapy,chemotherapy_regimen,['FOLFOX'],['FOLFOX'],Exact_Match_P,1.0
+29,systemic_therapy,chemotherapy_line,['adjuvant'],['adjuvant'],TSR,100.0
+29,systemic_therapy,chemotherapy_line,['adjuvant'],['adjuvant'],Exact_Match_P,1.0
+29,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],TSR,100.0
+29,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],Exact_Match_P,1.0
+29,surgical_planning,surgical_strategy,['one-stage'],['one-stage'],TSR,100.0
+29,surgical_planning,surgical_strategy,['one-stage'],['one-stage'],Exact_Match_P,1.0
+30,tumor_biology,CEA,['250'],['250'],TSR,100.0
+30,tumor_biology,CEA,['250'],['250'],Exact_Match_P,1.0
+30,liver_metastases,liver_metastasis_timing,['Metachronous'],['Metachronous'],TSR,100.0
+30,liver_metastases,liver_metastasis_timing,['Metachronous'],['Metachronous'],Exact_Match_P,1.0
+30,liver_metastases,number_of_liver_metastases,['3'],['3'],TSR,100.0
+30,liver_metastases,number_of_liver_metastases,['3'],['3'],Exact_Match_P,1.0
+30,liver_metastases,liver_metastases_size,['2.0-3.6'],['2.0-3.6'],TSR,100.0
+30,liver_metastases,liver_metastases_size,['2.0-3.6'],['2.0-3.6'],Exact_Match_P,1.0
+30,liver_metastases,liver_metastases_distribution,['Bilobar'],['Bilobar'],TSR,100.0
+30,liver_metastases,liver_metastases_distribution,['Bilobar'],['Bilobar'],Exact_Match_P,1.0
+30,liver_metastases,hepatic_segments_involved,"['Seg 4', 'Seg 5', 'Seg 7']","['Seg 4', 'Seg 5', 'Seg 7']",TSR,100.0
+30,liver_metastases,hepatic_segments_involved,"['Seg 4', 'Seg 5', 'Seg 7']","['Seg 4', 'Seg 5', 'Seg 7']",Exact_Match_P,1.0
+30,imaging,imaging_modality,"['CT', 'MRI']","['CT', 'MRI', 'PET-CT']",TSR,100.0
+30,imaging,imaging_modality,"['CT', 'MRI']","['CT', 'MRI', 'PET-CT']",Exact_Match_P,0.6666666666666666
+30,systemic_therapy,chemotherapy_regimen,['FOLFOX'],"['FOLFOX', 'FOLFIRI']",TSR,81.0
+30,systemic_therapy,chemotherapy_regimen,['FOLFOX'],"['FOLFOX', 'FOLFIRI']",Exact_Match_P,0.5
+30,systemic_therapy,chemotherapy_line,['adjuvant'],['neoadjuvant'],TSR,84.0
+30,systemic_therapy,chemotherapy_line,['adjuvant'],['neoadjuvant'],Exact_Match_P,0.0
+30,systemic_therapy,targeted_immuno,['bevacizumab'],['cetuximab'],TSR,50.0
+30,systemic_therapy,targeted_immuno,['bevacizumab'],['cetuximab'],Exact_Match_P,0.0
+30,surgical_planning,surgical_strategy,['one-stage'],['one-stage'],TSR,100.0
+30,surgical_planning,surgical_strategy,['one-stage'],['one-stage'],Exact_Match_P,1.0
+31,tumor_biology,molecular_marker,['KRAS'],['KRAS'],TSR,100.0
+31,tumor_biology,molecular_marker,['KRAS'],['KRAS'],Exact_Match_P,1.0
+31,liver_metastases,number_of_liver_metastases,[1],['1'],TSR,100.0
+31,liver_metastases,number_of_liver_metastases,[1],['1'],Exact_Match_P,0.0
+31,liver_metastases,liver_metastases_size,[2.8],['2.8'],TSR,100.0
+31,liver_metastases,liver_metastases_size,[2.8],['2.8'],Exact_Match_P,0.0
+31,liver_metastases,liver_metastases_distribution,['Peripheral'],['Unilobar'],TSR,22.0
+31,liver_metastases,liver_metastases_distribution,['Peripheral'],['Unilobar'],Exact_Match_P,0.0
+31,liver_metastases,hepatic_segments_involved,['Seg 8'],['Seg 8'],TSR,100.0
+31,liver_metastases,hepatic_segments_involved,['Seg 8'],['Seg 8'],Exact_Match_P,1.0
+31,imaging,imaging_modality,"['CT', 'MRI', 'PET-CT']","['MRI', 'CT', 'PET-CT']",TSR,100.0
+31,imaging,imaging_modality,"['CT', 'MRI', 'PET-CT']","['MRI', 'CT', 'PET-CT']",Exact_Match_P,1.0
+31,systemic_therapy,chemotherapy_regimen,['FOLFOX'],['FOLFOX'],TSR,100.0
+31,systemic_therapy,chemotherapy_regimen,['FOLFOX'],['FOLFOX'],Exact_Match_P,1.0
+31,systemic_therapy,chemotherapy_line,['adjuvant'],['adjuvant'],TSR,100.0
+31,systemic_therapy,chemotherapy_line,['adjuvant'],['adjuvant'],Exact_Match_P,1.0
+31,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],TSR,100.0
+31,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],Exact_Match_P,1.0
+31,surgical_planning,surgical_strategy,['one-stage'],['one-stage'],TSR,100.0
+31,surgical_planning,surgical_strategy,['one-stage'],['one-stage'],Exact_Match_P,1.0
+32,liver_metastases,number_of_liver_metastases,['4'],['4'],TSR,100.0
+32,liver_metastases,number_of_liver_metastases,['4'],['4'],Exact_Match_P,1.0
+32,liver_metastases,liver_metastases_size,['2-3.5'],['2-3.5'],TSR,100.0
+32,liver_metastases,liver_metastases_size,['2-3.5'],['2-3.5'],Exact_Match_P,1.0
+32,liver_metastases,liver_metastases_distribution,['Bilobar'],['Bilobar'],TSR,100.0
+32,liver_metastases,liver_metastases_distribution,['Bilobar'],['Bilobar'],Exact_Match_P,1.0
+32,systemic_therapy,chemotherapy_regimen,['FOLOXIRI'],"['FOLFOX', 'FOLFIRI']",TSR,75.5
+32,systemic_therapy,chemotherapy_regimen,['FOLOXIRI'],"['FOLFOX', 'FOLFIRI']",Exact_Match_P,0.0
+32,systemic_therapy,chemotherapy_line,['neoadjuvant'],['neoadjuvant'],TSR,100.0
+32,systemic_therapy,chemotherapy_line,['neoadjuvant'],['neoadjuvant'],Exact_Match_P,1.0
+32,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],TSR,100.0
+32,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],Exact_Match_P,1.0
+33,tumor_biology,molecular_marker,['KRAS'],['KRAS'],TSR,100.0
+33,tumor_biology,molecular_marker,['KRAS'],['KRAS'],Exact_Match_P,1.0
+33,liver_metastases,number_of_liver_metastases,['2'],['2'],TSR,100.0
+33,liver_metastases,number_of_liver_metastases,['2'],['2'],Exact_Match_P,1.0
+33,liver_metastases,liver_metastases_size,['4'],['3.1'],TSR,0.0
+33,liver_metastases,liver_metastases_size,['4'],['3.1'],Exact_Match_P,0.0
+33,liver_metastases,liver_metastases_distribution,['Bilobar'],['Bilobar'],TSR,100.0
+33,liver_metastases,liver_metastases_distribution,['Bilobar'],['Bilobar'],Exact_Match_P,1.0
+33,liver_metastases,hepatic_segments_involved,"['Seg 2', 'Seg 6']","['Seg 2', 'Seg 6']",TSR,100.0
+33,liver_metastases,hepatic_segments_involved,"['Seg 2', 'Seg 6']","['Seg 2', 'Seg 6']",Exact_Match_P,1.0
+33,imaging,imaging_modality,"['CT', 'MRI', 'PET-CT']","['MRI', 'CT', 'PET-CT']",TSR,100.0
+33,imaging,imaging_modality,"['CT', 'MRI', 'PET-CT']","['MRI', 'CT', 'PET-CT']",Exact_Match_P,1.0
+33,systemic_therapy,chemotherapy_regimen,['FOLFOX'],"['FOLFOX', 'FOLFIRI']",TSR,81.0
+33,systemic_therapy,chemotherapy_regimen,['FOLFOX'],"['FOLFOX', 'FOLFIRI']",Exact_Match_P,0.5
+33,systemic_therapy,chemotherapy_line,['neoadjuvant'],['neoadjuvant'],TSR,100.0
+33,systemic_therapy,chemotherapy_line,['neoadjuvant'],['neoadjuvant'],Exact_Match_P,1.0
+33,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],TSR,100.0
+33,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],Exact_Match_P,1.0
+33,surgical_planning,surgical_strategy,['one-stage'],['one-stage'],TSR,100.0
+33,surgical_planning,surgical_strategy,['one-stage'],['one-stage'],Exact_Match_P,1.0
+34,tumor_biology,CEA,['Elevated'],['140'],TSR,0.0
+34,tumor_biology,CEA,['Elevated'],['140'],Exact_Match_P,0.0
+34,liver_metastases,number_of_liver_metastases,['3'],['3'],TSR,100.0
+34,liver_metastases,number_of_liver_metastases,['3'],['3'],Exact_Match_P,1.0
+34,liver_metastases,liver_metastases_size,['3'],['2.5'],TSR,0.0
+34,liver_metastases,liver_metastases_size,['3'],['2.5'],Exact_Match_P,0.0
+34,liver_metastases,liver_metastases_distribution,['Unilobar'],['Bilobar'],TSR,80.0
+34,liver_metastases,liver_metastases_distribution,['Unilobar'],['Bilobar'],Exact_Match_P,0.0
+34,liver_metastases,hepatic_segments_involved,"['Seg 4', 'Seg 5', 'Seg 6']","['Seg 4', 'Seg 5', 'Seg 6']",TSR,100.0
+34,liver_metastases,hepatic_segments_involved,"['Seg 4', 'Seg 5', 'Seg 6']","['Seg 4', 'Seg 5', 'Seg 6']",Exact_Match_P,1.0
+34,imaging,imaging_modality,"['CT', 'MRI', 'ultrasound']","['CT', 'MRI', 'PET-CT', 'ultrasound']",TSR,100.0
+34,imaging,imaging_modality,"['CT', 'MRI', 'ultrasound']","['CT', 'MRI', 'PET-CT', 'ultrasound']",Exact_Match_P,0.75
+34,systemic_therapy,chemotherapy_regimen,['FOLFOX'],"['FOLFOX', 'FOLFIRI']",TSR,81.0
+34,systemic_therapy,chemotherapy_regimen,['FOLFOX'],"['FOLFOX', 'FOLFIRI']",Exact_Match_P,0.5
+34,systemic_therapy,chemotherapy_line,"['neoadjuvant', 'adjuvant']","['neoadjuvant', 'adjuvant']",TSR,100.0
+34,systemic_therapy,chemotherapy_line,"['neoadjuvant', 'adjuvant']","['neoadjuvant', 'adjuvant']",Exact_Match_P,1.0
+34,systemic_therapy,targeted_immuno,['bevacizumab'],['cetuximab'],TSR,50.0
+34,systemic_therapy,targeted_immuno,['bevacizumab'],['cetuximab'],Exact_Match_P,0.0
+34,surgical_planning,surgical_strategy,['one-stage'],['one-stage'],TSR,100.0
+34,surgical_planning,surgical_strategy,['one-stage'],['one-stage'],Exact_Match_P,1.0
+35,tumor_biology,molecular_marker,['KRAS'],['KRAS'],TSR,100.0
+35,tumor_biology,molecular_marker,['KRAS'],['KRAS'],Exact_Match_P,1.0
+35,tumor_biology,CEA,['Elevated'],['600'],TSR,0.0
+35,tumor_biology,CEA,['Elevated'],['600'],Exact_Match_P,0.0
+35,liver_metastases,number_of_liver_metastases,['1'],['1'],TSR,100.0
+35,liver_metastases,number_of_liver_metastases,['1'],['1'],Exact_Match_P,1.0
+35,liver_metastases,liver_metastases_size,['4.2'],['4.2'],TSR,100.0
+35,liver_metastases,liver_metastases_size,['4.2'],['4.2'],Exact_Match_P,1.0
+35,liver_metastases,liver_metastases_distribution,['Unilobar'],['Central'],TSR,27.0
+35,liver_metastases,liver_metastases_distribution,['Unilobar'],['Central'],Exact_Match_P,0.0
+35,liver_metastases,hepatic_segments_involved,['Seg 4'],['Seg 4'],TSR,100.0
+35,liver_metastases,hepatic_segments_involved,['Seg 4'],['Seg 4'],Exact_Match_P,1.0
+35,imaging,imaging_modality,['CT'],"['MRI', 'PET-CT', 'ultrasound']",TSR,39.0
+35,imaging,imaging_modality,['CT'],"['MRI', 'PET-CT', 'ultrasound']",Exact_Match_P,0.0
+35,systemic_therapy,chemotherapy_regimen,['FOLFOX'],['FOLFOX'],TSR,100.0
+35,systemic_therapy,chemotherapy_regimen,['FOLFOX'],['FOLFOX'],Exact_Match_P,1.0
+35,systemic_therapy,chemotherapy_line,['adjuvant'],['adjuvant'],TSR,100.0
+35,systemic_therapy,chemotherapy_line,['adjuvant'],['adjuvant'],Exact_Match_P,1.0
+35,surgical_planning,surgical_strategy,['one-stage'],['one-stage'],TSR,100.0
+35,surgical_planning,surgical_strategy,['one-stage'],['one-stage'],Exact_Match_P,1.0
+36,tumor_biology,CEA,['Elevated'],['310'],TSR,0.0
+36,tumor_biology,CEA,['Elevated'],['310'],Exact_Match_P,0.0
+36,liver_metastases,number_of_liver_metastases,['2'],['2'],TSR,100.0
+36,liver_metastases,number_of_liver_metastases,['2'],['2'],Exact_Match_P,1.0
+36,liver_metastases,liver_metastases_size,['3.8'],['3.8'],TSR,100.0
+36,liver_metastases,liver_metastases_size,['3.8'],['3.8'],Exact_Match_P,1.0
+36,liver_metastases,liver_metastases_distribution,['Unilobar'],['Peripheral'],TSR,22.0
+36,liver_metastases,liver_metastases_distribution,['Unilobar'],['Peripheral'],Exact_Match_P,0.0
+36,liver_metastases,hepatic_segments_involved,"['Seg 7', 'Seg 5']","['Seg 5', 'Seg 7']",TSR,100.0
+36,liver_metastases,hepatic_segments_involved,"['Seg 7', 'Seg 5']","['Seg 5', 'Seg 7']",Exact_Match_P,1.0
+36,imaging,imaging_modality,"['CT', 'MRI', 'ultrasound']","['CT', 'PET-CT', 'MRI', 'ultrasound']",TSR,100.0
+36,imaging,imaging_modality,"['CT', 'MRI', 'ultrasound']","['CT', 'PET-CT', 'MRI', 'ultrasound']",Exact_Match_P,0.75
+36,systemic_therapy,chemotherapy_regimen,['FOLFOX'],"['FOLFOX', 'FOLFIRI']",TSR,81.0
+36,systemic_therapy,chemotherapy_regimen,['FOLFOX'],"['FOLFOX', 'FOLFIRI']",Exact_Match_P,0.5
+36,systemic_therapy,chemotherapy_line,['adjuvant'],['neoadjuvant'],TSR,84.0
+36,systemic_therapy,chemotherapy_line,['adjuvant'],['neoadjuvant'],Exact_Match_P,0.0
+36,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],TSR,100.0
+36,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],Exact_Match_P,1.0
+36,surgical_planning,surgical_strategy,['one-stage'],['one-stage'],TSR,100.0
+36,surgical_planning,surgical_strategy,['one-stage'],['one-stage'],Exact_Match_P,1.0
+37,liver_metastases,liver_metastasis_timing,['Metachronous'],['Metachronous'],TSR,100.0
+37,liver_metastases,liver_metastasis_timing,['Metachronous'],['Metachronous'],Exact_Match_P,1.0
+37,liver_metastases,number_of_liver_metastases,['2'],['2'],TSR,100.0
+37,liver_metastases,number_of_liver_metastases,['2'],['2'],Exact_Match_P,1.0
+37,liver_metastases,liver_metastases_size,['3'],['2.6'],TSR,0.0
+37,liver_metastases,liver_metastases_size,['3'],['2.6'],Exact_Match_P,0.0
+37,liver_metastases,liver_metastases_distribution,['Bilobar'],['Bilobar'],TSR,100.0
+37,liver_metastases,liver_metastases_distribution,['Bilobar'],['Bilobar'],Exact_Match_P,1.0
+37,liver_metastases,hepatic_segments_involved,"['Seg 3', 'Seg 6']","['Seg 3', 'Seg 6']",TSR,100.0
+37,liver_metastases,hepatic_segments_involved,"['Seg 3', 'Seg 6']","['Seg 3', 'Seg 6']",Exact_Match_P,1.0
+37,systemic_therapy,chemotherapy_regimen,['FOLFOX'],['FOLFOX'],TSR,100.0
+37,systemic_therapy,chemotherapy_regimen,['FOLFOX'],['FOLFOX'],Exact_Match_P,1.0
+37,systemic_therapy,chemotherapy_line,['adjuvant'],['adjuvant'],TSR,100.0
+37,systemic_therapy,chemotherapy_line,['adjuvant'],['adjuvant'],Exact_Match_P,1.0
+37,surgical_planning,surgical_strategy,['one-stage'],['one-stage'],TSR,100.0
+37,surgical_planning,surgical_strategy,['one-stage'],['one-stage'],Exact_Match_P,1.0
+38,tumor_biology,molecular_marker,['KRAS'],['KRAS'],TSR,100.0
+38,tumor_biology,molecular_marker,['KRAS'],['KRAS'],Exact_Match_P,1.0
+38,liver_metastases,number_of_liver_metastases,['4'],['4'],TSR,100.0
+38,liver_metastases,number_of_liver_metastases,['4'],['4'],Exact_Match_P,1.0
+38,liver_metastases,liver_metastases_size,['1.5-3.5 cm'],['1.5-3.5 cm'],TSR,100.0
+38,liver_metastases,liver_metastases_size,['1.5-3.5 cm'],['1.5-3.5 cm'],Exact_Match_P,1.0
+38,imaging,imaging_modality,"['MRI', 'CT']","['MRI', 'CT']",TSR,100.0
+38,imaging,imaging_modality,"['MRI', 'CT']","['MRI', 'CT']",Exact_Match_P,1.0
+38,systemic_therapy,chemotherapy_regimen,"['FOLFOX', 'FOLFIRI']","['FOLFOX', 'FOLFIRI']",TSR,100.0
+38,systemic_therapy,chemotherapy_regimen,"['FOLFOX', 'FOLFIRI']","['FOLFOX', 'FOLFIRI']",Exact_Match_P,1.0
+38,systemic_therapy,chemotherapy_line,['neoadjuvant'],['neoadjuvant'],TSR,100.0
+38,systemic_therapy,chemotherapy_line,['neoadjuvant'],['neoadjuvant'],Exact_Match_P,1.0
+38,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],TSR,100.0
+38,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],Exact_Match_P,1.0
+38,surgical_planning,surgical_strategy,"['one-stage', 'two-stage', 'ALPPS']","['one-stage', 'two-stage']",TSR,100.0
+38,surgical_planning,surgical_strategy,"['one-stage', 'two-stage', 'ALPPS']","['one-stage', 'two-stage']",Exact_Match_P,1.0
+39,liver_metastases,number_of_liver_metastases,['1'],[1],TSR,100.0
+39,liver_metastases,number_of_liver_metastases,['1'],[1],Exact_Match_P,0.0
+39,liver_metastases,liver_metastases_size,['2.8'],[2.8],TSR,100.0
+39,liver_metastases,liver_metastases_size,['2.8'],[2.8],Exact_Match_P,0.0
+39,liver_metastases,liver_metastases_distribution,['Unilobar'],['Unilobar'],TSR,100.0
+39,liver_metastases,liver_metastases_distribution,['Unilobar'],['Unilobar'],Exact_Match_P,1.0
+39,liver_metastases,hepatic_segments_involved,['Seg 5'],['Seg 5'],TSR,100.0
+39,liver_metastases,hepatic_segments_involved,['Seg 5'],['Seg 5'],Exact_Match_P,1.0
+39,imaging,imaging_modality,"['MRI', 'CT', 'ultrasound']",['CT'],TSR,100.0
+39,imaging,imaging_modality,"['MRI', 'CT', 'ultrasound']",['CT'],Exact_Match_P,1.0
+39,systemic_therapy,chemotherapy_regimen,['FOLFOX'],['FOLFOX'],TSR,100.0
+39,systemic_therapy,chemotherapy_regimen,['FOLFOX'],['FOLFOX'],Exact_Match_P,1.0
+39,systemic_therapy,chemotherapy_line,['neoadjuvant'],['adjuvant'],TSR,84.0
+39,systemic_therapy,chemotherapy_line,['neoadjuvant'],['adjuvant'],Exact_Match_P,0.0
+39,systemic_therapy,targeted_immuno,['cetuximab'],['cetuximab'],TSR,100.0
+39,systemic_therapy,targeted_immuno,['cetuximab'],['cetuximab'],Exact_Match_P,1.0
+39,surgical_planning,surgical_strategy,['one-stage'],['one-stage'],TSR,100.0
+39,surgical_planning,surgical_strategy,['one-stage'],['one-stage'],Exact_Match_P,1.0
+40,tumor_biology,molecular_marker,['KRAS'],['KRAS'],TSR,100.0
+40,tumor_biology,molecular_marker,['KRAS'],['KRAS'],Exact_Match_P,1.0
+40,liver_metastases,number_of_liver_metastases,['2'],['2'],TSR,100.0
+40,liver_metastases,number_of_liver_metastases,['2'],['2'],Exact_Match_P,1.0
+40,liver_metastases,liver_metastases_size,['3'],['2.5-3'],TSR,100.0
+40,liver_metastases,liver_metastases_size,['3'],['2.5-3'],Exact_Match_P,0.0
+40,liver_metastases,liver_metastases_distribution,['Bilobar'],['Bilobar'],TSR,100.0
+40,liver_metastases,liver_metastases_distribution,['Bilobar'],['Bilobar'],Exact_Match_P,1.0
+40,liver_metastases,hepatic_segments_involved,"['Seg 2', 'Seg 8']","['Seg 2', 'Seg 8']",TSR,100.0
+40,liver_metastases,hepatic_segments_involved,"['Seg 2', 'Seg 8']","['Seg 2', 'Seg 8']",Exact_Match_P,1.0
+40,imaging,imaging_modality,"['CT', 'MRI', 'ultrasound']","['CT', 'MRI', 'PET-CT', 'ultrasound']",TSR,100.0
+40,imaging,imaging_modality,"['CT', 'MRI', 'ultrasound']","['CT', 'MRI', 'PET-CT', 'ultrasound']",Exact_Match_P,0.75
+40,systemic_therapy,chemotherapy_regimen,['FOLFOX'],"['FOLFOX', 'FOLFIRI']",TSR,81.0
+40,systemic_therapy,chemotherapy_regimen,['FOLFOX'],"['FOLFOX', 'FOLFIRI']",Exact_Match_P,0.5
+40,systemic_therapy,chemotherapy_line,['adjuvant'],['neoadjuvant'],TSR,84.0
+40,systemic_therapy,chemotherapy_line,['adjuvant'],['neoadjuvant'],Exact_Match_P,0.0
+40,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],TSR,100.0
+40,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],Exact_Match_P,1.0
+40,surgical_planning,surgical_strategy,['one-stage'],['one-stage'],TSR,100.0
+40,surgical_planning,surgical_strategy,['one-stage'],['one-stage'],Exact_Match_P,1.0
+68,liver_metastases,liver_metastases_distribution,['Bilobar'],['Bilobar'],TSR,100.0
+68,liver_metastases,liver_metastases_distribution,['Bilobar'],['Bilobar'],Exact_Match_P,1.0
+68,extrahepatic_disease,extrahepatic_site,['brain'],['brain'],TSR,100.0
+68,extrahepatic_disease,extrahepatic_site,['brain'],['brain'],Exact_Match_P,1.0
+68,imaging,imaging_modality,"['MRI', 'CT']","['MRI', 'CT', 'PET-CT']",TSR,100.0
+68,imaging,imaging_modality,"['MRI', 'CT']","['MRI', 'CT', 'PET-CT']",Exact_Match_P,0.6666666666666666
+72,primary_tumor_status,primary_T_Stage,['T4'],['T4'],TSR,100.0
+72,primary_tumor_status,primary_T_Stage,['T4'],['T4'],Exact_Match_P,1.0
+72,primary_tumor_status,primary_N_stage,['N2'],['N2'],TSR,100.0
+72,primary_tumor_status,primary_N_stage,['N2'],['N2'],Exact_Match_P,1.0
+72,liver_metastases,number_of_liver_metastases,['6'],['6'],TSR,100.0
+72,liver_metastases,number_of_liver_metastases,['6'],['6'],Exact_Match_P,1.0
+72,liver_metastases,liver_metastases_distribution,['Bilobar'],['Bilobar'],TSR,100.0
+72,liver_metastases,liver_metastases_distribution,['Bilobar'],['Bilobar'],Exact_Match_P,1.0
+72,extrahepatic_disease,extrahepatic_site,['lung'],['lung'],TSR,100.0
+72,extrahepatic_disease,extrahepatic_site,['lung'],['lung'],Exact_Match_P,1.0
+72,imaging,imaging_modality,"['MRI', 'CT', 'PET-CT']","['MRI', 'CT', 'PET-CT']",TSR,100.0
+72,imaging,imaging_modality,"['MRI', 'CT', 'PET-CT']","['MRI', 'CT', 'PET-CT']",Exact_Match_P,1.0
+72,systemic_therapy,chemotherapy_regimen,['FOLOXIRI'],"['FOLFOX', 'FOLFIRI']",TSR,75.5
+72,systemic_therapy,chemotherapy_regimen,['FOLOXIRI'],"['FOLFOX', 'FOLFIRI']",Exact_Match_P,0.0
+72,systemic_therapy,chemotherapy_line,['neoadjuvant'],['1st line'],TSR,21.0
+72,systemic_therapy,chemotherapy_line,['neoadjuvant'],['1st line'],Exact_Match_P,0.0
+72,surgical_planning,surgical_strategy,"['two-stage', 'ALPPS', 'combined resection']","['two-stage', 'combined resection', 'ALPPS']",TSR,100.0
+72,surgical_planning,surgical_strategy,"['two-stage', 'ALPPS', 'combined resection']","['two-stage', 'combined resection', 'ALPPS']",Exact_Match_P,1.0
+73,tumor_biology,primary_site,['Left colon'],['Left colon'],TSR,100.0
+73,tumor_biology,primary_site,['Left colon'],['Left colon'],Exact_Match_P,1.0
+73,tumor_biology,molecular_marker,['KRAS'],['KRAS'],TSR,100.0
+73,tumor_biology,molecular_marker,['KRAS'],['KRAS'],Exact_Match_P,1.0
+73,liver_metastases,hepatic_segments_involved,"['Seg 4', 'Seg 5', 'Seg 8']","['Seg 4', 'Seg 5', 'Seg 8']",TSR,100.0
+73,liver_metastases,hepatic_segments_involved,"['Seg 4', 'Seg 5', 'Seg 8']","['Seg 4', 'Seg 5', 'Seg 8']",Exact_Match_P,1.0
+73,extrahepatic_disease,extrahepatic_site,['bone'],['bone'],TSR,100.0
+73,extrahepatic_disease,extrahepatic_site,['bone'],['bone'],Exact_Match_P,1.0
+73,imaging,imaging_modality,"['CT', 'MRI', 'PET-CT']","['MRI', 'PET-CT']",TSR,100.0
+73,imaging,imaging_modality,"['CT', 'MRI', 'PET-CT']","['MRI', 'PET-CT']",Exact_Match_P,1.0
+73,systemic_therapy,chemotherapy_regimen,['FOLFOX'],"['FOLFOX', 'FOLFIRI']",TSR,81.0
+73,systemic_therapy,chemotherapy_regimen,['FOLFOX'],"['FOLFOX', 'FOLFIRI']",Exact_Match_P,0.5
+73,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],TSR,100.0
+73,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],Exact_Match_P,1.0
+75,tumor_biology,primary_site,['Right colon'],['Right colon'],TSR,100.0
+75,tumor_biology,primary_site,['Right colon'],['Right colon'],Exact_Match_P,1.0
+75,liver_metastases,number_of_liver_metastases,[8],['8'],TSR,100.0
+75,liver_metastases,number_of_liver_metastases,[8],['8'],Exact_Match_P,0.0
+75,liver_metastases,liver_metastases_distribution,['Bilobar'],['Bilobar'],TSR,100.0
+75,liver_metastases,liver_metastases_distribution,['Bilobar'],['Bilobar'],Exact_Match_P,1.0
+75,extrahepatic_disease,extrahepatic_site,['peritoneum'],['peritoneum'],TSR,100.0
+75,extrahepatic_disease,extrahepatic_site,['peritoneum'],['peritoneum'],Exact_Match_P,1.0
+75,imaging,imaging_modality,"['MRI', 'CT']","['MRI', 'CT', 'PET-CT']",TSR,100.0
+75,imaging,imaging_modality,"['MRI', 'CT']","['MRI', 'CT', 'PET-CT']",Exact_Match_P,0.6666666666666666
+75,systemic_therapy,chemotherapy_regimen,['FOLOXIRI'],"['FOLFOX', 'FOLFIRI']",TSR,75.5
+75,systemic_therapy,chemotherapy_regimen,['FOLOXIRI'],"['FOLFOX', 'FOLFIRI']",Exact_Match_P,0.0
+75,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],TSR,100.0
+75,systemic_therapy,targeted_immuno,['bevacizumab'],['bevacizumab'],Exact_Match_P,1.0

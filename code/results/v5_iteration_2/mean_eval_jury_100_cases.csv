@@ -1,0 +1,17 @@
+Criterion,Approach,Jury_Mean_Satisfied
+Completeness,LLM-baseline,0.845
+Completeness,RAG-LLM,0.856
+Completeness,WF-LLM,0.933
+Completeness,WF-RAG-LLM,0.925
+Step_concordance,LLM-baseline,0.471
+Step_concordance,RAG-LLM,0.473
+Step_concordance,WF-LLM,0.623
+Step_concordance,WF-RAG-LLM,0.587
+Case_tailoring,LLM-baseline,0.37
+Case_tailoring,RAG-LLM,0.387
+Case_tailoring,WF-LLM,0.456
+Case_tailoring,WF-RAG-LLM,0.507
+Missing_data_concordance,LLM-baseline,0.09
+Missing_data_concordance,RAG-LLM,0.098
+Missing_data_concordance,WF-LLM,0.089
+Missing_data_concordance,WF-RAG-LLM,0.212

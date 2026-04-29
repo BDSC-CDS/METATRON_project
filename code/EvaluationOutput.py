@@ -1,18 +1,21 @@
 from pydantic import BaseModel
 from typing import Literal, List
+from enum import Enum
 
-class ScoreEvaluationOutput(BaseModel):
-    Criterion: str
-    Score: int
-    Explanation: str
+# class EvaluationOutput(BaseModel):
+#     #Criterion: str
+#     LLMEval: Literal["SATISFIED", "NOT SATISFIED"]
+#     #Explanation: str
 
 class EvaluationOutput(BaseModel):
-    #Criterion: str
-    LLMEval: Literal["SATISFIED", "NOT SATISFIED"]
-    #Explanation: str
+    completeness: Literal[0,1]
+    step_concordance: Literal[0,1]
+    case_tailoring: Literal[0,1]   
+    missing_data_concordance: Literal[0,1]
 
-class ScoreEvaluation(BaseModel):
-    Evaluation: List[ScoreEvaluationOutput]
-
-class SimpleEvaluation(BaseModel):
-    Evaluation: List[EvaluationOutput]
+class EvaluationOutputReasoning(BaseModel):
+    completeness: Literal[0,1]
+    step_concordance: Literal[0,1]
+    case_tailoring: Literal[0,1]   
+    missing_data_concordance: Literal[0,1]
+    reasoning: str

@@ -1,0 +1,222 @@
+Case_Number,Approach,Resectability_Label,Supporting_Text
+1,Model_Alone,upfront resectable,Therefore both the colonic primary (requiring resection for obstruction) and the liver metastases are technically resectable without the need for down‑staging therapy.
+1,Model_Studies,upfront resectable,"Resectable upfront – The two liver metastases are limited in number (2), size (<3 cm), and location (segments II and V) ... No extra‑hepatic disease is present. ... making an immediate combined resection technically feasible."
+1,Model_Workflow,upfront resectable,Hence the case meets criteria for upfront resectability.
+1,Model_Workflow_Studies,upfront resectable,Classification: Resectable upfront
+1,Expert,potentially resectable,
+2,Model_Alone,upfront resectable,both the primary and the hepatic metastasis can be surgically removed in a single operative session without the need for pre‑operative down‑staging.
+2,Model_Studies,upfront resectable,Resectable upfront
+2,Model_Workflow,potentially resectable,Category: Potentially resectable
+2,Model_Workflow_Studies,upfront resectable,Classification: Resectable upfront
+2,Expert,potentially resectable,
+3,Model_Alone,potentially resectable,"The solitary 1.8 cm metastasis in segment III is technically resectable... however... makes immediate surgery impossible, therefore the case fits the “Potentially resectable” category."
+3,Model_Studies,potentially resectable,"Potentially resectable – the solitary 1.8 cm metastasis in segment III is technically resectable ... Until that radiotherapy and confirmatory imaging are completed, definitive surgery cannot be performed."
+3,Model_Workflow,potentially resectable,"Potentially resectable – ... technically resectable, but critical pre‑operative information is missing ... Until these studies are obtained and reviewed, definitive upfront surgery cannot be safely planned."
+3,Model_Workflow_Studies,potentially resectable,"Potentially resectable – the liver lesion appears technically resectable (single 1.8 cm metastasis in segment III), but definitive surgical planning requires (a) complete thoraco‑abdominal cross‑sectional imaging ... and (b) calculation of the future liver remnant (FLR) volume."
+3,Expert,potentially resectable,
+4,Model_Alone,upfront resectable,"Therefore, from a purely technical standpoint, both the primary and hepatic disease can be removed immediately without prerequisite interventions."
+4,Model_Studies,upfront resectable,Resectable upfront
+4,Model_Workflow,potentially resectable,Potentially resectable
+4,Model_Workflow_Studies,potentially resectable,"Because these missing data directly impact the safety and oncologic validity of an upfront hepatectomy, the case must be classified as Potentially resectable pending completion of the above assessments"
+4,Expert,potentially resectable,
+5,Model_Alone,upfront resectable,Therefore the disease is classified as Resectable upfront.
+5,Model_Studies,upfront resectable,"The four liver metastases are peripheral (segments II, III, V, VIII), each ≤ 3 cm, with no vascular invasion or extra‑hepatic disease... Current literature confirms that ≤ 4 peripheral lesions are routinely resectable without pre‑operative down‑staging, so surgery can be offered immediately."
+5,Model_Workflow,potentially resectable,"Because these missing items directly impact surgical feasibility, the case is classified as “Potentially resectable”"
+5,Model_Workflow_Studies,potentially resectable,"Because the FLR assessment (and thoracic imaging) is a decisive prerequisite, the case cannot be classified as “Resectable upfront.” Therefore it is Potentially resectable pending completion of these evaluations"
+5,Expert,potentially resectable,
+6,Model_Alone,upfront resectable,"Therefore the patient meets criteria for immediate surgical intervention without a mandatory pre‑operative systemic therapy requirement, classifying her as “Resectable upfront”."
+6,Model_Studies,upfront resectable,Therefore the metastases are resectable without the need for pre‑operative down‑staging.
+6,Model_Workflow,potentially resectable,"The MDT reports that the liver metastases are technically resectable ... Without an adequate FLR assessment, a safe hepatic resection cannot be confirmed."
+6,Model_Workflow_Studies,potentially resectable,Potentially resectable
+6,Expert,potentially resectable,
+7,Model_Alone,upfront resectable,"Therefore, from a hepatobiliary standpoint the hepatic disease meets criteria for immediate surgical removal; no prerequisite down‑staging therapy or missing anatomic information precludes resection."
+7,Model_Studies,potentially resectable,"Potentially resectable – the hepatic disease meets technical criteria for R0 resection ... However, definitive curative surgery cannot be performed immediately because the rectal primary requires short‑course pelvic radiotherapy ... Completion of the radiotherapy ... is a prerequisite to proceeding with either a simultaneous or staged liver‑plus‑rectal operation."
+7,Model_Workflow,potentially resectable,"Potentially resectable: the liver lesions are small (1‑2 cm) and appear anatomically resectable, but definitive surgical planning requires (a) confirmation that the future liver remnant will be sufficient ... and (b) verification that there is no vascular or biliary invasion ..."
+7,Model_Workflow_Studies,potentially resectable,Potentially resectable
+7,Expert,potentially resectable,
+8,Model_Alone,upfront resectable,Resectable upfront ... Therefore a curative‑intent operation can be performed without prerequisite down‑staging therapy.
+8,Model_Studies,upfront resectable,Resectable upfront – ... meets both technical and oncological criteria for immediate curative surgery without the need for down‑staging therapy.
+8,Model_Workflow,potentially resectable,"Potentially resectable: the solitary 2.7 cm metastasis in segment IVb is anatomically amenable to curative resection, but decisive information is missing... Until these data are obtained, the case remains potentially resectable rather than resectable upfront."
+8,Model_Workflow_Studies,potentially resectable,"Potentially resectable – ... Because these items directly impact whether an immediate operation can be performed safely, the case is classified as “Potentially resectable.”"
+8,Expert,potentially resectable,
+9,Model_Alone,upfront resectable,"The MDT explicitly states “limited and accessible liver involvement, no indication for upfront chemotherapy,” supporting immediate surgical feasibility."
+9,Model_Studies,upfront resectable,Resectable upfront
+9,Model_Workflow,potentially resectable,"Until these decisive pieces of information are obtained, the case remains potentially resectable."
+9,Model_Workflow_Studies,potentially resectable,the case is classified as “Potentially resectable” pending completion of the missing assessments.
+9,Expert,potentially resectable,
+10,Model_Alone,upfront resectable,Resectable upfront: ... No oncologic or anatomical barriers preclude immediate surgery.
+10,Model_Studies,upfront resectable,Resectable upfront
+10,Model_Workflow,potentially resectable,the case must be considered potentially resectable pending completion of the prerequisite assessments.
+10,Model_Workflow_Studies,potentially resectable,"Potentially resectable – the solitary 3 cm lesion in segment VII is anatomically amenable to a segmentectomy, but definitive surgical planning requires ... Until these decisive pieces of information are obtained, an upfront curative resection cannot be safely scheduled."
+10,Expert,potentially resectable,
+11,Model_Alone,upfront resectable,Resectable upfront: ... both the colorectal primary and the liver metastases can be removed in a single operative setting without the need for down‑staging therapy.
+11,Model_Studies,upfront resectable,Resectable upfront ... therefore surgery can be offered immediately without mandatory pre‑operative down‑staging.
+11,Model_Workflow,potentially resectable,Category: Potentially resectable
+11,Model_Workflow_Studies,potentially resectable,"However, the structured analysis lacks a quantified future liver remnant (FLR) ratio and detailed vascular/biliary anatomy ... without this information the surgery cannot be declared safely “upfront”. Therefore the case is classified as potentially resectable pending confirmation of FLR and anatomic details."
+11,Expert,potentially resectable,
+12,Model_Alone,potentially resectable,"Potentially resectable – the liver lesion is technically resectable, but definitive surgery cannot be performed upfront because the rectal T3N1 primary requires neoadjuvant chemoradiotherapy (and typically systemic chemotherapy) before any operative intervention."
+12,Model_Studies,potentially resectable,"Potentially resectable – the hepatic lesion (1.5 cm in segment II) is technically amenable to R0 resection with an adequate future liver remnant. However, curative intent surgery cannot be performed immediately because the rectal primary (high T3) requires neoadjuvant pelvic treatment (radiotherapy ± chemoradiation) before definitive resection."
+12,Model_Workflow,potentially resectable,"Potentially resectable: The single 1.5 cm peripheral metastasis in segment II is anatomically amenable to curative liver resection, but the high rectal T3N1 primary requires neoadjuvant chemoradiotherapy before any definitive surgery... Therefore resection can only be contemplated after these prerequisite steps are completed."
+12,Model_Workflow_Studies,potentially resectable,so the case is classified as potentially resectable pending completion of those steps.
+12,Expert,potentially resectable,
+13,Model_Alone,upfront resectable,"Resectable upfront: ... No anatomical or oncologic contraindication to surgery is evident, therefore the disease is resectable without prerequisite treatment."
+13,Model_Studies,upfront resectable,Resectable upfront ... the hepatic disease meets current oncologic and technical definitions of resectability and can be addressed without mandatory pre‑operative down‑staging.
+13,Model_Workflow,potentially resectable,Potentially resectable
+13,Model_Workflow_Studies,potentially resectable,"Because these missing pieces of information are decisive for planning a safe hepatectomy, the case must be classified as “Potentially resectable” pending completion of the required assessments."
+13,Expert,potentially resectable,
+14,Model_Alone,upfront resectable,"Therefore, curative‑intent resection can be performed without mandatory pre‑operative down‑staging."
+14,Model_Studies,potentially resectable,Step 1 - Potentially resectable
+14,Model_Workflow,potentially resectable,the case must be classified as “Potentially resectable” pending completion of the missing assessments.
+14,Model_Workflow_Studies,potentially resectable,"Potentially resectable: the two lesions (2.2 cm in segment III and 3 cm in segment VI) are anatomically amenable to curative resection, but definitive technical feasibility cannot be confirmed until (a) a liver‑specific MRI is obtained to define vascular and biliary relationships, and (b) the future liver remnant (FLR) volume/ratio is calculated."
+14,Expert,potentially resectable,
+15,Model_Alone,upfront resectable,Therefore the patient is classified as Resectable upfront.
+15,Model_Studies,upfront resectable,"Therefore, from both technical and oncologic viewpoints the disease is resectable without prerequisite systemic therapy."
+15,Model_Workflow,potentially resectable,"The liver lesion (single 2.8 cm in segment V) appears technically resectable, but decisive information is missing... These prerequisites must be fulfilled before a curative operation can be planned."
+15,Model_Workflow_Studies,potentially resectable,Therefore resection cannot be declared upfront and must await completion of the missing staging studies.
+15,Expert,potentially resectable,
+16,Model_Alone,potentially resectable,Potentially resectable – current imaging shows seven bilobar metastases ... Down‑staging with systemic conversion chemotherapy is required before a definitive resectability decision can be made.
+16,Model_Studies,potentially resectable,"Potentially resectable – the current disease burden (seven bilobar lesions, some in contact with the right portal branch) makes an R0 liver resection impossible without prior intervention."
+16,Model_Workflow,potentially resectable,The MDT explicitly states that the liver metastases are “not resectable upfront” and recommends conversion chemotherapy (FOLFOX + bevacizumab).
+16,Model_Workflow_Studies,potentially resectable,Potentially resectable
+16,Expert,potentially resectable,
+17,Model_Alone,potentially resectable,"The MDT plan explicitly calls for re‑evaluation after 4 cycles of chemotherapy, indicating that a prerequisite systemic treatment is required before a definitive surgical decision can be made."
+17,Model_Studies,potentially resectable,Potentially resectable – the case requires a prerequisite step (completion of neoadjuvant chemotherapy with re‑imaging and volumetric assessment) before a definitive surgical plan can be made.
+17,Model_Workflow,potentially resectable,"The MDT plan explicitly calls for 4 cycles of chemotherapy with repeat imaging before any surgical decision, indicating that down‑staging is required before a definitive resection can be attempted."
+17,Model_Workflow_Studies,potentially resectable,requires down‑staging chemotherapy and definitive volumetric assessment before a curative resection can be planned
+17,Expert,potentially resectable,
+18,Model_Alone,potentially resectable,"Potentially resectable: conversion to resectability hinges on achieving a major radiologic response of the liver metastases to systemic chemotherapy (FOLFOXIRI). Until that response is documented, the extent of disease (≥8 lesions, IVC contact) precludes immediate surgery."
+18,Model_Studies,potentially resectable,The MDT explicitly states that resection is possible only after a major response to FOLFOXIRI
+18,Model_Workflow,potentially resectable,Potentially resectable
+18,Model_Workflow_Studies,potentially resectable,"the case is currently classified as “potentially resectable” because (a) the MDT explicitly states that resection is possible only after a major response to FOLFOXIRI, and (b) decisive information needed to confirm surgical feasibility is missing… Until these prerequisites are fulfilled, an upfront operation cannot be justified."
+18,Expert,potentially resectable,
+19,Model_Alone,potentially resectable,"Because the current hepatic disease burden and vascular involvement preclude a curative resection without prior intervention, down‑staging with systemic therapy (and possibly portal vein embolization) is required before a surgical plan can be finalized."
+19,Model_Studies,potentially resectable,Therefore surgery cannot be performed immediately; conversion with systemic chemotherapy (and possibly portal vein embolisation or a two‑stage approach) is required before a curative‑intent liver resection can be contemplated.
+19,Model_Workflow,potentially resectable,"""Not initially resectable"""
+19,Model_Workflow_Studies,potentially resectable,Therefore the case fits the definition of “potentially resectable” (requires down‑staging chemotherapy and FLR assessment before surgery).
+19,Expert,potentially resectable,
+20,Model_Alone,potentially resectable,"Potentially resectable: the patient requires neoadjuvant systemic therapy to achieve tumor downsizing and to allow assessment of future liver remnant (FLR) volume. Until a radiologic response and adequate FLR are confirmed, definitive liver resection cannot be performed."
+20,Model_Studies,potentially resectable,Category: Potentially resectable
+20,Model_Workflow,potentially resectable,Category: Potentially resectable
+20,Model_Workflow_Studies,potentially resectable,Potentially resectable.
+20,Expert,potentially resectable,
+21,Model_Alone,potentially resectable,"Down‑staging with systemic chemotherapy (and possibly locoregional therapy) is required ... Until these prerequisites are fulfilled, definitive resection cannot be planned."
+21,Model_Studies,potentially resectable,Potentially resectable – ... Conversion to resectability will require a prerequisite intervention (systemic conversion chemotherapy ± liver‑volume augmentation ...) before an R0 liver resection can be contemplated.
+21,Model_Workflow,potentially resectable,Category: Potentially resectable
+21,Model_Workflow_Studies,potentially resectable,Conversion to resectability is feasible if (a) effective systemic chemotherapy downsizes the lesions and (b) a sufficient FLR can be achieved (by hypertrophy techniques such as portal‑vein embolisation or a two‑stage/ALPPS approach).
+21,Expert,potentially resectable,
+22,Model_Alone,potentially resectable,"Potentially resectable ... Until these data are available, the case cannot be classified as “Resectable upfront” nor excluded as “Not resectable.”"
+22,Model_Studies,potentially resectable,"Five bilobar metastases (1‑3 cm) are technically amenable to parenchymal‑sparing resections, but current imaging does not provide FLR volume, vascular proximity, or liver function data needed to confirm an R0 resection while preserving ≥30 % liver remnant."
+22,Model_Workflow,potentially resectable,"Potentially resectable – the case requires (a) completion of the planned neoadjuvant systemic therapy (FOLFOX + cetuximab) and restaging, and (b) definitive information on hepatic segmental distribution, vascular involvement, and future liver remnant (FLR) volume..."
+22,Model_Workflow_Studies,potentially resectable,"Potentially resectable – ... Until these data are obtained and the response to chemotherapy is documented, resection cannot be performed upfront."
+22,Expert,potentially resectable,
+23,Model_Alone,potentially resectable,A prerequisite systemic chemotherapy regimen ... and likely portal vein embolization ... are required before a definitive hepatic resection can be planned.
+23,Model_Studies,potentially resectable,Potentially resectable – ... making an R0 resection with adequate future liver remnant (FLR) unlikely at presentation. Down‑staging with systemic chemotherapy ... is required before a curative‑intent liver resection can be planned.
+23,Model_Workflow,potentially resectable,Potentially resectable: the current disease is borderline because ... Both prerequisites must be fulfilled before a curative hepatectomy can be planned.
+23,Model_Workflow_Studies,potentially resectable,the disease is classified as “Potentially resectable.”
+23,Expert,potentially resectable,
+24,Model_Alone,potentially resectable,Step 1 - Potentially resectable
+24,Model_Studies,potentially resectable,Therefore the case fits the definition of “Potentially resectable”.
+24,Model_Workflow,potentially resectable,The current disease burden ... makes immediate curative‑intent liver surgery unsafe. The MDT has already indicated that induction systemic therapy is required before re‑evaluation
+24,Model_Workflow_Studies,potentially resectable,"Because these decisive pieces of information are lacking and because downsizing systemic therapy is planned by the MDT, the case fits the “potentially resectable” category"
+24,Expert,potentially resectable,
+25,Model_Alone,potentially resectable,Potentially resectable
+25,Model_Studies,potentially resectable,the case is classified as “Potentially resectable.”
+25,Model_Workflow,potentially resectable,Step 1 - Potentially resectable
+25,Model_Workflow_Studies,potentially resectable,the case must be classified as Potentially resectable pending these prerequisite evaluations.
+25,Expert,potentially resectable,
+26,Model_Alone,upfront resectable,"Resectable upfront – The two hepatic lesions are solitary, ≤3.5 cm, confined to segments V and VIII, with no extra‑hepatic disease ... No contraindicating oncologic or functional criteria are present."
+26,Model_Studies,potentially resectable,"Therefore a prerequisite systemic treatment is required before proceeding to operation, placing the case in the “potentially resectable” category."
+26,Model_Workflow,upfront resectable,Resectable upfront – ... making a curative‑intent hepatic resection technically feasible.
+26,Model_Workflow_Studies,potentially resectable,Consequently the case is classified as “Potentially resectable” pending clarification of FLR and any vascular/biliary involvement.
+26,Expert,upfront resectable,
+27,Model_Alone,upfront resectable,Therefore the hepatic disease meets criteria for immediate surgical resection without prerequisite down‑staging therapy.
+27,Model_Studies,upfront resectable,"Consequently, from a technical and oncologic standpoint the disease meets current criteria for immediate curative surgery."
+27,Model_Workflow,potentially resectable,"Because these items are essential to confirm that a safe, curative hepatectomy can be performed, the case must be classified as “Potentially resectable.”"
+27,Model_Workflow_Studies,potentially resectable,"Because these missing items are essential for confirming that an R0 resection can be achieved while preserving adequate liver function, the case must be classified as “Potentially resectable” – i.e. resection is possible after obtaining the missing data"
+27,Expert,upfront resectable,
+28,Model_Alone,potentially resectable,Category: Potentially resectable
+28,Model_Studies,potentially resectable,"Three bilobar lesions 2‑3 cm are technically amenable to R0 resection, but decisive information is lacking to confirm that a sufficient future liver remnant ... Therefore the case is classified as “Potentially resectable” pending these assessments"
+28,Model_Workflow,potentially resectable,"Because these decisive data are absent, resection cannot be performed upfront and must be planned after obtaining them, placing the case in the “Potentially resectable” category."
+28,Model_Workflow_Studies,potentially resectable,Potentially resectable
+28,Expert,potentially resectable,
+29,Model_Alone,upfront resectable,Therefore the case is classified as “Resectable upfront”.
+29,Model_Studies,upfront resectable,Therefore the patient meets all current oncologic and technical definitions of upfront resectability.
+29,Model_Workflow,potentially resectable,"Because these data are required before a safe liver‑first operation can be planned, the case is classified as “Potentially resectable.”"
+29,Model_Workflow_Studies,potentially resectable,Potentially resectable  ... surgery is feasible but dependent on additional steps or evaluations.
+29,Expert,upfront resectable,
+30,Model_Alone,upfront resectable,Resectable upfront ... an R0 resection can be achieved in a single operation; therefore no prerequisite down‑staging or additional information is mandatory for surgical feasibility.
+30,Model_Studies,upfront resectable,Resectable upfront ... surgery can be offered immediately without mandatory pre‑operative down‑staging.
+30,Model_Workflow,potentially resectable,Category: Potentially resectable
+30,Model_Workflow_Studies,potentially resectable,"The appropriate category is “Potentially resectable,” pending completion of the missing assessments."
+30,Expert,potentially resectable,
+31,Model_Alone,upfront resectable,Therefore the metastasis meets standard criteria for curative‑intent hepatic resection without the need for down‑staging therapy.
+31,Model_Studies,upfront resectable,Resectable upfront
+31,Model_Workflow,upfront resectable,Resectable upfront
+31,Model_Workflow_Studies,potentially resectable,"Potentially resectable: the solitary 2.8 cm segment VIII metastasis is technically amenable ... Because adequate FLR cannot be confirmed from the available data, the case must be classified as “Potentially resectable” pending confirmation of sufficient liver remnant"
+31,Expert,upfront resectable,
+32,Model_Alone,potentially resectable,therefore the case is classified as “Potentially resectable”.
+32,Model_Studies,potentially resectable,Potentially resectable
+32,Model_Workflow,potentially resectable,Category: Potentially resectable
+32,Model_Workflow_Studies,potentially resectable,"Because a decisive piece of information (FLR adequacy) and a prerequisite systemic therapy are missing, the case fits the definition of “Potentially resectable” rather than upfront resectable."
+32,Expert,potentially resectable,
+33,Model_Alone,upfront resectable,Therefore the lesions meet criteria for immediate surgical resection without mandatory pre‑operative down‑staging.
+33,Model_Studies,potentially resectable,Therefore a prerequisite action – neoadjuvant chemotherapy (and restaging) – must be completed before surgery can be safely undertaken.
+33,Model_Workflow,potentially resectable,the case is classified as “Potentially resectable.”
+33,Model_Workflow_Studies,potentially resectable,the case is classified as “Potentially resectable” pending completion of the above assessments
+33,Expert,potentially resectable,
+34,Model_Alone,upfront resectable,"Resectable upfront: ... No anatomical or oncologic contraindication is evident, therefore surgery can be performed without mandatory pre‑operative down‑staging."
+34,Model_Studies,upfront resectable,The case fulfills the contemporary definition of “resectable upfront” (complete macroscopic clearance with adequate FLR) and therefore surgery can be offered without mandatory pre‑operative down‑staging.
+34,Model_Workflow,potentially resectable,Category: Potentially resectable
+34,Model_Workflow_Studies,potentially resectable,"Potentially resectable – the three metachronous liver metastases (2‑3 cm) in segments IV, V and VI are anatomically amenable to a parenchymal‑sparing resection, but the Future Liver Remnant (FLR) ratio is not reported... the missing FLR data makes the case “potentially resectable” until this information is obtained"
+34,Expert,potentially resectable,
+35,Model_Alone,upfront resectable,Resectable upfront
+35,Model_Studies,potentially resectable,"Potentially resectable ... Until these data are obtained, the case cannot be classified as “Resectable upfront”."
+35,Model_Workflow,potentially resectable,"Potentially resectable: the solitary 4.2 cm metastasis in segment IVa is anatomically amenable to resection, but decisive information is missing."
+35,Model_Workflow_Studies,potentially resectable,the lesion must be considered potentially resectable pending further imaging and functional assessment.
+35,Expert,upfront resectable,
+36,Model_Alone,upfront resectable,Resectable upfront
+36,Model_Studies,potentially resectable,Potentially resectable
+36,Model_Workflow,potentially resectable,"Because these data are decisive for safe resection, the case is classified as “Potentially resectable” pending their acquisition."
+36,Model_Workflow_Studies,potentially resectable,Potentially resectable  The two liver lesions (3.8 cm in segment VII and a smaller lesion in segment V) are technically amenable to resection (right‑hepatectomy or extended right‑segmentectomy) provided that an adequate future liver remnant (FLR) can be left.
+36,Expert,potentially resectable,
+37,Model_Alone,upfront resectable,curative‑intent liver surgery can be offered immediately without prerequisite systemic therapy or additional imaging.
+37,Model_Studies,upfront resectable,Resectable upfront ... an immediate curative‑intent liver resection is feasible.
+37,Model_Workflow,upfront resectable,Therefore surgery can be planned without mandatory pre‑operative down‑staging.
+37,Model_Workflow_Studies,upfront resectable,"Therefore, based on the available data the patient meets criteria for immediate surgical resection."
+37,Expert,upfront resectable,
+38,Model_Alone,potentially resectable,the case is deemed “Potentially resectable”.
+38,Model_Studies,potentially resectable,"Therefore the disease is classified as potentially resectable, pending completion of the missing assessments."
+38,Model_Workflow,potentially resectable,Potentially resectable
+38,Model_Workflow_Studies,potentially resectable,Step 1 - Potentially resectable
+38,Expert,potentially resectable,
+39,Model_Alone,upfront resectable,Resectable upfront
+39,Model_Studies,upfront resectable,therefore the case meets criteria for “Resectable upfront” as defined in the literature (ability to achieve R0 resection while preserving adequate FLR).
+39,Model_Workflow,potentially resectable,the case must be classified as “Potentially resectable” pending those data.
+39,Model_Workflow_Studies,potentially resectable,"Potentially resectable: the solitary 2.8 cm lesion in segment V is technically amenable ... However, definitive surgical planning requires ... Until these decisive pieces of information are obtained, the case cannot be classified as “Resectable upfront”."
+39,Expert,upfront resectable,
+40,Model_Alone,upfront resectable,Therefore the patient meets criteria for immediate surgical resection without prerequisite systemic therapy or additional diagnostic information.
+40,Model_Studies,potentially resectable,Technical criteria are met ... guidelines advise a “proof of time” strategy – neoadjuvant systemic therapy ... Therefore a prerequisite action (pre‑operative chemotherapy) is required before definitive liver resection.
+40,Model_Workflow,potentially resectable,Thus the case is classified as potentially resectable pending clarification of these points.
+40,Model_Workflow_Studies,upfront resectable,Consequently the case meets technical and oncologic criteria for immediate curative surgery → Resectable upfront.
+40,Expert,potentially resectable,
+68,Model_Alone,potentially resectable,Potentially resectable: the presence of multiple bilobar liver metastases and a cerebellar metastasis precludes immediate curative surgery. Resection can only be contemplated after ... effective systemic therapy ... and definitive local treatment of the brain lesion ...
+68,Model_Studies,potentially resectable,Potentially resectable
+68,Model_Workflow,potentially resectable,Potentially resectable ... resection of the colon primary and liver disease can only be considered after (a) control of the brain lesion and (b) down‑staging of the liver metastases with systemic therapy and completion of the missing anatomic data.
+68,Model_Workflow_Studies,potentially resectable,Potentially resectable
+68,Expert,not resectable,
+72,Model_Alone,potentially resectable,"Potentially resectable – Current imaging shows six bilobar liver metastases and pulmonary micronodules, which preclude immediate curative resection. Conversion to resectability will require (a) systemic chemotherapy/targeted therapy to achieve tumor downsizing and (b) definitive assessment of the pulmonary lesions ... Until these prerequisites are fulfilled, surgery cannot be performed upfront."
+72,Model_Studies,potentially resectable,Step 1 - Potentially resectable
+72,Model_Workflow,potentially resectable,"Potentially resectable: the current disease burden (six bilobar liver metastases and pulmonary micronodules) precludes immediate surgery, but conversion to resectability is possible after systemic therapy and after obtaining missing anatomic data..."
+72,Model_Workflow_Studies,potentially resectable,"Potentially resectable
+Reasoning: The MDT already judged the disease “not resectable upfront” because of six bilobar liver metastases and pulmonary micronodules. However, resectability could be achieved after (a) systemic down‑staging chemotherapy ... and (b) clarification of key missing technical data ..."
+72,Expert,not resectable,
+73,Model_Alone,not resectable,The presence of a confirmed right iliac bone metastasis represents extra‑hepatic disease that is not amenable to curative resection.
+73,Model_Studies,potentially resectable,"Potentially resectable – the hepatic disease (segments IV, V, VIII) could be removed with an adequate future liver remnant, but resection cannot be undertaken now because (a) a confirmed right‑iliac bone metastasis ... and (b) essential technical data ... are not provided"
+73,Model_Workflow,potentially resectable,"Potentially resectable: the presence of a solitary right‑iliac bone metastasis and multiple liver lesions in segments IV, V and VIII precludes immediate curative surgery. Definitive resectability cannot be judged until ..."
+73,Model_Workflow_Studies,potentially resectable,"Curative hepatic resection therefore cannot be performed immediately; it requires (a) down‑staging of the liver lesions with systemic chemotherapy and (b) decisive information that is currently missing – namely the number, size and vascular/biliary involvement of the liver metastases and the future liver remnant (FLR) ratio."
+73,Expert,not resectable,
+75,Model_Alone,potentially resectable,"The patient harbors eight bilobar liver metastases and moderate peritoneal carcinomatosis, which preclude immediate curative surgery. However, conversion to resectability is possible if (a) systemic chemotherapy achieves sufficient tumor shrinkage and (b) restaging clarifies the extent of peritoneal disease and the future liver remnant (FLR)."
+75,Model_Studies,not resectable,"Consequently, curative‑intent hepatic and peritoneal surgery is excluded at this stage."
+75,Model_Workflow,not resectable,"Consequently, curative‑intent surgery is excluded at this stage."
+75,Model_Workflow_Studies,potentially resectable,"Potentially resectable: the current burden (8 bilobar liver metastases + moderate peritoneal carcinomatosis) precludes an R0 resection now, but resectability could be achieved after (a) systemic down‑staging chemotherapy and (b) acquisition of decisive missing information..."
+75,Expert,not resectable,

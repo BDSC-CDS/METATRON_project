@@ -1,0 +1,715 @@
+Case_Number,Case_Content,Response,Reference,Completeness,Step_concordance,Case_tailoring,Missing_data_concordance,Reasoning
+44,"Man, 71 years old, metastatic right colon cancer (KRAS mutated). After 8 cycles FOLFOX: progression of two lesions segment VII and VIII (up to 5.2 cm) at the thoraco-abdominal CT scan. CEA 950 ng/mL.
+MDT Discussion: Progression on chemotherapy, no surgical window at this stage.","Step 1 - Potentially resectable  
+Reasoning: The two liver lesions in segments VII‑VIII are technically amenable to right‑sided hepatic resection, but the patient has demonstrated radiologic progression after 8 cycles of FOLFOX, indicating uncontrolled systemic disease. Current MDT notes state “no surgical window at this stage,” implying that disease control must be achieved before an operation. Therefore a prerequisite action – further systemic or locoregional therapy to obtain tumor down‑staging and confirmation of adequate future liver remnant (FLR) – is required before resection can be contemplated.
+
+Step 2 - Oncological strategy  
+- Switch to second‑line systemic therapy (e.g., FOLFIRI + bevacizumab) or, if contraindicated, a suitable alternative (e.g., irinotecan‑based regimen with anti‑angiogenic agent).  
+- Re‑image the liver (triphasic CT or MRI) after 2–3 months of second‑line therapy to assess tumor response and to obtain volumetric measurement of FLR.  
+- If disease is stable or responding and FLR is <30 % of total liver volume, consider portal vein embolization (PVE) of the right portal branches to hypertrophy the left lobe.  
+- For lesions ≤5 cm and limited to the right posterior sectors, evaluate suitability for hepatic arterial infusion chemotherapy (HAIC) or Y‑90 radio‑embolization as conversion modalities, especially if systemic therapy alone is insufficient.  
+- Once adequate tumor control and sufficient FLR are confirmed, proceed to an anatomic right hepatectomy (or extended right hepatectomy if needed) aiming for R0 margins. Intra‑operative ultrasound should be used to confirm lesion location and exclude additional occult disease.  
+- Post‑operative management: resume systemic therapy (potentially the same second‑line regimen) as adjuvant treatment, monitor CEA trends, and schedule surveillance imaging every 3–4 months for the first two years.  
+
+Step 3 - Missing data  
+- Baseline liver function (bilirubin, AST/ALT, INR, platelet count) and Child‑Pugh score.  
+- Volumetric assessment of future liver remnant (FLR) and total liver volume.  
+- Performance status (ECOG/Karnofsky) and comorbidities influencing surgical risk.  
+- Presence or absence of extra‑hepatic disease (lung, peritoneum, lymph nodes) on recent imaging.  
+- Details of the primary tumor (resected vs. in‑situ, symptoms, need for primary‑site surgery).  
+- Molecular profile beyond KRAS (e.g., BRAF, MSI status) that could affect systemic options.  
+- Trend of CEA over time and any other tumor markers.","Step 1 – Resectability assessment
+The patient shows progression of liver disease under FOLFOX with enlargement of two lesions in segments VII and VIII (up to 5.2 cm) and markedly elevated CEA (950 ng/mL). This radiologic progression under systemic therapy indicates biologically aggressive disease and makes a complete R0 resection with adequate oncologic control not achievable at this stage. According to hepatobiliary oncologic criteria, this situation is considered unresectable in the current setting.
+
+Step 2 – Recommended oncologic sequence
+A. Adaptation of systemic therapy (mandatory)
+• Given progression on FOLFOX, a change of systemic regimen is required according to MDT decision (e.g., switch to FOLFIRI ± bevacizumab).
+• KRAS mutation excludes anti-EGFR therapy.
+• The objective is to regain disease control and potentially create a future surgical window.
+
+B. Close radiologic reassessment
+• Perform high-resolution liver MRI every 2 months to evaluate response to the new regimen.
+• Monitor CEA kinetics as a marker of treatment effect.
+
+C. Criteria for reconsidering surgery
+• Surgical re-evaluation can be considered only if a significant radiologic response occurs, allowing parenchymal-sparing resection with adequate future liver remnant.
+
+D. If disease remains progressive
+• Continue systemic therapy and consider alternative regimens (such as intra-arterial chemotherapy after resection of the primary tumor).
+• Consider local palliative approaches if needed according to MDT.
+
+Step 3 – Critical missing information
+A. Exact segmental distribution and vascular relationships of all liver lesions on MRI.
+B. Status of the primary colon tumor (resected or not).
+C. Grade of differentiation and MSS/ MSI mutation of the primary rectal tumor : influences prognosis and need for intensified adjuvant therapy
+E. Presence or absence of extrahepatic disease on full restaging.
+F. Previous systemic treatments received and tolerance.
+G. Baseline future liver remnant (FLR) estimation in case a surgical window appears.
+H. Evolution of CEA after first-line chemotherapy.
+I. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream",0,0,0,0,"**Completeness**: The two recommendations differ significantly in their completeness. Recommendation 1 proposes a detailed step-by-step management plan including systemic therapy options, imaging for response evaluation, potential use of PVE, HAIC, or Y-90 radioembolization, and surgical specifics if resectability is achieved. It also includes specific postoperative management plans. In contrast, Recommendation 2 provides a more general plan focused on systemic therapy adaptation and reassessment for potential resection, without the specific detail of locoregional therapies or postoperative management.
+
+**Step-by-step concordance**: The recommendations differ significantly in their assessment of resectability and proposed management plans. Recommendation 1 considers the disease potentially resectable with further therapy, whereas Recommendation 2 considers it currently unresectable. The management plans are also different; Recommendation 1 includes potential locoregional therapies and specific surgical and post-surgical steps, while Recommendation 2 focuses on systemic therapy and monitoring without specific surgical steps.
+
+**Case-tailoring concordance**: Recommendation 1 and 2 are not aligned on case-specific tailoring. Recommendation 1 includes detailed surgical considerations, including FLR and tumor location specifics, while Recommendation 2 includes more general considerations and does not delve into locoregional therapies. Additionally, Recommendation 2 mentions case-specific factors like KRAS mutation excluding anti-EGFR therapy.
+
+**Missing data concordance**: The missing data identified in both recommendations differ, with some overlap but several unique elements. Recommendation 1 focuses on liver function tests, volumetric FLR, performance status, and molecular profiling beyond KRAS, while Recommendation 2 includes liquid biopsies, segmental distribution of liver lesions, and MSS/MSI mutation status. The overlap includes primary tumor status and presence of extrahepatic disease, but the overall emphasis and specifics are distinct."
+50,"Man, 68 years old, right T4N2M1 colon cancer with bulky metastases. After 8 cycles of chemotherapy: incomplete reduction, persistence of three lesions >5 cm. CEA 450 ng/mL.
+MDT Discussion: Partial response insufficient, no criteria for immediate resectability.","Step 1 – Resectability assessment  
+Potentially resectable  
+Reasoning: Current imaging shows three hepatic lesions each >5 cm after 8 cycles of systemic therapy, and the MDT has concluded that immediate resection is not feasible. The key barrier is the anticipated insufficient future liver remnant (FLR) and the need for precise volumetric assessment. A specific prerequisite – detailed hepatic volumetry with calculation of FLR, followed by portal vein embolization (PVE) or a staged hepatectomy strategy if the FLR is inadequate – must be completed before any curative liver surgery can be attempted.
+
+Step 2 – Oncological strategy  
+- Verify molecular profile of the primary tumor (RAS, BRAF, MSI) to select the most effective systemic regimen and targeted agents.  
+- Continue systemic chemotherapy with a conversion‑intention regimen (e.g., FOLFOXIRI + bevacizumab or FOLFOX + anti‑EGFR if RAS wild‑type), aiming for further tumor shrinkage; reassess after 2–3 additional cycles.  
+- Perform high‑resolution liver MRI with diffusion‑weighted imaging and obtain a CT‑based liver volumetry study to quantify FLR.  
+- If FLR <30 % of total liver volume (or <40 % in the setting of chemotherapy‑associated liver injury), schedule portal vein embolization of the liver segments to be resected, allowing hypertrophy of the future remnant.  
+- Re‑image 4–6 weeks after PVE; if FLR has hypertrophied to a safe threshold and hepatic lesions have responded to ≤2 cm residual size, plan a combined oncologic resection: right hemicolectomy with extended right hepatectomy (or right trisectionectomy) aiming for R0 margins.  
+- If lesions remain bulky but confined to the liver, consider a two‑stage hepatectomy (resection of peripheral lesions first, then major resection after FLR hypertrophy) or an ALPPS procedure, depending on patient fitness and liver quality.  
+- For any residual lesions >3 cm that are not amenable to resection after conversion therapy, incorporate local ablative modalities (radiofrequency or microwave ablation) intra‑operatively or percutaneously.  
+- Post‑operative adjuvant chemotherapy should be resumed promptly (e.g., 6 months total peri‑operative systemic therapy) and CEA monitored serially; consider enrollment in a clinical trial if available.  
+
+Step 3 – Missing data  
+- RAS, BRAF, and MSI status of the primary tumor.  
+- Exact anatomical distribution of the three liver metastases (segmental location, proximity to major vessels or biliary structures).  
+- Baseline liver function tests and indocyanine green clearance or other quantitative liver function assessment.  
+- Calculated future liver remnant volume from pre‑operative imaging.  
+- Presence or absence of extra‑hepatic disease (e.g., peritoneal, pulmonary).  
+- Patient’s performance status (ECOG/Karnofsky) and comorbidities that may affect tolerance of major liver surgery.  
+- Details of prior chemotherapy toxicity and response (RECIST measurements, percentage change in lesion size).  
+- Planned surgical margins achievable based on tumor‑vessel relationships.","Step 1 – Resectability assessment
+The patient initially had bulky liver metastases. After 8 cycles of chemotherapy, there is only partial reduction with persistence of three large lesions >5 cm and persistently elevated CEA (450 ng/mL). The residual tumor burden and limited response make a complete R0 resection with preservation of an adequate future liver remnant not achievable at this stage. According to hepatobiliary oncologic criteria, this situation is considered unresectable in the current setting.
+
+Step 2 – Recommended oncologic sequence
+A. Adaptation of systemic therapy (mandatory)
+• The insufficient response to current chemotherapy requires modification of the systemic regimen or consider intra arterial chemotherapy after resection of the primary cancer, according to MDT decision.
+• The objective remains to achieve further tumor downsizing that may open a future surgical window.
+
+B. Close radiologic reassessment
+• Perform high-resolution liver MRI every 2 months to evaluate response to the new regimen.
+• Given the high CEA level (450 ng/mL), perform high-resolution 18FDG PET-CT to confirm absence of additional occult lesions.
+• Monitor CEA kinetics as a marker of treatment effect.
+
+C. Criteria for reconsidering surgery
+• Surgical re-evaluation can be considered only if a significant radiologic response occurs, reducing lesion size and allowing parenchymal-sparing resection with adequate future liver remnant.
+
+D. If disease remains insufficiently responsive
+• Continue systemic therapy and consider local palliative approaches if needed according to MDT.
+
+Step 3 – Critical missing information
+A. Exact segmental distribution and vascular relationships of the residual lesions on MRI.
+B. Status of the primary colon tumor (resected or not).
+C. Patient’s performance status and tolerance for further systemic therapy.
+D. Presence or absence of extrahepatic disease on full restaging.
+E. Previous systemic regimens received and tolerance.
+F. Baseline future liver remnant (FLR) estimation in case a surgical window appears.
+G. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream",0,0,0,1,"
+1. Completeness: Recommendation 1 includes a detailed plan involving extensive surgical steps, including portal vein embolization, two-stage hepatectomy, and possible local ablative procedures. It also advises specific postoperative management with adjuvant chemotherapy. Recommendation 2, on the other hand, focuses more on systemic therapy modification and regular radiologic reassessment without detailing surgical options like PVE or hepatectomy strategies. Therefore, the recommendations cover different clinical domains and management components, leading to a score of 0 for completeness.
+
+2. Step-by-step concordance: In Step 1, Recommendation 1 considers the case as potentially resectable with specific conditions, while Recommendation 2 deems the case unresectable at present. In Step 2, the management plans differ substantially; Recommendation 1 proposes a detailed surgical strategy if conditions are met, whereas Recommendation 2 emphasizes altering systemic therapy and reevaluation, with no current surgical intervention planned. Thus, they lack concordance in step-by-step reasoning, scoring 0.
+
+3. Case-tailoring concordance: Both recommendations mention the need for further imaging and understanding of the lesion distribution and systemic therapy history. However, Recommendation 1 provides specific surgical steps and conditions tailored to liver resection strategies, while Recommendation 2 is more focused on systemic therapy and reassessment. The case-specific tailoring elements differ significantly, scoring 0.
+
+4. Missing data concordance: Both recommendations highlight the need for detailed imaging to understand the segmental distribution and the necessity to evaluate for extrahepatic disease. They also agree on the importance of assessing the patient's performance status and evaluating the results of previous systemic therapies. Therefore, they align on the critical missing information, scoring 1."
+53,"Man, 59 years old, left hepatectomy performed two years prior. Liver MRI: three new lesions (segments V, VI, VII) measuring 1.5 to 2.8 cm.On the thoracic CT scan no other metastases. KRAS mutated, CEA 480 ng/mL.
+MDT Discussion: Multiple liver recurrence, feasibility of local treatment to be re-evaluated.","Step 1 – Resectability assessment  
+Potentially resectable  
+- The three lesions are confined to the right hepatic lobe (segments V, VI, VII) with no extra‑hepatic disease on thoracic CT.  
+- Prior left hepatectomy reduces the future liver remnant (FLR); adequacy of FLR cannot be confirmed without volumetric analysis and functional testing (e.g., ICG clearance).  
+- A prerequisite action is required: detailed liver volumetry and liver function assessment (and, if FLR is borderline, portal vein embolisation) before definitive surgery can be planned.  
+
+Step 2 – Oncological strategy  
+- 1️⃣ Baseline work‑up: complete liver biochemistry, coagulation profile, indocyanine‑green clearance, performance status (ECOG), and high‑resolution CT‑based liver volumetry.  
+- 2️⃣ Systemic therapy: initiate neoadjuvant chemotherapy (e.g., 6‑8 cycles of FOLFOX or FOLFIRI combined with bevacizumab, given KRAS‑mutated disease) to assess tumor biology and potentially downsize lesions.  
+- 3️⃣ Restaging after chemotherapy: repeat liver MRI and volumetry.  
+   • If disease remains confined to the three lesions and FLR ≥30‑40 % (or ≥50 % if chemotherapy‑associated liver injury is present), proceed to surgery.  
+   • If FLR is insufficient, schedule portal vein embolisation of the right portal branches to hypertrophy the remaining segment VIII; re‑image after 4‑6 weeks.  
+- 4️⃣ Surgical plan (when feasible):  
+   • Open or laparoscopic repeat hepatectomy with non‑anatomic wedge resections of segments V, VI, VII, preserving segment VIII; intra‑operative ultrasound to confirm margins.  
+   • If marginal liver reserve persists, combine limited resections with local ablative modalities (radiofrequency or microwave ablation) for the smallest lesion(s).  
+- 5️⃣ Post‑operative management: resume adjuvant systemic therapy (e.g., additional 4‑6 cycles of the same regimen) and monitor CEA and imaging every 3‑4 months.  
+
+Step 3 – Missing data  
+- Current liver function tests (bilirubin, AST/ALT, INR, platelets) and indocyanine‑green clearance.  
+- Quantitative liver volumetry (total liver volume, FLR volume).  
+- Details of prior chemotherapy (agents, cycles, timing) and any chemotherapy‑associated liver injury.  
+- Performance status and comorbidities (cardiopulmonary reserve).  
+- Precise relationship of the lesions to major vascular structures (portal/hepatic veins).  
+- Patient’s preferences regarding repeat major liver surgery.","Step 1 – Resectability assessment
+The patient presents with three metachronous liver metastases (segments V, VI, VII; 1.5–2.8 cm) occurring after a prior left hepatectomy, without reported extrahepatic disease. The lesions are located in the only remaining right liver and appear peripherally distributed. Resection may be technically feasible with a strict parenchymal-sparing strategy while preserving adequate inflow/outflow and functional reserve. According to hepatobiliary oncologic criteria in the setting of previous major hepatectomy, this pattern is considered potentially resectable, pending detailed vascular and volumetric assessment.
+
+Step 2 – Recommended oncologic sequence
+A. Mandatory preoperative vascular and volumetric assessment
+• Perform expert liver MRI and contrast-enhanced CT to precisely define vascular and biliary relationships of the three lesions.
+• Calculate the future liver remnant (which is the current liver) and assess portal inflow and hepatic venous outflow.
+• Given the high CEA level (480 ng/mL) and multifocal recurrence, perform high-resolution 18FDG PET-CT
+
+B. Consider short peri-operative systemic therapy
+• Given the high CEA level (480 ng/mL) and multifocal recurrence, a short course (2–3 months) of peri-operative doublet chemotherapy (FOLFOX or FOLFIRI ± bevacizumab) is advisable.
+• KRAS mutation excludes anti-EGFR therapy.
+• This period allows assessment of tumor biology and potential further downsizing.
+
+C. Surgical management (parenchymal-sparing mandatory)
+• If resectability is confirmed, proceed with ultrasound-guided wedge/segmental resections or ablation of segments V, VI, and VII.
+• Avoid any major resection and preserve maximal functional parenchyma.
+• Intra-operative ultrasound is essential.
+• The goal is R0 resection while strictly preserving hepatic inflow/outflow.
+• Intra-operative ultrasound is essential.
+• Ideally, consider minimally invasive approach (laparoscopic or robotic) for liver resection.
+• Preoperative prehabilitation and ERAS (Enhanced Recovery After Surgery) protocols are evidence-based, multidisciplinary strategies designed to optimize patient health before surgery and accelerate recovery afterward.
+
+E. Postoperative therapy and surveillance
+• Pathology report : confirmation of tumor type and origin, immunohistochemistry with tumor markers, histological growth pattern, margin status (R0, R1, R2), tumor grade, differentiation, pathologic response score (TRG), necrosis/fibrosis
+• Complete a total of 6 months of systemic chemotherapy including pre-operative cycles if administered.
+• Close surveillance with CEA and imaging every 3 months.
+
+Step 3 – Critical missing information
+A. Detailed vascular and biliary relationships of the three lesions on MRI.
+B. Exact volumetric assessment of the remaining liver (future liver remnant).
+C. Patient’s current liver function and performance status.
+D. Details of previous chemotherapy received before/after the left hepatectomy.
+E. Grade of differentiation, MSS/ MSI mutation and molecular profile of the primary cancer: influences prognosis and need for intensified adjuvant therapy.
+F. Confirmation of absence of extrahepatic disease on full staging.
+G. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream",1,1,0,0,"Completeness: Both recommendations address the major clinical domains and management components including resectability assessment, preoperative staging, systemic therapy, surgical management, and postoperative therapy and surveillance. They both consider liver volumetry, systemic therapy with chemotherapy regimens, and post-operative monitoring strategies (CEA and imaging). Thus, they are aligned in completeness.
+
+Step Concordance: Both recommendations assess the resectability as 'potentially resectable' and propose a similar oncologic strategy that includes preoperative assessment, systemic chemotherapy, and parenchymal-sparing surgical resection or ablation. They consider similar steps, such as imaging for staging and systemic therapy, despite variations in specifics like chemotherapy duration. The general sequence and decision points align, satisfying step concordance.
+
+Case Tailoring: The recommendations differ in case-specific clinical details, such as the patient's high CEA level in Recommendation 2, which is not mentioned in Recommendation 1, leading to different chemotherapy durations and imaging modalities (e.g., PET-CT). Recommendation 2 also mentions prehabilitation and ERAS protocols, which are not mentioned in Recommendation 1. Hence, there is a lack of concordance in case tailoring.
+
+Missing Data Concordance: The missing data lists do not align perfectly. Recommendation 1 focuses on liver function tests, chemotherapy details, and lesion-vascular relationships, while Recommendation 2 includes additional details like MSS/MSI mutation, molecular profiling, and liquid biopsies for ctDNA/CTCs. These discrepancies indicate missing data concordance is not achieved."
+57,"Man, 71 years old, history of segment VII resection. Liver MRI: local recurrence at resection site (2.5 cm) and additional nodule segment V. No other lesion at the thoraco CT scan CEA 410 ng/mL.
+MDT Discussion: Localized recurrence on resection scar, complex technical feasibility.","Step 1 - Resectability assessment  
+Potentially resectable  
+The patient has two limited liver lesions (2.5 cm recurrence at the previous segment VII scar and a separate nodule in segment V) with no extra‑hepatic disease on thoracic CT. However, definitive judgment on whether a curative resection can be performed now depends on (a) the volume and functional capacity of the future liver remnant after removal of the right‑lobe lesions, and (b) the quality of the hepatic parenchyma after prior segment VII resection. Without quantitative FLR assessment (CT volumetry or MRI‑based volumetry) and liver function testing (ICG clearance, bilirubin, albumin, INR), it is impossible to confirm that an upfront resection is safe. Therefore the case is classified as “Potentially resectable” pending these critical data.
+
+Step 2 - Oncological strategy  
+1. Complete baseline work‑up:  
+   • Obtain liver function tests (bilirubin, INR, albumin, platelets) and indocyanine‑green clearance or 99mTc‑mebrofenin hepatobiliary scintigraphy.  
+   • Perform contrast‑enhanced CT or MRI with volumetric analysis to calculate the future liver remnant (FLR) after planned resection.  
+   • Review molecular profile of the primary colorectal cancer (RAS, BRAF, MSI) and document any prior systemic therapy.  
+
+2. If FLR is ≥30 % in a non‑cirrhotic liver (or ≥40 % if borderline liver function), proceed to a parenchymal‑sparing repeat hepatectomy:  
+   • En‑bloc wedge resection of the segment V nodule with negative margins.  
+   • Anatomical or non‑anatomical excision of the recurrent lesion at the segment VII scar, preserving as much remaining right‑lobe tissue as possible.  
+   • Intra‑operative ultrasound to confirm lesion location and assess for additional occult disease.  
+
+3. If FLR is insufficient:  
+   • Initiate systemic chemotherapy (e.g., FOLFOXIRI ± bevacizumab) for 2–3 months to control disease and potentially downsize lesions.  
+   • Re‑assess imaging after chemotherapy.  
+   • Consider portal vein embolization (PVE) of the right portal branches to hypertrophy the left liver, followed by repeat volumetry.  
+   • Once FLR reaches safe thresholds, perform the same parenchymal‑sparing resection as above.  
+
+4. Post‑operative management:  
+   • Resume adjuvant systemic therapy (same regimen or tailored based on response).  
+   • Monitor CEA serially and schedule imaging (CT or MRI) every 3–4 months for the first 2 years.  
+
+Step 3 - Missing data  
+• Quantitative future liver remnant volume (CT/MRI volumetry).  
+• Objective liver functional reserve (ICG clearance, bilirubin, INR, albumin, platelet count).  
+• Performance status and comorbidities (cardiopulmonary reserve, ASA score).  
+• Prior systemic therapy details and response (if any).  
+• Molecular profile of the primary tumor (KRAS, NRAS, BRAF, MSI status).  
+• Details of the segment VII prior resection (extent of parenchymal loss, margin status).  
+
+These data are essential to confirm that a curative hepatectomy can be performed safely and to tailor the optimal neoadjuvant and adjuvant oncologic plan.","Step 1 – Resectability assessment
+The patient presents with a 2.5 cm local recurrence at the prior segment VII resection site and an additional nodule in segment V, without reported extrahepatic disease. This represents localized intrahepatic recurrence in a previously operated posterior segment. Despite the scar location and technical complexity, both lesions appear amenable to local treatment while preserving adequate inflow/outflow and functional reserve. According to hepatobiliary oncologic criteria in the setting of prior liver resection, this pattern is considered potentially resectable, pending detailed vascular and volumetric assessment.
+
+Step 2 – Recommended oncologic sequence
+A. Mandatory preoperative vascular and anatomical assessment
+• Perform high-resolution liver MRI and contrast-enhanced CT to define the relationship of the segment VII recurrence to hepatic veins, portal pedicles, and scar tissue.
+• Calculate the future liver remnant (current liver) and assess inflow/outflow preservation.
+• Given the high CEA level (410 ng/mL) and multifocal recurrence, perform high-resolution 18FDG PET-CT
+
+B. Consider peri-operative systemic therapy
+• Given the elevated CEA (410 ng/mL) and recurrence, a short course (2–3 months) of peri-operative doublet chemotherapy (FOLFOX or FOLFIRI ± bevacizumab) is advisable to treat micrometastatic disease and assess tumor biology.
+
+B. Combined local treatment strategy
+• Given the scar location and technical difficulty, a combined approach is appropriate:
+– Either Parenchymal-sparing resection or thermo-ablation of the segment V lesion.
+– Resection of the segment VII scar recurrence depending on its relationship to vascular structures and the extent of adhesions.
+• Intra-operative ultrasound is essential to guide both approaches.
+• The goal is R0 resection while strictly preserving hepatic inflow/outflow.
+• Ideally, consider minimally invasive approach (laparoscopic or robotic) for liver resection.
+• Preoperative prehabilitation and ERAS (Enhanced Recovery After Surgery) protocols are evidence-based, multidisciplinary strategies designed to optimize patient health before surgery and accelerate recovery afterward.
+
+D. Postoperative therapy and surveillance
+• Pathology report : confirmation of tumor type and origin, immunohistochemistry with tumor markers, histological growth pattern, margin status (R0, R1, R2), tumor grade, differentiation, pathologic response score (TRG), necrosis/fibrosis
+• Complete approximately 6 months of systemic therapy including pre-operative cycles if administered.
+• Close follow-up with CEA and imaging every 3 months.
+
+Step 3 – Critical missing information
+A. Detailed vascular and biliary relationships of the segment VII recurrence on MRI.
+B. Exact volumetric assessment of the remaining liver (future liver remnant).
+C. Patient’s current liver function and performance status.
+D. Details of previous chemotherapy received before/after the prior liver surgery.
+E. Confirmation of absence of extrahepatic disease on full staging.
+F. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream
+G. Grade of differentiation, MSS/ MSI mutation and molecular status of the primary cancer: influences prognosis and need for intensified adjuvant therapy
+H. Details of timing between previous resection and current recurrence
+I. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream",1,1,0,0,"Completeness: Both recommendations cover major clinical domains such as resectability assessment, preoperative staging, systemic, surgical, and postoperative management. Both discuss the need for functional liver assessment and outline surgical strategies as well as systemic therapy options. Thus, they are complete in covering the same clinical management components.
+
+Step-by-step concordance: Both recommendations involve assessing the resectability as 'potentially resectable' and outline management plans that include liver volumetric assessments and systemic therapy as needed. The sequence proposed (assessment, potential systemic therapy, re-evaluation, and surgery) aligns well between both recommendations.
+
+Case-tailoring concordance: Recommendation 1 lacks a specific mention of the elevated CEA level (410 ng/mL), whereas recommendation 2 considers it a significant factor in guiding therapy. Recommendation 2 also emphasizes a minimally invasive approach and prehabilitation which are not discussed in recommendation 1.
+
+Missing data concordance: Recommendation 2 includes additional missing data elements focused on liquid biopsies which are not present in recommendation 1, showing a difference in the identified critical data. Therefore, there is a lack of concordance in missing data evaluation."
+60,"Woman, 60 years old, history of segmental VI-VII resection. Liver MRI: new lesion segment III (2.4 cm) and micronodule segment II. BRAF wild-type.
+MDT Discussion: Metachronous contralateral recurrence, possible minimally invasive approach depending on remnant volume.","Step 1 - Resectability assessment  
+Resectable upfront. The patient has isolated hepatic disease limited to segment III (2.4 cm) and a small micronodule in segment II, with no reported extra‑hepatic spread. The lesions are amenable to a parenchymal‑sparing left‑lateral resection (segments II‑III) or limited wedge resections. Assuming normal liver function and an adequate future liver remnant (≥30 % of total liver volume in a non‑cirrhotic liver), an R0 resection can be achieved without the need for pre‑operative down‑staging or portal vein embolisation.
+
+Step 2 - Oncological strategy  
+1. Pre‑operative work‑up  
+   • Obtain high‑resolution liver volumetry (CT or MRI) to confirm that the anticipated FLR after left‑lateral resection meets the safety threshold.  
+   • Assess liver function (bilirubin, INR, albumin, ICG‑15 or LiMAx) and performance status (ECOG 0‑1).  
+   • Complete staging with chest CT and/or PET‑CT to exclude occult extra‑hepatic disease.  
+   • Verify KRAS/NRAS wild‑type status (required for anti‑EGFR planning).  
+
+2. Surgical plan (if FLR adequate)  
+   • Laparoscopic or open left‑lateral sectionectomy (segments II‑III) with intra‑operative ultrasound to locate the micronodule and ensure negative margins.  
+   • If the micronodule is sub‑centimetric and deep, consider intra‑operative radiofrequency or microwave ablation instead of formal resection to maximise parenchymal preservation.  
+   • Aim for R0 resection with ≤1 mm margin; use Pringle manoeuvre judiciously to limit ischemia.  
+
+3. Post‑operative oncologic management  
+   • Start adjuvant systemic chemotherapy within 6‑8 weeks post‑op: 6 months of FOLFOX (or CAPOX) ± biologic therapy.  
+   • If KRAS/NRAS wild‑type, add anti‑EGFR (cetuximab or panitumumab) to the regimen; otherwise continue with bevacizumab if indicated.  
+   • Monitor CEA and imaging (CT/MRI) every 3‑4 months for the first 2 years, then semi‑annually.  
+
+4. Contingency (if FLR <30 % or liver function compromised)  
+   • Perform portal vein embolisation of the right portal branches to hypertrophy the left lobe, re‑assess FLR after 4‑6 weeks, then proceed to surgery.  
+   • If hypertrophy insufficient, consider staged hepatectomy (ALPPS) or systemic therapy alone with possible conversion later.
+
+Step 3 - Missing data  
+• Quantitative future liver remnant volume after the proposed left‑lateral resection.  
+• Baseline liver function tests (bilirubin, INR, albumin, ICG‑15/LiMAx).  
+• Performance status and comorbidities (cardiopulmonary reserve).  
+• KRAS/NRAS mutation status (required for anti‑EGFR selection).  
+• Full extra‑hepatic staging results (chest CT/PET, peritoneal assessment).  
+• Serum tumor markers (CEA, CA 19‑9) for baseline surveillance.  
+
+These data are essential to confirm the safety of immediate surgery and to tailor the adjuvant systemic regimen.","Step 1 – Resectability assessment
+The patient presents with two metachronous liver lesions after prior segment VI–VII resection: a 2.4 cm metastasis in segment III and a micronodule in segment II, without reported extrahepatic disease. Both lesions are located in the contralateral left liver and appear peripherally accessible. With preserved inflow/outflow and adequate remnant volume, a strict parenchymal-sparing approach is feasible. According to hepatobiliary oncologic criteria in the setting of prior limited hepatectomy, this pattern is considered resectable.
+
+Step 2 – Recommended oncologic sequence
+A. Preoperative vascular and volumetric assessment
+• Perform high-resolution liver MRI and contrast-enhanced CT to define precise vascular and biliary relationships of segments II and III and a chest CT scan
+• Calculate the future liver remnant (current liver) and confirm preservation of portal inflow and hepatic venous outflow.
+
+B. Consider peri-operative systemic therapy
+• A short course (2–3 months) of peri-operative doublet chemotherapy (FOLFOX or FOLFIRI ± bevacizumab) may be considered to address potential micrometastatic disease.
+
+C. Close radiologic reassessment
+• Perform high-resolution liver MRI every 2-3 months to evaluate response and detect any potential reduction in tumor burden that could open a limited local treatment window.
+
+D. Surgical management (minimally invasive, parenchymal-sparing)
+• If anatomy allows, proceed with a minimally invasive (laparoscopic/robotic) approach.
+• Perform wedge/segmental resection of segment III and wedge resection or thermo-ablation of the segment II micronodule.
+• Intra-operative ultrasound is essential to guide both approaches.
+• The goal is R0 resection while strictly preserving hepatic inflow/outflow.
+• Ideally, consider minimally invasive approach (laparoscopic or robotic) for liver resection.
+• Preoperative prehabilitation and ERAS (Enhanced Recovery After Surgery) protocols are evidence-based, multidisciplinary strategies designed to optimize patient health before surgery and accelerate recovery afterward.
+
+E. Postoperative therapy and surveillance
+• Pathology report : confirmation of tumor type and origin, immunohistochemistry with tumor markers, histological growth pattern, margin status (R0, R1, R2), tumor grade, differentiation, pathologic response score (TRG), necrosis/fibrosis
+• Close follow-up with CEA and imaging every 3 months.
+
+Step 3 – Critical missing information
+A. Confirmation of the malignant nature of the segment II micronodule on MRI.
+B. Detailed vascular and biliary relationships of both lesions.
+C. Exact volumetric assessment of the remaining liver (future liver remnant).
+D. chest CT scan
+E. Details of previous chemotherapy received before/after the prior liver surgery.
+F. Confirmation of absence of extrahepatic disease on full staging.
+G. Grade of differentiation, MSS/ MSI mutation and molecular status of the primary cancer: influences prognosis and need for intensified adjuvant therapy
+H. Details of timing between previous resection and current recurrence
+I. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream",0,0,0,0,"1. **Completeness**: The two recommendations do not cover the same clinical domains and management components in full. Recommendation 1 provides a more detailed postoperative oncologic management plan, including specifics on adjuvant chemotherapy and surveillance strategy. Recommendation 2 mentions post-operative therapy but lacks the specific strategy outlined in Recommendation 1. Additionally, Recommendation 2 introduces ERAS protocols and peri-operative therapy which are not mentioned in Recommendation 1.
+
+2. **Step Concordance**: Step 1 (Resectability assessment) differs slightly in context. Recommendation 1 considers the two lesions as resectable upfront, focusing on liver volume post-resection and assuming no extrahepatic disease. Recommendation 2 describes them as resectable, but introduces considerations of prior segment VI-VII resection, and suggests a potential brief course of peri-operative chemotherapy. In Step 2, Recommendation 1 suggests a specific sequence of surgical intervention and adjuvant therapy, unlike Recommendation 2 which includes peri-operative therapy and emphasizes reassessment.
+
+3. **Case Tailoring**: The recommendations have different levels of customization based on molecular profiles and patient history. Recommendation 1 is tailored to the KRAS/NRAS mutation status and specifies adjuvant therapy accordingly, whereas Recommendation 2 considers MSS/MSI status and previous chemotherapy details.
+
+4. **Missing Data Concordance**: The critical missing information identified in each recommendation does not align significantly. Recommendation 1 highlights necessary data for surgery planning and KRAS/NRAS status, while Recommendation 2 includes additional details like the malignant nature of the micronodule, ctDNA, and CTCs, which are not mentioned in Recommendation 1."
+66,"Woman, 54 years old, mid-rectal T3N1 tumor with five bilobar liver metastases and a right lung metastasis at the thoraco-abdominal CT scan. RAS wild-type, CEA 330 ng/mL.
+MDT Discussion: Limited hepato-pulmonary involvement, evaluation of a possible combined approach.","Step 1 - Resectability assessment  
+Potentially resectable  
+Reasoning: The patient has bilobar hepatic disease (five metastases) and a solitary right‑lung metastasis. Curative intent resection is feasible only if (a) an adequate future liver remnant (≥30 % in a normal liver, ≥40 % if chemotherapy‑associated liver injury is present) can be secured, which may require pre‑operative portal vein embolization or a two‑stage hepatectomy, and (b) the pulmonary lesion is technically resectable with acceptable pulmonary reserve. These prerequisites must be addressed before definitive surgery; therefore the case is not “Resectable upfront” but “Potentially resectable”.
+
+Step 2 - Oncological strategy  
+- Initiate systemic therapy aimed at tumor down‑staging and eradication of micrometastatic disease: preferred regimen FOLFOXIRI + bevacizumab (RAS wild‑type) for 3–4 cycles, followed by restaging CT/MRI.  
+- Re‑evaluate hepatic tumor burden and calculate volumetry. If FLR is insufficient, schedule right portal vein embolization (or left, depending on planned resection) and allow hypertrophy (4–6 weeks).  
+- Assess response of lung metastasis; if still solitary and resectable, plan for thoracic surgery (wedge resection or segmentectomy) either concurrently with liver surgery or in a staged fashion after hepatic recovery.  
+- Rectal primary: because it is a mid‑rectal T3N1 lesion, give long‑course chemoradiotherapy (45‑50 Gy with capecitabine/5‑FU) after systemic chemotherapy, or proceed directly to total mesorectal excision (TME) if down‑staging is adequate and sphincter preservation is possible.  
+- Surgical sequence (example):  
+   1. Completion of systemic chemotherapy and portal vein embolization (if needed).  
+   2. Simultaneous or staged resection:  
+      • Stage 1 – TME (open or laparoscopic) with primary tumor control.  
+      • Stage 2 – Hepatic resection (major or parenchymal‑sparing) based on post‑PVE liver volume; aim for R0 margins, use intra‑operative ultrasound.  
+      • Stage 3 – Right‑lung metastasectomy (video‑assisted thoracoscopic wedge/segmentectomy) performed either during the same operative session (if patient condition permits) or within 4–6 weeks after hepatic surgery.  
+- Post‑operative adjuvant therapy: resume systemic chemotherapy (e.g., 6‑month total duration) and consider maintenance bevacizumab if tolerated.  
+- Ongoing surveillance with CEA and imaging every 3–4 months for the first 2 years.
+
+Step 3 - Missing data  
+- Precise size and segmental location of each liver metastasis.  
+- Volumetric assessment of future liver remnant and baseline liver function (ICG clearance, bilirubin, AST/ALT).  
+- Pulmonary function tests and cardiopulmonary reserve to confirm safety of lung resection.  
+- Performance status (ECOG/Karnofsky) and comorbidities (e.g., diabetes, cardiovascular disease).  
+- Details of rectal tumor distance from anal verge and whether neoadjuvant radiotherapy has already been given or is planned.  
+- Current CEA trend after any prior treatment.  
+- BRAF mutation status (if not already known) to refine systemic therapy choice.","Step 1 – Resectability assessment
+The patient presents with five bilobar liver metastases and a single right lung metastasis in the setting of a mid-rectal T3N1 tumor, without other reported sites. Limited, potentially resectable extrahepatic disease (lung) does not contraindicate a curative-intent strategy if all sites can be completely treated. From a hepatobiliary perspective, the liver disease may be amenable to parenchymal-sparing resections provided adequate future liver remnant is preserved. This situation is considered potentially resectable within a multimodal, sequential curative strategy.
+
+Step 2 – Recommended oncologic sequence
+A. Comprehensive staging and multidisciplinary planning
+• Perform high-resolution liver and pelvic MRI and chest CT to confirm exact number, distribution, and resectability of both liver and lung lesions.
+• Calculate the future liver remnant (FLR).
+• Thoracic surgical assessment of the lung metastasis is required.
+• Pelvic MRI to integrate rectal treatment planning.
+• Given the high CEA level (330 ng/mL) and multifocal metastases, perform high-resolution 18FDG PET-CT
+
+B. Initial systemic therapy (mandatory)
+• Start systemic doublet or triplet chemotherapy (FOLFOX/FOLFIRI ± anti-EGFR given RAS wild-type status).
+• The objective is to assess tumor biology and confirm disease control at hepatic and pulmonary sites.
+
+C. Close radiologic reassessment
+• Perform high-resolution liver and pelvic MRI, and thoraco-abdominal enhanced CT-scan every 2-3 months to evaluate response and detect any potential reduction in tumor burden that could open a limited local treatment window.
+• Monitor CEA kinetics as a marker of treatment effect.
+
+D. Criteria for secondary resectability
+• Surgery can be considered only if chemotherapy induces:
+– Significant reduction in lesion size and number in both liver and lung.
+– Feasibility of staged or parenchymal-sparing resections with adequate future liver remnant.
+
+E. Potential surgical strategies for liver metastases if response is favorable
+• Two-stage hepatectomy or combined parenchymal-sparing resections depending on response pattern.
+• Portal vein embolization / venous deprivation / ALPPS may be required if major hepatectomy becomes necessary.
+• Ideally, consider minimally invasive approach (laparoscopic or robotic) for liver resection.
+• Preoperative prehabilitation and ERAS (Enhanced Recovery After Surgery) protocols are evidence-based, multidisciplinary strategies designed to optimize patient health before surgery and accelerate recovery afterward.
+
+F. Management of the rectal primary
+• Local pelvic treatment (radiotherapy with chemotherapy ± surgery) should be coordinated during the systemic therapy period according to rectal oncologic principles (PRODIGE 23 protocol).
+• After restaging with high-resolution pelvic MRI,
+-	If complete morphological rectal tumor response : follow up of primary tumor
+-	If near complete morphological rectal tumor response : strict follow up of primary tumor
+-	If incomplete morphological rectal tumor response : rectal resection after appropriate recovery: oncologic resection of the upper rectum (low anterior resection with TME principles).
+• Ideally, consider minimally invasive approach (laparoscopic or robotic) for rectal resection.
+• Preoperative prehabilitation and ERAS (Enhanced Recovery After Surgery) protocols are evidence-based, multidisciplinary strategies designed to optimize patient health before surgery and accelerate recovery afterward.
+
+G. Management of the single lung metastase
+• Plan pulmonary metastasectomy or ablative treatment in a staged manner.
+• Preoperative evaluation of respiratory function
+
+I. If insufficient response and if disease remains disseminated
+• Continue second-line systemic therapy or adapt regimen (such as intra-arterial chemotherapy after resection of the primary tumor) according to MDT, with possible consideration of local ablative techniques.
+• Continue systemic third-line chemotherapy and consider palliative or symptom-oriented strategies according to MDT.
+
+J. Postoperative therapy and surveillance
+• Pathology report : confirmation of tumor type and origin, immunohistochemistry with tumor markers, histological growth pattern, margin status (R0, R1, R2), tumor grade, differentiation, pathologic response score (TRG), necrosis/fibrosis
+• Complete approximately 6 months of systemic therapy including pre-operative cycles.
+• Close follow-up with CEA and imaging of both liver and lungs.
+
+Step 3 – Critical missing information
+A. Exact segmental distribution and vascular relationships of the liver metastases.
+B. Resectability assessment of the lung lesion by thoracic surgery.
+C. Future liver remnant (FLR) estimation.
+D. Detailed pelvic MRI to plan rectal treatment.
+E. Patient’s performance status for staged multimodal procedures.
+F. Confirmation of absence of other extrahepatic disease on full staging.
+G. Evolution of CEA and radiologic response over time.
+H. Grade of differentiation, MSS/ MSI mutation and molecular status of the primary cancer: influences prognosis and need for intensified adjuvant therapy
+I. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream",1,1,1,1,"Both recommendations address the major clinical domains relevant to the management of colorectal cancer with liver and lung metastases, including resectability assessment, systemic therapy, surgical management, and postoperative care. They both assess resectability as 'potentially resectable' and propose a similar oncological strategy involving systemic therapy followed by surgical intervention based on resectability criteria. The recommendations align in their detailed management plans, addressing hepatic and lung metastases, and the primary rectal tumor.
+
+In terms of case-tailoring, both recommendations consider the molecular profile, the specific surgical considerations based on tumor locations, and patient-specific factors such as performance status and comorbidities. Each recommendation provides detailed steps for surgical sequencing and oncological management, tailored to the patient's condition.
+
+Regarding missing data, both recommendations identify similar critical missing pieces of information necessary for proper clinical decision-making, such as precise anatomical details of the metastases, patient performance status, and additional molecular data that might influence treatment decisions. Therefore, the two recommendations are aligned across all criteria."
+77,"Woman, 62 years old, right T4aN2M1 colon cancer, seven liver metastases (2-5 cm) at the thoraco-abdominal CT scan. CEA 1600 ng/mL. BRAF V600E mutation, MSS.
+MDT Discussion: Extensive liver disease, poor prognosis linked to molecular profile.","Step 1 – Resectability assessment  
+Potentially resectable  
+- Seven liver metastases ranging 2–5 cm are likely bilobar, making an immediate one‑stage hepatectomy unsafe without further intervention.  
+- Conversion to resectability requires (a) systemic down‑staging chemotherapy (or targeted BRAF‑directed therapy) to achieve tumor shrinkage and (b) assessment of future liver remnant (volumetry) with possible portal vein embolization. Until these prerequisite actions are completed, definitive surgical feasibility cannot be confirmed.
+
+Step 2 – Oncological strategy  
+- Initiate systemic therapy aimed at conversion:  
+  • Preferred regimen: FOLFOXIRI + bevacizumab for maximal response, or a BRAF‑targeted combination (encorafenib + cetuximab ± binimetinib) per BEACON trial data for BRAF‑mutated disease.  
+- Re‑stage after 2–3 months with contrast‑enhanced MRI or CT and repeat CEA measurement.  
+- If imaging shows sufficient tumor shrinkage and ≥30 % future liver remnant (or ≥40 % in a cirrhotic liver):  
+  • Perform liver volumetry; if FLR is inadequate, schedule portal vein embolization (PVE) of the diseased lobe to hypertrophy the future remnant.  
+  • After adequate hypertrophy (typically 2–4 weeks), proceed with curative‑intent liver resection: consider a two‑stage hepatectomy or associating liver partition and portal vein ligation for staged hepatectomy (ALPPS) if required by lesion distribution.  
+- Concurrently, address the primary colon tumor:  
+  • If the primary is symptomatic (obstruction, bleeding) perform resection before or during the liver operation; otherwise, defer primary resection until after hepatic clearance.  
+- Post‑operative adjuvant therapy: resume systemic regimen (or switch to maintenance) for at least 6 months, incorporating BRAF‑targeted agents if not used pre‑operatively.  
+- If disease does not down‑stage to resectable status, continue systemic therapy and consider enrollment in a clinical trial or palliative liver-directed therapies (e.g., radiofrequency ablation, Y‑90 radioembolization).
+
+Step 3 – Missing data  
+- Baseline liver function (bilirubin, AST/ALT, INR, platelets, ICG clearance) and presence of underlying liver disease.  
+- Precise anatomical distribution of the seven metastases (unilobar vs. bilobar, proximity to major vessels/ducts).  
+- Volumetric assessment of future liver remnant.  
+- Performance status (ECOG/Karnofsky) and comorbidities that may limit aggressive surgery.  
+- Presence or absence of extra‑hepatic disease (lung nodules, peritoneal carcinomatosis).  
+- KRAS/NRAS mutation status (relevant for anti‑EGFR use).  
+- Details of symptoms from the primary tumor (obstruction, bleeding).  
+These data are essential to finalize resectability and to tailor the operative plan.","Step 1 – Resectability assessment
+The patient presents with seven liver metastases (2–5 cm) in the setting of a right T4aN2 colon cancer and a BRAF V600E mutation with very high CEA (1600 ng/mL). Despite the disease being confined to the liver, the number of lesions, their size, and especially the unfavorable molecular profile indicate highly aggressive systemic tumor biology. From a hepatobiliary oncologic perspective, this situation is considered potentially resectable after major conversion.
+
+Step 2 – Recommended oncologic sequence
+A. Preoperative staging
+• Perform high-resolution liver MRI and contrast-enhanced CT to confirm the relationship of the 7 lesions to vascular and biliary structures. Precise anatomical mapping is required to plan a safe parenchymal-sparing resection.
+• Given the high CEA level (1600 ng/mL), perform high-resolution 18FDG PET-CT
+
+B. Systemic therapy as primary strategy (mandatory)
+• The elevated CEA level (1600 ng/mL) and multiplicity of lesions suggest biologically active disease.
+• Initiate intensive systemic therapy adapted to the BRAF V600E profile according to MDT decision : give 3-6 months of peri operative doublet chemotherapy (FOLFOX ± bevacizumab) to treat potential micrometastatic disease and assess tumor biology.
+• KRAS status is unknow but BRAF V600E profile is poor prognostic factor
+• The objective is global disease control and assessment of tumor biology.
+
+C. Restaging before surgery
+• Perform high-resolution liver MRI and contrast-enhanced CT after chemotherapy to confirm maintained resectability and evaluate vascular/biliary relationships.
+• Calculate the future liver remnant (FLR).
+
+D. Criteria for reconsidering surgery
+• Surgical re-evaluation could be considered only in the rare situation of major radiologic and biologic response with marked reduction in number and size of lesions. 
+• In this situation, first multiple atypical resections and ablation guided by ultrasound with the aim to obtain R0 margins.
+• Any surgical consideration would remain highly selective.
+
+E. If disease remains extensive
+• Continue systemic therapy and consider palliative or symptom-oriented management according to MDT.
+
+Step 3 – Critical missing information
+A. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy. 
+B. Precise segmental distribution of the 7 lesions and detailed vascular/biliary relationship of the liver lesion – essential to confirm that a non anatomic resection will achieve clear margins without compromising hepatic inflow/outflow.  
+C. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA
+D. Patient’s nutritional status and postoperative recovery capacity, relevant for timing of chemotherapy.
+E. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream",0,0,0,0,"1. Completeness: Recommendation 1 includes detailed steps for resectability assessment, preoperative staging, systemic therapy strategies (including specific regimens based on BRAF mutation), surgical management options, postoperative therapy, and different pathways if disease does not downstage to resectability. Recommendation 2 also covers similar domains but lacks specific detail in systemic therapy and surgical management. It suggests a broader systemic therapy approach without specific regimens and indicates that surgery is highly selective rather than detailing surgical strategies. Therefore, the recommendations are not complete in the same ways.
+
+2. Step-by-step concordance: In Step 1, both recommendations agree on the disease being potentially resectable but differ in the reasoning and approach to resectability (Recommendation 1 focuses on conversion chemotherapy and volumetric assessments, while Recommendation 2 emphasizes systemic therapy based on biological aggressiveness without detailed volumetric planning). In Step 2, the systemic therapy plans are different, and surgical strategies diverge, with Recommendation 1 suggesting specific surgical interventions and Recommendation 2 maintaining a more conservative approach with selective surgery.
+
+3. Case-tailoring: Recommendation 1 includes specific details related to the BRAF mutation therapeutic strategy, liver volumetry, and specific histopathological and clinical data (e.g., KRAS/NRAS status, primary tumor symptoms), whereas Recommendation 2 focuses on the tumor's biological aggressiveness and suggests a liquid biopsy for circulating tumor DNA. These distinct elements indicate different case-tailoring.
+
+4. Missing data concordance: Both recommendations identify similar critical missing data points, such as precise anatomical mapping of liver metastases and radiologic response post-therapy, but differ in other aspects. Recommendation 1 focuses on liver function and presence of extrahepatic disease, whereas Recommendation 2 emphasizes tumor differentiation, MSS/MSI status, and circulating tumor DNA. These differences indicate a lack of concordance in missing data identification."
+82,"Man, 64 years old, left colon adenocarcinoma with four bilobar liver metastases. CEA 900 ng/mL, RAS wild-type. Liver MRI: segment VII lesion invading the IVC over 1 cm.
+MDT Discussion: Caval invasion requiring multidisciplinary surgical evaluation.","Step 1 - Potentially resectable  
+Reasoning: The patient has four bilobar liver metastases, which can be addressed with modern two‑stage or ALPPS strategies, but one lesion in segment VII invades the inferior vena cava over a 1 cm segment. Resection would require IVC segmental resection and reconstruction, a high‑complexity procedure that can be performed only after confirming:  
+- the exact circumferential extent of IVC involvement and the presence of adequate collateral venous drainage,  
+- that a sufficient future liver remnant (FLR) can be achieved (volumetric assessment, possible portal vein embolization), and  
+- that the patient’s performance status and cardiopulmonary reserve permit a combined hepatic‑vascular operation.  
+These prerequisites constitute a specific missing piece of information; therefore the case is classified as “Potentially resectable.”
+
+Step 2 - Oncological strategy  
+- Initiate systemic chemotherapy with a doublet or triplet regimen (e.g., FOLFOXIRI) combined with anti‑EGFR monoclonal antibody (cetuximab) given RAS wild‑type status; aim for 2–3 months of treatment to assess tumor biology and potential down‑staging.  
+- Re‑image the liver (contrast‑enhanced MRI or CT) after chemotherapy to evaluate response of all lesions, especially the IVC‑invading metastasis, and to perform volumetric analysis of the FLR.  
+- If the IVC involvement remains limited (<50 % circumferential, ≤1 cm length) and adequate collateral flow is demonstrated, plan a multidisciplinary operative approach:  
+   • Stage 1: Right hepatectomy (including segment VII) with en‑bloc IVC segmental resection and interposition graft (e.g., PTFE or autologous vein) performed by hepatobiliary and cardiothoracic surgeons; simultaneously resect the primary left‑sided colon tumor or schedule it as a separate procedure depending on bowel preparation and patient condition.  
+   • If FLR is <30 % in a non‑cirrhotic liver, perform portal vein embolization (PVE) before or after the first hepatic resection to induce hypertrophy of the left lateral segments.  
+   • Stage 2 (4–6 weeks later, after FLR hypertrophy and recovery): Completion left‑lateral segmentectomy or ablation of remaining lesions, aiming for R0 margins.  
+- Throughout the treatment course, monitor CEA trends and assess for extra‑hepatic disease (e.g., lung, peritoneum) with CT chest/abdomen. If new extra‑hepatic sites appear or the IVC invasion proves unresectable, shift to systemic therapy alone or consider palliative locoregional options (radiofrequency ablation, stereotactic body radiotherapy).  
+
+Step 3 - Missing data  
+- Patient’s performance status (ECOG/Karnofsky) and cardiopulmonary reserve (ejection fraction, pulmonary function).  
+- Detailed vascular imaging describing the circumferential extent of IVC invasion, presence of collateral venous pathways, and relationship to hepatic veins.  
+- Quantitative future liver remnant volume and baseline liver function tests (bilirubin, INR, platelets, albumin).  
+- Status of the primary left‑colon tumor (resected, symptomatic, or pending resection).  
+- Presence or absence of extra‑hepatic metastases (lung, peritoneum, lymph nodes).  
+- Results of portal venous assessment (patency, tumor involvement).  
+These data are essential to confirm whether an R0 hepatic‑IVC resection with adequate FLR is feasible and safe.","Step 1 – Resectability assessment
+The patient presents with four bilobar liver metastases, including a segment VII lesion invading the IVC over ~1 cm, without reported extrahepatic disease. While the number of lesions is limited, true caval invasion makes a standard parenchymal-sparing R0 resection unlikely without complex vascular resection/reconstruction and carries high operative risk. From a hepatobiliary oncologic perspective, this situation is considered potentially resectable only in a highly selected setting, after tumor downsizing and multidisciplinary vascular assessment.
+
+Step 2 – Recommended oncologic sequence
+A. Preoperative staging
+• Obtain high resolution liver MRI to define exact segmental distribution of all lesions with detailed vascular and biliary relationships and a chest CT scan.
+• Given the high CEA level (900 ng/mL), perform high-resolution 18FDG PET-CT
+
+B. Intensive conversion systemic therapy (mandatory)
+• Initiate FOLFOXIRI combined with anti-EGFR therapy given RAS wild-type status as discussed in MDT.
+• BRAF wild-type does not modify the surgical indication.
+• The objective is significant tumor downsizing, reduction in number/volume of lesions, and clearance from the IVC to enable potential surgical planning.
+
+C. Close radiologic monitoring
+• Perform high-resolution liver MRI every 2-3 months to assess response, particularly:
+– Relationship of lesions to the IVC.
+– Global reduction of liver tumor burden.
+• Monitor CEA kinetics as an indicator of treatment response.
+
+D. Criteria for secondary resectability
+• Surgery can be considered only if chemotherapy induces:
+– Marked reduction in lesion size and number.
+– Separation from the IVC.
+– Feasibility of R0 resection with or without partial IVC resection with acceptable future liver remnant, potentially requiring staged hepatectomy with or without portal vein embolization.
+• Multidisciplinary evaluation with vascular surgery is required to assess feasibility of partial IVC resection/reconstruction if needed.
+
+C. Surgical management if feasibility is confirmed
+• One or two-stage hepatectomy or extensive parenchymal-sparing resections depending on response pattern.
+• If regression of caval invasion occurs or reconstruction is deemed feasible, plan an ultrasound-guided parenchymal-sparing resection of all lesions.
+• Anticipate possible IVC tangential resection or graft reconstruction.
+• Intra-operative ultrasound is essential.
+• Ideally, consider minimally invasive approach (laparoscopic or robotic) for liver resection.
+• Preoperative prehabilitation and ERAS (Enhanced Recovery After Surgery) protocols are evidence-based, multidisciplinary strategies designed to optimize patient health before surgery and accelerate recovery afterward.
+
+F. Surgical management of the primary tumor
+• After recovery, perform left hemicolectomy (standard oncologic resection of the left colon cancer) with lymphadectomy (at least 12 harvested lymph nodes) with primary anastomosis 
+• Ideally, consider minimally invasive approach (laparoscopic or robotic) for both liver resection and colectomy.
+• Preoperative prehabilitation and ERAS (Enhanced Recovery After Surgery) protocols are evidence-based, multidisciplinary strategies designed to optimize patient health before surgery and accelerate recovery afterward.
+
+G. If insufficient response
+• Continue systemic therapy or adapt regimen (such as intra-arterial chemotherapy after resection of the primary tumor) according to MDT, with possible consideration of local ablative techniques.
+
+Step 3 – Critical missing information
+A. Exact segmental distribution of all lesions with detailed vascular and biliary relationships on liver MRI : precise extent and depth of IVC invasion
+B. Baseline future liver remnant (FLR) estimation in case of two-stage strategy with major hepatectomy.
+C. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA
+D. Patient’s performance status and tolerance for intensive chemotherapy and for potential major liver surgery including complex vascular surgery.
+E. Presence or absence of any extrahepatic disease on full staging.
+F. Potential extension of primary tumor to adjacent organ (abdominal wall, ureter, small bowel)
+G. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy
+H. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream
+I. a chest CT scan",1,1,0,1,"Both recommendations cover the primary domains of treatment, including resectability assessment, preoperative staging, and systemic therapy, with similar components to surgical and postoperative plans, thus satisfying completeness. They align in recognizing the situation as potentially resectable and propose similar steps for systemic therapy and surgical strategy, albeit with minor differences in execution details that do not significantly alter overall management, fulfilling step concordance. However, Recommendation 1 provides a more detailed rationale regarding specific surgical strategies (e.g., right hepatectomy with IVC resection), while Recommendation 2 emphasizes a more general approach and includes unique concepts such as prehabilitation and ERAS protocols, affecting case-tailoring concordance. Both recommendations identify similar missing data related to patient status, detailed imaging, and chemotherapy response, ensuring missing data concordance. Thus, the recommendations are aligned on three out of four criteria."
+83,"Woman, 58 years old, right T4N2M1 colon cancer, five liver metastases including one 8.5 cm in segment IVb at the thoraco-abdominal CT scan. CEA 870 ng/mL, KRAS mutated.
+MDT Discussion: Large central metastasis with bilateral portal contact, complex technical discussion.","Step 1 – Resectability assessment  
+Potentially resectable  
+- The patient has five hepatic metastases, including an 8.5 cm centrally located lesion in segment IVb that contacts the portal structures bilaterally.  
+- Such a lesion threatens inflow to both hepatic lobes and raises concern for an insufficient future liver remnant (FLR) after an anatomic resection.  
+- Because the FLR cannot be confirmed as adequate and the central tumor may require extensive parenchymal sacrifice, a prerequisite down‑staging strategy (systemic chemotherapy ± portal vein embolization) is needed before a definitive surgical plan can be made.  
+
+Step 2 – Oncological strategy  
+- Initiate systemic chemotherapy with a triplet regimen (FOLFOXIRI) combined with bevacizumab, given KRAS‑mutated disease and high tumor burden.  
+- Continue chemotherapy for 3–4 months, reassessing tumor response with contrast‑enhanced CT or MRI and measuring FLR volumetry.  
+- If imaging shows ≥30 % reduction in size of the central lesion and the remaining lesions, proceed to evaluate FLR:  
+   • If FLR < 30 % of total liver volume, perform right (or left) portal vein embolization to hypertrophy the future remnant.  
+   • Re‑image 2–3 weeks after embolization to confirm adequate hypertrophy.  
+- Surgical plan after down‑staging:  
+   • Consider a two‑stage hepatectomy (first stage: clearance of lesions in the future remnant, portal vein embolization; second stage: resection of the right liver including segment IVb).  
+   • Alternatively, if FLR is sufficient after embolization, an extended right hepatectomy with en‑bloc removal of the central lesion may be performed in a single operation.  
+   • Simultaneous or staged resection of the primary right‑sided colon cancer (right hemicolectomy) after systemic therapy, depending on symptomatology and patient performance status.  
+- Post‑operative adjuvant chemotherapy to complete a total of 6–8 months of systemic therapy.  
+
+Step 3 – Missing data  
+- Baseline liver function (bilirubin, INR, albumin, platelet count) and indocyanine‑green clearance or MELD score.  
+- Precise volumetric assessment of the future liver remnant.  
+- Extent of portal vein involvement (percentage of circumference, length of contact).  
+- Presence or absence of extra‑hepatic disease (lung nodules, peritoneal implants).  
+- Patient’s performance status (ECOG/ASA) and comorbidities that may affect tolerance of intensive chemotherapy or major liver surgery.","Step 1 – Resectability assessment
+The patient presents with five liver metastases, including a large 8.5 cm lesion in segment IVb with bilateral portal contact, in the context of a right T4N2 colon cancer and elevated CEA (870 ng/mL). The central location, size, and bilateral portal involvement make a safe R0 resection with preservation of an adequate future liver remnant technically uncertain at this stage. From a hepatobiliary oncologic perspective, this situation is considered potentially resectable only after tumor downsizing.
+
+Step 2 – Recommended oncologic sequence
+A. Preoperative staging
+• Obtain high resolution liver MRI to define exact segmental distribution of all lesions with detailed vascular and biliary relationships. 
+• Given the high CEA level (870 ng/mL), perform high-resolution 18FDG PET-CT
+
+B. Mandatory induction systemic therapy
+• Initiate 2–3 months of induction chemotherapy (FOLFOX or FOLFIRI ± bevacizumab; KRAS mutation excludes anti-EGFR).
+• The objective is tumor downsizing and assessment of tumor biology, particularly reduction of portal contact.
+
+C. Expert vascular restaging
+• Repeat high-resolution liver MRI and contrast-enhanced CT after chemotherapy to reassess the relationship of the segment IVb lesion to both portal branches.
+• Calculate the future liver remnant (FLR).
+
+D. Surgical strategy if feasibility is confirmed
+• If significant regression occurs, plan a complex parenchymal-sparing resection guided by intra-operative ultrasound.
+• Anticipate possible portal vein control or reconstruction depending on residual contact.
+• Address additional lesions with wedge/segmental resections.
+
+E. Surgical management of the primary tumor
+• After recovery, perform right hemicolectomy (standard oncologic resection of the right colon cancer) with D2 lymphadectomy (at least 12 harvested lymph nodes) with primary anastomosis 
+• Ideally, consider minimally invasive approach (laparoscopic or robotic) for both liver resection and colectomy.
+• Preoperative prehabilitation and ERAS (Enhanced Recovery After Surgery) protocols are evidence-based, multidisciplinary strategies designed to optimize patient health before surgery and accelerate recovery afterward.
+
+F. If insufficient response
+• Continue systemic therapy or adapt regimen (such as intra-arterial chemotherapy after resection of the primary tumor) according to MDT, with possible consideration of local ablative techniques.
+
+G. Postoperative therapy and surveillance
+• Pathology report : confirmation of tumor type and origin, immunohistochemistry with tumor markers, histological growth pattern, margin status (R0, R1, R2), tumor grade, differentiation, pathologic response score (TRG), necrosis/fibrosis
+• Complete approximately 6 months of systemic therapy including pre-operative cycles.
+• Close follow-up with CEA and imaging every 3 months.
+
+Step 3 – Critical missing information
+A. Precise relationship of the segment IVb lesion to right and left portal branches on MRI.
+B. Exact segmental distribution of the other four lesions.
+C. Baseline future liver remnant (FLR) estimation in case of two-stage strategy with major hepatectomy.
+D. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA
+E. Patient’s performance status and tolerance for intensive chemotherapy and for potential major liver surgery including complex vascular surgery.
+F. Confirmation of absence of extrahepatic disease on full staging.
+G. Potential extension of primary tumor to adjacent organ (abdominal wall, ureter, small bowel)
+H. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy
+I. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream",0,0,0,0,"Upon evaluation of the two recommendations, there are notable differences in the aspects they cover:
+
+1. **Completeness**: The recommendations diverge significantly. Recommendation 1 focuses on a down-staging strategy involving a triplet chemotherapy regimen and the potential for portal vein embolization and staged hepatectomy based on careful evaluation of FLR. Recommendation 2 suggests an alternative chemotherapy plan (FOLFOX or FOLFIRI), prioritizes advanced imaging modalities, and emphasizes prehabilitation and ERP. Additionally, they differ in the surgical approach for both the liver and primary tumor and include distinct follow-up plans and postoperative considerations.
+
+2. **Step Concordance**: Both recommendations acknowledge the patient’s condition as potentially resectable after downsizing. However, they differ in chemotherapy regimens (triplet vs. doublet), imaging and pre-staging steps, and surgical strategies. Recommendation 2 includes PET-CT and more detailed preoperative imaging, whereas Recommendation 1 involves volumetry and potential portal vein embolization.
+
+3. **Case-Tailoring Concordance**: Recommendation 2 provides more detailed case-tailoring, including specific mentions of CEA levels, primary tumor characteristics, and the application of prehabilitation and ERAS protocols. Recommendation 1 is more generalized and lacks these specific patient-related factors.
+
+4. **Missing Data Concordance**: Both recommendations identify the need for additional data, but they highlight different aspects. Recommendation 1 focuses on liver function tests and specific extent and impact of portal vein involvement. Recommendation 2 extends to the primary tumor's MSS/MSI status, ctDNA, and the use of liquid biopsies, indicating a broader range of missing information that affects prognosis and therapy decisions.
+
+Overall, the two recommendations provide significantly different strategies and considerations, resulting in a lack of concordance across all criteria."
+89,"Woman, 72 years old, right T3N0M1 colon tumor, single 5.6 cm metastasis in segment VIII, in close contact with IVC at the thoraco-abdominal CT scan. CEA 540 ng/mL, RAS wild-type.
+MDT Discussion: Large central metastasis, major technical question regarding surgical approach.","Step 1 - Resectability assessment  
+Potentially resectable  
+- Single liver lesion, no documented extra‑hepatic disease, which is a prerequisite for any curative intent.  
+- The metastasis is 5.6 cm in segment VIII and is described as “in close contact with the IVC.” The exact nature of this contact (abutting vs true invasion) is unknown and critically determines whether a safe oncologic resection with negative margins is feasible.  
+- No data on future liver remnant volume, liver functional reserve (ICG clearance, bilirubin, Child‑Pugh), or patient performance status are provided; these are decisive for planning a major hepatic resection or a vascular reconstruction.  
+- Because these specific pieces of information are missing, the case cannot be classified as “Resectable upfront.” A prerequisite step—detailed vascular imaging and functional liver assessment—is required before a definitive surgical plan can be made.  
+
+Step 2 - Oncological strategy  
+- Initiate systemic chemotherapy (e.g., FOLFOX ± bevacizumab) as a neoadjuvant “test of biology” and to attempt downsizing of the liver lesion.  
+- Obtain high‑resolution liver MRI with contrast‑enhanced MR angiography (or CT angiography) to delineate the relationship of the tumor to the IVC and to perform volumetric analysis of the future liver remnant.  
+- Re‑stage after 2–3 months of chemotherapy:  
+   • If imaging shows ≥10–15 % reduction in tumor size and a clear plane from the IVC, proceed to curative liver resection. Preferred operation would be a segmentectomy of VIII or an extended right hepatectomy with vascular control, depending on the residual liver volume.  
+   • If the lesion remains inseparable from the IVC but liver function and remnant volume are adequate, consider en bloc IVC resection with primary repair or graft reconstruction, performed by a hepatobiliary‑vascular team.  
+   • If the future liver remnant is insufficient, plan portal vein embolization (PVE) before definitive resection.  
+- Timing of primary colon tumor resection:  
+   • If the liver operation is expected to be limited (segmentectomy) and the patient’s performance status is good, a simultaneous right hemicolectomy can be performed.  
+   • If a major hepatectomy or IVC reconstruction is required, stage the procedures: perform colon resection first (or after liver surgery) based on symptomatology and patient tolerance.  
+- Post‑operative adjuvant chemotherapy should be continued to complete a total of 6 months of systemic therapy, adapting regimen based on response and tolerability.  
+
+Step 3 - Missing data  
+- Precise imaging of tumor‑IVC interface (MRI/CT angiography) to determine invasion versus mere abutment.  
+- Quantitative future liver remnant volume and liver functional reserve (ICG clearance, Child‑Pugh, bilirubin, albumin).  
+- Patient’s performance status (ECOG/Karnofsky) and comorbidities (cardiopulmonary reserve).  
+- Confirmation of absence of extra‑hepatic disease (chest CT, PET‑CT).  
+- BRAF mutation status (if not already known) for prognostic and therapeutic planning.  
+- Patient’s preferences regarding aggressive surgery versus systemic therapy alone.","Step 1 – Resectability assessment
+The patient presents with a single 5.6 cm liver metastasis in segment VIII in close contact with the IVC, without reported extrahepatic disease. Although solitary, the central location and caval proximity make a standard parenchymal-sparing R0 resection technically demanding and potentially unsafe without prior tumor downsizing or vascular planning. From a hepatobiliary oncologic perspective, this situation is considered potentially resectable, but only after careful vascular assessment and likely induction therapy.
+
+Step 2 – Recommended oncologic sequence
+A. Preoperative staging
+• Obtain high resolution liver MRI to define exact segmental distribution of the lesion with detailed vascular and biliary relationships. 
+• Given the high CEA level (540 ng/mL), perform high-resolution 18FDG PET-CT
+
+B. Intensive conversion systemic therapy (mandatory)
+• Initiate 2–3 months of induction chemotherapy (FOLFOX/FOLFIRI ± anti-EGFR given RAS wild-type status).
+• The objective is significant tumor downsizing, reduction in number/volume of lesions, and clearance from the IVC to enable potential surgical planning.
+
+C. Close radiologic monitoring
+• Perform high-resolution liver MRI every 2-3 months to assess response, particularly:
+– Relationship of lesions to the IVC.
+– Global reduction of liver tumor burden.
+• Calculate the future liver remnant (FLR).
+• Monitor CEA kinetics as an indicator of treatment response.
+
+D. Surgical management if feasibility is confirmed
+• Repeat high-resolution liver MRI and contrast-enhanced CT after chemotherapy to reassess the relationship of the lesion to the IVC and hepatic veins.
+• If regression occurs or vascular control is deemed feasible, plan an ultrasound-guided parenchymal-sparing resection of segment VIII, aiming for ≥1 mm R0 margin.
+• Anticipate possible IVC tangential resection or reconstruction with multidisciplinary discussion with vascular surgery to assess feasibility of tangential IVC resection if needed.
+• Use intra operative ultrasound to verify lesion location and margins. 
+
+E. Management of primary tumor
+• After recovery, perform right hemicolectomy (standard oncologic resection of the right colon cancer) with D2 lymphadectomy (at least 12 harvested lymph nodes) with primary anastomosis.
+• Ideally, consider minimally invasive approach (laparoscopic or robotic) for both liver resection and colectomy.
+• Preoperative prehabilitation and ERAS (Enhanced Recovery After Surgery) protocols are evidence-based, multidisciplinary strategies designed to optimize patient health before surgery and accelerate recovery afterward.
+
+F. If insufficient response
+• Continue systemic therapy or adapt regimen (such as intra-arterial chemotherapy after resection of the primary tumor) according to MDT, with possible consideration of local ablative techniques.
+
+G. Postoperative therapy and surveillance
+• Pathology report : confirmation of tumor type and origin, immunohistochemistry with tumor markers, histological growth pattern, margin status (R0, R1, R2), tumor grade, differentiation, pathologic response score (TRG), necrosis/fibrosis
+• Complete approximately 6 months of systemic therapy including pre-operative cycles.
+• Close follow-up with CEA and imaging every 3 months.
+
+Step 3 – Critical missing information
+A. Exact segmental distribution of the segment VIII lesion with detailed vascular and biliary relationships on liver MRI : precise extent and depth of IVC contact/invasion and relationship of the lesion to the hepatic
+B. Baseline future liver remnant (FLR) estimation in case of two-stage strategy with major hepatectomy.
+C. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA
+D. Patient’s performance status and tolerance for intensive chemotherapy and for potential major liver surgery.
+E. Presence or absence of any extrahepatic disease on full staging.
+F. Potential extension of primary tumor to adjacent organ (abdominal wall, ureter, small bowel)
+G. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy
+H. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream",1,1,0,0,"
+Both recommendations address key clinical domains such as resectability assessment, preoperative staging, systemic therapy, surgical management, and postoperative therapy and surveillance, hence achieving completeness alignment. Each recommends systemic therapy and imaging assessments prior to potential surgical intervention, emphasizing the need for a detailed vascular assessment to determine resectability. They suggest a similar oncologic strategy involving neoadjuvant chemotherapy, imaging, and consideration of liver resection while noting the importance of assessing resectability based on tumor downsizing and relation to the IVC, meaning they align on step concordance.
+
+However, they differ in case-tailoring aspects, as Recommendation 2 mentions additional factors like RAS status, CEA kinetics, prehabilitation, and enhanced recovery protocols, whereas Recommendation 1 focuses more on the interface with IVC, liver remnant, and patient's preferences. As for missing data, Recommendation 2 emphasizes more on MSS/MSI status, ctDNA, CTCs, and lesion-specific characteristics, which Recommendation 1 does not explicitly list, indicating a lack of alignment in this criterion."

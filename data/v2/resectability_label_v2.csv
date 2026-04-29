@@ -1,0 +1,501 @@
+Case_Number,Approach,Resectability_Label
+1,Model_Alone,resectable
+1,Model_Studies,resectable
+1,Model_Workflow,resectable
+1,Model_Workflow_Studies,resectable
+1,Expert,resectable
+2,Model_Alone,potentially resectable
+2,Model_Studies,resectable
+2,Model_Workflow,potentially resectable
+2,Model_Workflow_Studies,resectable
+2,Expert,resectable
+3,Model_Alone,potentially resectable
+3,Model_Studies,resectable
+3,Model_Workflow,potentially resectable
+3,Model_Workflow_Studies,potentially resectable
+3,Expert,resectable
+4,Model_Alone,resectable
+4,Model_Studies,potentially resectable
+4,Model_Workflow,potentially resectable
+4,Model_Workflow_Studies,resectable
+4,Expert,resectable
+5,Model_Alone,potentially resectable
+5,Model_Studies,resectable
+5,Model_Workflow,potentially resectable
+5,Model_Workflow_Studies,resectable
+5,Expert,resectable
+6,Model_Alone,potentially resectable
+6,Model_Studies,potentially resectable
+6,Model_Workflow,potentially resectable
+6,Model_Workflow_Studies,potentially resectable
+6,Expert,resectable
+7,Model_Alone,potentially resectable
+7,Model_Studies,resectable
+7,Model_Workflow,potentially resectable
+7,Model_Workflow_Studies,resectable
+7,Expert,resectable
+8,Model_Alone,resectable
+8,Model_Studies,resectable
+8,Model_Workflow,resectable
+8,Model_Workflow_Studies,resectable
+8,Expert,resectable
+9,Model_Alone,resectable
+9,Model_Studies,resectable
+9,Model_Workflow,potentially resectable
+9,Model_Workflow_Studies,potentially resectable
+9,Expert,resectable
+10,Model_Alone,potentially resectable
+10,Model_Studies,resectable
+10,Model_Workflow,potentially resectable
+10,Model_Workflow_Studies,potentially resectable
+10,Expert,resectable
+11,Model_Alone,potentially resectable
+11,Model_Studies,resectable
+11,Model_Workflow,potentially resectable
+11,Model_Workflow_Studies,potentially resectable
+11,Expert,resectable
+12,Model_Alone,resectable
+12,Model_Studies,resectable
+12,Model_Workflow,potentially resectable
+12,Model_Workflow_Studies,potentially resectable
+12,Expert,resectable
+13,Model_Alone,potentially resectable
+13,Model_Studies,potentially resectable
+13,Model_Workflow,potentially resectable
+13,Model_Workflow_Studies,potentially resectable
+13,Expert,resectable
+14,Model_Alone,resectable
+14,Model_Studies,resectable
+14,Model_Workflow,potentially resectable
+14,Model_Workflow_Studies,potentially resectable
+14,Expert,resectable
+15,Model_Alone,potentially resectable
+15,Model_Studies,resectable
+15,Model_Workflow,potentially resectable
+15,Model_Workflow_Studies,potentially resectable
+15,Expert,resectable
+16,Model_Alone,potentially resectable
+16,Model_Studies,potentially resectable
+16,Model_Workflow,potentially resectable
+16,Model_Workflow_Studies,potentially resectable
+16,Expert,not resectable
+17,Model_Alone,potentially resectable
+17,Model_Studies,potentially resectable
+17,Model_Workflow,potentially resectable
+17,Model_Workflow_Studies,potentially resectable
+17,Expert,potentially resectable
+18,Model_Alone,potentially resectable
+18,Model_Studies,potentially resectable
+18,Model_Workflow,potentially resectable
+18,Model_Workflow_Studies,potentially resectable
+18,Expert,potentially resectable
+19,Model_Alone,potentially resectable
+19,Model_Studies,potentially resectable
+19,Model_Workflow,potentially resectable
+19,Model_Workflow_Studies,potentially resectable
+19,Expert,not resectable
+20,Model_Alone,potentially resectable
+20,Model_Studies,potentially resectable
+20,Model_Workflow,potentially resectable
+20,Model_Workflow_Studies,potentially resectable
+20,Expert,potentially resectable
+21,Model_Alone,potentially resectable
+21,Model_Studies,potentially resectable
+21,Model_Workflow,potentially resectable
+21,Model_Workflow_Studies,potentially resectable
+21,Expert,not resectable
+22,Model_Alone,potentially resectable
+22,Model_Studies,potentially resectable
+22,Model_Workflow,potentially resectable
+22,Model_Workflow_Studies,potentially resectable
+22,Expert,potentially resectable
+23,Model_Alone,potentially resectable
+23,Model_Studies,potentially resectable
+23,Model_Workflow,potentially resectable
+23,Model_Workflow_Studies,potentially resectable
+23,Expert,potentially resectable
+24,Model_Alone,potentially resectable
+24,Model_Studies,potentially resectable
+24,Model_Workflow,potentially resectable
+24,Model_Workflow_Studies,potentially resectable
+24,Expert,not resectable
+25,Model_Alone,potentially resectable
+25,Model_Studies,potentially resectable
+25,Model_Workflow,potentially resectable
+25,Model_Workflow_Studies,potentially resectable
+25,Expert,potentially resectable
+26,Model_Alone,resectable
+26,Model_Studies,resectable
+26,Model_Workflow,potentially resectable
+26,Model_Workflow_Studies,resectable
+26,Expert,resectable
+27,Model_Alone,potentially resectable
+27,Model_Studies,resectable
+27,Model_Workflow,potentially resectable
+27,Model_Workflow_Studies,resectable
+27,Expert,resectable
+28,Model_Alone,potentially resectable
+28,Model_Studies,potentially resectable
+28,Model_Workflow,potentially resectable
+28,Model_Workflow_Studies,potentially resectable
+28,Expert,resectable
+29,Model_Alone,resectable
+29,Model_Studies,resectable
+29,Model_Workflow,resectable
+29,Model_Workflow_Studies,potentially resectable
+29,Expert,resectable
+30,Model_Alone,potentially resectable
+30,Model_Studies,resectable
+30,Model_Workflow,potentially resectable
+30,Model_Workflow_Studies,resectable
+30,Expert,resectable
+31,Model_Alone,resectable
+31,Model_Studies,resectable
+31,Model_Workflow,resectable
+31,Model_Workflow_Studies,resectable
+31,Expert,resectable
+32,Model_Alone,potentially resectable
+32,Model_Studies,potentially resectable
+32,Model_Workflow,potentially resectable
+32,Model_Workflow_Studies,potentially resectable
+32,Expert,resectable
+33,Model_Alone,resectable
+33,Model_Studies,potentially resectable
+33,Model_Workflow,potentially resectable
+33,Model_Workflow_Studies,potentially resectable
+33,Expert,resectable
+34,Model_Alone,potentially resectable
+34,Model_Studies,resectable
+34,Model_Workflow,potentially resectable
+34,Model_Workflow_Studies,resectable
+34,Expert,resectable
+35,Model_Alone,potentially resectable
+35,Model_Studies,resectable
+35,Model_Workflow,potentially resectable
+35,Model_Workflow_Studies,potentially resectable
+35,Expert,resectable
+36,Model_Alone,potentially resectable
+36,Model_Studies,potentially resectable
+36,Model_Workflow,potentially resectable
+36,Model_Workflow_Studies,potentially resectable
+36,Expert,resectable
+37,Model_Alone,resectable
+37,Model_Studies,potentially resectable
+37,Model_Workflow,resectable
+37,Model_Workflow_Studies,resectable
+37,Expert,resectable
+38,Model_Alone,potentially resectable
+38,Model_Studies,potentially resectable
+38,Model_Workflow,potentially resectable
+38,Model_Workflow_Studies,potentially resectable
+38,Expert,resectable
+39,Model_Alone,resectable
+39,Model_Studies,resectable
+39,Model_Workflow,potentially resectable
+39,Model_Workflow_Studies,potentially resectable
+39,Expert,resectable
+40,Model_Alone,resectable
+40,Model_Studies,potentially resectable
+40,Model_Workflow,potentially resectable
+40,Model_Workflow_Studies,potentially resectable
+40,Expert,resectable
+41,Model_Alone,potentially resectable
+41,Model_Studies,potentially resectable
+41,Model_Workflow,potentially resectable
+41,Model_Workflow_Studies,potentially resectable
+41,Expert,potentially resectable
+42,Model_Alone,potentially resectable
+42,Model_Studies,potentially resectable
+42,Model_Workflow,potentially resectable
+42,Model_Workflow_Studies,potentially resectable
+42,Expert,not resectable
+43,Model_Alone,potentially resectable
+43,Model_Studies,potentially resectable
+43,Model_Workflow,potentially resectable
+43,Model_Workflow_Studies,potentially resectable
+43,Expert,potentially resectable
+44,Model_Alone,not resectable
+44,Model_Studies,potentially resectable
+44,Model_Workflow,not resectable
+44,Model_Workflow_Studies,not resectable
+44,Expert,not resectable
+45,Model_Alone,potentially resectable
+45,Model_Studies,potentially resectable
+45,Model_Workflow,potentially resectable
+45,Model_Workflow_Studies,potentially resectable
+45,Expert,potentially resectable
+46,Model_Alone,potentially resectable
+46,Model_Studies,potentially resectable
+46,Model_Workflow,potentially resectable
+46,Model_Workflow_Studies,potentially resectable
+46,Expert,resectable
+47,Model_Alone,potentially resectable
+47,Model_Studies,potentially resectable
+47,Model_Workflow,potentially resectable
+47,Model_Workflow_Studies,potentially resectable
+47,Expert,not resectable
+48,Model_Alone,potentially resectable
+48,Model_Studies,potentially resectable
+48,Model_Workflow,potentially resectable
+48,Model_Workflow_Studies,potentially resectable
+48,Expert,not resectable
+49,Model_Alone,potentially resectable
+49,Model_Studies,potentially resectable
+49,Model_Workflow,potentially resectable
+49,Model_Workflow_Studies,potentially resectable
+49,Expert,potentially resectable
+50,Model_Alone,potentially resectable
+50,Model_Studies,potentially resectable
+50,Model_Workflow,potentially resectable
+50,Model_Workflow_Studies,potentially resectable
+50,Expert,not resectable
+51,Model_Alone,potentially resectable
+51,Model_Studies,potentially resectable
+51,Model_Workflow,potentially resectable
+51,Model_Workflow_Studies,potentially resectable
+51,Expert,resectable
+52,Model_Alone,potentially resectable
+52,Model_Studies,potentially resectable
+52,Model_Workflow,potentially resectable
+52,Model_Workflow_Studies,potentially resectable
+52,Expert,potentially resectable
+53,Model_Alone,potentially resectable
+53,Model_Studies,potentially resectable
+53,Model_Workflow,potentially resectable
+53,Model_Workflow_Studies,potentially resectable
+53,Expert,potentially resectable
+54,Model_Alone,resectable
+54,Model_Studies,potentially resectable
+54,Model_Workflow,potentially resectable
+54,Model_Workflow_Studies,potentially resectable
+54,Expert,resectable
+55,Model_Alone,potentially resectable
+55,Model_Studies,potentially resectable
+55,Model_Workflow,potentially resectable
+55,Model_Workflow_Studies,potentially resectable
+55,Expert,resectable
+56,Model_Alone,potentially resectable
+56,Model_Studies,potentially resectable
+56,Model_Workflow,potentially resectable
+56,Model_Workflow_Studies,potentially resectable
+56,Expert,potentially resectable
+57,Model_Alone,potentially resectable
+57,Model_Studies,potentially resectable
+57,Model_Workflow,potentially resectable
+57,Model_Workflow_Studies,potentially resectable
+57,Expert,potentially resectable
+58,Model_Alone,potentially resectable
+58,Model_Studies,potentially resectable
+58,Model_Workflow,potentially resectable
+58,Model_Workflow_Studies,potentially resectable
+58,Expert,not resectable
+59,Model_Alone,potentially resectable
+59,Model_Studies,potentially resectable
+59,Model_Workflow,potentially resectable
+59,Model_Workflow_Studies,potentially resectable
+59,Expert,resectable
+60,Model_Alone,potentially resectable
+60,Model_Studies,potentially resectable
+60,Model_Workflow,potentially resectable
+60,Model_Workflow_Studies,potentially resectable
+60,Expert,resectable
+61,Model_Alone,potentially resectable
+61,Model_Studies,potentially resectable
+61,Model_Workflow,potentially resectable
+61,Model_Workflow_Studies,potentially resectable
+61,Expert,potentially resectable
+62,Model_Alone,resectable
+62,Model_Studies,resectable
+62,Model_Workflow,potentially resectable
+62,Model_Workflow_Studies,potentially resectable
+62,Expert,resectable
+63,Model_Alone,potentially resectable
+63,Model_Studies,potentially resectable
+63,Model_Workflow,potentially resectable
+63,Model_Workflow_Studies,potentially resectable
+63,Expert,potentially resectable
+64,Model_Alone,potentially resectable
+64,Model_Studies,potentially resectable
+64,Model_Workflow,potentially resectable
+64,Model_Workflow_Studies,potentially resectable
+64,Expert,potentially resectable
+65,Model_Alone,not resectable
+65,Model_Studies,potentially resectable
+65,Model_Workflow,potentially resectable
+65,Model_Workflow_Studies,not resectable
+65,Expert,not resectable
+66,Model_Alone,potentially resectable
+66,Model_Studies,potentially resectable
+66,Model_Workflow,potentially resectable
+66,Model_Workflow_Studies,potentially resectable
+66,Expert,potentially resectable
+67,Model_Alone,potentially resectable
+67,Model_Studies,potentially resectable
+67,Model_Workflow,potentially resectable
+67,Model_Workflow_Studies,potentially resectable
+67,Expert,potentially resectable
+68,Model_Alone,potentially resectable
+68,Model_Studies,potentially resectable
+68,Model_Workflow,potentially resectable
+68,Model_Workflow_Studies,potentially resectable
+68,Expert,not resectable
+69,Model_Alone,potentially resectable
+69,Model_Studies,potentially resectable
+69,Model_Workflow,potentially resectable
+69,Model_Workflow_Studies,potentially resectable
+69,Expert,potentially resectable
+70,Model_Alone,potentially resectable
+70,Model_Studies,potentially resectable
+70,Model_Workflow,potentially resectable
+70,Model_Workflow_Studies,potentially resectable
+70,Expert,potentially resectable
+71,Model_Alone,not resectable
+71,Model_Studies,not resectable
+71,Model_Workflow,not resectable
+71,Model_Workflow_Studies,not resectable
+71,Expert,potentially resectable
+72,Model_Alone,potentially resectable
+72,Model_Studies,potentially resectable
+72,Model_Workflow,potentially resectable
+72,Model_Workflow_Studies,potentially resectable
+72,Expert,not resectable
+73,Model_Alone,not resectable
+73,Model_Studies,potentially resectable
+73,Model_Workflow,potentially resectable
+73,Model_Workflow_Studies,not resectable
+73,Expert,not resectable
+74,Model_Alone,potentially resectable
+74,Model_Studies,potentially resectable
+74,Model_Workflow,potentially resectable
+74,Model_Workflow_Studies,potentially resectable
+74,Expert,potentially resectable
+75,Model_Alone,potentially resectable
+75,Model_Studies,not resectable
+75,Model_Workflow,not resectable
+75,Model_Workflow_Studies,potentially resectable
+75,Expert,not resectable
+76,Model_Alone,potentially resectable
+76,Model_Studies,potentially resectable
+76,Model_Workflow,potentially resectable
+76,Model_Workflow_Studies,potentially resectable
+76,Expert,resectable
+77,Model_Alone,potentially resectable
+77,Model_Studies,potentially resectable
+77,Model_Workflow,potentially resectable
+77,Model_Workflow_Studies,potentially resectable
+77,Expert,not resectable
+78,Model_Alone,potentially resectable
+78,Model_Studies,potentially resectable
+78,Model_Workflow,potentially resectable
+78,Model_Workflow_Studies,potentially resectable
+78,Expert,potentially resectable
+79,Model_Alone,potentially resectable
+79,Model_Studies,potentially resectable
+79,Model_Workflow,potentially resectable
+79,Model_Workflow_Studies,potentially resectable
+79,Expert,resectable
+80,Model_Alone,potentially resectable
+80,Model_Studies,potentially resectable
+80,Model_Workflow,potentially resectable
+80,Model_Workflow_Studies,not resectable
+80,Expert,not resectable
+81,Model_Alone,potentially resectable
+81,Model_Studies,potentially resectable
+81,Model_Workflow,potentially resectable
+81,Model_Workflow_Studies,potentially resectable
+81,Expert,potentially resectable
+82,Model_Alone,potentially resectable
+82,Model_Studies,potentially resectable
+82,Model_Workflow,potentially resectable
+82,Model_Workflow_Studies,potentially resectable
+82,Expert,potentially resectable
+83,Model_Alone,potentially resectable
+83,Model_Studies,potentially resectable
+83,Model_Workflow,potentially resectable
+83,Model_Workflow_Studies,potentially resectable
+83,Expert,potentially resectable
+84,Model_Alone,potentially resectable
+84,Model_Studies,potentially resectable
+84,Model_Workflow,potentially resectable
+84,Model_Workflow_Studies,potentially resectable
+84,Expert,resectable
+85,Model_Alone,potentially resectable
+85,Model_Studies,potentially resectable
+85,Model_Workflow,potentially resectable
+85,Model_Workflow_Studies,potentially resectable
+85,Expert,not resectable
+86,Model_Alone,potentially resectable
+86,Model_Studies,potentially resectable
+86,Model_Workflow,potentially resectable
+86,Model_Workflow_Studies,potentially resectable
+86,Expert,resectable
+87,Model_Alone,potentially resectable
+87,Model_Studies,potentially resectable
+87,Model_Workflow,potentially resectable
+87,Model_Workflow_Studies,potentially resectable
+87,Expert,not resectable
+88,Model_Alone,potentially resectable
+88,Model_Studies,potentially resectable
+88,Model_Workflow,potentially resectable
+88,Model_Workflow_Studies,potentially resectable
+88,Expert,potentially resectable
+89,Model_Alone,potentially resectable
+89,Model_Studies,potentially resectable
+89,Model_Workflow,potentially resectable
+89,Model_Workflow_Studies,potentially resectable
+89,Expert,potentially resectable
+90,Model_Alone,potentially resectable
+90,Model_Studies,potentially resectable
+90,Model_Workflow,potentially resectable
+90,Model_Workflow_Studies,potentially resectable
+90,Expert,potentially resectable
+91,Model_Alone,potentially resectable
+91,Model_Studies,potentially resectable
+91,Model_Workflow,potentially resectable
+91,Model_Workflow_Studies,potentially resectable
+91,Expert,potentially resectable
+92,Model_Alone,potentially resectable
+92,Model_Studies,potentially resectable
+92,Model_Workflow,potentially resectable
+92,Model_Workflow_Studies,potentially resectable
+92,Expert,not resectable
+93,Model_Alone,potentially resectable
+93,Model_Studies,potentially resectable
+93,Model_Workflow,potentially resectable
+93,Model_Workflow_Studies,potentially resectable
+93,Expert,not resectable
+94,Model_Alone,potentially resectable
+94,Model_Studies,potentially resectable
+94,Model_Workflow,potentially resectable
+94,Model_Workflow_Studies,potentially resectable
+94,Expert,potentially resectable
+95,Model_Alone,potentially resectable
+95,Model_Studies,potentially resectable
+95,Model_Workflow,potentially resectable
+95,Model_Workflow_Studies,potentially resectable
+95,Expert,not resectable
+96,Model_Alone,potentially resectable
+96,Model_Studies,potentially resectable
+96,Model_Workflow,potentially resectable
+96,Model_Workflow_Studies,potentially resectable
+96,Expert,potentially resectable
+97,Model_Alone,potentially resectable
+97,Model_Studies,potentially resectable
+97,Model_Workflow,potentially resectable
+97,Model_Workflow_Studies,potentially resectable
+97,Expert,not resectable
+98,Model_Alone,potentially resectable
+98,Model_Studies,potentially resectable
+98,Model_Workflow,potentially resectable
+98,Model_Workflow_Studies,potentially resectable
+98,Expert,potentially resectable
+99,Model_Alone,potentially resectable
+99,Model_Studies,potentially resectable
+99,Model_Workflow,potentially resectable
+99,Model_Workflow_Studies,potentially resectable
+99,Expert,resectable
+100,Model_Alone,potentially resectable
+100,Model_Studies,potentially resectable
+100,Model_Workflow,potentially resectable
+100,Model_Workflow_Studies,potentially resectable
+100,Expert,resectable

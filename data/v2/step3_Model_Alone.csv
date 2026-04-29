@@ -1,0 +1,1781 @@
+Case_Number,Case_Content,Response,Reference
+1,"Man, 64 years old, no significant medical history, presenting with a left colon tumor revealed by subocclusive syndrome.  Thoraco-abdominal CT scan shows a 6 cm colonic mass and two liver metastases in segments II and V measuring 2.2 and 3 cm. CEA: 120 ng/mL. RAS wild-type, MSS. No extra-hepatic disease.
+MDT Discussion: Metastases considered primarily resectable, symptomatic colonic lesion is the priority.","Step 3 – Missing information  
+- Detailed performance status (ECOG/Karnofsky).  
+- Baseline liver function tests (bilirubin, INR, albumin) and volumetric assessment of future liver remnant.  
+- Presence of steatosis, fibrosis, or portal hypertension that could affect hepatic tolerance.  
+- Exact relationship of the liver lesions to major vascular structures (portal/hepatic veins) to confirm feasibility of parenchymal‑sparing resection.  
+- Patient’s preferences regarding simultaneous versus staged procedures.  
+- Comprehensive comorbidity profile (cardiovascular, pulmonary, renal) and anesthetic risk assessment.  
+- Pre‑operative nutritional status and serum albumin.  
+
+Without these data, the plan assumes adequate hepatic reserve and operative fitness.","Step 3 – Critical missing information
+A. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy. 
+B. Potential extension of primary tumor to adjacent organ (abdominal wall, ureter, small bowel)
+C. Detailed vascular/biliary relationship of the liver lesion – essential to confirm that a non anatomic resection will achieve clear margins without compromising hepatic inflow/outflow.  
+D. Results of liver specific imaging (MRI/CT) to confirm absence of vascular/biliary involvement, evaluate arterial anatomy. Precise anatomic mapping is required to avoid intra operative surprise.
+E. Whether any systemic chemotherapy has already been administered – impacts the timing and total duration of peri operative treatment. 
+F. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA
+G. Patient’s nutritional status and postoperative recovery capacity, relevant for timing of chemotherapy.
+H. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream
+
+These items should be obtained before finalizing the operative plan."
+2,"Woman, 56 years old, incidental discovery of a right colon tumor during a workup for iron deficiency anemia. Thoraco-Abdominal CT scan shows an ileocecal mass and a single 2.5 cm metastasis in segment VI. CEA 35 ng/mL, KRAS mutation present. No other lesions on FDG-PET.
+MDT Discussion: Single peripheral metastasis, situation suitable for combined surgical treatment.","Step 3 – Missing information  
+- Exact performance status (ECOG/Karnofsky) and comorbidities (cardiac, pulmonary, hepatic).  
+- Detailed liver function tests (bilirubin, albumin, INR, platelet count) and assessment of future liver remnant volume.  
+- Pathologic stage of the primary tumor (T‑stage, nodal involvement) from colonoscopy/biopsy.  
+- Presence or absence of synchronous lymph node metastasis on imaging or intra‑operative assessment.  
+- Patient’s preference regarding neoadjuvant chemotherapy versus upfront surgery.  
+- Any prior abdominal surgeries that might influence operative planning.","Step 3 – Critical missing information
+A. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy. 
+B. Potential extension of primary tumor to adjacent organ (abdominal wall, ureter, small bowel)
+C. Detailed vascular/biliary relationship of the liver lesion – essential to confirm that a non anatomic resection will achieve clear margins without compromising hepatic inflow/outflow.  
+D. Results of liver specific imaging (MRI/CT) to confirm absence of vascular/biliary involvement, evaluate arterial anatomy. Precise anatomic mapping is required to avoid intra operative surprise.
+E. Whether any systemic chemotherapy has already been administered – impacts the timing and total duration of peri operative treatment. 
+F. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA
+G. Patient’s nutritional status and postoperative recovery capacity, relevant for timing of chemotherapy.
+H. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream
+
+These items should be obtained before finalizing the operative plan."
+3,"Man, 68 years old, history of smoking, presenting with T3N1 upper rectal adenocarcinoma with a single 1.8 cm liver metastasis in segment III. Pelvic MRI: limited parietal invasion. CEA 45 ng/mL. RAS wild-type.
+MDT Discussion: Single resectable metastasis, possibility of coordinated surgical treatment after short-course radiotherapy.","Step 3 - Missing information  
+- Current performance status (ECOG/Karnofsky) and comorbidities (cardiopulmonary reserve).  
+- Baseline liver function tests and volumetric assessment of future liver remnant.  
+- Detailed MRI report on mesorectal fascia involvement and distance of tumor from the anal verge.  
+- Chest imaging (CT) to confirm absence of pulmonary metastases.  
+- Full molecular profile (BRAF, MSI status) that could influence systemic therapy choice.  
+- CEA trend over time and any prior response to therapy.  
+- Patient preference regarding sphincter preservation versus abdominoperineal resection.  
+- Details of smoking history (pack‑years) and any ongoing use that may affect peri‑operative risk.","Step 3 – Critical missing information
+A. Exact distance of the rectal tumor from the anal verge, influencing the type of rectal resection and anastomotic risk.
+B. Presence of potential extra-hepatic involvement on 18FDG PET-CT 
+C. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy
+D. Detailed relationship of the liver lesion to segment III vascular structures on liver MRI.
+E. Radiologic tumor response after systemic chemotherapy and long-course pelvic radiotherapy (decrease, stability or progression) and evolution of CEA 
+F. Circumferential resection margin (CRM) status on pelvic MRI, essential for rectal surgical planning. 
+G. Patient’s pulmonary status related to smoking history, relevant for combined surgical tolerance.
+H. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+4,"Woman, 72 years old, discovery at abdominal CT scan of a transverse colon adenocarcinoma, CEA 410 ng/mL, three liver metastases (segments IV, V and VI) measuring 2 to 3 cm. Liver MRI: partial contact with the right portal branch without invasion. KRAS mutated, BRAF wild-type.
+MDT Discussion: Primarily resectable metastases, simple liver surgery possible.","Step 3 – Missing information  
+- Patient’s performance status (ECOG/Karnofsky) and detailed comorbidity profile (cardiopulmonary reserve).  
+- Baseline liver function tests and volumetric measurement of the future liver remnant.  
+- Exact T and N stage of the transverse colon primary (depth of invasion, nodal involvement).  
+- Presence or absence of other extra‑hepatic metastases (e.g., lung, peritoneum) on full staging work‑up.  
+- Patient’s preferences regarding simultaneous versus staged surgery.  
+- Details of prior or planned neoadjuvant regimen tolerance and response (radiologic and CEA trend).","Step 3 – Critical missing information
+A. Presence of potential extra-hepatic involvement on 18FDG PET-CT.
+B. Detailed vascular mapping on MRI to confirm absence of true portal invasion.
+C. Future liver remnant (FLR) calculation in case of right hepatectomy.
+D. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy
+E. Patient’s general condition and comorbidities influencing tolerance of combined surgery.
+F. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA.
+H. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+5,"Man, 59 years old, T3N1 sigmoid colon tumor associated with four peripheral liver metastases (segments II, III, V, VIII) at the abdominal CT scan. Maximum size: 2.9 cm. CEA 200 ng/mL. RAS wild-type, HER2 negative.
+MDT Discussion: Primarily resectable lesions, no vascular or extra-hepatic involvement.","Step 3 – Missing information  
+- Patient’s performance status (ECOG/Karnofsky) and comorbidities (cardiopulmonary reserve).  
+- Baseline liver function tests and indocyanine green clearance (if available).  
+- Precise volumetric measurement of the future liver remnant.  
+- Detailed relationship of each metastasis to hepatic veins, portal pedicles, and biliary structures.  
+- Results of PET‑CT or other imaging to definitively exclude occult extra‑hepatic disease.  
+- Planned surgical margins (desired width) and whether a margin‑negative (R0) resection is feasible for each lesion.  
+- Patient’s preferences regarding combined versus staged surgery.","Step 3 – Critical missing information
+A. Presence of potential extra-hepatic involvement on 18FDG PET-CT.
+B. Detailed liver MRI describing vascular and biliary relationships of each lesion.
+C. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy.
+D. Patient’s general condition and surgical fitness for combined procedures.
+E. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA.
+F. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+6,"Woman, 63 years old, right-sided T4N2M1 colon cancer, two liver metastases in segments II and IVa (3 and 4 cm) at the thoraco-abdominal CT scan. Liver MRI: middle hepatic vein preserved. CEA 95 ng/mL, KRAS mutated.
+MDT Discussion: Technically resectable metastases, with priority given to controlling the primary tumor.","Step 3 – Missing information  
+- Quantitative assessment of future liver remnant (volumetry) and baseline liver function (bilirubin, INR, platelets, ICG clearance).  
+- Patient’s performance status (ECOG/Karnofsky) and comorbidities that may affect tolerance of chemotherapy and major surgery.  
+- Detailed description of T4 invasion (e.g., involvement of adjacent organ, need for multivisceral resection).  
+- Presence or absence of extra‑hepatic disease on chest imaging (lung nodules, peritoneal implants).  
+- Baseline CEA trend and any prior systemic therapy.  
+- Vascular anatomy of the liver (portal and hepatic arterial branches) to confirm feasibility of segmental resections without compromising inflow/outflow.  
+- Patient’s preferences regarding staged versus simultaneous surgery.","Step 3 – Critical missing information
+A. Confirmation whether the primary tumor extends to adjacent organ (abdominal wall, ureter, small bowel, duodenum)
+B. Future liver remnant (FLR) calculation in case of left hepatectomy.
+C. Patient’s nutritional and functional status for sequential surgeries.
+D. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy.
+E. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA.
+F. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+7,"Man, 47 years old,at the abdominal CT scan T3N0 upper rectal cancer with three liver metastases (segments VI, VII and VIII), sizes 1-2 cm. CEA 60 ng/mL, RAS wild-type. No other lesions on PET.
+MDT Discussion: Bilobar metastases primarily resectable, considered for combined treatment after short-course pelvic radiotherapy.","Step 3 – Missing information  
+- Quantitative liver function and volumetry (Child‑Pugh, ICG clearance, FLR %).  
+- Baseline performance status (ECOG/Karnofsky) and comorbidities.  
+- Detailed MRI of the rectum (mesorectal fascia involvement, distance from anal verge).  
+- Exact CEA trend and other tumor markers (e.g., CA 19‑9).  
+- BRAF mutation status and microsatellite instability status.  
+- Planned surgical approach for the rectal primary (open vs. minimally invasive, need for sphincter‑preserving vs. abdominoperineal resection).  
+- Patient preference regarding timing and potential simultaneous versus staged procedures.","Step 3 – Critical missing information
+A. Exact distance of the rectal tumor from the anal verge, and circumferential resection margin (CRM) status on pelvic MRI influencing surgical approach and anastomotic risk
+B. Detailed vascular and biliary relationships of the three liver lesions on MRI.
+C. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy
+D. Radiologic tumor response after systemic chemotherapy and long-course pelvic radiotherapy (decrease, stability or progression) and evolution of CEA
+E. Patient’s nutritional status and postoperative recovery capacity, relevant for timing of chemotherapy.
+F. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+8,"Woman, 70 years old, history of hypertension, discovery of left colon cancer and a single 2.7 cm liver metastasis in segment IVb at the thoraco-abdominal CT scan. CEA 40 ng/mL. BRAF wild-type, MSS.
+MDT Discussion: Isolated metastasis, anatomically favorable for a single resection.","Step 3 – Missing information  
+- Performance status (ECOG/Karnofsky).  
+- Detailed staging of the primary colon tumor (T stage, N stage, exact location, depth of invasion).  
+- Baseline liver function tests and volumetric assessment of future liver remnant.  
+- Cardiopulmonary evaluation (ejection fraction, pulmonary function) to gauge operative risk.  
+- Results of colonoscopic assessment (obstruction, perforation, need for urgent resection).  
+- Patient’s preferences regarding neoadjuvant therapy versus upfront surgery.  
+- Any prior chemotherapy or radiation exposure.  
+
+Without these data, the recommendation must remain provisional and tailored once the missing information is obtained.","Step 3 – Critical missing information
+A. K-Ras status, grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy. 
+B. Potential extension of primary tumor to adjacent organ (abdominal wall, ureter, small bowel)
+C. Detailed vascular/biliary relationship of the liver lesion – essential to confirm that a non anatomic resection will achieve clear margins without compromising hepatic inflow/outflow.  
+D. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA 
+E. Patient’s nutritional status and postoperative recovery capacity, relevant for timing of chemotherapy.
+F. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream
+
+These items should be obtained before finalizing the operative plan."
+9,"Man, 61 years old, T3N1 sigmoid colon tumor with two contiguous liver metastases in segment VI (2.1 and 2.4 cm) at the abdominal CT scan. CEA 180 ng/mL, KRAS mutation.
+MDT Discussion: Limited and accessible liver involvement, no indication for upfront chemotherapy.","Step 3 – Missing information  
+- Patient’s Eastern Cooperative Oncology Group (ECOG) performance status or ASA classification.  
+- Detailed liver function tests (bilirubin, albumin, INR) and any evidence of underlying liver disease (steatosis, fibrosis).  
+- Volumetric assessment of future liver remnant.  
+- Chest imaging results to exclude pulmonary metastases.  
+- Presence or absence of other extra‑hepatic sites (peritoneum, lymph nodes).  
+- Details on vascular involvement of the hepatic lesions (proximity to major hepatic veins or portal structures).  
+- KRAS mutation subtype and status of other molecular markers (BRAF, MSI/MMR).  
+- Baseline nutritional status and comorbidities that may affect surgical risk.  
+
+These data are needed to confirm the safety of a simultaneous operation and to fine‑tune the postoperative systemic therapy plan.","Step 3 – Critical missing information
+A. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy. 
+B. Detailed vascular/biliary relationship of the liver lesion – essential to confirm that a non anatomic resection will achieve clear margins without compromising hepatic inflow/outflow.  
+C. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA
+D. Patient’s nutritional status and postoperative recovery capacity, relevant for timing of chemotherapy.
+E. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream
+
+These items should be obtained before finalizing the operative plan."
+10,"Woman, 65 years old, simultaneous discovery of a right colon adenocarcinoma and a 3 cm liver metastasis in segment VII at the abdominal CT scan CEA 70 ng/mL, RAS wild-type.
+MDT Discussion: Deep but resectable metastasis, discussion of simultaneous versus sequential surgery.","Step 3 - Missing information  
+- Patient’s performance status (ECOG/Karnofsky) and comorbidities (cardiopulmonary reserve).  
+- Baseline liver function tests and volumetric assessment of future liver remnant.  
+- Detailed staging of the primary tumor (T‑stage, N‑stage, presence of obstruction or perforation).  
+- Presence or absence of other extra‑hepatic sites (lung, peritoneum) on full staging work‑up.  
+- Vascular anatomy of the liver lesion (relationship to hepatic veins, portal branches) and whether portal vein embolization would be required.  
+- Molecular profile beyond RAS (BRAF, MSI status) that could influence systemic therapy choice.  
+- Patient’s preferences regarding simultaneous versus staged surgery.","Step 3 – Critical missing information
+A. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy. 
+B. Potential extension of primary tumor to adjacent organ (abdominal wall, ureter, small bowel)
+C. Detailed vascular/biliary relationship of the segment VII liver lesion – essential to confirm that a non anatomic resection will achieve clear margins without compromising hepatic inflow/outflow (right hepatic vein). 
+D. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA 
+E. Patient’s nutritional status and postoperative recovery capacity, relevant for timing of chemotherapy.
+F. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream
+
+These items should be obtained before finalizing the operative plan."
+11,"Man, 53 years old, T3N0M1 sigmoid colon tumor, multiple metastases limited to the left lobe (three lesions 1-2.5 cm) at the thoraco-abdominal CT scan. CEA 150 ng/mL, KRAS mutated.
+MDT Discussion: Metastases considered primarily resectable, left liver surgery possible.","Step 3 – Missing information  
+- Quantitative liver volumetry (FLR percentage) and assessment of liver function (ICG clearance, bilirubin, AST/ALT, presence of steatosis or chemotherapy‑associated liver injury).  
+- Patient’s performance status (ECOG/Karnofsky) and comorbidities (cardiopulmonary reserve).  
+- Detailed anatomic relationship of each metastasis to major hepatic vessels and biliary ducts.  
+- Confirmation of absence of extra‑hepatic disease (e.g., peritoneal implants, lung nodules) beyond what is described.  
+- Baseline laboratory values (CEA trend, liver panel, coagulation profile).  
+- Patient’s preferences regarding staged versus simultaneous surgery.  
+
+These data are required to finalize the operative plan and ensure safe, curative intent treatment.","Step 3 – Critical missing information
+A. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy. 
+B. Precise segmental distribution of the three lesions within the left liver and detailed vascular/biliary relationship of the liver lesion – essential to confirm that a non anatomic resection will achieve clear margins without compromising hepatic inflow/outflow.  
+C. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA
+D. Patient’s nutritional status and postoperative recovery capacity, relevant for timing of chemotherapy.
+E. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream
+
+These items should be obtained before finalizing the operative plan."
+12,"Woman, 66 years old, high rectal T3N1 cancer with a single 1.5 cm metastasis in segment II at the abdominal CT scan. CEA 50 ng/mL, RAS wild-type.
+MDT Discussion: Peripheral resectable metastasis, possibility of combined surgery after pelvic treatment.","Step 3 – Missing information  
+- Patient’s performance status (ECOG/Karnofsky) and comorbidity profile (cardiopulmonary reserve).  
+- Baseline liver function tests and volumetric assessment of future liver remnant.  
+- Detailed imaging of the hepatic lesion (relationship to hepatic veins, portal pedicle, and hepatic inflow/outflow).  
+- Presence or absence of additional extra‑hepatic disease (lung, peritoneum, lymph nodes).  
+- Molecular profile beyond RAS (BRAF, MSI‑high status) that could influence systemic therapy choice.  
+- Baseline CEA trend and other tumor markers.  
+- Patient’s preferences regarding simultaneous versus staged surgery.","Step 3 – Critical missing information
+A. Exact distance of the rectal tumor from the anal verge, and circumferential resection margin (CRM) status on pelvic MRI influencing surgical approach and anastomotic risk.
+B. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy
+C. Detailed vascular and biliary relationships of the segment II lesion on liver MRI.
+D. Radiologic tumor response after systemic chemotherapy and long-course pelvic radiotherapy (decrease, stability or progression) and evolution of CEA
+E. Patient’s nutritional status and postoperative recovery capacity, relevant for timing of chemotherapy.
+F. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+13,"Man, 58 years old, left T4aN2 colon cancer, three liver metastases (segments IV, V and VIII) at the abdominal CT scan. Max size 3.8 cm. CEA 330 ng/mL, KRAS mutated.
+MDT Discussion: Limited liver involvement, potentially curative upfront.","Step 3 – Missing information  
+- Patient’s performance status (ECOG/Karnofsky) and comorbidities (cardiopulmonary reserve).  
+- Baseline liver function tests (bilirubin, INR, albumin, platelet count) and presence of steatosis or chemotherapy‑associated liver injury.  
+- Quantitative FLR volume and portal/hepatic vascular anatomy (e.g., proximity to major veins/arteries).  
+- Results of PET‑CT or other imaging to rule out extra‑hepatic disease (lung, peritoneum, lymph nodes).  
+- Molecular profile beyond KRAS (NRAS, BRAF, MSI/MMR status).  
+- Trends in CEA levels over time and after any prior therapy.  
+- Details of any prior neoadjuvant or adjuvant treatment already administered.  
+
+These data are essential to finalize resectability assessment and to tailor the optimal multimodal treatment plan.","Step 3 – Critical missing information
+A. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy. 
+B. Precise segmental distribution of the three lesions within the right liver and detailed vascular/biliary relationship of the liver lesion – essential to confirm that a non anatomic resection will achieve clear margins without compromising hepatic inflow/outflow. 
+C. Potential extension of primary tumor to adjacent organ (abdominal wall, ureter, small bowel)
+D. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA
+E. Future liver remnant (FLR) estimation if a major hepatectomy is considered.
+F. Patient’s nutritional status and postoperative recovery capacity, relevant for timing of chemotherapy.
+G. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream
+
+These items should be obtained before finalizing the operative plan."
+14,"Woman, 74 years old, right T3N0 colon cancer, two liver metastases in segments III and VI (2.2 and 3 cm)at the thoraco-abdominal CT scan. CEA 88 ng/mL, BRAF wild-type.
+MDT Discussion: Anatomically accessible metastases, indication for primary surgery.","Step 3 - Missing information  
+- Performance status (ECOG/Karnofsky) and detailed comorbidity profile (cardiopulmonary reserve).  
+- Baseline liver function tests and volumetric assessment of FLR.  
+- KRAS mutation status (to confirm suitability for anti‑EGFR therapy).  
+- Detailed vascular anatomy around the lesions (proximity to portal/hepatic veins).  
+- Presence or absence of extra‑hepatic disease not captured on the current CT (e.g., peritoneal implants, pulmonary nodules).  
+- Patient’s preferences regarding neoadjuvant chemotherapy versus upfront surgery.  
+- Nutritional status and frailty assessment given age 74.","Step 3 – Critical missing information
+A. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy. 
+B. Potential extension of primary tumor to adjacent organ (abdominal wall, ureter, small bowel)
+C. Detailed vascular/biliary relationship of the segment III and VI liver lesion – essential to confirm that a non anatomic resection will achieve clear margins without compromising hepatic inflow/outflow. 
+D. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA 
+E. Patient’s nutritional status and postoperative recovery capacity, relevant for timing of chemotherapy.
+F. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream
+
+These items should be obtained before finalizing the operative plan."
+15,"Man, 49 years old, T2N0 rectal tumor associated with a single 2.8 cm liver metastasis in segment V at the abdominal CT scan, CEA 35 ng/mL, KRAS mutated.
+MDT Discussion: Single metastasis, resectable upfront, surgery considered after local treatment of the primary.","Step 3 – Missing information  
+- Exact distance of the rectal tumor from the anal verge and MRI assessment of mesorectal fascia involvement.  
+- Performance status (ECOG/Karnofsky) and comorbidities that could affect tolerance of CRT, surgery, or chemotherapy.  
+- Baseline liver function tests and volumetric assessment of future liver remnant.  
+- Chest imaging (CT or PET) to definitively exclude pulmonary or other extra‑hepatic metastases.  
+- Details of the patient’s nutritional status and any prior pelvic radiation.  
+- Patient preference regarding sphincter preservation versus permanent stoma.  
+
+These data are essential to finalize the sequencing, determine eligibility for CRT, and confirm that a staged surgical approach is safe and appropriate.","Step 3 – Critical missing information
+A. Exact distance of the rectal tumor from the anal verge, and circumferential resection margin (CRM) status on pelvic MRI influencing surgical approach and anastomotic risk.
+B. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy
+C. Detailed vascular and biliary relationships of the segment V lesion on liver MRI.
+D. Radiologic tumor response after systemic chemotherapy and long-course pelvic radiotherapy (decrease, stability or progression) and evolution of CEA
+E. Patient’s nutritional status and postoperative recovery capacity, relevant for timing of chemotherapy.
+F. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+16,"Man, 57 years old, right T4aN2M1 colon cancer, seven bilobar liver metastases, sizes 1 to 4 cm at the thoraco-abdominal CT scan, CEA 520 ng/mL, KRAS mutated. Liver MRI: vascular contact with the right portal branch.
+MDT Discussion: Metastases not resectable upfront, considered for conversion chemotherapy FOLFOX + bevacizumab.","Step 3 – Missing information  
+- Patient’s performance status (ECOG/Karnofsky) and comorbidities (cardiopulmonary reserve).  
+- Baseline liver function tests (bilirubin, INR, albumin, platelet count) and presence of underlying liver disease (steatosis, fibrosis).  
+- Detailed volumetric data of total liver volume and calculated future liver remnant.  
+- Exact anatomical relationship of the right portal branch involvement (degree of encasement, possibility of resection with reconstruction).  
+- Status of the primary colon tumor (resected vs. pending, location within colon, obstruction or perforation).  
+- Presence or absence of extra‑hepatic disease (e.g., lung, peritoneum) on full staging work‑up.  
+- Molecular profile beyond KRAS (NRAS, BRAF, MSI status) that could influence systemic therapy choices.  
+- Patient’s preferences regarding aggressive multimodal therapy.","Step 3 – Critical missing information
+A. Exact segmental distribution of all seven lesions with detailed vascular and biliary relationships on liver MRI.
+B. Potential extension of primary tumor to adjacent organ (abdominal wall, ureter, small bowel)
+C. Baseline future liver remnant (FLR) estimation in case of two-stage strategy with major hepatectomy.
+D. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA 
+E. Patient’s performance status and tolerance for intensive chemotherapy.
+F. Presence or absence of any extrahepatic disease on full staging.
+G. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy
+H. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+17,"Woman, 60 years old, T3N1M1 sigmoid tumor, four bilobar liver metastases (segments II, III, VI, VIII) with one in contact with the right hepatic vein at the thoraco-abdominal CT scan. CEA 240 ng/mL. RAS wild-type.
+MDT Discussion: Bilobar involvement for conversion, imaging to be re-evaluated after 4 cycles of chemotherapy.","Step 3 – Missing information  
+- Patient’s performance status (ECOG/Karnofsky) and comorbidities (cardiopulmonary reserve).  
+- Baseline liver function tests (bilirubin, AST/ALT, INR, platelet count) and assessment for steatosis or chemotherapy‑associated liver injury.  
+- Precise size of each hepatic lesion and distance from major vascular structures (right hepatic vein, portal pedicles).  
+- Quantitative future liver remnant volume calculation.  
+- Presence or absence of extra‑hepatic disease (e.g., lung, peritoneum) not mentioned in the case.  
+- Details of the primary sigmoid tumor (symptomatic vs. asymptomatic, need for urgent resection, margin status on biopsy).  
+- BRAF mutation status (relevant for prognosis and systemic therapy choice).  
+- Patient’s preferences regarding surgical staging and willingness for potential major hepatectomy.","Step 3 – Critical missing information
+A. Exact segmental distribution of all 4 lesions with detailed vascular and biliary relationships on liver MRI.
+B. Baseline future liver remnant (FLR) estimation in case of two-stage strategy with major hepatectomy.
+C. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA
+D. Patient’s performance status and tolerance for intensive chemotherapy and for potential staged hepatectomy.
+E. Presence or absence of any extrahepatic disease on full staging.
+F. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy
+G. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+18,"Man, 63 years old, left T4N2M1 colon cancer, multiple liver metastases (≥8 lesions), maximum size 4.5 cm, partial contact with the IVC at the abdominal CT scan. CEA 890 ng/mL. BRAF wild-type.
+MDT Discussion: Extensive liver disease, potentially resectable after major response to FOLFOXIRI.","Step 3 - Missing information  
+- Current status of the primary colon tumor (resected vs unresected, symptomatic).  
+- Detailed distribution of hepatic lesions (unilobar vs bilobar, segmental involvement).  
+- Quantitative future liver remnant volume and baseline liver function tests (bilirubin, INR, albumin, ICG clearance).  
+- Performance status (ECOG/Karnofsky) and comorbidities influencing surgical risk.  
+- KRAS/NRAS mutation status (to confirm eligibility for anti‑EGFR therapy).  
+- Response to the ongoing FOLFOXIRI regimen (radiologic measurements, RECIST criteria).  
+- Presence or exclusion of extra‑hepatic metastases (lung, peritoneum, distant nodes).  
+- Patient’s preferences regarding aggressive surgical approaches.","Step 3 – Critical missing information
+A. Exact segmental distribution of all lesions with detailed vascular and biliary relationships on liver MRI.
+B. Baseline future liver remnant (FLR) estimation in case of two-stage strategy with major hepatectomy.
+C. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA
+D. Patient’s performance status and tolerance for intensive chemotherapy and for potential major liver surgery.
+E. Presence or absence of any extrahepatic disease on full staging.
+F. Potential extension of primary tumor to adjacent organ (abdominal wall, ureter, small bowel)
+G. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy
+H. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+19,"Woman, 52 years old, T3N2 upper rectal adenocarcinoma with bilobar liver metastases (six lesions, 2-5 cm) at the thoraco-abdominal CT scan, CEA 600 ng/mL, KRAS mutated. Liver MRI: invasion of the middle hepatic vein.
+MDT Discussion: Not initially resectable, goal of volumetric reduction with chemotherapy.","Step 3 – Missing information  
+- Current performance status (ECOG/Karnofsky) and comorbidities (cardiopulmonary reserve).  
+- Baseline liver function tests (bilirubin, INR, albumin, platelet count) and presence of chemotherapy‑associated liver injury (steatosis/steatohepatitis).  
+- Exact volumetric data of the future liver remnant before and after any hypertrophy procedure.  
+- Details of prior treatment to the rectal primary (has any surgery or radiation already been given?).  
+- Presence or absence of extra‑hepatic disease (lung, peritoneum, lymph nodes).  
+- Response assessment after initial chemotherapy (RECIST measurements).  
+- Patient’s preferences regarding aggressive multimodality therapy.","Step 3 – Critical missing information
+A. Exact segmental distribution of all 6 lesions with detailed vascular and biliary relationships on liver MRI.
+B. Baseline future liver remnant (FLR) estimation in case of two-stage strategy with major hepatectomy.
+C. Radiologic tumor response after systemic chemotherapy and radiotherapy (decrease, stability or progression) and evolution of CEA
+D. Patient’s performance status and tolerance for intensive chemotherapy and for potential major liver surgery.
+E. Presence or absence of any extrahepatic disease on full staging.
+F. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy
+G. Exact distance of the rectal tumor from the anal verge, and circumferential resection margin (CRM) status on pelvic MRI influencing surgical approach and anastomotic risk.
+H. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+20,"Man, 67 years old, T3N1M1 right colon tumor, five liver metastases (segments IV, V, VII, VIII), sizes 1.5-3.8 cm at the abdominal CT scan, CEA 270 ng/mL, RAS wild-type.
+MDT Discussion: Potentially resectable after partial response to systemic therapy.","Step 3 – Missing information  
+- Quantitative FLR volume and liver function tests (bilirubin, ICG clearance, Child‑Pugh score, presence of steatosis or sinusoidal injury).  
+- Detailed response assessment (RECIST measurements, percentage shrinkage).  
+- Exact systemic regimen used, number of cycles completed, and tolerance/toxicity profile.  
+- Performance status (ECOG/Karnofsky) and comorbidities that may affect surgical risk.  
+- Confirmation of absence of extra‑hepatic disease (e.g., lung, peritoneum) on recent imaging.  
+- BRAF mutation status and microsatellite instability status, which may influence systemic therapy choices.  
+- Baseline cardiopulmonary reserve (ejection fraction, pulmonary function) for major hepatic resection planning.","Step 3 – Critical missing information
+A. Exact segmental distribution of all 5 lesions with detailed vascular and biliary relationships on liver MRI.
+B. Baseline future liver remnant (FLR) estimation in case of two-stage strategy with major hepatectomy.
+C. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA
+D. Patient’s performance status and tolerance for intensive chemotherapy and for potential major liver surgery.
+E. Presence or absence of any extrahepatic disease on full staging.
+F. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy
+G. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+21,"Woman, 71 years old, T4N1M1 transverse colon cancer, nine bilobar liver metastases at the thoraco-abdominal CT scan, CEA 950 ng/mL, KRAS mutated. Liver MRI: several lesions close to the hepatic veins.
+MDT Discussion: Liver involvement not resectable upfront, conversion strategy considered.","Step 3 - Missing information  
+- Patient’s performance status (ECOG/Karnofsky) and comorbidities (cardiopulmonary reserve).  
+- Baseline liver function tests (bilirubin, albumin, INR, ICG clearance).  
+- Precise size of each hepatic lesion and total tumor volume.  
+- Volumetric data of future liver remnant and presence of steatosis or fibrosis.  
+- Confirmation of absence of extra‑hepatic disease (e.g., lung, peritoneum) on PET‑CT or dedicated imaging.  
+- Symptoms or complications related to the primary colon tumor (obstruction, bleeding).  
+- Prior treatments (neoadjuvant, radiation) and patient’s preferences regarding aggressive surgery.  
+- Details on vascular anatomy (patency of hepatic veins, portal vein branches) to plan possible PVE/ALPPS.  
+
+These data are essential to finalize the operative plan and to assess the safety of a conversion‑to‑resection approach.","Step 3 – Critical missing information
+A. Exact segmental distribution of all 9 lesions with detailed vascular and biliary relationships on liver MRI.
+B. Baseline future liver remnant (FLR) estimation in case of two-stage strategy with major hepatectomy.
+C. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA
+D. Patient’s performance status and tolerance for intensive chemotherapy and for potential major liver surgery.
+E. Presence or absence of any extrahepatic disease on full staging.
+F. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy
+G. Potential extension of primary tumor to adjacent organ (abdominal wall, ureter, small bowel)
+H. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+22,"Man, 59 years old, T3N1M1 rectosigmoid cancer, five bilobar liver metastases (1-3 cm)at the abdominal CT scan, CEA 420 ng/mL, RAS wild-type.
+MDT Discussion: Response expected with FOLFOX + cetuximab before surgical re-evaluation.","Step 3 - Missing information  
+- Patient’s performance status (ECOG/Karnofsky) and comorbidities (cardiopulmonary reserve).  
+- Baseline liver function tests (bilirubin, AST/ALT, INR, platelet count) and presence of chemotherapy‑associated liver injury.  
+- Precise anatomical location of each hepatic lesion relative to major vessels and biliary structures.  
+- Quantitative volumetric data: total liver volume and calculated future liver remnant.  
+- Confirmation of absence of extra‑hepatic disease (e.g., lung, peritoneum) on recent imaging.  
+- BRAF mutation status and microsatellite instability (MSI) status for additional systemic options.  
+- Patient’s preferences regarding timing and extent of surgery.  
+- Details of any prior neoadjuvant therapy to the primary rectosigmoid lesion.","Step 3 – Critical missing information
+A. Exact segmental distribution of all 5 lesions with detailed vascular and biliary relationships on liver MRI.
+B. Baseline future liver remnant (FLR) estimation in case of two-stage strategy with major hepatectomy.
+C. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA
+D. Patient’s performance status and tolerance for intensive chemotherapy and for potential major liver surgery.
+E. Presence or absence of any extrahepatic disease on full staging.
+F. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy
+G. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+23,"Woman, 55 years old, left T3N2M1 colon cancer, seven liver metastases, some coalescent in the hilar region at the thoraco-abdominal CT scan, maximum size 5.5 cm. CEA 800 ng/mL, KRAS mutated.
+MDT Discussion: Borderline disease, possible two-stage hepatectomy after effective chemotherapy.","Step 3 – Missing information  
+- Patient’s performance status (ECOG/Karnofsky) and comorbidities (cardiopulmonary reserve).  
+- Baseline liver function tests (bilirubin, albumin, INR, platelet count) and assessment for chemotherapy‑associated liver injury.  
+- Precise segmental distribution of each metastasis and relationship to major vessels/bile ducts.  
+- Volumetric data of total liver and projected FLR before and after planned hypertrophy.  
+- Evidence of any extra‑hepatic disease (lung nodules, peritoneal implants) on recent staging scans.  
+- Prior systemic therapy history and response (if any) before current MDT discussion.  
+- BRAF and MSI status (relevant for systemic therapy choices).  
+- Patient’s preferences regarding aggressive surgical approaches versus systemic therapy alone.","Step 3 – Critical missing information
+A. Exact segmental distribution of all 7 lesions specially for the central lesions with detailed vascular and hilar relationships on liver MRI.
+B. Baseline future liver remnant (FLR) estimation in case of two-stage strategy with major hepatectomy.
+C. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA
+D. Patient’s performance status and tolerance for intensive chemotherapy and for potential major liver surgery.
+E. Presence or absence of any extrahepatic disease on full staging.
+F. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy
+G. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+24,"Man, 68 years old, right T4aN2 colon cancer, ten bilobar liver metastases (1-4 cm) at the abdominal CT scan, CEA 1350 ng/mL, BRAF wild-type. Liver MRI: contact with IVC and left portal branch.
+MDT Discussion: Not initially resectable, induction therapy planned before re-evaluation.","Step 3 – Missing information  
+- Patient’s performance status (ECOG/Karnofsky) and comorbidities (cardiopulmonary reserve).  
+- Baseline liver function tests (bilirubin, AST/ALT, albumin, ICG clearance).  
+- Detailed volumetric data: current FLR percentage and total liver volume.  
+- KRAS/NRAS mutation status (to confirm eligibility for anti‑EGFR therapy).  
+- Presence or absence of extra‑hepatic disease (lung, peritoneum, distant nodes) on full staging scans.  
+- Symptoms or complications of the primary colon tumor (obstruction, bleeding).  
+- Histologic grade and molecular profile beyond BRAF (e.g., MSI status).  
+- Patient’s preferences regarding aggressive multimodality therapy.","Step 3 – Critical missing information
+A. Exact segmental distribution of all 10 lesions with detailed vascular and biliary relationships and detailed relationship of lesions to the IVC and portal structures on liver MRI.
+B. Baseline future liver remnant (FLR) estimation in case of two-stage strategy with major hepatectomy.
+C. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA
+D. Patient’s performance status and tolerance for intensive chemotherapy and for potential major liver surgery.
+E. Presence or absence of any extrahepatic disease on full staging.
+F. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy
+G. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+25,"Woman, 50 years old, T3N1M1 rectal cancer, five liver metastases (segments II, III, IVa, VI, VII), max size 4.1 cm. CEA 370 ng/mL, KRAS mutated.
+MDT Discussion: Extensive bilobar involvement, possibility of conversion depending on response to chemotherapy.","Step 3 – Missing information  
+- Baseline performance status (ECOG/Karnofsky) and comorbidities (cardiopulmonary reserve).  
+- Detailed liver function tests (bilirubin, INR, albumin, platelet count) and assessment of underlying liver disease (steatosis, fibrosis).  
+- Volumetric measurement of the future liver remnant and total liver volume.  
+- Status of the primary rectal tumor: exact distance from anal verge, involvement of mesorectal fascia, response to any neoadjuvant chemoradiation, and planned surgical approach.  
+- Presence or absence of extra‑hepatic disease (e.g., lung, peritoneum) on staging PET/CT or chest imaging.  
+- Patient’s preferences regarding aggressive multimodal therapy.  
+
+Without these data, the proposed plan remains provisional and should be refined once the missing information is obtained.","Step 3 – Critical missing information
+A. Exact segmental distribution of all 5 lesions with detailed vascular and biliary relationships on liver MRI.
+B. Baseline future liver remnant (FLR) estimation in case of two-stage strategy with major hepatectomy.
+C. Radiologic tumor response after systemic chemotherapy and radiotherapy (decrease, stability or progression) and evolution of CEA
+D. Patient’s performance status and tolerance for intensive chemotherapy and for potential major liver surgery.
+E. Presence or absence of any extrahepatic disease on full staging.
+F. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy
+G. Exact distance of the rectal tumor from the anal verge, and circumferential resection margin (CRM) status on pelvic MRI influencing surgical approach and anastomotic risk.
+H. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+26,"Man, 62 years old, operated 4 years ago for right colon adenocarcinoma (T3N1M0), no initial recurrence. Surveillance: CEA 180 ng/mL. At the thoraco-abdominal CT scan: two liver lesions segments V and VIII, 2.8 and 3.2 cm. Liver MRI confirms no other foci. KRAS mutated, BRAF wild-type.
+MDT Discussion: Isolated metachronous metastases, anatomically accessible, good general condition.","Step 3 - Missing information  
+- Exact performance status (ECOG/Karnofsky) and comorbidity profile (cardiopulmonary reserve).  
+- Baseline liver function tests (bilirubin, INR, albumin) and volumetric assessment of future liver remnant.  
+- Details of prior adjuvant therapy after the primary colon resection (type, duration, tolerance).  
+- Results of a chest CT or PET‑CT to definitively rule out pulmonary or other extra‑hepatic metastases.  
+- Intra‑operative findings regarding proximity to major hepatic vessels or biliary structures.  
+- Patient’s preferences regarding chemotherapy intensity and surgical approach.  
+
+If any of the above data are unfavorable, the proposed plan would need to be adjusted accordingly.","Step 3 – Critical missing information
+A. Presence of potential extra-hepatic involvement on 18FDG PET-CT.
+B. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy.
+C. Patient’s general condition and surgical fitness for combined procedures.
+D. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA.
+E. Whether any adjuvant chemotherapy was administered after the initial colon surgery.
+F. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+27,"Woman, 70 years old, operated for low rectal cancer 3 years ago (T3N1M0) after chemoradiotherapy. CEA 95 ng/mL. Liver MRI: lesion in segment II (2.5 cm) and micronodule segment V. RAS wild-type, MSS.
+MDT Discussion: Metachronous metastases, potentially curable, negative extra-hepatic workup.","Step 3 – Missing information  
+- Current performance status (ECOG/Karnofsky) and comorbidities (cardiopulmonary reserve).  
+- Detailed liver function tests and indocyanine‑green clearance or other quantitative assessment of hepatic reserve.  
+- Volumetric measurement of the future liver remnant after planned resection.  
+- Exact size and radiologic characteristics of the segment V micronodule (e.g., ≤1 cm, proximity to major vessels).  
+- Presence or absence of vascular/biliary involvement of either lesion on imaging.  
+- Prior chemotherapy exposure and tolerance (any oxaliplatin‑induced neuropathy, etc.).  
+- Status of the rectal anastomosis and any residual pelvic disease.  
+- BRAF mutation status (if not already known).  
+
+These data are needed to finalize the operative plan and peri‑operative management.","Step 3 – Critical missing information
+A. Confirmation of the malignant nature of the segment V micronodule on MRI.
+B. Detailed vascular and biliary relationships of both lesions.
+C. Histologic differentiation grade of the original rectal tumor.
+D. Whether any adjuvant chemotherapy was administered after the initial rectal cancer treatment.
+E. Patient’s general condition and surgical fitness for combined procedures.
+F. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+28,"Man, 68 years old, history of left colectomy for T4N2 tumor, in remission for 2 years. Surveillance: CEA 430 ng/mL. FDG-PET: three bilobar liver lesions, 2-3 cm, no other foci. BRAF wild-type.
+MDT Discussion: Metachronous liver recurrence, potentially resectable after discussion.","Step 3 – Missing information  
+- Baseline liver function parameters (bilirubin, albumin, INR, platelet count, ICG clearance).  
+- Precise anatomical location of each lesion relative to major vessels and biliary structures.  
+- Volumetric data to calculate future liver remnant.  
+- Prior systemic therapy history (type, duration, response).  
+- KRAS/NRAS mutation status (required for anti‑EGFR eligibility).  
+- Patient’s performance status (ECOG), comorbidities, and cardiopulmonary reserve.  
+- Presence of portal hypertension or steatohepatitis that could affect FLR tolerance.  
+- Detailed imaging (MRI with liver‑specific contrast) to assess lesion resectability margins.","Step 3 – Critical missing information
+A. Confirmation of the malignant nature of the segment V micronodule on MRI.
+B. Detailed vascular and biliary relationships of both lesions.
+C. Histologic differentiation grade of the original rectal tumor.
+D. Whether any adjuvant chemotherapy was administered after the initial rectal cancer treatment.
+E. Patient’s general condition and surgical fitness for combined procedures.
+F. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+29,"Woman, 58 years old, sigmoid colon cancer treated 5 years earlier. Rising CEA (65 ng/mL). Liver MRI: single lesion segment VI, 3.4 cm, well-defined, no vascular contact. KRAS mutated.
+MDT Discussion: Late solitary metastasis, anatomically favorable for isolated resection.","Step 3 – Missing information  
+- Current performance status (ECOG/Karnofsky) and comorbidities (cardiopulmonary reserve).  
+- Detailed liver function (bilirubin, albumin, INR, ICG clearance) and calculation of future liver remnant volume.  
+- Results of a full staging work‑up to exclude extra‑hepatic disease (CT chest, PET‑CT).  
+- Status of the primary colon site (colonoscopy findings, any residual or recurrent tumor).  
+- Prior exposure to systemic chemotherapy or targeted agents for the primary disease.  
+- Patient’s preferences regarding surgery versus neoadjuvant systemic therapy.","Step 3 – Critical missing information
+A. Detailed vascular and biliary relationships of the segment VI lesion on MRI.
+B. Histologic differentiation grade of the original sigmoid tumor.
+C. Whether any adjuvant chemotherapy was administered after the initial surgery.
+D. Patient’s current functional status and comorbidities.
+E. Exact CEA trend over time prior to detection of the lesion
+F. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+30,"Man, 72 years old, history of right colon resection 2 years prior (T3N0M0). Surveillance: CEA 250 ng/mL. Liver MRI: three lesions segments IV, V and VII (2.0 to 3.6 cm). RAS wild-type.
+MDT Discussion: Bilobar metachronous metastases, no extra-hepatic involvement, feasible in a single surgery.","Step 3 – Missing information  
+- Detailed performance status and comorbidities (cardiopulmonary reserve, ASA classification).  
+- Baseline liver function tests and quantitative FLR volume/functional reserve data.  
+- Full extra‑hepatic staging results (chest CT or PET‑CT).  
+- Prior adjuvant therapy after the original right‑colon resection (type, duration, response).  
+- BRAF and MSI status (relevant for systemic therapy selection).  
+- Precise relationship of each lesion to major hepatic vessels and biliary structures.  
+- Patient’s preferences regarding neoadjuvant therapy versus upfront surgery.  
+
+Without these data, the recommendation remains provisional and should be revisited once the missing information is obtained.","Step 3 – Critical missing information
+A. Detailed vascular and biliary relationships of all three lesions on MRI.
+B. Future liver remnant (FLR) estimation.
+C. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy
+D. Patient’s current performance status and comorbidities.
+E. Exact CEA trend over time prior to detection of the lesions
+F. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+31,"Woman, 63 years old, rectal tumor operated 3 years earlier (T3N1M0). Surveillance liver MRI: segment VIII lesion, 2.8 cm, hypermetabolic on PET. No other foci on PET. KRAS mutated.
+MDT Discussion: Single metachronous metastasis, accessible, good general condition.","Step 3 – Missing information  
+- Quantitative assessment of future liver remnant (volumetry).  
+- Baseline liver function tests (bilirubin, AST/ALT, albumin, INR) and ICG clearance if underlying liver disease is suspected.  
+- Performance status score (ECOG/Karnofsky) and comorbidity profile (cardiopulmonary reserve).  
+- Details of prior rectal cancer treatment margins, adjuvant therapy received, and any prior radiation.  
+- Serum tumor markers (CEA) at the time of metastasis detection.  
+- Patient’s preference regarding chemotherapy and surgical approach.","Step 3 – Critical missing information
+A. Detailed vascular and biliary relationships of the segment VIII lesion on MRI.
+B. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy
+C. Patient’s current performance status and comorbidities.
+D. Exact CEA trend over time prior to detection of the lesions
+E. Patient’s current functional status and comorbidities.
+F. Whether any adjuvant chemotherapy was administered after the initial cancer treatment.
+G. Exact CEA trend over time prior to detection of the lesion.
+H. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+32,"Man, 67 years old, left colectomy for T4N2M0 colon cancer 18 months ago. Surveillance: CEA 380 ng/mL. Liver MRI: four bilobar lesions, 2 to 3.5 cm.thoracic CT scan negative for metastases. BRAF wild-type.
+MDT Discussion: Metachronous liver recurrence, potentially resectable based on volumetric assessment.","Step 3 – Missing information  
+- Exact FLR percentage and total liver volume after planned resection.  
+- Baseline liver function tests (bilirubin, INR, albumin, platelet count) and presence of steatosis or fibrosis.  
+- Patient’s ECOG performance status and comorbidities (cardiopulmonary reserve).  
+- Details of any prior adjuvant chemotherapy received after the initial colectomy.  
+- KRAS/NRAS mutation status (relevant for anti‑EGFR therapy decisions).  
+- Planned chemotherapy regimen and tolerance expectations.  
+- Intra‑operative considerations (vascular involvement, proximity to biliary structures).  
+
+Without these data, the precise surgical technique (one‑stage vs. two‑stage, need for PVE/ALPPS) cannot be definitively finalized.","Step 3 – Critical missing information
+A. Exact segmental distribution of the four lesions on MRI with detailed vascular and biliary relationships of each lesion.
+B. Future liver remnant (FLR) estimation.
+C. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy
+E. Details of any adjuvant chemotherapy received after the initial colectomy.
+F. Patient’s current performance status and comorbidities.
+G. Exact CEA trend over time prior to detection of the lesion.
+H. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA.
+I. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+33,"Woman, 54 years old, right colon adenocarcinoma resected 3 years earlier. CEA 520 ng/mL. at the abdominal CT scan: two liver metastases (segments II and VI), sizes 3.1 and 4.0 cm. KRAS mutated.
+MDT Discussion: Bilobar metachronous liver recurrence, anatomically possible.","Step 3 – Missing information  
+- Current performance status (ECOG/Karnofsky) and comorbidities that may affect chemotherapy tolerance or surgical risk.  
+- Baseline liver function tests and volumetric analysis to confirm adequate FLR.  
+- Details of any prior systemic therapy (agents, duration, response) after the primary colon resection.  
+- Presence or exclusion of extra‑hepatic disease (e.g., lung, peritoneum) on comprehensive staging.  
+- Patient’s preferences regarding aggressive multimodal therapy.  
+- Surgical history of the colon resection (extent of lymphadenectomy, margin status) that could influence recurrence risk.","Step 3 – Critical missing information
+A. Detailed vascular and biliary relationships of both lesions on MRI.
+B. Future liver remnant (FLR) estimation.
+C. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy.
+D. Details of any adjuvant chemotherapy received after the initial colectomy.
+E. Patient’s current performance status and comorbidities.
+F. Exact CEA trend over time prior to detection of the lesions
+G. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA.
+H. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+34,"Man, 60 years old, right colectomy for T3N1 tumor 2 years ago. CEA 140 ng/mL. Liver MRI: three liver metastases (IV, V, VI), sizes 2 to 3 cm. RAS wild-type.
+MDT Discussion: Limited liver involvement, no other locations.","Step 3 – Missing information  
+- Quantitative FLR volume and functional liver reserve (ICG clearance, Child‑Pugh score).  
+- Presence of underlying liver disease (steatosis, fibrosis, cirrhosis).  
+- Detailed anatomic relationship of each metastasis to major vascular structures (portal/hepatic veins, hepatic artery).  
+- Patient’s performance status (ECOG/Karnofsky) and comorbidities that may affect chemotherapy tolerance or surgical risk.  
+- Full molecular profile of the tumor (BRAF, MSI status) to refine systemic therapy choices.  
+- Current CEA trend (baseline vs. post‑operative) and other tumor markers.  
+- Comprehensive staging for extra‑hepatic disease (chest CT/PET).  
+- Prior exposure to chemotherapy agents and any cumulative toxicities.  
+
+Without these data, the precise surgical plan (single‑stage vs. staged, need for PVE) cannot be finalized.","Step 3 – Critical missing information
+A. Detailed vascular and biliary relationships of the three lesions on MRI.
+B. Future liver remnant (FLR) estimation.
+C. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy.
+D. Details of any adjuvant chemotherapy received after the initial colectomy.
+E. Patient’s current performance status and comorbidities.
+F. Exact CEA trend over time prior to detection of the lesions.
+G. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA.
+H. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream
+"
+35,"Woman, 74 years old, rectal cancer resected 5 years ago, new CEA elevation to 600 ng/mL. at the thoraco-abdominal CT scan: single liver metastasis segment IVa (4.2 cm). KRAS mutated.
+MDT Discussion: Late solitary metastasis, potentially curable situation.","Step 3 – Missing information  
+- Baseline liver function (bilirubin, AST/ALT, albumin, INR) and quantitative hepatic reserve (ICG clearance or mebrofenin uptake).  
+- Volumetric analysis of future liver remnant.  
+- Detailed performance status (ECOG/Karnofsky) and comorbidity profile (cardiovascular, pulmonary, renal).  
+- Pathology of the original rectal cancer (stage, margin status, lymphovascular invasion, prior adjuvant therapy).  
+- Results of any prior systemic therapy for metastatic disease.  
+- Full chest imaging report to rule out pulmonary metastases not captured on the initial CT.  
+- Patient’s preferences regarding aggressive therapy versus observation.","Step 3 – Critical missing information
+A. Detailed vascular and biliary relationships of the segment IVa lesion on MRI.
+B. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy.
+C. Patient’s current functional status and comorbidities.
+D. Pathological details of rectal rectal specimen
+E. Whether any adjuvant chemotherapy was administered after the initial rectal cancer treatment.
+F. Exact CEA trend over time prior to detection of the lesion.
+G. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream
+"
+36,"Man, 59 years old, left T3N1 colon cancer operated 3 years earlier. Surveillance: CEA 310 ng/mL. Liver MRI: segment VII lesion (3.8 cm) and small segment V lesion. BRAF wild-type.
+MDT Discussion: Metachronous liver recurrence, eligible for local treatment.","Step 3 – Missing information  
+- Exact size and morphology of the segment V lesion.  
+- Quantitative assessment of future liver remnant (volumetry) and baseline liver function tests (bilirubin, INR, platelets, AST/ALT).  
+- Comprehensive staging imaging to rule out extra‑hepatic disease (chest CT/PET, peritoneal assessment).  
+- KRAS/NRAS mutation status.  
+- Patient’s performance status, comorbidities, and prior exposure to systemic chemotherapy (type, cycles, hepatic toxicity).  
+- Details of any prior liver-directed therapies (e.g., ablation) or hepatic steatosis/fibrosis.  
+
+These data are essential to confirm resectability, select the optimal systemic regimen, and safely plan the operative approach.","Step 3 – Critical missing information
+A. Detailed vascular and biliary relationships of both lesions on MRI (right hepatic vein).
+B. Future liver remnant (FLR) estimation.
+C. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy D. Details of any adjuvant chemotherapy received after the initial colectomy.
+E. Patient’s current performance status and comorbidities.
+F. Exact CEA trend over time prior to detection of the lesions.
+D. Pathological details of colon specimen
+E. Whether any adjuvant chemotherapy was administered after the initial rectal cancer treatment.
+F. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+37,"Woman, 68 years old, T3N2 rectal tumor operated 4 years ago. CEA 78 ng/mL. Liver MRI: two metastases segments III and VI (2 and 2.6 cm), no extra-hepatic involvement.
+MDT Discussion: Bilobar metachronous recurrence, anatomically simple.","Step 3 – Missing information  
+- Current performance status (ECOG/Karnofsky) and comorbidities (cardiopulmonary reserve).  
+- Quantitative future liver remnant volume and liver stiffness/cirrhosis assessment.  
+- Prior systemic therapy exposure and tolerance (any adjuvant chemo after primary resection).  
+- Molecular profile of the primary tumor (KRAS, NRAS, BRAF, MSI status).  
+- Results of recent colonoscopy and chest imaging to definitively exclude extra‑hepatic recurrence.  
+- Baseline liver function tests (bilirubin, albumin, INR, platelet count).  
+- Details of the prior rectal surgery margins and any postoperative radiotherapy.  
+
+Without these data, the recommendation assumes adequate hepatic reserve, acceptable operative risk, and no occult extra‑hepatic disease.","Step 3 – Critical missing information
+A. Detailed vascular and biliary relationships of both lesions on MRI.
+B. Future liver remnant (FLR) estimation.
+C. Grade of differentiation and MSS/ MSI mutation of the primary rectal tumor : influences prognosis and need for intensified adjuvant therapy D. Details of any adjuvant chemotherapy received after the initial colectomy.
+D. Details of any adjuvant chemotherapy received after the initial rectal cancer treatment.
+E. Patient’s current performance status and comorbidities.
+F. Exact CEA trend over time prior to detection of the lesions.
+G. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+38,"Man, 66 years old, right colectomy for T4N2M0 cancer 24 months ago. FDG-PET: four liver foci, 1.5-3.5 cm, no extra-hepatic. KRAS mutated.
+MDT Discussion: Multiple metachronous liver involvement, surgical feasibility to be discussed.","Step 3 – Missing information  
+- Precise segmental location of each hepatic lesion and proximity to major vascular structures.  
+- Quantitative liver function data (bilirubin, ICG clearance, Child‑Pugh score).  
+- Volumetric measurement of future liver remnant.  
+- Patient’s performance status (ECOG/Karnofsky) and comorbidities (cardiopulmonary reserve).  
+- Prior systemic therapy exposure and response (if any).  
+- Baseline tumor markers (CEA, CA 19‑9).  
+- Details of surgical margins achieved at the original right colectomy and any postoperative complications.  
+
+These data are required to finalize resectability determination and to select the optimal surgical sequence.","Step 3 – Critical missing information
+A. Exact segmental distribution of the four lesions on MRI and detailed vascular and biliary relationships of each lesion.
+B. Future liver remnant (FLR) estimation.
+C. Grade of differentiation and MSS/ MSI mutation of the primary rectal tumor : influences prognosis and need for intensified adjuvant therapy D. Details of any adjuvant chemotherapy received after the initial colectomy.
+D. Details of any adjuvant chemotherapy received after the initial rectal cancer treatment.
+E. Patient’s current performance status and comorbidities.
+F. Exact CEA trend over time prior to detection of the lesions.
+G. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+39,"Woman, 71 years old, left colon cancer operated 5 years ago. Liver MRI: liver lesion segment V, 2.8 cm. CEA 90 ng/mL, RAS wild-type.
+MDT Discussion: Isolated metastasis, favorable context, good general condition.","Step 3 – Missing information  
+- Quantitative liver function and volumetry data (e.g., ICG clearance, future liver remnant volume).  
+- Detailed performance status (ECOG/Karnofsky) and comorbidities (cardiopulmonary reserve).  
+- Results of staging for extra‑hepatic disease (chest CT/PET, abdominal imaging beyond the liver).  
+- Prior adjuvant chemotherapy received after the original colon resection and any previous systemic therapy for metastasis.  
+- BRAF mutation status (relevant for prognosis and systemic therapy choice).  
+- Trend of CEA levels over time.  
+
+Without these data, the recommendation assumes adequate hepatic reserve and absence of occult extra‑hepatic disease.","Step 3 – Critical missing information
+A. Detailed vascular and biliary relationships of the segment V lesion on MRI.
+B. Grade of differentiation and MSS/ MSI mutation of the primary rectal tumor : influences prognosis and need for intensified adjuvant therapy 
+C. Details of any adjuvant chemotherapy received after the initial surgery.
+E. Patient’s current performance status and comorbidities.
+F. Exact CEA trend over time prior to detection of the lesion.
+G. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+40,"Man, 64 years old, history of rectal resection (T3N1) 2 years ago. Liver MRI: two liver metastases, segments II and VIII, 2.5 and 3 cm. Thoracic CT scan negative for metastases. KRAS mutated, CEA 240 ng/mL.
+MDT Discussion: Bilobar metachronous recurrence, technically accessible.","Step 3 – Missing information  
+- Baseline liver function tests (bilirubin, AST/ALT, INR, platelets) and volumetric assessment of future liver remnant.  
+- Patient’s performance status (ECOG/Karnofsky) and comorbidities that could affect tolerance of chemotherapy or surgery.  
+- Details of any prior adjuvant therapy after the initial rectal resection (type, duration, response).  
+- Exact relationship of the hepatic lesions to major vascular structures (proximity to hepatic veins, portal pedicles) to confirm feasibility of a parenchymal‑sparing approach.  
+- Current status of the rectal anastomosis (symptoms, surveillance findings) to ensure no occult local recurrence.","Step 3 – Critical missing information
+A. Detailed vascular and biliary relationships of both lesions on MRI.
+B. Future liver remnant (FLR) estimation.
+C. Grade of differentiation and MSS/ MSI mutation of the primary rectal tumor : influences prognosis and need for intensified adjuvant therapy 
+D. Details of any adjuvant chemotherapy received after the initial rectal surgery.
+E. Patient’s current performance status and comorbidities.
+F. Exact CEA trend over time prior to detection of the lesions.
+G. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+41,"Woman, 58 years old, left T4aN2M1 colon cancer with multiple bilobar metastases. After 6 cycles FOLFOX + bevacizumab: 60% volumetric reduction, CEA dropped from 880 to 180 ng/mL. Liver MRI: 5 remaining lesions, well-defined.
+MDT Discussion: Major response to chemotherapy, surgical conversion considered.","Step 3 – Missing information  
+- Exact size and segmental location of each hepatic lesion.  
+- Distance of lesions to major hepatic veins, portal pedicles, and biliary structures.  
+- Quantitative FLR volume and baseline liver function (bilirubin, albumin, ICG clearance, etc.).  
+- Presence or absence of extra‑hepatic metastases (lung, peritoneum, lymph nodes).  
+- Patient’s performance status (ECOG/Karnofsky), comorbidities, and cardiopulmonary reserve.  
+- Molecular profile of the tumor (KRAS, NRAS, BRAF, MSI status).  
+- Current status of the primary tumor (symptomatic obstruction, perforation, or bleeding).  
+- Details of prior chemotherapy tolerance and cumulative oxaliplatin exposure (risk of sinusoidal injury).  
+
+These data are essential to finalize resectability, select the optimal surgical sequence, and tailor peri‑operative management.","Step 3 – Critical missing information
+A. Exact segmental distribution of the five residual lesions on post-chemotherapy MRI and detailed vascular and biliary relationships after tumor shrinkage.
+B. Future liver remnant (FLR) estimation.
+C. Status of the primary colon tumor (resected or not).
+D. Grade of differentiation and MSS/ MSI mutation of the primary rectal tumor : influences prognosis and need for intensified adjuvant therapy
+E. Patient’s performance status for potential staged hepatectomy.
+F. Confirmation of absence of extrahepatic disease on full restaging.
+G. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+42,"Man, 65 years old, sigmoid tumor with eight bilobar liver metastases. After 4 months FOLFIRI: radiological stability, CEA unchanged at 420 ng/mL. Thoracic CT scan negative for metastases.
+MDT Discussion: Stable disease, not resectable, discussion on continuing systemic therapy.","Step 3 – Missing information  
+- Detailed size, exact segmental location, and volumetric data of each liver metastasis.  
+- Baseline liver function tests (bilirubin, albumin, INR, ICG clearance) and presence of steatosis or fibrosis.  
+- Patient’s performance status (ECOG/Karnofsky) and comorbidities (cardiopulmonary reserve).  
+- Molecular profile of the primary tumor (KRAS, NRAS, BRAF, MSI status) to guide targeted agents.  
+- Trend of CEA over time (baseline, after initial FOLFIRI, after proposed regimen).  
+- Whether the primary sigmoid lesion is symptomatic (obstruction, bleeding) and its resectability status.  
+- Details of prior chemotherapy tolerance and cumulative oxaliplatin exposure.  
+
+Without these data, the precise surgical plan (extent of hepatectomy, need for portal vein embolization, timing of primary tumor resection) cannot be finalized.","Step 3 – Critical missing information
+A. Exact segmental distribution and vascular relationships of all eight lesions on MRI.
+B. Future liver remnant (FLR) estimation in case of potential future resection.
+C. Molecular profile beyond current data to guide systemic therapy adaptation.
+D. Status of the primary sigmoid tumor (resected or not).
+E. Grade of differentiation and MSS/ MSI mutation of the primary rectal tumor : influences prognosis and need for intensified adjuvant therapy
+E. Patient’s performance status and tolerance for ongoing systemic therapy.
+F. Complete extrahepatic staging to confirm disease confinement to the liver.
+G. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+43,"Woman, 49 years old, metastatic rectal cancer, ten initial liver lesions, CEA 1200 ng/mL. On FOLFOXIRI: disappearance of three foci, 40% reduction of others.Liver  MRI: several lesions became hypo-intense.
+MDT Discussion: Partial response, evaluation of segmental resectability.","Step 3 – Missing information  
+- Precise anatomical distribution of the residual liver lesions (unilobar vs bilobar, segmental locations, relationship to hepatic veins, portal pedicles, and biliary ducts).  
+- Quantitative liver volumetry and functional reserve assessment (FLR percentage, ICG clearance, etc.).  
+- Status of the primary rectal tumor (size, T/N stage, response to neoadjuvant therapy, need for radiotherapy).  
+- Presence or absence of extra‑hepatic disease (lung, peritoneum, lymph nodes) on PET‑CT or other imaging.  
+- Molecular profile of the tumor (KRAS, NRAS, BRAF, MSI status) to guide targeted systemic therapy.  
+- Patient’s performance status (ECOG), comorbidities, and baseline liver function tests.  
+- Details of prior chemotherapy tolerance and any chemotherapy‑associated liver injury (steatohepatitis, sinusoidal obstruction).  
+
+These data are essential to confirm resectability, select the optimal surgical approach, and tailor systemic therapy.","Step 3 – Critical missing information
+A. Exact segmental distribution of all initial and residual lesions on pre- and post-chemotherapy MRI.
+B. Precise localization of the “disappeared” metastases.
+C. Future liver remnant (FLR) estimation.
+D. Detailed vascular and biliary relationships of residual lesions.
+E. Status and management plan of the rectal primary tumor.
+F. Patient’s performance status for potential staged hepatectomy.
+G. Grade of differentiation and MSS/ MSI mutation of the primary rectal tumor : influences prognosis and need for intensified adjuvant therapy
+H. Molecular profile beyond current data to guide systemic therapy adaptation
+I. Evolution of CEA after first-line chemotherapy.
+J. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+44,"Man, 71 years old, metastatic right colon cancer (KRAS mutated). After 8 cycles FOLFOX: progression of two lesions segment VII and VIII (up to 5.2 cm) at the thoraco-abdominal CT scan. CEA 950 ng/mL.
+MDT Discussion: Progression on chemotherapy, no surgical window at this stage.","Step 3 – Missing information  
+- Current Eastern Cooperative Oncology Group (ECOG) performance status / comorbidity profile.  
+- Baseline and current liver function tests (bilirubin, INR, albumin, platelet count).  
+- Quantitative future liver remnant volume assessment.  
+- Presence or absence of extra‑hepatic metastases (lung, peritoneum, lymph nodes).  
+- Status of the primary colon tumor (resected, symptomatic, obstructive).  
+- Molecular profile beyond KRAS (BRAF, MSI‑high status).  
+- Detailed trend of CEA over time (baseline, peak, response).  
+- Prior toxicity or tolerance to FOLFOX.  
+
+Without these data a definitive surgical plan cannot be finalized.","Step 3 – Critical missing information
+A. Exact segmental distribution and vascular relationships of all liver lesions on MRI.
+B. Status of the primary colon tumor (resected or not).
+C. Grade of differentiation and MSS/ MSI mutation of the primary rectal tumor : influences prognosis and need for intensified adjuvant therapy
+D. Patient’s performance status and tolerance for further systemic therapy.
+E. Presence or absence of extrahepatic disease on full restaging.
+F. Previous systemic treatments received and tolerance.
+G. Baseline future liver remnant (FLR) estimation in case a surgical window appears.
+H. Evolution of CEA after first-line chemotherapy.
+I. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+45,"Woman, 62 years old, left colon adenocarcinoma with seven liver metastases. After 6 cycles FOLFOX + panitumumab: complete disappearance of four foci and reduction of others at the thoraco-abdominal CT scan. CEA normalized.
+MDT Discussion: Radiological complete response in several segments, uncertainty regarding microscopic persistence.","Step 3 – Missing information  
+- Precise anatomic location (segmental distribution) and current size of the residual liver lesions.  
+- Volumetric data: calculated future liver remnant volume and baseline liver volume.  
+- Liver functional reserve: Child‑Pugh score, ICG‑R15, presence of steatosis or chemotherapy‑associated liver injury.  
+- Performance status (ECOG/Karnofsky) and comorbidities that may affect surgical risk.  
+- Confirmation of absence of extra‑hepatic disease (e.g., lung nodules, peritoneal implants) on PET‑CT or dedicated imaging.  
+- Molecular profile beyond EGFR‑targeted therapy eligibility (e.g., BRAF status) that could influence adjuvant choices.  
+
+Without these data a definitive operative plan cannot be finalized.","Step 3 – Critical missing information
+A. Exact segmental distribution of all initial lesions on baseline imaging.
+B. Precise localization of the four “disappeared” metastases.
+C. Detailed vascular and biliary relationships of remaining lesions.
+D. Future liver remnant (FLR) estimation.
+E. Status of the primary colon tumor (resected or not).
+F. Patient’s performance status for potential staged hepatectomy.
+G. Grade of differentiation and MSS/ MSI mutation of the primary rectal tumor : influences prognosis and need for intensified adjuvant therapy
+H. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+46,"Man, 55 years old, metastatic rectal cancer (RAS wild-type), ten initial liver lesions. After 4 cycles of chemotherapy,liver MRI: three residual lesions <2 cm, CEA decreased from 1100 to 80 ng/mL.
+MDT Discussion: Major response, potentially curative situation to be surgically re-evaluated.","Step 3 – Missing information  
+- Precise anatomical distribution of the three residual liver lesions (unilobar vs bilobar, segmental location).  
+- Quantitative liver volumetry data (total liver volume, FLR percentage).  
+- Baseline liver function tests (bilirubin, INR, albumin, platelet count) and presence of chemotherapy‑associated liver injury (steatosis, sinusoidal obstruction).  
+- Performance status and comorbidities influencing surgical risk.  
+- Current local stage and response of the rectal primary (MRI T/N staging, distance from mesorectal fascia).  
+- Confirmation of absence of extra‑hepatic disease (lung nodules, peritoneal implants) on chest/abdomen imaging.  
+- Details of prior systemic regimen (agents, dose intensity) and any targeted therapy used.  
+
+These data are essential to finalize resectability determination and to tailor the operative plan.","Step 3 – Critical missing information
+A. Exact segmental distribution of all initial and residual lesions on pre- and post-chemotherapy MRI and precise localization of the “disappeared” metastases.
+B. Detailed vascular and biliary relationships of residual lesions.
+D. Future liver remnant (FLR) estimation.
+E. Grade of differentiation and MSS/ MSI mutation of the primary rectal tumor : influences prognosis and need for intensified adjuvant therapy
+F. Status and treatment plan of the rectal primary tumor : Circumferential resection margin (CRM) status on pelvic MRI, essential for rectal surgical planning. Exact distance of the rectal tumor from the anal verge, influencing the type of rectal resection and anastomotic risk.
+G. Patient’s performance status for potential staged hepatectomy.
+H. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+47,"Woman, 67 years old, T4N2M1 transverse colon cancer, multiple bilobar liver metastases, CEA 600 ng/mL. On FOLFOX: overall stability, two new lesions detected at the thoraco-abdominal CT scan.
+MDT Discussion: Limited progression on treatment, question of changing protocol.","Step 3 - Missing information  
+- Molecular profile of the primary tumor (KRAS, NRAS, BRAF mutation status; MSI‑high/dMMR).  
+- Exact number, size, and segmental location of each liver metastasis; relationship to major vessels/ducts.  
+- Quantitative assessment of future liver remnant (volumetry) and baseline liver function (ICG clearance, bilirubin, Child‑Pugh).  
+- Detailed description of extra‑hepatic lesions (organ involved, number, size, resectability).  
+- Patient’s performance status (ECOG/Karnofsky) and comorbidities influencing surgical risk.  
+- Response assessment to current FOLFOX (RECIST measurements).  
+- Baseline cardiopulmonary reserve (e.g., pulmonary function tests) if pulmonary metastasectomy is contemplated.  
+- Patient’s preferences regarding aggressive multimodal therapy.","Step 3 – Critical missing information
+A. Exact segmental distribution and vascular relationships of all liver lesions on MRI.
+B. Molecular profile beyond current data to guide systemic therapy adaptation.
+C. Status of the primary colon tumor (resected or not).
+D. Grade of differentiation and MSS/ MSI mutation of the primary rectal tumor : influences prognosis and need for intensified adjuvant therapy
+E. Patient’s performance status and tolerance for further systemic therapy.
+F. Presence or absence of extrahepatic disease on full restaging.
+G. Baseline future liver remnant (FLR) estimation in case a surgical window appears
+H. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+48,"Man, 61 years old, left colon cancer, KRAS mutated. Ten initial liver metastases. After chemotherapy: three lesions not visualized, six stable, one progressing (segment VII, 5 cm) at the abdominal CT scan.
+MDT Discussion: Heterogeneous response, feasibility of selective local treatment to be discussed.","Step 3 – Missing information  
+- Exact anatomical distribution and size of the six stable hepatic lesions (segmental location, proximity to major vessels/ biliary structures).  
+- Quantitative assessment of liver function (Child‑Pugh, ICG clearance, bilirubin, albumin) and calculation of future liver remnant volume.  
+- Presence or absence of extra‑hepatic disease (lung, peritoneum, lymph nodes) on recent PET‑CT or high‑resolution CT.  
+- Details of prior chemotherapy regimen, number of cycles, and toxicity profile.  
+- Baseline performance status (ECOG/Karnofsky) and comorbidities that may affect surgical risk.  
+- Serum tumor markers trend (CEA) to gauge biologic response.  
+- Patient’s preferences regarding aggressive multimodal therapy.","Step 3 – Critical missing information
+A. Exact segmental distribution of all initial, residual, and disappeared lesions and detailed vascular and biliary relationships of the segment VII lesion.
+B. Future liver remnant (FLR) estimation.
+C. Status of the primary colon tumor (resected or not).
+D. Status of the primary colon tumor (resected or not).
+E. Grade of differentiation, MSS/ MSI mutation and molecular profile of the primary cancer: influences prognosis and need for intensified adjuvant therapy
+F. Patient’s performance status for potential combined surgical/ablative strategy.
+G. Presence or absence of extrahepatic disease on full restaging.
+H. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+49,"Woman, 59 years old, metastatic rectal adenocarcinoma with initial bilobar involvement. After 6 cycles FOLFOXIRI: complete disappearance of lesions at the thoraco-abdominal CT scan, CEA normal.
+MDT Discussion: Radiological complete response, need to assess risk of occult residual disease.","Step 3 – Missing information  
+- Detailed baseline hepatic disease characteristics (number, size, segmental distribution of lesions).  
+- Current liver function tests and volumetric assessment of future liver remnant.  
+- Presence or absence of chemotherapy‑associated liver injury (steatosis/steatohepatitis).  
+- Full extra‑hepatic staging (lung nodules, peritoneal disease) beyond the CT report.  
+- Molecular profile of the tumor (KRAS, NRAS, BRAF, MSI status).  
+- Patient’s performance status, comorbidities, and surgical risk assessment.  
+- Interval between last chemotherapy dose and imaging/surgery.  
+- Patient preferences regarding aggressive surgical management versus observation.","Step 3 – Critical missing information
+A. Exact segmental distribution of all initial lesions on baseline imaging.
+B. Precise localization of the initial metastases relative to vascular structures.
+C. Future liver remnant (FLR) estimation.
+D. Status and management plan of the rectal primary tumor : circumferential resection margin (CRM) status on pelvic MRI, essential for rectal surgical planning. 
+E. Patient’s performance status for potential staged hepatectomy.
+F. Confirmation of absence of extrahepatic disease on full restaging.
+G. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+50,"Man, 68 years old, right T4N2M1 colon cancer with bulky metastases. After 8 cycles of chemotherapy: incomplete reduction, persistence of three lesions >5 cm. CEA 450 ng/mL.
+MDT Discussion: Partial response insufficient, no criteria for immediate resectability.","Step 3 – Missing information  
+• Molecular profile of the tumor (KRAS, NRAS, BRAF, MSI status) to select targeted agents.  
+• Detailed hepatic lesion mapping (segmental location, proximity to hepatic veins/portal pedicles, involvement of major vessels).  
+• Baseline and post‑treatment liver function tests, underlying liver disease, and calculation of future liver remnant volume.  
+• Performance status (ECOG/Karnofsky) and comorbidities that may limit further chemotherapy or surgery.  
+• Presence or absence of extra‑hepatic disease (lung, peritoneum, lymph nodes).  
+• Trend of CEA over time and radiologic response metrics (percentage shrinkage).  
+• Patient’s preferences regarding aggressive conversion therapy versus palliative approach.","Step 3 – Critical missing information
+A. Exact segmental distribution and vascular relationships of the residual lesions on MRI.
+B. Status of the primary colon tumor (resected or not).
+C. Patient’s performance status and tolerance for further systemic therapy.
+D. Presence or absence of extrahepatic disease on full restaging.
+E. Previous systemic regimens received and tolerance.
+F. Baseline future liver remnant (FLR) estimation in case a surgical window appears.
+G. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+51,"Man, 63 years old, operated two years earlier with a right hepatectomy for synchronous metastases from a left colon cancer. Surveillance: CEA 220 ng/mL. Liver MRI: two lesions segments II and III (2.1 and 3.4 cm). KRAS mutated.
+MDT Discussion: Contralateral liver recurrence, anatomically accessible, no extra-hepatic disease.","Step 3 – Missing information  
+- Quantitative FLR volume and percentage of total liver volume.  
+- Baseline liver function metrics (Child‑Pugh class, ICG clearance, bilirubin, albumin, platelet count).  
+- Patient’s performance status (ECOG/Karnofsky) and comorbidities (cardiopulmonary reserve).  
+- Details of prior adjuvant/neoadjuvant chemotherapy regimens and response.  
+- Presence or absence of microscopic vascular invasion or positive margins at the previous hepatectomy.  
+- Full extra‑hepatic staging (chest CT or PET‑CT) to definitively exclude distant disease.  
+- BRAF and microsatellite instability status, which may influence systemic therapy choices.  
+- Anatomical details of portal and hepatic venous anatomy that could affect portal vein embolization planning.","Step 3 – Critical missing information
+A. Detailed vascular and biliary anatomy of segments II and III on MRI.
+B. Exact volumetric assessment of the remaining liver (future liver remnant).
+C. Grade of differentiation, MSS/ MSI mutation and molecular profile of the primary cancer: influences prognosis and need for intensified adjuvant therapy.
+D. Details of previous chemotherapy received before/after the first hepatectomy.
+E. Patient’s current liver function and performance status.
+F. Exact CEA trend prior to detection of recurrence.
+G. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+52,"Woman, 70 years old, history of left R0 hepatectomy for liver metastases three years ago. CEA 180 ng/mL. Liver MRI: single lesion segment VIII (3.8 cm) in contact with the IVC. RAS wild-type.
+MDT Discussion: Deep solitary recurrence, technical assessment of resection required.","Step 3 – Missing information  
+- Detailed liver function parameters (bilirubin, albumin, platelet count, ICG clearance, MELD score).  
+- Quantitative FLR volume from pre‑operative CT volumetry.  
+- Exact extent and nature of IVC contact (percentage circumferential involvement, length of contact).  
+- Performance status (ECOG/Karnofsky) and comorbidities that may affect surgical risk.  
+- Confirmation of absence of extra‑hepatic disease (full chest CT, PET‑CT if available).  
+- KRAS/NRAS/BRAF mutation status beyond RAS wild‑type (e.g., BRAF V600E).  
+- Trends in CEA over time and response to any prior systemic therapy.  
+- Details of prior left hepatectomy (margin status, postoperative liver regeneration).  
+
+These data are essential to finalize the resectability decision and to tailor the peri‑operative oncologic plan.","Step 3 – Critical missing information
+A. Detailed relationship of the segment VIII lesion to the IVC and hepatic veins on MRI.
+B. Exact volumetric assessment of the remaining liver (future liver remnant).
+C. Patient’s current liver function and performance status.
+D. Details of previous chemotherapy received before/after the first hepatectomy.
+E. Grade of differentiation, MSS/ MSI mutation and molecular profile of the primary cancer: influences prognosis and need for intensified adjuvant therapy.
+F. Exact CEA trend prior to detection of recurrence.
+G. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+53,"Man, 59 years old, left hepatectomy performed two years prior. Liver MRI: three new lesions (segments V, VI, VII) measuring 1.5 to 2.8 cm.On the thoracic CT scan no other metastases. KRAS mutated, CEA 480 ng/mL.
+MDT Discussion: Multiple liver recurrence, feasibility of local treatment to be re-evaluated.","Step 3 - Missing information  
+- Quantitative liver function: Child‑Pugh score, MELD, indocyanine green clearance, bilirubin, albumin, platelets.  
+- Precise FLR volumetry (percentage of total liver volume) after accounting for prior left hepatectomy.  
+- Details of prior systemic chemotherapy (agents, cycles, liver‑directed toxicity).  
+- Performance status (ECOG/Karnofsky) and comorbidities influencing surgical risk.  
+- Vascular involvement of the lesions (proximity to hepatic veins, portal branches).  
+- Full extra‑hepatic staging (e.g., PET‑CT) to definitively exclude occult metastases.  
+- Patient preference regarding aggressive surgery versus non‑surgical approaches.","Step 3 – Critical missing information
+A. Detailed vascular and biliary relationships of the three lesions on MRI.
+B. Exact volumetric assessment of the remaining liver (future liver remnant).
+C. Patient’s current liver function and performance status.
+D. Details of previous chemotherapy received before/after the left hepatectomy.
+E. Grade of differentiation, MSS/ MSI mutation and molecular profile of the primary cancer: influences prognosis and need for intensified adjuvant therapy.
+F. Confirmation of absence of extrahepatic disease on full staging.
+G. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+54,"Woman, 65 years old, right hepatectomy for metastases in 2022. Surveillance: CEA 150 ng/mL. Liver MRI: two lesions segments II and III (2.3 and 3.1 cm). BRAF wild-type.
+MDT Discussion: Late liver recurrence, no other locations, satisfactory liver volume.","Step 3 – Missing information  
+- Baseline liver function: bilirubin, AST/ALT, INR, albumin, indocyanine‑green clearance or MELD score.  
+- Exact volumetric measurement of the future liver remnant after planned left lateral resection.  
+- Performance status (ECOG/Karnofsky) and comorbidities that may affect tolerance of chemotherapy or surgery.  
+- Prior systemic therapy details (agents used, duration, response, toxicity).  
+- RAS mutation status (KRAS/NRAS) to refine systemic therapy choices.  
+- Full staging work‑up results: chest CT, pelvic imaging, PET‑CT if performed, to definitively exclude extra‑hepatic disease.  
+- Interval since the previous right hepatectomy and any postoperative complications that might influence repeat surgery.  
+- Details of the prior hepatic resection margins (R0 vs. R1) and pathology (e.g., tumor grade, lymphovascular invasion).  
+
+Without these data, the recommendation assumes adequate hepatic reserve and patient fitness for both chemotherapy and repeat hepatic surgery.","Step 3 – Critical missing information
+A. Detailed vascular and biliary relationships of both lesions on MRI.
+B. Exact volumetric assessment of the remaining liver (future liver remnant).
+C. Patient’s current liver function and performance status.
+D. Details of previous chemotherapy received before/after the right hepatectomy.
+E. Grade of differentiation, MSS/ MSI mutation and molecular profile of the primary cancer: influences prognosis and need for intensified adjuvant therapy.
+F. Exact CEA trend prior to detection of recurrence.
+G. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+55,"Man, 67 years old, history of bisegmentectomy V-VI. Liver MRI: recurrence segment IVa (2.6 cm) and suspicious lesion segment VIII (1.9 cm).No other metastases at the thoracic  CT scan. CEA 250 ng/mL, KRAS mutated.
+MDT Discussion: Bilobar recurrence on partially resected liver, question of surgical or thermo-ablative approach.","Step 3 – Missing information  
+- Quantitative liver function tests (bilirubin, INR, albumin, platelet count) and assessment for underlying liver disease (e.g., fibrosis/cirrhosis).  
+- Precise volumetric measurement of the future liver remnant after the proposed resection/ablation.  
+- Performance status (ECOG/Karnofsky) and comorbidities that could affect surgical risk.  
+- Details of any prior systemic therapy (type, duration, response).  
+- Exact relationship of the segment VIII lesion to major hepatic veins or portal structures (to confirm feasibility of ablation).  
+- PET‑CT or whole‑body imaging to definitively exclude occult extra‑hepatic metastases.  
+- Pathologic confirmation that the segment VIII lesion is metastatic colorectal cancer (biopsy if imaging is equivocal).  
+
+Without these data a definitive operative plan cannot be finalized.","Step 3 – Critical missing information
+A. Confirmation of the malignant nature of the segment VIII lesion on MRI.
+B. Detailed vascular and biliary relationships of both lesions.
+C. Exact volumetric assessment of the remaining liver (future liver remnant).
+D. Patient’s current liver function and performance status.
+E. Details of previous chemotherapy received before/after the prior liver surgery.
+F. Details of timing between previous resection and current recurrence
+G. Confirmation of absence of extrahepatic disease on full staging.
+H. Grade of differentiation, MSS/ MSI mutation of the primary cancer: influences prognosis and need for intensified adjuvant therapy.
+I. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+56,"Woman, 61 years old, extended right hepatectomy performed three years earlier. Surveillance: CEA 360 ng/mL. Liver MRI: single metastasis segment III (3.8 cm). KRAS mutated.
+MDT Discussion: Contralateral liver recurrence, potentially resectable depending on future liver remnant.","Step 3 – Missing information  
+- Quantitative FLR volume and functional reserve measurements.  
+- Presence or absence of portal hypertension or underlying liver disease (steatosis, fibrosis).  
+- Details of the primary colorectal tumor: location, stage, resection status, time since primary surgery, and whether it has been resected with clear margins.  
+- Prior systemic therapy regimens, cumulative exposure, and interval since last chemotherapy.  
+- Comprehensive extra‑hepatic staging (CT chest, PET‑CT) to exclude occult metastases.  
+- Patient’s performance status (ECOG/Karnofsky) and comorbid conditions that may affect surgical risk.  
+- BRAF, MSI, and other molecular markers that could influence systemic therapy choices.","Step 3 – Critical missing information
+A. Detailed vascular and biliary relationships of the segment III lesion on MRI.
+B. Exact volumetric assessment of the remaining liver (future liver remnant).
+C. Patient’s current liver function and performance status.
+D. Details of previous chemotherapy received before/after the extended hepatectomy.
+E. Grade of differentiation, MSS/ MSI mutation of the primary cancer: influences prognosis and need for intensified adjuvant therapy
+F. Confirmation of absence of extrahepatic disease on full staging.
+G. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+57,"Man, 71 years old, history of segment VII resection. Liver MRI: local recurrence at resection site (2.5 cm) and additional nodule segment V. No other lesion at the thoraco CT scan CEA 410 ng/mL.
+MDT Discussion: Localized recurrence on resection scar, complex technical feasibility.","Step 3 – Missing information  
+- Quantitative liver function data (bilirubin, albumin, INR, ICG clearance, presence of steatosis or fibrosis).  
+- Precise volumetric measurements of total liver and anticipated FLR after proposed resection.  
+- Patient’s performance status, comorbidities, and cardiopulmonary reserve.  
+- Details of prior systemic therapy (type, response, interval since last cycle).  
+- Molecular profile of the primary colorectal cancer (KRAS, NRAS, BRAF, MSI status).  
+- Exact size, depth, and vascular relationship of the segment V nodule.  
+- Margin status of the original segment VII resection and time interval since that surgery.  
+
+These data are essential to finalize resectability determination and to tailor the optimal therapeutic sequence.","Step 3 – Critical missing information
+A. Detailed vascular and biliary relationships of the segment VII recurrence on MRI.
+B. Exact volumetric assessment of the remaining liver (future liver remnant).
+C. Patient’s current liver function and performance status.
+D. Details of previous chemotherapy received before/after the prior liver surgery.
+E. Confirmation of absence of extrahepatic disease on full staging.
+F. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream
+G. Grade of differentiation, MSS/ MSI mutation and molecular status of the primary cancer: influences prognosis and need for intensified adjuvant therapy
+H. Details of timing between previous resection and current recurrence
+I. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+58,"Woman, 55 years old, history of left hepatectomy for synchronous metastases. Surveillance: CEA 560 ng/mL. Liver MRI: multiple lesions in right and left lobes (up to 4.5 cm). RAS wild-type.
+MDT Discussion: Diffuse liver recurrence, potentially non-curative.","Step 3 – Missing information  
+- Exact extent of prior left hepatectomy and residual liver anatomy (segments remaining, baseline FLR).  
+- Current liver function tests (bilirubin, albumin, INR, platelet count) and presence of chemotherapy‑associated liver injury.  
+- Performance status (ECOG/Karnofsky) and comorbidities that may affect tolerance of intensive chemotherapy or major hepatectomy.  
+- Detailed count, precise locations, and relationship of each lesion to major vascular/biliary structures.  
+- Presence or absence of extra‑hepatic disease (lung, peritoneum, lymph nodes) on recent staging scans.  
+- Prior systemic therapy history, response, and cumulative chemotherapy exposure.  
+- Molecular profile beyond RAS (BRAF, MSI status) that could influence systemic options.  
+- Trends in CEA over time and any symptoms suggestive of disease progression.  
+
+These data are essential to refine the conversion plan, estimate operative risk, and confirm the feasibility of a curative surgical approach.","Step 3 – Critical missing information
+A. Exact segmental distribution and vascular relationships of all lesions on MRI.
+B. Current volumetric assessment of the remaining liver (future liver remnant).
+C. Patient’s liver function and performance status.
+D. Details of previous chemotherapy received before/after the left hepatectomy.
+E. Presence or absence of extrahepatic disease on full staging.
+F. Evolution of CEA and radiologic response over time.
+G. Details of timing between previous resection and current recurrence
+H. Grade of differentiation, MSS/ MSI mutation of the primary cancer: influences prognosis and need for intensified adjuvant therapy
+I. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+59,"Man, 68 years old, right hepatectomy in 2021 for three KRAS mutated metastases. Liver MRI 2025: two new lesions segments IVb and II (2.7 and 3.2 cm).No other lesion at the thoraco-abdominal CT scan. CEA 300 ng/mL.
+MDT Discussion: Bilobar liver recurrence, sufficient liver volume.","Step 3 – Missing information  
+- Current liver function tests (bilirubin, albumin, INR), Child‑Pugh class, and ICG clearance values.  
+- Detailed volumetric data of the left liver and calculated FLR percentage.  
+- Performance status (ECOG/Karnofsky) and comorbidities that may affect surgical risk.  
+- History of prior systemic chemotherapy (agents, cycles, response, liver toxicity).  
+- Trend of CEA levels over time and any prior imaging showing lesion growth rate.  
+- Molecular profile beyond KRAS (e.g., MSI status, BRAF).  
+- Proximity of lesions to major vascular structures (hepatic veins, portal pedicles) and whether they involve them.  
+- Patient’s preferences regarding aggressive surgery versus less invasive alternatives.","Step 3 – Critical missing information
+A. Detailed vascular and biliary relationships of both lesions on MRI.
+B. Exact volumetric assessment of the remaining liver (future liver remnant).
+C. Patient’s current liver function and performance status.
+D. Details of previous chemotherapy received before/after the right hepatectomy.
+E. Confirmation of absence of extrahepatic disease on full staging.
+F. Grade of differentiation, MSS/ MSI mutation and molecular status of the primary cancer: influences prognosis and need for intensified adjuvant therapy
+G. Details of timing between previous resection and current recurrence
+H. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+60,"Woman, 60 years old, history of segmental VI-VII resection. Liver MRI: new lesion segment III (2.4 cm) and micronodule segment II. BRAF wild-type.
+MDT Discussion: Metachronous contralateral recurrence, possible minimally invasive approach depending on remnant volume.","Step 3 – Missing information  
+- Quantitative liver volumetry (percentage of future liver remnant).  
+- Detailed liver function assessment (ICG clearance, Child‑Pugh, MELD).  
+- KRAS/NRAS mutation status and any prior systemic therapy regimens.  
+- Performance status (ECOG/ASA) and comorbidities influencing surgical risk.  
+- Serum tumor markers (CEA, CA 19‑9) trend.  
+- Interval since primary colorectal resection and prior adjuvant therapy.  
+- Confirmation of absence of extra‑hepatic disease on whole‑body imaging.","Step 3 – Critical missing information
+A. Confirmation of the malignant nature of the segment II micronodule on MRI.
+B. Detailed vascular and biliary relationships of both lesions.
+C. Exact volumetric assessment of the remaining liver (future liver remnant).
+D. Patient’s current liver function and performance status.
+E. Details of previous chemotherapy received before/after the prior liver surgery.
+F. Confirmation of absence of extrahepatic disease on full staging.
+G. Grade of differentiation, MSS/ MSI mutation and molecular status of the primary cancer: influences prognosis and need for intensified adjuvant therapy
+H. Details of timing between previous resection and current recurrence
+I. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+61,"Man, 66 years old, operated two years earlier with a left hepatectomy.Liver MRI: recurrence segment VIII (3.1 cm) in contact with the middle hepatic vein. CEA 200 ng/mL.
+MDT Discussion: Isolated complex recurrence of the hepatic dome, technical assessment required.","Step 3 – Missing information  
+- Detailed liver function parameters (bilirubin, albumin, platelet count, ICG clearance, Child‑Pugh classification).  
+- Quantitative volumetry of the remaining right liver and calculated FLR percentage.  
+- Extent of middle hepatic vein involvement (percentage of circumference, length of contact).  
+- Presence or absence of extra‑hepatic disease on full staging (especially pulmonary and peritoneal sites).  
+- Molecular profile of the primary tumor (KRAS, NRAS, BRAF, MSI status) to guide systemic therapy choice.  
+- Prior systemic therapy history (agents received, response, toxicity).  
+- Patient’s performance status (ECOG/Karnofsky) and comorbidities that may affect surgical risk.  
+- Details of the original left hepatectomy margins and any postoperative complications.  
+
+These data are essential to finalize resectability, tailor neoadjuvant therapy, and plan the operative approach safely.","Step 3 – Critical missing information
+A. Detailed relationship of the segment VIII lesion to the middle and right hepatic veins on MRI.
+B. Exact volumetric assessment of the remaining liver (future liver remnant).
+C. Patient’s current liver function and performance status.
+D. Details of previous chemotherapy received before/after the left hepatectomy.
+E. Confirmation of absence of extrahepatic disease on full staging.
+F. Feasibility of venous preservation versus reconstruction.
+G. Grade of differentiation, MSS/ MSI mutation and molecular status of the primary cancer: influences prognosis and need for intensified adjuvant therapy
+H. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+62,"Woman, 58 years old, history of bisegmentectomy IV-V. Liver MRI: single lesion segment VII (3.9 cm). No other lesion at the thoraco-abdominal CT scan. KRAS mutated.
+MDT Discussion: Late isolated recurrence, anatomically approachable.","Step 3 – Missing information  
+- Quantitative assessment of future liver remnant (volumetry) and functional reserve (ICG clearance, MELD, Child‑Pugh).  
+- Detailed performance status (ECOG/Karnofsky) and comorbidities (cardiopulmonary reserve).  
+- Baseline tumor markers (CEA, CA 19‑9) and trend over time.  
+- Disease‑free interval length from the prior liver resection.  
+- Prior systemic therapy exposure and response.  
+- Histopathologic details of the initial resection (margin status, lymphovascular invasion).  
+- Presence of underlying liver disease (steatosis, fibrosis, cirrhosis).  
+
+These data are needed to fine‑tune peri‑operative planning and confirm the safety of immediate repeat hepatectomy.","Step 3 – Critical missing information
+A. Detailed vascular and biliary relationships of the segment VII lesion on MRI.
+B. Exact volumetric assessment of the remaining liver (future liver remnant).
+C. Patient’s current liver function and performance status.
+D. Details of previous chemotherapy received before/after the prior liver surgery.
+E. Confirmation of absence of extrahepatic disease on full staging.
+F. Exact CEA trend prior to detection of recurrence.
+G. Grade of differentiation, MSS/ MSI mutation and molecular status of the primary cancer: influences prognosis and need for intensified adjuvant therapy
+H. Details of timing between previous resection and current recurrence
+I. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+63,"Man, 72 years old, right hepatectomy 4 years ago. Current liver MRI: multiple nodules segment III, 1-2 cm. CEA 550 ng/mL, RAS wild-type.
+MDT Discussion: Multifocal recurrence, assessment of resectability and local alternatives.","Step 3 – Missing information  
+- Detailed liver function tests (bilirubin, INR, albumin, platelet count, ICG clearance).  
+- Quantitative volumetric data of the remaining left liver and projected FLR after segment III resection.  
+- Presence or absence of extra‑hepatic metastases (lung, peritoneum, lymph nodes).  
+- Performance status (ECOG/Karnofsky) and comorbidities that may affect surgical risk.  
+- Prior adjuvant or neoadjuvant therapies received after the initial right hepatectomy.  
+- BRAF mutation status and microsatellite instability status.  
+- Trend of CEA over time and any symptomatic liver dysfunction.  
+
+These data are essential to confirm that curative‑intent surgery is safe and appropriate.","Step 3 – Critical missing information
+A. Exact number and precise segmental distribution of nodules within segment III.
+B. Detailed vascular and biliary relationships of the lesions.
+C. Exact volumetric assessment of the remaining liver (future liver remnant).
+D. Patient’s current liver function and performance status.
+E. Details of previous chemotherapy received before/after the prior liver surgery.
+F. Confirmation of absence of extrahepatic disease on full staging.
+G. Exact CEA trend prior to detection of recurrence.
+H. Grade of differentiation, MSS/ MSI mutation and molecular status of the primary cancer: influences prognosis and need for intensified adjuvant therapy
+I. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+64,"Woman, 59 years old, left T4N2M1 colon cancer with three liver metastases (2-4 cm) and two bilateral pulmonary nodules at the thoraco-abdominal CT scan. KRAS mutated, CEA 620 ng/mL.
+MDT Discussion: Synchronous hepato-pulmonary involvement, discussion of sequential strategy.","Step 3 – Missing information  
+- Patient’s performance status (ECOG/Karnofsky) and comorbidities (cardiopulmonary reserve).  
+- Baseline liver function tests and presence/absence of underlying liver disease (steatosis, fibrosis).  
+- Detailed hepatic lesion mapping (segmental location, relationship to major vessels/ducts).  
+- Volumetric assessment of future liver remnant.  
+- Exact size, number, and anatomical distribution of pulmonary nodules (central vs peripheral, mediastinal involvement).  
+- Pulmonary function tests (FEV1, DLCO) to confirm resectability of lung lesions.  
+- Molecular profile beyond KRAS (NRAS, BRAF, MSI status) that could influence systemic therapy choice.  
+- Prior treatment history (neoadjuvant, adjuvant) and any previous surgeries.  
+- Patient’s preferences regarding aggressive multimodal therapy.","Step 3 – Critical missing information
+A. Exact segmental distribution and vascular relationships of the liver metastases.
+B. Resectability assessment of the pulmonary nodules by thoracic surgery.
+C. Future liver remnant (FLR) estimation.
+D. Status and symptoms related to the primary colon tumor.
+E. Patient’s performance status for staged surgical procedures.
+F. Confirmation of absence of other extrahepatic disease on full staging.
+G. Grade of differentiation, MSS/ MSI mutation and molecular status of the primary cancer: influences prognosis and need for intensified adjuvant therapy
+H. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+65,"Man, 68 years old, right colon adenocarcinoma, four liver metastases (1.5-3.8 cm) and nodular peritoneal involvement at the thoraco-abdominal CT scan. CEA 950 ng/mL.
+MDT Discussion: Hepato-peritoneal disease, not curable upfront, discussion of induction chemotherapy.","Step 3 – Missing information  
+- Patient’s performance status (ECOG/Karnofsky) and comorbidities (cardiopulmonary reserve).  
+- Baseline liver function tests and volumetric assessment of future liver remnant.  
+- Detailed distribution and burden of peritoneal disease (PCI score, location of nodules).  
+- Molecular profile of the tumor (KRAS, NRAS, BRAF mutation status; MSI‑high/dMMR).  
+- Prior treatments (neoadjuvant, adjuvant, radiation) and response to any earlier therapy.  
+- Serum albumin, bilirubin, and other labs influencing surgical risk.  
+- Patient’s preferences regarding aggressive surgery versus palliative approach.","Step 3 – Critical missing information
+A. Extent and distribution of peritoneal disease on imaging.
+B. Exact segmental distribution and vascular relationships of liver lesions.
+C. Molecular profile to optimize systemic treatment.
+D. Status and symptoms related to the primary colon tumor.
+E. Evolution of CEA and radiologic response over time.
+F. Patient’s performance status for staged surgical procedures.
+G. Confirmation of absence of other extrahepatic disease on full staging.
+H. Grade of differentiation, MSS/ MSI mutation and molecular status of the primary cancer: influences prognosis and need for intensified adjuvant therapy
+I. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+66,"Woman, 54 years old, mid-rectal T3N1 tumor with five bilobar liver metastases and a right lung metastasis at the thoraco-abdominal CT scan. RAS wild-type, CEA 330 ng/mL.
+MDT Discussion: Limited hepato-pulmonary involvement, evaluation of a possible combined approach.","Step 3 - Missing information  
+- Precise size, number, and segmental location of each liver metastasis; relationship to major hepatic veins, portal pedicles, and biliary structures.  
+- Volumetric data to calculate baseline and post‑PVE future liver remnant.  
+- Exact location, size, and depth of the right‑lung metastasis; presence of additional pulmonary nodules.  
+- Pulmonary function test results and cardiopulmonary risk assessment.  
+- Patient’s performance status (ECOG/Karnofsky) and comorbidities (e.g., cardiovascular, diabetes).  
+- Baseline liver function tests, bilirubin, albumin, coagulation profile.  
+- Molecular profile beyond RAS (e.g., BRAF, MSI status).  
+- Prior treatments (neoadjuvant radiotherapy to rectum, previous systemic therapy).  
+- Details of rectal tumor management plan (e.g., neoadjuvant chemoradiation, timing of rectal surgery).  
+
+These data are essential to finalize resectability, select the optimal surgical sequence, and anticipate peri‑operative risk.","Step 3 – Critical missing information
+A. Exact segmental distribution and vascular relationships of the liver metastases.
+B. Resectability assessment of the lung lesion by thoracic surgery.
+C. Future liver remnant (FLR) estimation.
+D. Detailed pelvic MRI to plan rectal treatment.
+E. Patient’s performance status for staged multimodal procedures.
+F. Confirmation of absence of other extrahepatic disease on full staging.
+G. Evolution of CEA and radiologic response over time.
+H. Grade of differentiation, MSS/ MSI mutation and molecular status of the primary cancer: influences prognosis and need for intensified adjuvant therapy
+I. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+67,"Man, 62 years old, left colon cancer with six liver metastases and lymph node involvement of the hepatic pedicle at the abdominal CT scan. KRAS mutated, CEA 780 ng/mL.
+MDT Discussion: Liver involvement associated with extra-hepatic lymph nodes, unfavorable prognosis.","Step 3 – Missing information  
+- Exact size, segmental location, and relationship of each liver metastasis to major vessels and bile ducts.  
+- Quantitative assessment of future liver remnant (volumetry).  
+- Detailed imaging of the hepatic‑pedicle node (size, number, bilateral involvement).  
+- Presence or absence of additional extra‑hepatic disease (e.g., pulmonary, peritoneal).  
+- Patient’s performance status (ECOG/Karnofsky), comorbidities, and liver function tests (bilirubin, INR, albumin, portal hypertension signs).  
+- Prior systemic therapy received, if any, and response to it.  
+- Staging of the primary colon tumor (T stage, nodal status beyond hepatic pedicle).  
+- Patient’s preferences and goals of care.  
+
+Without these data a definitive operative plan (extent of hepatectomy, need for PVE, feasibility of simultaneous versus staged resection) cannot be finalized.","Step 3 – Critical missing information
+A. Presence of potential extra-hepatic involvement on 18FDG PET-CT.
+B. Detailed liver MRI describing vascular and biliary relationships of each lesion.
+C. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy.
+D. Patient’s general condition and surgical fitness for combined procedures.
+E. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA.
+F. Status and symptoms related to the primary colon tumor.
+G. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+68,"Woman, 70 years old, right T4N2M1 colon cancer, multiple bilobar liver metastases and a single cerebellar metastasis at the total body CT scan. CEA 860 ng/mL.
+MDT Discussion: Systemic disease with brain involvement, neurological priority indication.","Step 3 – Missing information  
+- Detailed performance status (ECOG/Karnofsky) and comorbidities (cardiopulmonary reserve).  
+- Exact size, number, and segmental distribution of each liver metastasis; volumetric data for future liver remnant.  
+- Size, location, and symptomatology of the cerebellar lesion; feasibility of surgical resection vs. SRS.  
+- Molecular profile of the primary tumor (KRAS, NRAS, BRAF, MSI/MMR status).  
+- Baseline liver function tests, presence of steatosis or chemotherapy‑associated liver injury, and portal hypertension assessment.  
+- Prior treatments (neoadjuvant, radiation, previous surgeries).  
+- Patient’s preferences regarding aggressive multimodality therapy.","Step 3 – Critical missing information
+A. Neurological status and resectability of the cerebellar metastasis.
+B. Exact segmental distribution and vascular relationships of liver lesions.
+C. Patient’s performance status and tolerance for systemic therapy.
+D. Molecular profile to optimize systemic treatment.
+E. Status and symptoms related to the primary colon tumor.
+F. Presence or absence of additional extrahepatic disease on full staging.
+G. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA.
+H. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+69,"Man, 55 years old, rectosigmoid tumor, four liver metastases and pelvic peritoneal implants at the abdominal CT scan. BRAF wild-type, CEA 320 ng/mL.
+MDT Discussion: Hepato-peritoneal involvement, possible multimodal strategy to be discussed.","Step 3 – Missing information  
+- Detailed hepatic lesion data: segmental location, maximal diameter of each metastasis, proximity to major vessels/ biliary structures.  
+- Baseline liver function tests (bilirubin, AST/ALT, INR, albumin) and volumetric assessment of future liver remnant.  
+- Assessment of chemotherapy‑associated liver injury (steatosis/steatohepatitis) if prior treatment.  
+- Exact extent of peritoneal disease: peritoneal cancer index (PCI), size and number of pelvic implants, involvement of other peritoneal surfaces.  
+- Patient performance status (ECOG/Karnofsky), comorbidities, cardiopulmonary reserve.  
+- KRAS/NRAS mutation status and microsatellite instability (MSI) status for targeted/immune therapy planning.  
+- Prior oncologic treatments (neoadjuvant, radiation) and timing relative to planned surgery.  
+- Patient preferences regarding aggressive multimodal therapy.","Step 3 – Critical missing information
+A. Extent and distribution of peritoneal disease on imaging.
+B. Exact segmental distribution and vascular relationships of liver lesions.
+C. Molecular profile to optimize systemic treatment.
+D. Status and symptoms related to the primary colon tumor.
+E. Evolution of CEA and radiologic response over time.
+F. Patient’s performance status for staged surgical procedures.
+G. Confirmation of absence of other extrahepatic disease on full staging.
+H. Grade of differentiation, MSS/ MSI mutation and molecular status of the primary cancer: influences prognosis and need for intensified adjuvant therapy
+I. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+70,"Woman, 66 years old, T3N1M1 transverse colon cancer, five liver metastases and two pulmonary nodules at the thoraco-abdominal CT scan. RAS wild-type, CEA 420 ng/mL.
+MDT Discussion: Bilateral hepato-pulmonary involvement, potentially treatable sequentially.","Step 3 – Missing information  
+- Precise size, segmental location, and relationship of each liver metastasis to vascular structures.  
+- Volumetric data to calculate future liver remnant and presence of steatosis or chemotherapy‑associated liver injury.  
+- Detailed characteristics of pulmonary nodules (size, laterality, proximity to major bronchi/vessels).  
+- Pulmonary function test results and cardiopulmonary fitness (e.g., VO₂ max).  
+- Patient’s performance status (ECOG/Karnofsky) and comorbidities (cardiac, renal, diabetes).  
+- Baseline liver biochemistry, bilirubin, INR, platelet count (to assess portal hypertension).  
+- BRAF mutation and MSI status (for targeted/immune therapy considerations).  
+- Prior treatments (neoadjuvant, radiation) and any contraindications to anti‑EGFR agents.  
+
+Without these data a definitive surgical plan cannot be finalized.","Step 3 – Critical missing information
+A. Exact segmental distribution and vascular relationships of the liver metastases.
+B. Resectability assessment of the lung lesion by thoracic surgery.
+C. Future liver remnant (FLR) estimation.
+D. Status and symptoms related to the primary colon tumor.
+E. Patient’s performance status for staged multimodal procedures.
+F. Confirmation of absence of other extrahepatic disease on full staging.
+G. Evolution of CEA and radiologic response over time.
+H. Grade of differentiation, MSS/ MSI mutation and molecular status of the primary cancer: influences prognosis and need for intensified adjuvant therapy
+I. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+71,"Man, 61 years old, right colon adenocarcinoma with three liver metastases and mediastinal lymph node involvement on PET FDG. CEA 680 ng/mL, KRAS mutated.
+MDT Discussion: Systemic disease with extra-hepatic extension, palliative approach.","Step 3 - Missing information  
+- Detailed size, segmental location, and volumetric relationship of each liver metastasis (to assess future liver remnant if conversion considered).  
+- Exact anatomic location and size of the mediastinal lymph node(s) and whether they are surgically accessible.  
+- Patient’s performance status (ECOG/Karnofsky) and comorbidities that may influence tolerance to intensive chemotherapy.  
+- Baseline hepatic function tests, bilirubin, albumin, and coagulation profile.  
+- Pulmonary function and cardiopulmonary reserve (relevant for potential mediastinal surgery).  
+- Molecular profile beyond KRAS (MSI/MMR, BRAF, HER2).  
+- Prior oncologic treatments (neoadjuvant, adjuvant) and response to any earlier therapy.  
+- Patient’s preferences and goals of care.","Step 3 – Critical missing information
+A. Exact segmental distribution and vascular relationships of the liver metastases.
+B. Resectability assessment of the mediastinal lesion by thoracic surgery.
+C. Future liver remnant (FLR) estimation.
+D. Status and symptoms related to the primary colon tumor.
+E. Patient’s performance status for staged multimodal procedures.
+F. Confirmation of absence of other extrahepatic disease on full staging.
+G. Evolution of CEA and radiologic response over time.
+H. Grade of differentiation, MSS/ MSI mutation and molecular status of the primary cancer: influences prognosis and need for intensified adjuvant therapy
+I. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream
+J. Extent and confirmation of mediastinal lymph node involvement."
+72,"Woman, 60 years old, T4N2 rectal tumor, six bilobar liver metastases, pulmonary micronodules at the thoraco-abdominal CT scan, CEA 1250 ng/mL, RAS wild-type.
+MDT Discussion: Extensive hepato-pulmonary involvement, not resectable upfront.","Step 3 – Missing information  
+- Baseline performance status (ECOG/Karnofsky).  
+- Detailed liver function tests (bilirubin, INR, albumin, platelet count) and presence of underlying liver disease (steatosis, fibrosis).  
+- Precise size, number, and segmental distribution of each liver metastasis; volumetric FLR assessment.  
+- Exact characteristics of pulmonary nodules (size, number, laterality, metabolic activity).  
+- BRAF mutation status and microsatellite instability status of the primary tumor.  
+- Current CEA trend (baseline vs. post‑treatment).  
+- Comorbidities and surgical risk factors (cardiopulmonary reserve).  
+- Prior therapies received (neoadjuvant chemoradiation, prior systemic lines).  
+- Patient preferences regarding aggressive multimodality treatment.","Step 3 – Critical missing information
+A. Exact segmental distribution and vascular relationships of the liver metastases.
+B. Characterization of pulmonary micronodules on chest CT.
+C. Future liver remnant (FLR) estimation.
+D. Status and symptoms related to the primary rectum tumor : detailed pelvic MRI to plan rectal treatment.
+E. Patient’s performance status for staged multimodal procedures.
+F. Confirmation of absence of other extrahepatic disease on full staging.
+G. Evolution of CEA and radiologic response over time.
+H. Grade of differentiation, MSS/ MSI mutation and molecular status of the primary cancer: influences prognosis and need for intensified adjuvant therapy
+I. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+73,"Man, 58 years old, left colon cancer, liver metastases (segments IV, V, VIII) and confirmed right iliac bone metastasis at the abdominal CT scan. KRAS mutated.
+MDT Discussion: Hepato-osseous involvement, priority systemic management.","Step 3 – Missing information  
+- Patient’s performance status (ECOG/Karnofsky) and comorbidities (cardiopulmonary reserve).  
+- Baseline liver function tests and indocyanine‑green clearance (if available).  
+- Precise size, number, and vascular involvement of each liver lesion.  
+- Volumetric assessment of the future liver remnant and presence of steatosis or fibrosis.  
+- Detailed characterization of the iliac bone lesion (size, pain, biopsy confirmation, SUV on PET).  
+- Serum tumor markers (CEA, CA 19‑9) and trend over time.  
+- Prior oncologic treatments (neoadjuvant, adjuvant, radiotherapy).  
+- Patient’s preferences regarding aggressive versus palliative approaches.","Step 3 – Critical missing information
+A. Exact segmental distribution and vascular relationships of liver metastases.
+B. Extent and symptoms related to the iliac bone metastasis.
+C. Patient’s performance status and tolerance for systemic therapy.
+D. Molecular profile beyond KRAS status to optimize treatment.
+E. Status and symptoms related to the primary colon tumor.
+F. Evolution of CEA and radiologic response over time.
+G. Grade of differentiation, MSS/ MSI mutation and molecular status of the primary cancer: influences prognosis and need for intensified adjuvant therapy
+H. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+74,"Woman, 69 years old, T3N1 rectal tumor with two liver metastases and an isolated left pulmonary nodule at the thoraco-abdominal CT scan. RAS wild-type, CEA 210 ng/mL.
+MDT Discussion: Limited hepato-pulmonary involvement, possibility of a combined approach depending on response.","Step 3 – Missing information  
+- Exact size, segmental location, and relationship of each liver metastasis to major vessels (portal/hepatic veins, hepatic artery).  
+- Quantitative liver function (ICG clearance, bilirubin, albumin) and volumetric assessment of future liver remnant.  
+- Dimensions, SUV uptake, and histologic confirmation (if available) of the left pulmonary nodule; pulmonary function test results.  
+- Patient’s performance status (ECOG/Karnofsky) and comorbidities (cardiopulmonary reserve).  
+- BRAF mutation status and MSI/MMR status of the primary tumor.  
+- Baseline CEA trend over time and any prior systemic therapy.  
+- Details of any prior abdominal surgeries that might affect operative planning.  
+
+These data are essential to finalize resectability determination, select the optimal neoadjuvant regimen, and safely plan the surgical sequence.","Step 3 – Critical missing information
+A. Exact segmental distribution and vascular relationships of the liver metastases.
+B. Resectability assessment of the lung lesion by thoracic surgery.
+C. Future liver remnant (FLR) estimation.
+D. Detailed pelvic MRI to plan rectal treatment.
+E. Patient’s performance status for staged multimodal procedures.
+F. Confirmation of absence of other extrahepatic disease on full staging.
+G. Evolution of CEA and radiologic response over time.
+H. Grade of differentiation, MSS/ MSI mutation and molecular status of the primary cancer: influences prognosis and need for intensified adjuvant therapy
+I. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+75,"Man, 65 years old, right T4N2 colon cancer, eight bilobar liver metastases and moderate peritoneal carcinomatosis at the abdominal CT scan. CEA 970 ng/mL.
+MDT Discussion: Extensive hepato-peritoneal disease, goal of systemic control.","Step 3 – Missing information  
+- Molecular profile of the tumor (KRAS/NRAS, BRAF mutation status, MSI/MMR).  
+- Exact peritoneal disease burden (PCI score) and distribution.  
+- Baseline performance status (ECOG/Karnofsky) and comorbidities that may affect surgical tolerance.  
+- Detailed liver function tests and quantitative future liver remnant volume.  
+- Prior neoadjuvant or adjuvant therapies, if any.  
+- Patient’s preferences regarding aggressive versus palliative intent.  
+- Presence of other extra‑hepatic sites (e.g., lung, bone) not mentioned on the CT.  
+
+These data are essential to refine the conversion potential and to select the optimal systemic regimen and surgical plan.","Step 3 – Critical missing information
+A. Extent and distribution of peritoneal disease on imaging.
+B. Exact segmental distribution and vascular relationships of liver lesions.
+C. Molecular profile to optimize systemic treatment.
+D. Status and symptoms related to the primary colon tumor.
+E. Evolution of CEA and radiologic response over time.
+F. Patient’s performance status for staged surgical procedures.
+G. Confirmation of absence of other extrahepatic disease on full staging.
+H. Grade of differentiation, MSS/ MSI mutation and molecular status of the primary cancer: influences prognosis and need for intensified adjuvant therapy
+I. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+76,"Man, 59 years old, left T3N1M1 colon tumor, five bilobar liver metastases (1.5-3.5 cm). CEA 1150 ng/mL. KRAS mutated, BRAF wild-type.Liver MRI: contact of segment VIII lesion with middle hepatic vein.
+MDT Discussion: Technically resectable disease, high tumor marker suggests systemic risk.","Step 3 – Missing information  
+- Patient’s performance status (ECOG/Karnofsky) and comorbidities (cardiopulmonary reserve).  
+- Baseline liver function tests and volumetric assessment of future liver remnant.  
+- Detailed imaging of extra‑hepatic sites (chest CT, PET‑CT) to exclude occult metastases.  
+- Exact location of the primary colon tumor (distal vs proximal) and any obstructive symptoms.  
+- Prior treatments (neoadjuvant, radiation) and patient’s preferences regarding surgical timing.  
+- Assessment of portal venous anatomy and feasibility of portal vein embolization if FLR is marginal.  
+- Planned chemotherapy regimen tolerance and potential contraindications (e.g., bevacizumab‑related wound healing concerns).","Step 3 – Critical missing information
+A. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy. 
+B. Precise segmental distribution of the three lesions within the left liver and detailed vascular/biliary relationship of the liver lesion – essential to confirm that a non anatomic resection will achieve clear margins without compromising hepatic inflow/outflow.  
+C. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA
+D. Patient’s nutritional status and postoperative recovery capacity, relevant for timing of chemotherapy.
+E. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream
+
+These items should be obtained before finalizing the operative plan."
+77,"Woman, 62 years old, right T4aN2M1 colon cancer, seven liver metastases (2-5 cm) at the thoraco-abdominal CT scan. CEA 1600 ng/mL. BRAF V600E mutation, MSS.
+MDT Discussion: Extensive liver disease, poor prognosis linked to molecular profile.","Step 3 - Missing information  
+- Precise anatomical distribution of the seven metastases (unilobar vs bilobar) and segmental involvement.  
+- Quantitative liver volumetry (total liver volume, FLR percentage) before and after systemic therapy.  
+- Patient’s performance status (ECOG/Karnofsky) and comorbidities influencing surgical risk.  
+- Baseline hepatic function tests (bilirubin, INR, albumin, platelet count) and presence of steatosis or fibrosis.  
+- Details of any prior systemic therapy, response to initial treatment, and tolerance.  
+- Confirmation of absence of extra‑hepatic disease (e.g., lung, peritoneum) on full staging work‑up.  
+- KRAS/NRAS status (although BRAF V600E often implies wild‑type, confirmation is needed).  
+- Patient’s preferences and goals of care regarding aggressive multimodal treatment.","Step 3 – Critical missing information
+A. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy. 
+B. Precise segmental distribution of the 7 lesions and detailed vascular/biliary relationship of the liver lesion – essential to confirm that a non anatomic resection will achieve clear margins without compromising hepatic inflow/outflow.  
+C. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA
+D. Patient’s nutritional status and postoperative recovery capacity, relevant for timing of chemotherapy.
+E. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream
+
+These items should be obtained before finalizing the operative plan."
+78,"Man, 66 years old, T3N2 upper rectal cancer with four liver metastases at the thoraco-abdominal CT scan. CEA 980 ng/mL, RAS wild-type, MSI-H.
+MDT Discussion: Bilobar metastases with MSI-H profile opening discussion for first-line immunotherapy.","Step 3 – Missing information  
+- Detailed size, segmental location, and proximity of each liver metastasis to major vascular structures.  
+- Quantitative liver function assessment (bilirubin, albumin, INR, ICG clearance, Child‑Pugh score).  
+- Volumetric analysis of total liver volume and projected FLR (including presence of steatosis or fibrosis).  
+- Performance status (ECOG/Karnofsky) and comorbidities that may affect surgical risk.  
+- High‑resolution pelvic MRI findings (mesorectal fascia involvement, distance from anal verge) to refine rectal surgical planning.  
+- Baseline cardiopulmonary evaluation (ejection fraction, pulmonary function) for major hepato‑colorectal surgery.  
+- Confirmation that there are no other extra‑hepatic metastatic sites (e.g., lung, peritoneum) on staging PET/CT.  
+- Patient’s preferences regarding neoadjuvant therapy and surgical sequencing.","Step 3 – Critical missing information
+A. Precise segmental distribution of the three lesions within the left liver and detailed vascular/biliary relationship of the liver lesion – essential to confirm that a non anatomic resection will achieve clear margins without compromising hepatic inflow/outflow.  
+B. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA
+C. Detailed pelvic MRI for rectal treatment planning.
+D. Patient’s nutritional status and postoperative recovery capacity, relevant for timing of chemotherapy.
+E. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream
+
+These items should be obtained before finalizing the operative plan."
+79,"Woman, 70 years old, left T3N1M1 colon tumor, two liver metastases segments II and III (3.2 and 4.0 cm) at the abdominal CT scan. CEA 320 ng/mL, BRAF wild-type, HER2 positive.
+MDT Discussion: Limited involvement but HER2 mutation may influence systemic therapeutic strategy.","Step 3 - Missing information  
+- Patient’s performance status (ECOG/Karnofsky) and comorbidity profile (cardiopulmonary reserve).  
+- Baseline liver function tests and volumetric assessment of future liver remnant.  
+- Detailed imaging of the liver vasculature (relationship of lesions to portal/hepatic veins) and any biliary involvement.  
+- Confirmation of absence of extra‑hepatic metastases (chest CT/PET, peritoneal assessment).  
+- KRAS/NRAS mutational status (relevant for anti‑EGFR exclusion).  
+- Specific HER2 testing methodology (IHC + FISH) and level of amplification.  
+- Patient’s preference regarding timing of surgery and tolerance for systemic therapy.","Step 3 – Critical missing information
+A. Precise segmental distribution of the 2 lesions within the left liver and detailed vascular/biliary relationship of the liver lesion – essential to confirm that a non anatomic resection will achieve clear margins without compromising hepatic inflow/outflow.  
+B. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA
+C. Confirmation of absence of extrahepatic disease on full staging.
+D. Patient’s nutritional status and postoperative recovery capacity, relevant for timing of chemotherapy.
+E. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+80,"Man, 55 years old, right T4N2M1 colon cancer, nine bilobar metastases at the thoraco-abdominal CT scan. CEA 2500 ng/mL, KRAS mutated.Liver  MRI: infiltration of the right portal pedicle.
+MDT Discussion: Major liver involvement, vascular invasion compromising resectability.","Step 3 – Missing information  
+- Patient’s performance status (ECOG/Karnofsky) and comorbidities (cardiopulmonary reserve).  
+- Baseline liver function tests (bilirubin, INR, albumin, platelet count) and volumetric assessment of FLR.  
+- Detailed description of extra‑hepatic disease (size/number of pulmonary metastases, other sites).  
+- Prior treatments received (neoadjuvant, radiation) and response to any earlier therapy.  
+- Molecular profile beyond KRAS (e.g., BRAF, MSI status) that could influence systemic regimen choice.  
+- Surgical assessment of the primary colon tumor’s resectability and need for urgent palliation.  
+- Patient’s preferences regarding aggressive multimodal therapy.","Step 3 – Critical missing information
+A. Exact extent of portal pedicle infiltration on MRI.
+B. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA
+C. Patient’s performance status and tolerance for intensive systemic therapy.
+D. Presence or absence of extrahepatic disease on full staging.
+E. Liver function assessment in case future conversion is considered. 
+F. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+81,"Woman, 61 years old, T3N1M1 rectal tumor, three liver metastases (segments IVa, VI, VIII). CEA 680 ng/mL. KRAS mutated, BRAF wild-type. Liver MRI: extension to the hepatic vein confluence.
+MDT Discussion: Metastases near venous confluence, high surgical risk.","Step 3 - Missing information  
+- Quantitative assessment of future liver remnant (volumetry) and baseline liver function (Child‑Pugh, ICG clearance, bilirubin, albumin).  
+- Detailed comorbidity profile and performance status (e.g., ASA, ECOG).  
+- Exact relationship of the hepatic lesions to the hepatic veins and portal structures (vascular anatomy, degree of encasement).  
+- Presence or absence of extra‑hepatic disease (lung, peritoneum, lymph nodes) on staging CT/PET.  
+- Rectal tumor specifics: distance from anal verge, circumferential margin involvement, need for neoadjuvant chemoradiation, baseline sphincter function.  
+- Patient’s preferences regarding aggressive multimodal therapy versus quality‑of‑life considerations.","Step 3 – Critical missing information
+A. Precise relationship of each lesion to the hepatic vein confluence on MRI.
+B. Liver function assessment in case future conversion is considered. 
+C. Feasibility of venous preservation versus reconstruction.
+D. Detailed pelvic MRI for rectal treatment planning.
+E. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA
+F. Patient’s performance status for complex hepatic surgery.
+G. Confirmation of absence of extrahepatic disease on full staging.
+H. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+82,"Man, 64 years old, left colon adenocarcinoma with four bilobar liver metastases. CEA 900 ng/mL, RAS wild-type. Liver MRI: segment VII lesion invading the IVC over 1 cm.
+MDT Discussion: Caval invasion requiring multidisciplinary surgical evaluation.","Step 3 – Missing information  
+- Quantitative liver volumetry (total liver volume, FLR percentage).  
+- Detailed description of IVC involvement (circumferential encasement vs focal invasion, length of segment to be resected).  
+- Patient’s performance status (ECOG/Karnofsky), cardiopulmonary reserve, and comorbidities that affect major vascular surgery.  
+- Presence or absence of extra‑hepatic metastases (lung, peritoneum, lymph nodes) on full staging scans.  
+- BRAF mutation and MSI status of the tumor (impact on systemic therapy choices).  
+- Baseline hepatic function tests and assessment of chemotherapy‑associated liver injury (steatosis, sinusoidal obstruction).  
+- Patient’s preferences regarding aggressive surgery versus systemic therapy alone.","Step 3 – Critical missing information
+A. Exact segmental distribution of all lesions with detailed vascular and biliary relationships on liver MRI : precise extent and depth of IVC invasion
+B. Baseline future liver remnant (FLR) estimation in case of two-stage strategy with major hepatectomy.
+C. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA
+D. Patient’s performance status and tolerance for intensive chemotherapy and for potential major liver surgery including complex vascular surgery.
+E. Presence or absence of any extrahepatic disease on full staging.
+F. Potential extension of primary tumor to adjacent organ (abdominal wall, ureter, small bowel)
+G. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy
+H. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+83,"Woman, 58 years old, right T4N2M1 colon cancer, five liver metastases including one 8.5 cm in segment IVb at the thoraco-abdominal CT scan. CEA 870 ng/mL, KRAS mutated.
+MDT Discussion: Large central metastasis with bilateral portal contact, complex technical discussion.","Step 3 – Missing information  
+- Baseline performance status (ECOG/Karnofsky) and comorbidities influencing surgical risk.  
+- Detailed liver function tests (bilirubin, INR, albumin, platelet count) and indocyanine green clearance or MELD score.  
+- Precise volumetric data of total liver and projected FLR.  
+- Exact anatomic distribution of the four additional metastases (segments, proximity to major vessels).  
+- Presence or absence of extra‑hepatic disease (e.g., lung, peritoneum) on staging scans.  
+- Prior systemic therapy exposure and response (radiologic and CEA kinetics).  
+- Patient’s preferences regarding aggressive multimodal therapy versus palliation.","Step 3 – Critical missing information
+A. Precise relationship of the segment IVb lesion to right and left portal branches on MRI.
+B. Exact segmental distribution of the other four lesions.
+C. Baseline future liver remnant (FLR) estimation in case of two-stage strategy with major hepatectomy.
+D. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA
+E. Patient’s performance status and tolerance for intensive chemotherapy and for potential major liver surgery including complex vascular surgery.
+F. Confirmation of absence of extrahepatic disease on full staging.
+G. Potential extension of primary tumor to adjacent organ (abdominal wall, ureter, small bowel)
+H. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy
+I. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+84,"Man, 73 years old, transverse colon tumor, two liver metastases (4.2 and 4.8 cm) at the thoraco-abdominal CT scan. CEA 70 ng/mL. BRAF wild-type, RAS wild-type.
+MDT Discussion: Normal CEA despite high volume, question regarding biological sensitivity for follow-up.","Step 3 – Missing information  
+- Precise hepatic segment(s) involved and relationship to major vascular/biliary structures.  
+- Quantitative assessment of future liver remnant volume and baseline liver function (ICG clearance, Child‑Pugh score, presence of steatosis or fibrosis).  
+- Performance status (ECOG/Karnofsky) and comorbidities that may affect tolerance of chemotherapy or major surgery.  
+- Full staging of the primary tumor (T stage, N stage, presence of perforation or obstruction).  
+- Evidence of any extra‑hepatic disease (e.g., pulmonary, peritoneal) on recent imaging.  
+- MSI status and any prior neoadjuvant therapy.  
+
+These data are essential to finalize resectability determination and to individualize the operative plan.","Step 3 – Critical missing information
+A. Detailed vascular mapping on MRI to confirm absence of true portal invasion.
+B. Future liver remnant (FLR) calculation in case of right hepatectomy.
+C. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy
+D. Patient’s general condition and comorbidities influencing tolerance of combined surgery.
+E. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA.
+F. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+85,"Woman, 60 years old, left T4N1M1 colon cancer, six liver metastases (up to 5.6 cm) at the abdominal CT scan. CEA 1400 ng/mL. KRAS G12C mutation confirmed.
+MDT Discussion: Specific molecular profile, may benefit from a later targeted strategy.","Step 3 – Missing information  
+- Performance status (ECOG/Karnofsky) and comorbidities influencing surgical risk.  
+- Baseline liver function tests and assessment of chemotherapy‑associated liver injury (steatosis, sinusoidal obstruction).  
+- Detailed hepatic lesion map (unilobar vs bilobar, proximity to major vessels/ducts).  
+- Volumetric measurement of future liver remnant.  
+- Presence or absence of extra‑hepatic metastases (lung, peritoneum, lymph nodes) on full staging (CT chest, PET‑CT).  
+- Prior systemic therapy exposure and response duration.  
+- Patient’s preferences regarding aggressive multimodal therapy.","Step 3 – Critical missing information
+A. Detailed vascular mapping on MRI to confirm absence of true portal invasion.
+B. Future liver remnant (FLR) calculation in case of potential conversion.
+C. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy
+D. Presence or absence of extrahepatic disease on full staging.
+E. Patient’s general condition and comorbidities influencing tolerance of combined surgery.
+F. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA.
+G. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream
+H. Status and symptoms related to the primary colon tumor."
+86,"Man, 57 years old, low T3N2M1 rectal cancer, four peripheral liver metastases (2-3.5 cm) at the thoraco-abdominal CT scan. CEA 90 ng/mL. RAS wild-type, MSS, positive circulating tumor cells.
+MDT Discussion: Presence of circulating cells despite low volume, prognostic significance discussed.","Step 3 – Missing information  
+- Quantitative liver volumetry and calculation of future liver remnant.  
+- Baseline hepatic function tests (bilirubin, INR, albumin, ICG clearance).  
+- Performance status (ECOG/Karnofsky) and comorbidities that may limit surgery or chemotherapy.  
+- Exact segmental location of each liver metastasis relative to major vessels/ducts.  
+- BRAF mutation status and MSI status (though MSS noted, confirmation helpful).  
+- Trend of CEA and circulating tumor cells during induction therapy.  
+- Patient’s preferences regarding simultaneous versus staged resections.  
+- Details of any prior systemic therapy or radiotherapy.  
+
+Without these data, the precise surgical plan (extent of hepatectomy, need for portal vein embolization, timing of pelvic surgery) cannot be finalized.","Step 3 – Critical missing information
+A. Exact distance of the rectal tumor from the anal verge, and circumferential resection margin (CRM) status on pelvic MRI influencing surgical approach and anastomotic risk
+B. Detailed vascular and biliary relationships of the three liver lesions on MRI.
+C. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy
+D. Radiologic tumor response after systemic chemotherapy and long-course pelvic radiotherapy (decrease, stability or progression) and evolution of CEA
+E. Patient’s nutritional status and postoperative recovery capacity, relevant for timing of chemotherapy.
+F. Trend and quantification of circulating tumor cells over time."
+87,"Woman, 68 years old, right T4N2 colon cancer, multiple liver metastases (≥10 lesions) at the thoraco-abdominal CT scan. CEA 2700 ng/mL, KRAS mutated.
+MDT Discussion: Massive liver disease with high marker elevation, unfavorable prognosis.","Step 3 – Missing information  
+- Performance status (ECOG/Karnofsky) and comorbidities (cardiopulmonary reserve).  
+- Detailed hepatic lesion mapping: size, exact lobar distribution, proximity to major vessels/ biliary structures.  
+- Baseline liver function tests and indocyanine green clearance or other functional reserve assessment.  
+- Volumetric data to calculate future liver remnant.  
+- Presence or absence of extra‑hepatic metastases (e.g., lung, peritoneum).  
+- Prior neoadjuvant or adjuvant therapies already administered.  
+- Additional molecular markers (BRAF, MSI status, HER2, NTRK) that could influence systemic options.  
+- Patient’s preferences and goals of care.","Step 3 – Critical missing information
+A. Detailed vascular mapping on MRI to confirm absence of true portal invasion.
+B. Future liver remnant (FLR) calculation in case of potential conversion.
+C. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy
+D. Presence or absence of extrahepatic disease on full staging.
+E. Patient’s general condition and comorbidities influencing tolerance of combined surgery.
+F. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA.
+G. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream
+H. Status and symptoms related to the primary colon tumor."
+88,"Man, 63 years old, left T3N1M1 colon cancer at the abdominal CT scan, three liver metastases (2-3 cm) and confirmed left portal invasion on liver MRI. CEA 310 ng/mL.
+MDT Discussion: Unilateral portal involvement, potentially approachable depending on volume.","Step 3 – Missing information  
+- Quantitative FLR volume and liver function assessment (ICG clearance, bilirubin, albumin).  
+- Detailed description of the left portal vein invasion (length, circumferential involvement).  
+- Performance status (ECOG/Karnofsky) and comorbidities that may affect surgical risk.  
+- Molecular profile of the primary tumor (KRAS, NRAS, BRAF, MSI status) to guide systemic therapy.  
+- Prior exposure to chemotherapy or radiotherapy and current CEA trend after any treatment.  
+- Presence or absence of other extra‑hepatic sites (lung, peritoneum, lymph nodes).  
+- Patient’s preferences regarding staged versus simultaneous resections.  
+
+These data are essential to finalize the operative plan and confirm that the patient can safely proceed to curative‑intent liver surgery.","Step 3 – Critical missing information
+A. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy. 
+B. Precise segmental distribution of the three lesions within the left and right liver and detailed vascular/biliary relationship of the liver lesion – essential to confirm that a non anatomic resection will achieve clear margins without compromising hepatic inflow/outflow.  
+C. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA
+D. Patient’s nutritional status and postoperative recovery capacity, relevant for timing of chemotherapy.
+E. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream
+
+These items should be obtained before finalizing the operative plan."
+89,"Woman, 72 years old, right T3N0M1 colon tumor, single 5.6 cm metastasis in segment VIII, in close contact with IVC at the thoraco-abdominal CT scan. CEA 540 ng/mL, RAS wild-type.
+MDT Discussion: Large central metastasis, major technical question regarding surgical approach.","Step 3 – Missing information  
+- Baseline liver function: bilirubin, AST/ALT, INR, albumin, Child‑Pugh score.  
+- Performance status (ECOG/Karnofsky) and comorbidities (cardiopulmonary reserve).  
+- Exact volumetric measurement of the future liver remnant.  
+- Detailed imaging description of tumor‑IVC distance, involvement of hepatic veins, and any arterial encasement.  
+- Status of the primary colon tumor (resected vs pending, margin status).  
+- Additional molecular data: BRAF, MSI/MMR status.  
+- Prior or planned colon primary resection timing relative to liver surgery.  
+- Patient’s preferences and psychosocial factors influencing aggressive surgical approach.","Step 3 – Critical missing information
+A. Exact segmental distribution of the segment VIII lesion with detailed vascular and biliary relationships on liver MRI : precise extent and depth of IVC contact/invasion and relationship of the lesion to the hepatic
+B. Baseline future liver remnant (FLR) estimation in case of two-stage strategy with major hepatectomy.
+C. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA
+D. Patient’s performance status and tolerance for intensive chemotherapy and for potential major liver surgery.
+E. Presence or absence of any extrahepatic disease on full staging.
+F. Potential extension of primary tumor to adjacent organ (abdominal wall, ureter, small bowel)
+G. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy
+H. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream"
+90,"Man, 69 years old, left colon adenocarcinoma, six liver metastases (1.5-4 cm) at the thoraco-abdominal CT scan, CEA 850 ng/mL, BRAF V600E mutation.
+MDT Discussion: Unfavorable molecular profile, bilobar liver involvement with systemic potential.","Step 3 – Missing information  
+- Performance status (ECOG/Karnofsky) and detailed comorbidity profile.  
+- Baseline liver function tests (bilirubin, INR, albumin, platelet count) and assessment of chemotherapy‑associated liver injury.  
+- Precise volumetric data of the future liver remnant and anatomical relationship of metastases to major vascular structures.  
+- Presence or absence of extra‑hepatic disease (lung nodules, peritoneal carcinomatosis, distant lymph nodes) on full staging scans.  
+- Primary tumor staging (T, N status) and whether it is symptomatic or already resected.  
+- KRAS/NRAS mutation status and microsatellite instability (MSI) status, which influence systemic therapy choices.  
+- Patient’s preferences regarding aggressive multimodal therapy versus palliative approach.  
+
+Without these data, the recommendation remains provisional and should be revisited once the missing information is obtained.","Step 3 – Critical missing information
+A. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy. 
+B. Precise segmental distribution of the 6 lesions within the left and right liver and detailed vascular/biliary relationship of the liver lesion – essential to confirm that a non anatomic resection will achieve clear margins without compromising hepatic inflow/outflow.  
+C. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA
+D. Patient’s nutritional status and postoperative recovery capacity, relevant for timing of chemotherapy.
+E. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream
+F. Status and symptoms related to the primary colon tumor.
+
+These items should be obtained before finalizing the operative plan."
+91,"Woman, 65 years old, T4N1M1 rectal tumor, four liver metastases at the abdominal CT scan, CEA 60 ng/mL, RAS wild-type, MSI-H.
+MDT Discussion: Immuno-sensitive profile, discussion on optimal therapeutic sequence.","Step 3 - Missing information  
+- Exact size, segmental location, and vascular proximity of each liver metastasis.  
+- Current liver function tests (bilirubin, INR, albumin, platelet count) and presence of chemotherapy‑induced liver injury.  
+- Volumetric assessment of future liver remnant (CT‑based or MRI‑based).  
+- Performance status (ECOG/Karnofsky) and comorbidities that may affect surgical tolerance.  
+- Details of any prior systemic therapy or radiotherapy already administered.  
+- Symptoms or complications related to the rectal primary (e.g., bleeding, obstruction).  
+- Baseline PET‑CT or other imaging to rule out additional extra‑hepatic disease (lung, peritoneum).  
+- Patient’s preferences regarding treatment intensity and potential quality‑of‑life considerations.","Step 3 – Critical missing information
+A. Precise segmental distribution of the 4 lesions within the left liver and detailed vascular/biliary relationship of the liver lesion – essential to confirm that a non anatomic resection will achieve clear margins without compromising hepatic inflow/outflow.  
+B. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA
+C. Detailed pelvic MRI for rectal treatment planning.
+D. Patient’s nutritional status and postoperative recovery capacity, relevant for timing of chemotherapy.
+E. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream
+
+These items should be obtained before finalizing the operative plan."
+92,"Man, 60 years old, right T4N2M1 colon cancer, eight bilobar liver metastases at the thoraco-abdominal CT scan, CEA 1300 ng/mL, KRAS mutated. Liver MRI: contact with right hepatic vein.
+MDT Discussion: Superior vascular invasion, significant operative risk.","Step 3 - Missing information  
+- Current performance status (ECOG/Karnofsky) and detailed comorbidity profile (cardiopulmonary reserve, ASA classification).  
+- Baseline liver function tests (bilirubin, AST/ALT, albumin, INR) and quantitative FLR volume.  
+- Exact pattern of vascular invasion (extent of right hepatic vein involvement, proximity to IVC, presence of portal vein encasement).  
+- Presence or absence of extra‑hepatic disease (e.g., lung, peritoneum) beyond the primary colon lesion.  
+- Symptoms related to the primary tumor (obstruction, bleeding) that might dictate urgent colorectal surgery.  
+- Prior neoadjuvant or adjuvant therapies already administered.  
+- Patient’s preferences regarding aggressive surgical approaches versus palliative intent.","Step 3 – Critical missing information
+A. Precise segmental distribution of the 8 lesions within the left and the right liver and detailed vascular/biliary relationship of the liver lesion – essential to confirm that a non anatomic resection will achieve clear margins without compromising hepatic inflow/outflow.  
+B. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA
+C. Patient’s nutritional status and postoperative recovery capacity, relevant for timing of chemotherapy.
+D. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream
+
+These items should be obtained before finalizing the operative plan."
+93,"Woman, 55 years old, left colon cancer, multiple bilobar metastases at the abdominal CT scan. CEA 2100 ng/mL, BRAF wild-type, HER2 amplified.
+MDT Discussion: Particular molecular profile, possible sensitivity to an anti-HER2 approach.","Step 3 - Missing information  
+- Exact number, size, and anatomic location of each liver metastasis.  
+- Relationship of lesions to hepatic veins, portal pedicles, and biliary structures.  
+- Baseline liver function tests and calculation of future liver remnant volume.  
+- Presence or absence of extra‑hepatic metastases (lung, peritoneum, lymph nodes).  
+- Patient’s performance status (ECOG/Karnofsky), comorbidities, and cardiopulmonary reserve.  
+- KRAS/NRAS mutation status (relevant for anti‑EGFR considerations).  
+- Prior systemic therapies or neoadjuvant treatments already administered.  
+- Patient’s preferences regarding surgery timing and extent.","Step 3 – Critical missing information
+A. Precise segmental distribution of the 2 lesions within the left liver and detailed vascular/biliary relationship of the liver lesion – essential to confirm that a non anatomic resection will achieve clear margins without compromising hepatic inflow/outflow.  
+B. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) and evolution of CEA
+C. Confirmation of absence of extrahepatic disease on full staging.
+D. Patient’s nutritional status and postoperative recovery capacity, relevant for timing of chemotherapy.
+E. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream
+F. Status and symptoms related to the primary colon tumor."
+94,"Man, 62 years old, T3N1M1 upper rectal tumor, liver metastases (3-5 cm) with contact with IVC and right hepatic vein at the thoraco-abdominal CT scan. CEA 580 ng/mL.
+MDT Discussion: Complex central metastases, discussion on combined approach or venous reconstruction.","Step 3 – Missing information  
+- Quantitative assessment of future liver remnant volume and liver function (ICG clearance, Child‑Pugh status).  
+- Detailed vascular anatomy: extent of IVC/RHV encasement (percentage of circumference, length).  
+- Performance status (ECOG/Karnofsky) and comorbidities influencing surgical risk.  
+- Molecular profile of the primary tumor (KRAS, NRAS, BRAF, MSI status) to guide systemic therapy.  
+- Number and exact segmental distribution of all hepatic lesions (are there additional left‑lobe metastases?).  
+- Presence or absence of other extra‑hepatic sites (lung, peritoneum).  
+- Baseline cardiopulmonary reserve (cardiac echo, pulmonary function) given need for major vascular reconstruction.  
+- Patient’s preference regarding staged versus simultaneous resections.","Step 3 – Critical missing information
+A. Precise extent and depth of contact with the IVC and right hepatic vein on MRI.
+B. Exact distance of the rectal tumor from the anal verge, and circumferential resection margin (CRM) status on pelvic MRI influencing surgical approach and anastomotic risk
+C. Detailed vascular and biliary relationships of the three liver lesions on MRI.
+D. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy
+E. Radiologic tumor response after systemic chemotherapy and long-course pelvic radiotherapy (decrease, stability or progression) and evolution of CEA
+F. Patient’s nutritional status and postoperative recovery capacity, relevant for timing of chemotherapy.
+G. Trend and quantification of circulating tumor cells over time."
+95,"Woman, 67 years old, right T4N2M1 colon cancer, multiple liver metastases at the thoraco-abdominal CT scan and normal CEA at 3 ng/mL. KRAS mutated, BRAF wild-type.
+MDT Discussion: Biological discordance, question regarding the utility of CEA follow-up in this profile.","Step 3 – Missing information  
+- Exact number, size, and segmental location of each liver metastasis.  
+- Relationship of lesions to major hepatic vessels (portal/hepatic veins, hepatic artery) and biliary structures.  
+- Quantified future liver remnant volume and baseline liver function (ICG clearance, bilirubin, AST/ALT).  
+- Presence or absence of extra‑hepatic metastases (lung nodules, peritoneal disease) not captured on the initial CT.  
+- Patient’s performance status (ECOG/ASA), comorbidities, and baseline cardiopulmonary reserve.  
+- Details of prior or planned neoadjuvant systemic therapy (agents, cycles, response assessment).  
+- Histologic grade and molecular profile beyond KRAS/BRAF (e.g., MSI status).  
+
+These data are essential to finalize resectability classification and to tailor the optimal surgical sequence.","Step 3 – Critical missing information
+A. Precise segmental distribution of all the lesions within the left and right liver and detailed vascular/biliary relationship of the liver lesion – essential to confirm that a non anatomic resection will achieve clear margins without compromising hepatic inflow/outflow.  
+B. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) 
+C. Confirmation of absence of extrahepatic disease on full staging.
+D. Patient’s nutritional status and postoperative recovery capacity, relevant for timing of chemotherapy.
+E. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream
+F. Status and symptoms related to the primary colon tumor.
+G. Alternative biomarkers or imaging strategies for monitoring response."
+96,"Man, 58 years old, left T3N1M1 colon cancer, bilobar metastases (1.5-3 cm) at the thoraco-abdominal CT scan, CEA 400 ng/mL. RAS wild-type, POLE mutation detected.
+MDT Discussion: Hypermutated profile, rare, may justify immunotherapy in some strategies.","Step 3 – Missing information  
+- Exact number of hepatic lesions and their precise segmental locations.  
+- Quantitative volumetric data: calculated future liver remnant (FLR) and total liver volume.  
+- Baseline liver function tests (bilirubin, INR, albumin, platelet count) and presence of chemotherapy‑associated liver injury (steatosis, sinusoidal obstruction).  
+- Performance status (ECOG/Karnofsky) and comorbidities that may affect surgical risk.  
+- Whether the primary colon tumor has already been resected or is pending resection.  
+- Detailed extra‑hepatic staging (e.g., PET‑CT) to definitively exclude distant metastases beyond the liver.  
+- Microsatellite instability (MSI) status confirmation (though POLE mutation suggests hypermutation, MSI testing would guide immunotherapy choice).  
+- Patient preference regarding aggressive multimodal therapy.  
+
+These data are essential to finalize the operative plan, choose between single‑stage versus staged hepatic resection, and tailor systemic therapy.","Step 3 – Critical missing information
+A. Precise segmental distribution of all the lesions within the left and right liver and detailed vascular/biliary relationship of the liver lesion – essential to confirm that a non anatomic resection will achieve clear margins without compromising hepatic inflow/outflow.  
+B. Radiologic tumor response after systemic chemotherapy (decrease, stability or progression) 
+C. Confirmation of absence of extrahepatic disease on full staging.
+D. Patient’s nutritional status and postoperative recovery capacity, relevant for timing of chemotherapy.
+E. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream
+F. Status and symptoms related to the primary colon tumor.
+G. Detailed molecular characterization of the POLE mutation subtype."
+97,"Woman, 69 years old, T4N2M1 transverse colon cancer, seven liver metastases at the abdominal CT scan, CEA 1150 ng/mL, NRAS Q61R mutation.
+MDT Discussion: Specific NRAS molecular profile, no sensitivity to anti-EGFR.","Step 3 – Missing information  
+- Precise size, segmental location, and bilobar/unilobar distribution of each liver metastasis.  
+- Relationship of lesions to major hepatic vessels and biliary structures.  
+- Volumetric data: calculated future liver remnant (FLR) and total liver volume.  
+- Performance status (ECOG/Karnofsky) and comorbidities (cardiopulmonary reserve, liver function tests).  
+- Evidence of extra‑hepatic disease (lung, peritoneum, distant nodes) on PET‑CT or dedicated staging scans.  
+- Baseline laboratory values (bilirubin, INR, albumin, platelet count) to assess surgical risk.  
+- Patient preferences regarding aggressive multimodal therapy versus palliative approach.  
+- KRAS, BRAF, and microsatellite instability status (for broader systemic planning).","Step 3 – Critical missing information
+A. Precise relationship of each lesion to the hepatic vein confluence on MRI.
+B. Exact segmental distribution and vascular relationships of the three lesions.
+C. Future liver remnant (FLR) estimation.
+D. Confirmation of absence of extrahepatic disease on full staging.
+E. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy
+F. Radiologic tumor response after systemic chemotherapy and long-course pelvic radiotherapy (decrease, stability or progression) and evolution of CEA
+G. Patient’s nutritional status and postoperative recovery capacity, relevant for timing of chemotherapy.
+H. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream
+
+These items should be obtained before finalizing the operative plan."
+98,"Man, 70 years old, left colon tumor, three liver metastases at the thoraco-abdominal CT scan, CEA 200 ng/mL, RAS wild-type, MSS. MRI: invasion of the hepatic vein confluence.
+MDT Discussion: Superior vascular involvement, significant technical risk, volume to be assessed.","Step 3 – Missing information  
+- Patient’s performance status (ECOG/Karnofsky) and comorbidity profile (cardiopulmonary reserve).  
+- Baseline liver function tests (bilirubin, INR, albumin, platelet count) and presence of underlying liver disease (steatosis, fibrosis, cirrhosis).  
+- Precise volumetric data: total liver volume, FLR percentage, and location of each metastasis relative to segmental anatomy.  
+- Details on extra‑hepatic assessment (e.g., chest CT, PET‑CT) to exclude distant metastases.  
+- BRAF mutation status and microsatellite instability beyond MSS (already noted MSS, but confirm).  
+- Prior treatments (if any) and patient’s preferences regarding aggressive surgery versus non‑operative approaches.  
+- Planned timeline for systemic therapy and any contraindications to anti‑EGFR agents.","Step 3 – Critical missing information
+A. Precise relationship of each lesion to the hepatic vein confluence on MRI.
+B. Exact segmental distribution and vascular relationships of the three lesions.
+C. Future liver remnant (FLR) estimation.
+D. Confirmation of absence of extrahepatic disease on full staging.
+E. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy
+F. Radiologic tumor response after systemic chemotherapy and long-course pelvic radiotherapy (decrease, stability or progression) and evolution of CEA
+G. Patient’s nutritional status and postoperative recovery capacity, relevant for timing of chemotherapy.
+H. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream
+
+These items should be obtained before finalizing the operative plan."
+99,"Woman, 56 years old, right T3N1M1 colon cancer, four liver metastases (3-5 cm) at the thoraco-abdominal CT scan, CEA 780 ng/mL, non-V600E BRAF mutation (D594G).
+MDT Discussion: Atypical BRAF mutation, intermediate prognosis, bilobar liver involvement.","Step 3 – Missing information  
+- Patient’s performance status (ECOG/Karnofsky) and comorbidities.  
+- Baseline liver function tests (bilirubin, albumin, INR) and quantitative FLR volume.  
+- Detailed anatomical location of each hepatic lesion (segmental distribution, proximity to major vessels/ducts).  
+- Presence or absence of extra‑hepatic disease (e.g., lung, peritoneum).  
+- KRAS/NRAS mutation status to guide anti‑EGFR use.  
+- Prior neoadjuvant or adjuvant therapies already administered.  
+- Planned surgical margins achievable (anticipated R0 vs R1).  
+- Patient’s preferences regarding staged vs simultaneous surgery.  
+
+Without these data a definitive operative plan cannot be finalized.","Step 3 – Critical missing information
+A. Exact segmental distribution and vascular relationships of the four lesions.
+B. Future liver remnant (FLR) estimation.
+C. Patient’s performance status and comorbidities.
+D. Confirmation of absence of extrahepatic disease on full staging.
+E. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy
+F. Radiologic tumor response after systemic chemotherapy and long-course pelvic radiotherapy (decrease, stability or progression) and evolution of CEA
+G. Patient’s nutritional status and postoperative recovery capacity, relevant for timing of chemotherapy.
+H. Liquid biopsies to search circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) in the bloodstream
+
+These items should be obtained before finalizing the operative plan."
+100,"Man, 65 years old, left T4N2M1 colon cancer, six liver metastases (2-4 cm)at the thoraco-abdominal CT scan, CEA 320 ng/mL, RAS wild-type, MSS. Positive circulating tumor cells detected.
+MDT Discussion: Presence of circulating tumor cells despite no visible extension, prognostic value discussed.","Step 3 – Missing information  
+- Exact anatomical distribution of the six liver metastases (unilobar vs bilobar, proximity to major vessels, involvement of portal/hepatic veins).  
+- Quantitative future liver remnant volume and baseline liver function tests (bilirubin, ICG clearance, Child‑Pugh score).  
+- Performance status (ECOG/Karnofsky) and comorbidities that may affect tolerance of intensive chemotherapy or major hepatectomy.  
+- Detailed staging for extra‑hepatic disease: results of PET‑CT or diagnostic laparoscopy to rule out peritoneal or pulmonary metastases.  
+- Symptoms or complications from the primary colon tumor (obstruction, bleeding) that might dictate urgency of primary resection.  
+- Baseline laboratory values (CBC, renal function, coagulation profile) and cardiopulmonary assessment for surgical fitness.  
+
+Without these data a definitive operative plan cannot be finalized.","Step 3 – Critical missing information
+A. Future liver remnant (FLR) estimation.
+B. Detailed vascular and biliary relationships of the three liver lesions on MRI.
+C. Grade of differentiation and MSS/ MSI mutation of the primary tumor : influences prognosis and need for intensified adjuvant therapy
+D. Radiologic tumor response after systemic chemotherapy and long-course pelvic radiotherapy (decrease, stability or progression) and evolution of CEA
+E. Patient’s nutritional status and postoperative recovery capacity, relevant for timing of chemotherapy.
+F. Trend and quantification of circulating tumor cells over time."

@@ -1,7 +1,7 @@
 import boto3
 from dotenv import load_dotenv, set_key
 import os
-from utils import cred_path
+from utils_call_bedrock_models import cred_path
 
 def get_aws_session_token_with_mfa(permanent_env: str = cred_path + "permanent_cred.env",
                                    temporary_env: str = cred_path + "temporary_cred.env",
@@ -33,7 +33,6 @@ def get_aws_session_token_with_mfa(permanent_env: str = cred_path + "permanent_c
     set_key(temporary_env, "AWS_ACCESS_KEY_ID", creds["AccessKeyId"])
     set_key(temporary_env, "AWS_SECRET_ACCESS_KEY", creds["SecretAccessKey"])
     set_key(temporary_env, "AWS_SESSION_TOKEN", creds["SessionToken"])
-    #print(creds["SessionToken"])
     return creds
 
 # If you do not have a valid session token, you can generate one using MFA

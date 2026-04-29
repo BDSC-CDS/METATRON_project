@@ -1,0 +1,501 @@
+Case_Number,Approach,Resectability_Label,Supporting_Text
+1,Model_Alone,upfront resectable,Classification: Resectable.
+1,Model_Studies,upfront resectable,The patient is resectable.
+1,Model_Workflow,upfront resectable,Classification: Resectable (potentially resectable but no factor currently limits resection).
+1,Model_Workflow_Studies,upfront resectable,Classification: Resectable
+1,Expert,upfront resectable,"According to current hepatobiliary oncologic criteria, this pattern is considered to be resectable."
+2,Model_Alone,potentially resectable,Classification: Potentially resectable (curative intent)
+2,Model_Studies,upfront resectable,The patient is resectable.
+2,Model_Workflow,potentially resectable,Classification: Potentially resectable (borderline resectable but likely resectable after confirmation of hepatic functional reserve).
+2,Model_Workflow_Studies,upfront resectable,"Therefore, the disease is resectable (not merely potentially resectable) according to standard hepatobiliary oncology guidelines."
+2,Expert,upfront resectable,"According to current hepatobiliary oncologic criteria, this pattern is considered to be resectable."
+3,Model_Alone,potentially resectable,Classification: Potentially resectable (borderline between clearly resectable and requiring optimization).
+3,Model_Studies,upfront resectable,Classification: Resectable
+3,Model_Workflow,potentially resectable,Classification: Potentially resectable.
+3,Model_Workflow_Studies,potentially resectable,"The patient is potentially resectable... Because definitive staging ... is missing, the case cannot be declared outright resectable; it remains potentially resectable pending completion of staging."
+3,Expert,upfront resectable,"According to current hepatobiliary oncologic criteria for solitary, small metastases, this pattern is considered resectable."
+4,Model_Alone,upfront resectable,Classification: Resectable.
+4,Model_Studies,potentially resectable,Classification: Potentially resectable (borderline resectable).
+4,Model_Workflow,potentially resectable,Classification: Potentially resectable.
+4,Model_Workflow_Studies,upfront resectable,Classification: Resectable (upfront resectable).
+4,Expert,upfront resectable,this pattern is considered resectable.
+5,Model_Alone,potentially resectable,Classification: Potentially resectable.
+5,Model_Studies,upfront resectable,The patient is resectable.
+5,Model_Workflow,potentially resectable,Classification: Potentially resectable (borderline resectable pending confirmation of adequate future liver remnant).
+5,Model_Workflow_Studies,upfront resectable,Classification: Resectable (potentially curative) according to current hepatobiliary oncologic standards.
+5,Expert,upfront resectable,"According to current hepatobiliary oncologic criteria for limited number, small size, and peripheral location of metastases, this pattern is considered resectable."
+6,Model_Alone,potentially resectable,Classification: Potentially resectable.
+6,Model_Studies,potentially resectable,The patient is potentially resectable.
+6,Model_Workflow,potentially resectable,The patient is potentially resectable... therefore the case is classified as potentially resectable rather than outright resectable.
+6,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (borderline)
+6,Expert,potentially resectable,Both lesions are technically amenable to parenchymal-sparing resections (in case of effective tumor shrinkage with neoadjuvant therapy) ...
+7,Model_Alone,potentially resectable,Classification: Potentially resectable (borderline resectable).
+7,Model_Studies,upfront resectable,Classification: Resectable.
+7,Model_Workflow,potentially resectable,Classification: Potentially resectable (requires confirmation of a sufficient future liver remnant and absence of major vascular or biliary invasion).
+7,Model_Workflow_Studies,upfront resectable,Classification: Resectable
+7,Expert,upfront resectable,"According to current hepatobiliary oncologic criteria for limited number, small size, and favorable location of metastases, this pattern is considered resectable."
+8,Model_Alone,upfront resectable,Classification: Resectable.
+8,Model_Studies,upfront resectable,The patient is resectable.
+8,Model_Workflow,potentially resectable,Classification: Resectable (potentially resectable)
+8,Model_Workflow_Studies,upfront resectable,Classification: Resectable (upfront resectable)
+8,Expert,upfront resectable,"According to current hepatobiliary oncologic criteria for solitary metastasis with favorable anatomy, this pattern is considered resectable."
+9,Model_Alone,upfront resectable,Classification: Resectable.
+9,Model_Studies,upfront resectable,Classification: Resectable
+9,Model_Workflow,potentially resectable,Classification: Potentially resectable (borderline) → considered resectable after confirmation of adequate future liver remnant and absence of extra‑hepatic disease.
+9,Model_Workflow_Studies,potentially resectable,The patient is potentially resectable.
+9,Expert,upfront resectable,this pattern is considered resectable.
+10,Model_Alone,potentially resectable,Classification: Potentially resectable (borderline resectable)
+10,Model_Studies,upfront resectable,Classification: Resectable.
+10,Model_Workflow,potentially resectable,"Classification: Potentially resectable (synchronous, solitary 3 cm lesion in segment VII, described by MDT as “deep but resectable”)."
+10,Model_Workflow_Studies,potentially resectable,"Definitive assessment of future liver remnant (FLR) and chest staging is pending; until these are confirmed, the lesion remains “potentially” rather than definitively resectable."
+10,Expert,upfront resectable,"According to current hepatobiliary oncologic criteria for solitary metastasis with preserved vascular structures, this pattern is considered resectable."
+11,Model_Alone,potentially resectable,Classification: Potentially resectable (borderline resectable).
+11,Model_Studies,upfront resectable,Classification: Resectable
+11,Model_Workflow,potentially resectable,the disease is considered potentially resectable pending further work‑up.
+11,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (borderline resectable) … confirmation is needed before labeling the disease “upfront resectable.”
+11,Expert,upfront resectable,"According to current hepatobiliary oncologic criteria for unilobar, limited number, and small-size metastases, this pattern is considered resectable."
+12,Model_Alone,upfront resectable,Classification: Resectable.
+12,Model_Studies,upfront resectable,Classification: Resectable.
+12,Model_Workflow,potentially resectable,"Missing data (FLR volume, vascular contact, thoracic imaging) preclude a definitive “resectable” label; therefore the lesion is considered potentially resectable pending further assessment."
+12,Model_Workflow_Studies,potentially resectable,The patient is potentially resectable.
+12,Expert,upfront resectable,"According to current hepatobiliary oncologic criteria for solitary, small, peripherally located metastasis, this pattern is considered resectable."
+13,Model_Alone,potentially resectable,"therefore definitive resectability cannot be confirmed without further assessment, placing the case in the “potentially resectable” category."
+13,Model_Studies,potentially resectable,"Therefore, while technically feasible, the case is best regarded as potentially resectable pending response to neoadjuvant chemotherapy and confirmation of sufficient FLR."
+13,Model_Workflow,potentially resectable,Classification: Potentially resectable (requires further work‑up before definitive decision).
+13,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (borderline).
+13,Expert,upfront resectable,"According to current hepatobiliary oncologic criteria for limited number and technically accessible metastases, this pattern is considered resectable."
+14,Model_Alone,upfront resectable,Classification: Resectable.
+14,Model_Studies,potentially resectable,Classification: Resectable (both technically and oncologically) pending confirmation of adequate functional liver reserve and patient fitness.
+14,Model_Workflow,potentially resectable,Classification: Potentially resectable.
+14,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (borderline)
+14,Expert,upfront resectable,this pattern is considered resectable.
+15,Model_Alone,potentially resectable,Classification: Potentially resectable (borderline between upfront resectable and requiring neoadjuvant therapy).
+15,Model_Studies,upfront resectable,Classification: Resectable.
+15,Model_Workflow,potentially resectable,Classification: Potentially resectable.
+15,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable
+15,Expert,upfront resectable,"According to current hepatobiliary oncologic criteria for solitary, small, peripherally located metastasis, this pattern is considered resectable."
+16,Model_Alone,potentially resectable,Potentially resectable after down‑staging.
+16,Model_Studies,potentially resectable,Therefore the disease is not resectable upfront but may become resectable after conversion therapy and/or hypertrophy strategies.
+16,Model_Workflow,potentially resectable,Classification: Potentially resectable (conversion‑resectable).
+16,Model_Workflow_Studies,potentially resectable,Current classification: Potentially resectable (borderline)
+16,Expert,not resectable,"According to hepatobiliary oncologic criteria, this pattern is considered unresectable upfront."
+17,Model_Alone,potentially resectable,Classification: Potentially resectable (borderline)
+17,Model_Studies,potentially resectable,Classification: Potentially resectable (borderline) ... Current MDT plan to reassess after 4 cycles of chemotherapy reflects the expectation that systemic therapy can downsize disease and clarify FLR adequacy
+17,Model_Workflow,potentially resectable,Classification: Potentially resectable (conversion‑eligible).
+17,Model_Workflow_Studies,potentially resectable,The patient is potentially resectable (borderline).
+17,Expert,potentially resectable,"considered potentially resectable after conversion therapy, but not safely resectable upfront"
+18,Model_Alone,potentially resectable,Classification: Potentially resectable (conversion case).
+18,Model_Studies,potentially resectable,Classification: Potentially resectable (borderline)
+18,Model_Workflow,potentially resectable,Classification: Potentially resectable (conversion‑resectable)
+18,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (borderline)
+18,Expert,not resectable,"this pattern is considered unresectable upfront, with a possibility of secondary resectability only after major tumor response."
+19,Model_Alone,potentially resectable,"Potentially resectable. The patient has bilobar disease (six lesions 2‑5 cm) with involvement of the middle hepatic vein, which currently precludes a single‑stage anatomic resection with an adequate future liver remnant (FLR). However, the lesions are not innumerable, the size is ≤5 cm, and there is no reported extra‑hepatic disease, making down‑staging with systemic therapy and/or portal vein embolization (PVE) feasible to achieve resectability."
+19,Model_Studies,potentially resectable,Classification: Potentially resectable (borderline)
+19,Model_Workflow,potentially resectable,Potentially resectable (borderline).
+19,Model_Workflow_Studies,potentially resectable,Potentially resectable (borderline‑resectable) after conversion therapy.
+19,Expert,not resectable,this pattern is considered unresectable upfront.
+20,Model_Alone,potentially resectable,Classification: Potentially resectable.
+20,Model_Studies,potentially resectable,"Potentially resectable, now considered resectable pending confirmation of functional liver remnant."
+20,Model_Workflow,potentially resectable,Classification: Potentially resectable.
+20,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (borderline)
+20,Expert,potentially resectable,this pattern is considered potentially resectable after conversion therapy
+21,Model_Alone,potentially resectable,Classification: potentially resectable (borderline) after down‑staging.
+21,Model_Studies,potentially resectable,"According to contemporary criteria, patients who cannot achieve an R0 resection now but may do so after downsizing with systemic therapy are deemed “potentially resectable.”"
+21,Model_Workflow,potentially resectable,Classification: Potentially resectable (borderline)  • Nine bilobar liver metastases with vascular contact ... make upfront R0 resection technically challenging ... Bilobar distribution and vascular involvement are not absolute contraindications; they can become resectable after tumor downsizing and/or augmentation of future liver remnant (FLR).
+21,Model_Workflow_Studies,potentially resectable,Current classification: Potentially resectable (borderline).
+21,Expert,not resectable,considered unresectable upfront
+22,Model_Alone,potentially resectable,Potentially resectable (conversion‑resectable).
+22,Model_Studies,potentially resectable,Classification: potentially resectable (borderline).
+22,Model_Workflow,potentially resectable,Classification: Potentially resectable.
+22,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (borderline)
+22,Expert,potentially resectable,"considered potentially resectable after conversion therapy, but not safely resectable upfront"
+23,Model_Alone,potentially resectable,Classification: Potentially resectable (borderline).
+23,Model_Studies,potentially resectable,Classification: potentially resectable (borderline)
+23,Model_Workflow,potentially resectable,The patient is potentially resectable (borderline).
+23,Model_Workflow_Studies,potentially resectable,the case remains potentially resectable after down‑staging and FLR assessment.
+23,Expert,potentially resectable,"make a complete R0 resection ... not feasible with an upfront surgical approach. ... considered (borderline) unresectable upfront, with a possibility of secondary resectable after effective conversion therapy."
+24,Model_Alone,potentially resectable,Classification: Potentially resectable (borderline).
+24,Model_Studies,potentially resectable,Classification: Potentially resectable (borderline)
+24,Model_Workflow,potentially resectable,the lesions are considered potentially resectable pending response and further imaging.
+24,Model_Workflow_Studies,potentially resectable,"Current MDT opinion labels the case “not initially resectable,” indicating that conversion with systemic therapy is anticipated."
+24,Expert,not resectable,"The very high tumor burden, bilobar distribution, and involvement of major vascular structures make a complete R0 resection with preservation of an adequate future liver remnant not feasible with an upfront surgical approach. According to hepatobiliary oncologic criteria, this pattern is considered unresectable upfront."
+25,Model_Alone,potentially resectable,Classification: Potentially resectable.
+25,Model_Studies,potentially resectable,Classification: potentially resectable (borderline)
+25,Model_Workflow,potentially resectable,Classification: Potentially resectable (borderline). ... the case is considered potentially resectable pending further work‑up.
+25,Model_Workflow_Studies,potentially resectable,"Based on the limited information, the hepatic disease is potentially resectable (borderline) rather than clearly resectable or unresectable."
+25,Expert,potentially resectable,"considered potentially resectable after conversion therapy, but not safely resectable upfront"
+26,Model_Alone,upfront resectable,Classification: Resectable.
+26,Model_Studies,upfront resectable,Classification: Resectable (not merely potentially resectable).
+26,Model_Workflow,potentially resectable,Classification: Potentially resectable.
+26,Model_Workflow_Studies,upfront resectable,Classification: Resectable (technically and oncologically)
+26,Expert,upfront resectable,"According to hepatobiliary oncologic criteria for limited, metachronous, anatomically favorable metastases, this pattern is considered resectable."
+27,Model_Alone,potentially resectable,Classification: Potentially resectable.
+27,Model_Studies,upfront resectable,Classification: Resectable (not merely potentially resectable)
+27,Model_Workflow,potentially resectable,Classification: Potentially resectable (requires confirmation of several missing parameters).
+27,Model_Workflow_Studies,upfront resectable,Classification: Resectable (current hepatobiliary oncologic criteria).
+27,Expert,upfront resectable,"According to hepatobiliary oncologic criteria for limited, metachronous, anatomically favorable metastases, this pattern is considered resectable."
+28,Model_Alone,potentially resectable,Classification: Potentially resectable.
+28,Model_Studies,potentially resectable,Classification: Potentially resectable
+28,Model_Workflow,potentially resectable,Classification: Potentially resectable.
+28,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (borderline resectable) … without this information the case cannot be declared outright resectable.
+28,Expert,upfront resectable,"According to hepatobiliary oncologic criteria for limited, metachronous, anatomically favorable metastases, this pattern is considered resectable."
+29,Model_Alone,upfront resectable,Classification: Resectable.
+29,Model_Studies,upfront resectable,Classification: Resectable.
+29,Model_Workflow,upfront resectable,Classification: Resectable (potentially resectable but meets criteria for outright resection).
+29,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (borderline resectable)
+29,Expert,upfront resectable,this pattern is considered resectable.
+30,Model_Alone,potentially resectable,Classification: Potentially resectable.
+30,Model_Studies,upfront resectable,Classification: Resectable.
+30,Model_Workflow,potentially resectable,Classification: Potentially resectable.
+30,Model_Workflow_Studies,upfront resectable,Classification: Resectable (potentially resectable only if future‑liver‑remnant or vascular issues are discovered).
+30,Expert,upfront resectable,"According to hepatobiliary oncologic criteria for limited bilobar metachronous metastases, this pattern is considered resectable."
+31,Model_Alone,upfront resectable,The patient is resectable.
+31,Model_Studies,upfront resectable,"Resectable. • Single metachronous lesion, 2.8 cm, in segment VIII – amenable to an anatomic segmentectomy or non‑anatomic wedge with clear margins. • No other intra‑ or extra‑hepatic disease on PET/CT, fulfilling the oncologic criterion of liver‑only disease. • Assuming a standard liver volume, removal of a single segment will leave >70 % future liver remnant, well above the 30 % (or FLR > 0.5 % body weight) threshold. • Patient described as “good general condition,” suggesting adequate performance status and low operative risk."
+31,Model_Workflow,potentially resectable,"Assuming adequate future liver remnant (FLR) and no major vascular or biliary involvement, the case meets current hepatobiliary oncologic criteria for resection."
+31,Model_Workflow_Studies,upfront resectable,Classification: Resectable.
+31,Expert,upfront resectable,"According to hepatobiliary oncologic criteria for solitary, metachronous, anatomically accessible metastasis, this pattern is considered resectable."
+32,Model_Alone,potentially resectable,Classification: Potentially resectable.
+32,Model_Studies,potentially resectable,Classification: Potentially resectable.
+32,Model_Workflow,potentially resectable,Classification: Potentially resectable.
+32,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (borderline resectable)
+32,Expert,potentially resectable,"this pattern is considered resectable, pending volumetric confirmation"
+33,Model_Alone,upfront resectable,Classification: Resectable.
+33,Model_Studies,potentially resectable,"Conclusion: lesions are technically resectable, but the unfavorable biological profile warrants neoadjuvant systemic therapy to confirm disease control before definitive surgery, thus placing the case in the “potentially resectable” category."
+33,Model_Workflow,potentially resectable,Classification: Potentially resectable.
+33,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (borderline)
+33,Expert,upfront resectable,"According to hepatobiliary oncologic criteria for limited bilobar metachronous metastases, this pattern is considered resectable."
+34,Model_Alone,potentially resectable,Classification: Potentially resectable.
+34,Model_Studies,upfront resectable,Classification: Resectable
+34,Model_Workflow,potentially resectable,Classification: Potentially resectable.
+34,Model_Workflow_Studies,upfront resectable,Classification: Resectable (upfront technically resectable).
+34,Expert,upfront resectable,"According to hepatobiliary oncologic criteria for limited, anatomically accessible metastases, this pattern is considered resectable."
+35,Model_Alone,potentially resectable,Classification: Potentially resectable.
+35,Model_Studies,potentially resectable,"The very high CEA (600 ng/mL) raises concern for aggressive biology, supporting the need for systemic therapy before definitive surgery, but does not make the disease unresectable."
+35,Model_Workflow,potentially resectable,therefore the lesion is considered potentially resectable pending further assessment.
+35,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (leaning toward resectable)
+35,Expert,upfront resectable,"According to hepatobiliary oncologic criteria for late solitary, anatomically accessible metastasis, this pattern is considered resectable."
+36,Model_Alone,potentially resectable,Classification: Potentially resectable.
+36,Model_Studies,potentially resectable,Classification: Potentially resectable (technically resectable but biologically high‑risk).
+36,Model_Workflow,potentially resectable,Classification: Potentially resectable
+36,Model_Workflow_Studies,potentially resectable,"Because the FLR, performance status, liver function and detailed vascular anatomy are not provided, a definitive “resectable” label cannot be confirmed."
+36,Expert,upfront resectable,"According to hepatobiliary oncologic criteria for limited, metachronous, anatomically accessible metastases, this pattern is considered resectable."
+37,Model_Alone,upfront resectable,Classification: Resectable.
+37,Model_Studies,potentially resectable,Classification: Potentially resectable – technically resectable but high‑risk biology warrants systemic therapy (“test of time”) before definitive hepatectomy.
+37,Model_Workflow,upfront resectable,the disease is surgically resectable.
+37,Model_Workflow_Studies,potentially resectable,Classification: Resectable (provided that FLR is adequate and no occult vascular involvement is identified on further imaging).
+37,Expert,upfront resectable,"According to hepatobiliary oncologic criteria for limited bilobar metachronous metastases, this pattern is considered resectable."
+38,Model_Alone,potentially resectable,the case is deemed “potentially resectable” pending further anatomic assessment.
+38,Model_Studies,potentially resectable,"the case is considered potentially resectable pending further technical assessment (volumetry, vascular anatomy) and biological assessment (response to systemic therapy)."
+38,Model_Workflow,potentially resectable,Classification: Potentially resectable.
+38,Model_Workflow_Studies,potentially resectable,"Classification: Potentially resectable (borderline) … Without FLR assessment and vascular involvement information, a definitive “resectable” label is premature; thus the case is deemed potentially resectable pending further work‑up."
+38,Expert,potentially resectable,"this pattern is considered resectable, pending precise anatomical assessment."
+39,Model_Alone,upfront resectable,Classification: Resectable.
+39,Model_Studies,upfront resectable,Classification: Resectable.
+39,Model_Workflow,potentially resectable,Classification: Potentially resectable.
+39,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (resectable pending confirmation of technical and oncologic criteria).
+39,Expert,upfront resectable,this pattern is considered resectable.
+40,Model_Alone,upfront resectable,Classification: Resectable.
+40,Model_Studies,potentially resectable,Technically resectable but with unfavorable biological markers → potentially resectable / borderline. Neoadjuvant systemic therapy is recommended before definitive liver surgery
+40,Model_Workflow,potentially resectable,Classification: Potentially resectable.
+40,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (borderline).
+40,Expert,upfront resectable,"According to hepatobiliary oncologic criteria for limited bilobar metachronous metastases, this pattern is considered resectable."
+41,Model_Alone,potentially resectable,Classification: Potentially resectable.
+41,Model_Studies,potentially resectable,Classification: potentially resectable.
+41,Model_Workflow,potentially resectable,Classification: Potentially resectable.
+41,Model_Workflow_Studies,potentially resectable,the case remains in the potentially resectable category pending further work‑up.
+41,Expert,potentially resectable,This pattern is therefore considered potentially resectable after conversion therapy.
+42,Model_Alone,potentially resectable,Current status: potentially resectable (not immediately resectable).
+42,Model_Studies,potentially resectable,Classification: Potentially resectable (borderline)
+42,Model_Workflow,potentially resectable,Classification: Potentially resectable (borderline) ... Missing critical data ... preclude a definitive “resectable” label; therefore the case remains in the potentially resectable/ conversion‑eligible category
+42,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (borderline).
+42,Expert,not resectable,"make a complete R0 resection ... not feasible. According to hepatobiliary oncologic criteria, this pattern is considered unresectable in the current setting."
+43,Model_Alone,potentially resectable,Classification: Potentially resectable.
+43,Model_Studies,potentially resectable,Classification: Potentially resectable (borderline).
+43,Model_Workflow,potentially resectable,"Classification: Potentially resectable (candidate for conversion to resection). ... Consequently, definitive resectability cannot be declared; the case remains in the “potentially resectable” category pending further assessment."
+43,Model_Workflow_Studies,potentially resectable,"Classification: Potentially resectable (borderline) … Therefore, the case meets criteria for “potentially resectable” pending further anatomic and functional assessment."
+43,Expert,potentially resectable,"This situation is therefore considered potentially resectable after conversion therapy, pending detailed re-evaluation."
+44,Model_Alone,not resectable,Classification: Unresectable at present.
+44,Model_Studies,potentially resectable,Classification: Potentially resectable (borderline).
+44,Model_Workflow,not resectable,Classification: Unresectable at this time
+44,Model_Workflow_Studies,not resectable,"MDT already concluded “no surgical window at this stage,” reflecting consensus that an R0 resection cannot be achieved with the current disease burden."
+44,Expert,not resectable,"makes a complete R0 resection with adequate oncologic control not achievable at this stage. According to hepatobiliary oncologic criteria, this situation is considered unresectable in the current setting."
+45,Model_Alone,potentially resectable,"the case cannot be declared outright resectable, but the response makes a curative‑intent liver operation feasible pending further anatomic assessment."
+45,Model_Studies,potentially resectable,Classification: Potentially resectable (converted from initially unresectable).
+45,Model_Workflow,potentially resectable,Classification: Potentially resectable (conversion‑eligible).
+45,Model_Workflow_Studies,potentially resectable,"Therefore, the case meets criteria for “potentially resectable” pending further anatomic evaluation."
+45,Expert,potentially resectable,"This situation is therefore considered potentially resectable after conversion therapy, but requires meticulous mapping of all initial metastatic locations before surgery."
+46,Model_Alone,potentially resectable,Classification: Potentially resectable.
+46,Model_Studies,potentially resectable,Classification: Potentially resectable (borderline)
+46,Model_Workflow,potentially resectable,"Resectability cannot be confirmed without data on hepatic segmental distribution, future liver remnant (FLR) volume, and the presence/absence of extra‑hepatic disease; therefore the case remains “potentially” rather than definitively resectable."
+46,Model_Workflow_Studies,potentially resectable,The patient is potentially resectable.
+46,Expert,potentially resectable,"This situation is considered resectable after conversion therapy, pending detailed segmental and volumetric reassessment."
+47,Model_Alone,potentially resectable,"Potentially resectable (borderline) ... definitive resectability cannot be confirmed at this time, but conversion to resectability remains plausible."
+47,Model_Studies,potentially resectable,Classification: Potentially resectable (borderline) … the case remains potentially resectable pending further systemic control and detailed volumetric assessment.
+47,Model_Workflow,potentially resectable,Current classification: Potentially resectable (borderline).
+47,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable / borderline.
+47,Expert,not resectable,"The tumor burden, bilobar distribution, and ongoing progression make a complete R0 resection ... not feasible at this stage. ... this situation is considered unresectable in the current setting."
+48,Model_Alone,potentially resectable,Classification: Potentially resectable.
+48,Model_Studies,potentially resectable,The patient is potentially resectable.
+48,Model_Workflow,potentially resectable,Classification: Potentially resectable (borderline).
+48,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (borderline).
+48,Expert,not resectable,"According to hepatobiliary oncologic criteria, this situation is considered unresectable at this stage"
+49,Model_Alone,potentially resectable,Classification: Potentially resectable.
+49,Model_Studies,potentially resectable,"Therefore the case is not deemed outright resectable (R0 resection of known disease) but is amenable to curative‑intent surgery after confirmation of disease status, placing it in the “potentially resectable” category."
+49,Model_Workflow,potentially resectable,Classification: Potentially resectable (requires further evaluation).
+49,Model_Workflow_Studies,potentially resectable,The case cannot be declared definitively resectable or unresectable; it remains potentially resectable pending further staging.
+49,Expert,potentially resectable,"Despite this apparent complete response, the high risk of occult residual microscopic disease at the sites of the initial metastases makes the situation potentially resectable after conversion therapy, but not safely classifiable as disease-free without precise remapping of the original disease."
+50,Model_Alone,potentially resectable,Current classification: potentially resectable (borderline) – not immediately resectable.
+50,Model_Studies,potentially resectable,Classification: Potentially resectable (borderline)
+50,Model_Workflow,potentially resectable,Potentially resectable (borderline) but not currently resectable.
+50,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (borderline) … therefore the case cannot be declared outright resectable at this time.
+50,Expert,not resectable,"The residual tumor burden and limited response make a complete R0 resection with preservation of an adequate future liver remnant not achievable at this stage. According to hepatobiliary oncologic criteria, this situation is considered unresectable in the current setting."
+51,Model_Alone,potentially resectable,Classification: Potentially resectable (borderline).
+51,Model_Studies,potentially resectable,Classification: Potentially resectable (borderline)
+51,Model_Workflow,potentially resectable,Classification: Potentially resectable.
+51,Model_Workflow_Studies,potentially resectable,"Consequently, the case is considered borderline and requires further volumetric/functional assessment and possibly conversion therapy before a definitive surgical decision."
+51,Expert,potentially resectable,"this pattern is considered resectable with a strict parenchymal-sparing strategy, pending volumetric confirmation."
+52,Model_Alone,potentially resectable,Classification: Potentially resectable.
+52,Model_Studies,potentially resectable,The patient is potentially resectable.
+52,Model_Workflow,potentially resectable,Potentially resectable (not outright resectable nor unresectable).
+52,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable / borderline.
+52,Expert,potentially resectable,"According to hepatobiliary oncologic criteria in the setting of prior major hepatectomy, this pattern is considered potentially resectable, pending detailed vascular and volumetric assessment."
+53,Model_Alone,potentially resectable,Classification: Potentially resectable.
+53,Model_Studies,potentially resectable,Classification: Potentially resectable (borderline) – not currently resectable but may become resectable after conversion strategies.
+53,Model_Workflow,potentially resectable,Potentially resectable (requires further evaluation).
+53,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable / borderline.
+53,Expert,potentially resectable,"this pattern is considered potentially resectable, pending detailed vascular and volumetric assessment."
+54,Model_Alone,potentially resectable,Resectable (potentially resectable but with high confidence for curative resection).
+54,Model_Studies,potentially resectable,"Two metachronous liver lesions ... are technically amenable to resection, but ... FLR is likely marginal; therefore the case sits at the edge of technical feasibility. ... neoadjuvant systemic therapy is recommended before definitive surgery"
+54,Model_Workflow,potentially resectable,Classification: Potentially resectable.
+54,Model_Workflow_Studies,potentially resectable,Overall classification: potentially resectable – the case meets technical criteria for R0 resection but the high tumour marker level and lack of systemic disease control warrant a bridging systemic therapy to confirm disease stability before definitive surgery.
+54,Expert,potentially resectable,"this pattern is considered resectable, pending detailed vascular and volumetric confirmation"
+55,Model_Alone,potentially resectable,The patient is potentially resectable.
+55,Model_Studies,potentially resectable,Classification: Potentially resectable (borderline).
+55,Model_Workflow,potentially resectable,"Missing data (vascular involvement, FLR calculation, liver function, performance status) prevent a definitive “resectable” label; therefore the case is deemed potentially resectable pending further assessment."
+55,Model_Workflow_Studies,potentially resectable,Potentially resectable / borderline resectable
+55,Expert,potentially resectable,Both lesions appear technically accessible ... this pattern is considered resectable ... pending detailed vascular and volumetric assessment.
+56,Model_Alone,potentially resectable,Classification: Potentially resectable.
+56,Model_Studies,potentially resectable,Potentially resectable only after advanced hypertrophy techniques; technically unresectable in the current anatomic setting.
+56,Model_Workflow,potentially resectable,Potentially resectable.
+56,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable / borderline.
+56,Expert,potentially resectable,"this pattern is considered potentially resectable, pending precise volumetric and vascular assessment."
+57,Model_Alone,potentially resectable,Both lesions are amenable to anatomic or parenchymal‑sparing resection provided that the future liver remnant (FLR) meets age‑adjusted functional thresholds (≥40 % for a 71‑year‑old).
+57,Model_Studies,potentially resectable,Classification: Potentially resectable (borderline).
+57,Model_Workflow,potentially resectable,Classification: Potentially resectable.
+57,Model_Workflow_Studies,potentially resectable,The patient is potentially resectable (borderline).
+57,Expert,potentially resectable,"this pattern is considered potentially resectable, pending detailed vascular and volumetric assessment."
+58,Model_Alone,potentially resectable,Current classification: potentially resectable but not immediately resectable.
+58,Model_Studies,potentially resectable,Classification: Potentially resectable (borderline) ... the case does not meet definitive resectability but may become resectable after down‑staging and liver hypertrophy strategies.
+58,Model_Workflow,potentially resectable,Classification: Potentially resectable (borderline) – the disease is currently deemed not clearly resectable because
+58,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (borderline)
+58,Expert,not resectable,make a complete R0 resection ... not feasible. ... this situation is considered unresectable in the current setting.
+59,Model_Alone,potentially resectable,Classification: Potentially resectable.
+59,Model_Studies,potentially resectable,"Therefore, while technically feasible, the case is best regarded as potentially resectable pending response to neoadjuvant therapy."
+59,Model_Workflow,potentially resectable,Classification: Potentially resectable.
+59,Model_Workflow_Studies,potentially resectable,The patient is potentially resectable (borderline resectable).
+59,Expert,potentially resectable,"this pattern is considered resectable, pending detailed vascular and volumetric confirmation."
+60,Model_Alone,potentially resectable,Classification: Potentially resectable.
+60,Model_Studies,potentially resectable,Classification: Potentially resectable
+60,Model_Workflow,potentially resectable,Classification: Potentially resectable.
+60,Model_Workflow_Studies,potentially resectable,"Potentially resectable. ... however, definitive FLR volumetry, performance status, liver function, and full thoraco‑abdominal staging are lacking, preventing a classification of outright resectable."
+60,Expert,upfront resectable,"According to hepatobiliary oncologic criteria in the setting of prior limited hepatectomy, this pattern is considered resectable."
+61,Model_Alone,potentially resectable,Classification: Potentially resectable.
+61,Model_Studies,potentially resectable,Classification: Potentially resectable.
+61,Model_Workflow,potentially resectable,Classification: Potentially resectable (borderline)
+61,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (requires further technical confirmation).
+61,Expert,potentially resectable,"this pattern is considered potentially resectable, pending precise vascular and volumetric assessment."
+62,Model_Alone,upfront resectable,Classification: Resectable.
+62,Model_Studies,upfront resectable,Classification: Resectable.
+62,Model_Workflow,potentially resectable,Classification: Potentially resectable.
+62,Model_Workflow_Studies,potentially resectable,Potentially resectable (borderline resectable pending FLR confirmation).
+62,Expert,upfront resectable,"According to hepatobiliary oncologic criteria in the setting of prior limited hepatectomy, this pattern is considered resectable."
+63,Model_Alone,potentially resectable,High CEA (550 ng/mL) raises concern for aggressive biology; this favors neoadjuvant systemic therapy to test disease kinetics before committing to surgery.
+63,Model_Studies,potentially resectable,Classification: Potentially resectable / borderline.
+63,Model_Workflow,potentially resectable,Classification: Potentially resectable.
+63,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable / borderline.
+63,Expert,potentially resectable,"this situation is considered potentially resectable, but requires careful balance between parenchymal preservation and oncologic completeness."
+64,Model_Alone,potentially resectable,Classification: Potentially resectable (borderline)
+64,Model_Studies,potentially resectable,Classification: Potentially resectable.
+64,Model_Workflow,potentially resectable,Classification: Potentially resectable (neither clearly resectable nor unresectable).
+64,Model_Workflow_Studies,potentially resectable,the case cannot be classified as outright resectable. Classification: Potentially resectable (ESMO category 1)
+64,Expert,potentially resectable,"This situation is considered potentially resectable in a multimodal, sequential curative strategy, provided both hepatic and pulmonary disease are amenable to complete treatment."
+65,Model_Alone,not resectable,Classification: Unresectable at presentation.
+65,Model_Studies,potentially resectable,Therefore the case is not outright resectable but may become resectable after effective induction therapy and reassessment.
+65,Model_Workflow,potentially resectable,the case is deemed potentially resectable pending further systemic response and detailed peritoneal assessment.
+65,Model_Workflow_Studies,not resectable,Classification: Unresectable (currently)
+65,Expert,not resectable,"The presence of peritoneal carcinomatosis indicates systemic dissemination beyond the liver and precludes a curative hepatobiliary surgical approach at this stage. According to oncologic criteria, this situation is considered unresectable from a hepatobiliary perspective in the current setting."
+66,Model_Alone,potentially resectable,Classification: Potentially resectable (borderline).
+66,Model_Studies,potentially resectable,Classification: Potentially resectable (borderline)
+66,Model_Workflow,potentially resectable,Current classification: Potentially resectable (neither clearly resectable nor unresectable).
+66,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (neither clearly resectable nor unresectable with the data provided).
+66,Expert,potentially resectable,"This situation is considered potentially resectable within a multimodal, sequential curative strategy."
+67,Model_Alone,potentially resectable,Classification: potentially resectable.
+67,Model_Studies,potentially resectable,Classification: Potentially resectable (borderline)
+67,Model_Workflow,potentially resectable,Classification: Potentially resectable (requires further evaluation).
+67,Model_Workflow_Studies,potentially resectable,"Consequently, the case is not outright unresectable but cannot be declared resectable without further down‑staging and detailed anatomic assessment."
+67,Expert,potentially resectable,This situation is therefore considered potentially resectable from a hepatobiliary perspective.
+68,Model_Alone,potentially resectable,Classification: Potentially resectable (borderline) – ... conversion to resectability is possible after systemic therapy and/or liver‑directed interventions.
+68,Model_Studies,potentially resectable,Classification: potentially resectable.
+68,Model_Workflow,potentially resectable,Current classification: Potentially resectable (borderline).
+68,Model_Workflow_Studies,potentially resectable,"Consequently, the case falls into the “potentially resectable” category pending further staging, response to systemic therapy, and control of the brain lesion."
+68,Expert,not resectable,"The presence of brain metastasis indicates advanced systemic dissemination and excludes any curative hepatobiliary surgical strategy at this stage. From a hepatobiliary perspective, this situation is considered unresectable."
+69,Model_Alone,potentially resectable,the case is considered potentially resectable pending further assessment and neoadjuvant therapy response.
+69,Model_Studies,potentially resectable,Potentially resectable (borderline) ... extra‑hepatic disease precludes upfront curative hepatectomy alone.
+69,Model_Workflow,potentially resectable,Classification: Potentially resectable (borderline)
+69,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (borderline).
+69,Expert,potentially resectable,considered potentially resectable in the current setting
+70,Model_Alone,potentially resectable,Classification: Potentially resectable.
+70,Model_Studies,potentially resectable,Classification: Potentially resectable.
+70,Model_Workflow,potentially resectable,Classification: Potentially resectable.
+70,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (borderline).
+70,Expert,potentially resectable,"This situation is considered potentially resectable within a multimodal, sequential curative strategy."
+71,Model_Alone,not resectable,Classification: Unresectable for curative intent.
+71,Model_Studies,not resectable,Classification: Unresectable (curative intent)
+71,Model_Workflow,not resectable,"Presence of mediastinal lymph node metastasis on FDG‑PET indicates extra‑hepatic disease beyond the liver, classifying the burden as systemic."
+71,Model_Workflow_Studies,not resectable,Mediastinal lymph‑node metastasis on FDG‑PET represents extra‑hepatic disease that is not surgically resectable in colorectal cancer and therefore precludes an R0 liver‑only resection.
+71,Expert,potentially resectable,"From a hepatobiliary perspective, this situation is considered potentially resectable."
+72,Model_Alone,potentially resectable,Potentially resectable (conversion‑resectable).
+72,Model_Studies,potentially resectable,"Therefore, the disease is not resectable upfront but may become resectable after conversion therapy, FLR augmentation, and/or staged approaches."
+72,Model_Workflow,potentially resectable,Potentially resectable after conversion therapy.
+72,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (borderline).
+72,Expert,not resectable,"From a hepatobiliary perspective, this situation is considered unresectable upfront."
+73,Model_Alone,not resectable,Overall disease considered unresectable for curative intent.
+73,Model_Studies,potentially resectable,Classification: potentially resectable (borderline).
+73,Model_Workflow,potentially resectable,Classification: Potentially resectable (subject to further clarification).
+73,Model_Workflow_Studies,not resectable,Current classification: Unresectable (curative intent).
+73,Expert,not resectable,"The presence of osseous metastatic disease indicates systemic dissemination beyond the liver and excludes any curative hepatobiliary surgical strategy. From a hepatobiliary perspective, this situation is considered unresectable."
+74,Model_Alone,potentially resectable,Classification: Potentially resectable.
+74,Model_Studies,potentially resectable,Classification: Potentially resectable.
+74,Model_Workflow,potentially resectable,Classification: Potentially resectable (borderline).
+74,Model_Workflow_Studies,potentially resectable,Consequently the case cannot be declared outright resectable and is best described as potentially resectable pending further work‑up.
+74,Expert,potentially resectable,"This situation is considered potentially resectable within a multimodal, sequential curative strategy."
+75,Model_Alone,potentially resectable,Potentially resectable after down‑staging (not immediately resectable).
+75,Model_Studies,not resectable,Classification: Unresectable at this time.
+75,Model_Workflow,not resectable,Classification: Unresectable (current disease not amenable to curative‑intent surgery).
+75,Model_Workflow_Studies,not resectable,Classification: Unresectable (currently).
+75,Expert,not resectable,"The presence of peritoneal dissemination combined with extensive bilobar hepatic disease excludes any curative hepatobiliary surgical approach at this stage. From a hepatobiliary perspective, this situation is considered unresectable."
+76,Model_Alone,potentially resectable,Classification: Potentially resectable.
+76,Model_Studies,potentially resectable,Classification: potentially resectable (borderline).
+76,Model_Workflow,potentially resectable,Classification: Potentially resectable (technically resectable but requires optimization).
+76,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (borderline resectable)
+76,Expert,potentially resectable,"According to hepatobiliary oncologic criteria, this pattern is resectable. However, the very high CEA level (1150 ng/mL) suggests aggressive tumor biology and a high systemic risk."
+77,Model_Alone,potentially resectable,Classification: Potentially resectable (borderline).
+77,Model_Studies,potentially resectable,"the case cannot be deemed outright resectable at this time, but conversion to resectability is feasible with appropriate neoadjuvant therapy and hepatic hypertrophy strategies."
+77,Model_Workflow,potentially resectable,Classification: Potentially resectable (requires further evaluation).
+77,Model_Workflow_Studies,potentially resectable,"Classification: Potentially resectable (borderline). ... resectability cannot be confirmed at this stage, but conversion to resectable status is plausible with down‑staging and appropriate hepatic planning."
+77,Expert,not resectable,"From a hepatobiliary oncologic perspective, this situation is considered unresectable upfront, as surgery would not provide meaningful oncologic benefit at this stage."
+78,Model_Alone,potentially resectable,Classification: Potentially resectable.
+78,Model_Studies,potentially resectable,Classification: Potentially resectable (borderline)
+78,Model_Workflow,potentially resectable,Classification: Potentially resectable (pending further data).
+78,Model_Workflow_Studies,potentially resectable,"Four bilobar liver metastases can be technically resectable if an adequate future liver remnant (FLR ≥ 30 % in a normal liver, ≥ 20 % after chemotherapy) can be preserved."
+78,Expert,potentially resectable,"considered potentially resectable, but surgery is not the first step given the expected efficacy of systemic immunotherapy"
+79,Model_Alone,potentially resectable,Classification: Potentially resectable.
+79,Model_Studies,potentially resectable,Classification: Potentially resectable (borderline) ... the combination of high‑risk biologic features justifies a “potentially resectable” designation pending neoadjuvant systemic therapy and reassessment.
+79,Model_Workflow,potentially resectable,Classification: Potentially resectable.
+79,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (borderline‑resectable)
+79,Expert,upfront resectable,"According to hepatobiliary oncologic criteria, this pattern is considered resectable."
+80,Model_Alone,potentially resectable,Current classification: potentially resectable only after down‑staging.
+80,Model_Studies,potentially resectable,the disease is deemed “potentially resectable after down‑staging.”
+80,Model_Workflow,potentially resectable,Classification: Potentially resectable (borderline) after conversion therapy.
+80,Model_Workflow_Studies,not resectable,Classification: Unresectable (currently)
+80,Expert,not resectable,"The combination of extensive bilobar disease and portal pedicle involvement precludes the possibility of achieving a complete R0 resection while preserving an adequate future liver remnant. From a hepatobiliary oncologic perspective, this situation is considered unresectable at this stage."
+81,Model_Alone,potentially resectable,"these factors shift the case from outright resectable to potentially resectable pending optimization (e.g., portal vein embolization, staged resection)."
+81,Model_Studies,potentially resectable,Classification: Potentially resectable (borderline).
+81,Model_Workflow,potentially resectable,Classification: Potentially resectable (borderline).
+81,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (borderline)
+81,Expert,potentially resectable,"this situation is considered potentially resectable, but only after careful vascular assessment and likely tumor downsizing."
+82,Model_Alone,potentially resectable,"Classification: Potentially resectable (borderline). ... Resectability will depend on volumetric FLR assessment, the ability to reconstruct the IVC safely, and the patient’s physiologic reserve."
+82,Model_Studies,potentially resectable,moving the case from “up‑front resectable” to “potentially resectable” pending down‑staging and detailed vascular planning.
+82,Model_Workflow,potentially resectable,Classification: Potentially resectable.
+82,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (borderline)
+82,Expert,potentially resectable,"this situation is considered potentially resectable only in a highly selected setting, after tumor downsizing and multidisciplinary vascular assessment."
+83,Model_Alone,potentially resectable,Classification: Potentially resectable (borderline).
+83,Model_Studies,potentially resectable,Classification: potentially resectable (borderline)
+83,Model_Workflow,potentially resectable,Classification: Potentially resectable (borderline).
+83,Model_Workflow_Studies,potentially resectable,"Absence of data on future liver remnant (FLR) volume, hepatic functional reserve, and response to systemic therapy prevents a definitive “resectable” label; therefore the case is best considered borderline pending down‑staging and volumetric assessment."
+83,Expert,potentially resectable,"From a hepatobiliary oncologic perspective, this situation is considered potentially resectable only after tumor downsizing."
+84,Model_Alone,potentially resectable,Classification: Potentially resectable.
+84,Model_Studies,potentially resectable,Classification: Potentially resectable (borderline)
+84,Model_Workflow,potentially resectable,Classification: Potentially resectable.
+84,Model_Workflow_Studies,potentially resectable,"Without these, a definitive “resectable” label cannot be given; therefore the case is best described as potentially resectable pending further assessment."
+84,Expert,upfront resectable,"According to hepatobiliary oncologic criteria, this pattern is considered resectable."
+85,Model_Alone,potentially resectable,Classification: Potentially resectable.
+85,Model_Studies,potentially resectable,The patient is classified as potentially resectable (borderline‑resectable).
+85,Model_Workflow,potentially resectable,Classification: Potentially resectable (borderline).
+85,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (borderline).
+85,Expert,not resectable,"From a hepatobiliary oncologic perspective, this situation is considered unresectable upfront."
+86,Model_Alone,potentially resectable,The patient is potentially resectable.
+86,Model_Studies,potentially resectable,Classification: Potentially resectable (borderline resectable)
+86,Model_Workflow,potentially resectable,Classification: Potentially resectable.
+86,Model_Workflow_Studies,potentially resectable,Potentially resectable. ... make a definitive “resectable” classification premature; therefore the case is best considered potentially resectable pending conversion therapy and detailed anatomic assessment.
+86,Expert,upfront resectable,"According to hepatobiliary oncologic criteria, this pattern is resectable."
+87,Model_Alone,potentially resectable,Classification: Unresectable at present (potentially convertible).
+87,Model_Studies,potentially resectable,Potentially resectable (borderline/unresectable at presentation but convertible)
+87,Model_Workflow,potentially resectable,Current classification: Potentially resectable after down‑staging (not immediately resectable).
+87,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (borderline) – the disease is not clearly resectable because:
+87,Expert,not resectable,"The tumor burden, multiplicity of lesions, and likely bilobar distribution preclude the possibility of achieving a complete R0 resection while preserving an adequate future liver remnant. From a hepatobiliary oncologic perspective, this situation is considered unresectable."
+88,Model_Alone,potentially resectable,Classification: Potentially resectable.
+88,Model_Studies,potentially resectable,Classification: Potentially resectable (borderline)
+88,Model_Workflow,potentially resectable,Classification: Potentially resectable.
+88,Model_Workflow_Studies,potentially resectable,Potentially resectable (borderline resectable)
+88,Expert,potentially resectable,this situation is considered potentially resectable only after tumor downsizing and precise volumetric reassessment.
+89,Model_Alone,potentially resectable,Classification: Potentially resectable.
+89,Model_Studies,potentially resectable,Classification: potentially resectable (borderline).
+89,Model_Workflow,potentially resectable,Classification: Potentially resectable (requires further evaluation).
+89,Model_Workflow_Studies,potentially resectable,"Classification: Potentially resectable (borderline) ... Therefore the case is best described as potentially resectable pending additional imaging, volumetry, and response to systemic therapy."
+89,Expert,potentially resectable,"this situation is considered potentially resectable, but only after careful vascular assessment and likely induction therapy."
+90,Model_Alone,potentially resectable,Classification: Potentially resectable (borderline).
+90,Model_Studies,potentially resectable,Classification: potentially resectable
+90,Model_Workflow,potentially resectable,"Potentially resectable (not outright resectable, not unresectable)."
+90,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (borderline resectable)
+90,Expert,potentially resectable,this situation is considered potentially resectable.
+91,Model_Alone,potentially resectable,Classification: Potentially resectable.
+91,Model_Studies,potentially resectable,Classification: potentially resectable (borderline).
+91,Model_Workflow,potentially resectable,Classification: Potentially resectable (borderline)
+91,Model_Workflow_Studies,potentially resectable,The patient is classified as potentially resectable.
+91,Expert,potentially resectable,"the situation is potentially resectable, but surgery is not the first step given the expected efficacy of systemic immunotherapy"
+92,Model_Alone,potentially resectable,Potentially resectable (borderline)
+92,Model_Studies,potentially resectable,Classification: Potentially resectable (borderline)
+92,Model_Workflow,potentially resectable,Classification: Potentially resectable (borderline) ... the case is not deemed outright unresectable but requires conversion treatment first.
+92,Model_Workflow_Studies,potentially resectable,Current classification: Potentially resectable (borderline).
+92,Expert,not resectable,"From a hepatobiliary oncologic perspective, this situation is considered unresectable upfront."
+93,Model_Alone,potentially resectable,Classification: Potentially resectable (borderline)
+93,Model_Studies,potentially resectable,Potentially resectable (borderline)
+93,Model_Workflow,potentially resectable,"Classification: Potentially resectable, pending further anatomic and functional assessment."
+93,Model_Workflow_Studies,potentially resectable,"Consequently, the disease is best regarded as potentially resectable pending further work‑up."
+93,Expert,not resectable,"The tumor burden and bilobar distribution preclude the possibility of achieving a complete R0 resection while preserving an adequate future liver remnant at this stage. From a hepatobiliary oncologic perspective, this situation is considered unresectable upfront."
+94,Model_Alone,potentially resectable,"The need for IVC/RHV reconstruction places the case in the “potentially resectable” category pending assessment of FLR volume, hepatic inflow/outflow, and patient’s operative risk."
+94,Model_Studies,potentially resectable,Classification: Potentially resectable.
+94,Model_Workflow,potentially resectable,Potentially resectable (requires further evaluation).
+94,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (requires further evaluation).
+94,Expert,potentially resectable,this situation is considered potentially resectable only after tumor downsizing and expert HPB / vascular reassessment.
+95,Model_Alone,potentially resectable,The patient is potentially resectable pending further anatomic and functional evaluation.
+95,Model_Studies,potentially resectable,Classification: Potentially resectable (borderline)
+95,Model_Workflow,potentially resectable,Classification: Potentially resectable (borderline) ... it remains potentially resectable pending further anatomic and functional assessment
+95,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (borderline).
+95,Expert,not resectable,The multiplicity and likely bilobar distribution of lesions preclude the possibility of achieving a complete R0 resection while preserving an adequate future liver remnant at this stage. ... this situation is considered unresectable upfront.
+96,Model_Alone,potentially resectable,Classification: Potentially resectable.
+96,Model_Studies,potentially resectable,Classification: Potentially resectable.
+96,Model_Workflow,potentially resectable,Classification: Potentially resectable (borderline)
+96,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (borderline).
+96,Expert,potentially resectable,This situation is therefore technically potentially resectable.
+97,Model_Alone,potentially resectable,Classification: Potentially resectable.
+97,Model_Studies,potentially resectable,Classification: potentially resectable (borderline)
+97,Model_Workflow,potentially resectable,Classification: Potentially resectable (requires further evaluation). ... the case cannot be declared outright resectable or unresectable; it remains potentially resectable pending complete staging and volumetric assessment.
+97,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (borderline)
+97,Expert,not resectable,"The number of lesions and likely bilobar distribution make a complete R0 resection with preservation of an adequate future liver remnant not feasible at this stage. From a hepatobiliary oncologic perspective, this situation is considered unresectable upfront."
+98,Model_Alone,potentially resectable,Classification: Potentially resectable.
+98,Model_Studies,potentially resectable,"Therefore, the case is not outright resectable but may become resectable after down‑staging, vascular reconstruction, or staged hypertrophy strategies."
+98,Model_Workflow,potentially resectable,Classification: Potentially resectable.
+98,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (borderline) … the disease is considered borderline/potentially resectable pending further assessment.
+98,Expert,potentially resectable,considered potentially resectable only after tumor downsizing and expert vascular reassessment.
+99,Model_Alone,potentially resectable,Classification: Potentially resectable.
+99,Model_Studies,potentially resectable,Classification: Potentially resectable.
+99,Model_Workflow,potentially resectable,Classification: Potentially resectable.
+99,Model_Workflow_Studies,potentially resectable,Classification: Potentially resectable (borderline)
+99,Expert,upfront resectable,"From a hepatobiliary oncologic perspective, this situation is considered resectable."
+100,Model_Alone,potentially resectable,Classification: Potentially resectable.
+100,Model_Studies,potentially resectable,"the case remains potentially resectable pending further assessment and possible liver‑hypertrophy strategies (PVE, two‑stage hepatectomy, ALPPS)."
+100,Model_Workflow,potentially resectable,Classification: Potentially resectable (subject to further anatomic and functional assessment).
+100,Model_Workflow_Studies,potentially resectable,Current classification: Potentially resectable (borderline).
+100,Expert,upfront resectable,"From a hepatobiliary oncologic perspective, this situation is considered resectable."

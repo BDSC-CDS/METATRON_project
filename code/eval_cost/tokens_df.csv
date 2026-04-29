@@ -1,0 +1,17 @@
+Step,Approach,Criterion,Mean_Prompt_Tokens
+step12,Model_Alone,Completeness,1365.99
+step12,Model_Alone,Step-by-step concordance,1405.99
+step12,Model_Alone,Case-tailoring concordance,1379.99
+step12,Model_Studies,Completeness,1441.27
+step12,Model_Studies,Step-by-step concordance,1481.27
+step12,Model_Studies,Case-tailoring concordance,1455.27
+step12,Model_Workflow,Completeness,1377.47
+step12,Model_Workflow,Step-by-step concordance,1417.47
+step12,Model_Workflow,Case-tailoring concordance,1391.47
+step12,Model_Workflow_Studies,Completeness,1436.79
+step12,Model_Workflow_Studies,Step-by-step concordance,1476.79
+step12,Model_Workflow_Studies,Case-tailoring concordance,1450.79
+step3,Model_Alone,Missing data concordance,528.49
+step3,Model_Studies,Missing data concordance,531.58
+step3,Model_Workflow,Missing data concordance,574.32
+step3,Model_Workflow_Studies,Missing data concordance,593.18

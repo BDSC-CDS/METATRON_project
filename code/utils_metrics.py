@@ -3,6 +3,7 @@ from fuzzywuzzy import fuzz
 import pandas as pd
 import numpy as np
 from Levenshtein import distance
+from dtaidistance import dtw
 import math
 
 ################################## Step-order Evaluation ############################################
@@ -26,6 +27,17 @@ def compute_strict_alignment(ref, gen):
         "score": round(aligned / len(ref), 3)
     }
 
+# One-hot encoding 
+def one_hot_encode(sequence, label):
+    return [1 if item == label else 0 for item in sequence]
+
+# DTW
+def compute_dtw_distance(ref, gen, label):
+    ref_encoded = one_hot_encode(ref, label)
+    gen_encoded = one_hot_encode(gen, label)
+    distance = dtw.distance(ref_encoded, gen_encoded)
+    # print(f"DTW distance for label '{label}': {distance}\nref:{ref} --> {ref_encoded}\ngen:{gen} --> {gen_encoded}\n")
+    return 1 - (distance / len(ref)) # Penalize omissions by dividing by the length of the reference sequence
 
 ################################## Content Evaluation ############################################
 def empty_items(list1: list, list2: list, max_score=1):
@@ -110,7 +122,7 @@ def compute_perc_exact_match(list1, list2):
         intersection = set1.intersection(set2)
         return len(intersection)/len(set1) 
 
-def choose_fun(metric:str, list1:list, list2:list):
+def choose_fun(metric:str, list1:list, list2:list, label=None):
     if metric == "LCS":
         output = compute_lcs_score(list1, list2)
     elif metric == "TSR":
@@ -119,6 +131,8 @@ def choose_fun(metric:str, list1:list, list2:list):
         output = compute_normalized_levenshtein(list1, list2)
     elif metric == "Exact_Match_P":
         output = compute_perc_exact_match(list1, list2)
+    elif metric == "One_Hot_Encoding_DTW":
+        output = compute_dtw_distance(list1, list2, label)
     return output
     
 ############################## Statistics ##########################

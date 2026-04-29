@@ -1,0 +1,13 @@
+Judge,Criterion,Mean STD Across Approaches,"ICC(3,1)"
+claude,Completeness,0.024,0.475 (0-0.95)
+claude,Step_concordance,0.119,0.985 (0.9-1.0)
+claude,Case_tailoring,0.163,0.979 (0.87-1.0)
+claude,Missing_data_concordance,0.161,0.959 (0.77-1.0)
+gpt,Completeness,0.126,0.862 (0.4-0.99)
+gpt,Step_concordance,0.159,0.882 (0.46-0.99)
+gpt,Case_tailoring,0.029,0.045 (0-0.84)
+gpt,Missing_data_concordance,0.03,0.416 (0-0.94)
+llama,Completeness,0.097,0.983 (0.9-1.0)
+llama,Step_concordance,0.057,0.95 (0.72-1.0)
+llama,Case_tailoring,0.098,0.975 (0.85-1.0)
+llama,Missing_data_concordance,0.037,0.899 (0.52-0.99)

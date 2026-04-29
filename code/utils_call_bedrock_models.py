@@ -10,7 +10,7 @@ import _io
 from typing import Any
 
 # settings 
-cred_path = "bedrick_cred/"
+cred_path = "bedrock_cred/"
 
 MAX_TOKENS = 1000
 
