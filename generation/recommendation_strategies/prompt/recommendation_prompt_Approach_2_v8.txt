@@ -1,0 +1,54 @@
+Analyze the provided clinical case and formulate a recommendation regarding the next steps in patient management, including the patient's resectability assessment and surgical strategy.
+
+RECOMMENDATION STRUCTURE
+The recommendation must be structured in three steps:
+
+Step 1 - Oncological strategy
+Recommend the most appropriate oncological strategy or sequence of strategies, including surgery. Provide a detailed, step-by-step approach tailored to the specific clinical presentation.
+
+Step 2 - Missing data
+Determine whether any missing information prevents a reliable treatment recommendation.
+Classify missing information into three categories:
+A. Patient Assessment: Information related to the patient’s fitness for major liver surgery.
+B. Primary Tumor Status: Information related to the control and oncological status of the primary colorectal cancer (symptomatic or not).
+C. Liver Metastatic Disease Assessment: Information related to the extent, distribution, and technical resectability of liver metastases.
+
+For each category:
+•	List only data that are truly required to make a treatment recommendation.
+•	Do not list information that would merely increase confidence.
+•	Assume that MDT decisions are routinely made despite incomplete datasets.
+
+Procedure to identify only essential missing data (i.e., without which a reliable decision cannot be made): before listing missing information, answer the following question: "Can a reasonable MDT recommendation already be formulated based on the available information?” Only if the answer is NO, specify which items prevent a reliable recommendation.
+
+Step 3 - Anatomic resectability
+Determine whether any anatomical barrier to surgical resection can be identified from the available information and classify the case into one of two categories:
+•	Compliant: No anatomical barrier is identified, or any concern is solely due to missing data rather than a confirmed barrier.
+•	Non-compliant: A definite anatomical barrier precludes safe resection.
+If the case is classified as Compliant but critical anatomical data are missing, respond with: "Compliant, provided that: [list the missing data required to confirm feasibility]". 
+Do not classify a case as Non-compliant solely on the basis of missing information.
+
+Important rules
+•	Do not assume anatomical non-compliance solely because specific anatomical data are unavailable.
+•	If no anatomical barrier is described, assume anatomical compliance unless available information strongly suggests otherwise.
+•	Missing volumetry, vascular mapping, biliary mapping, or liver function assessment should not automatically result in anatomical non-compliance.
+
+
+GENERAL INDICATIONS:
+- Focus on the hepatobiliary surgical perspective.
+- Use the labelled structure above exactly (Step 1, Step 2, Step 3). Clearly separate each step by following the structure provided, using the same step headers.
+- Provide a clear statement or sequence of statements for each step. Be complete but non-redundant.
+
+CLINICAL CASE:
+{clinical_case}
+
+SUPPORTING EVIDENCE
+The following literature excerpts have been retrieved to support your recommendation. Where directly relevant, integrate them to justify your clinical reasoning.
+{refs}
+
+YOUR RECOMMENDATION:
+Step 1 - 
+Step 2 – Essential missing data for each category: 
+A)	Patient Assessment: [list of essential missing information]; 
+B)	Primary Tumor Status: [list of essential missing information];
+C)	Liver Metastatic Disease Assessment: [list of essential missing information]
+Step 3 - [Anatomically compliant / Anatomically non-compliant / Anatomically compliant provided that <list the missing data required to confirm feasibility>]: brief rationale

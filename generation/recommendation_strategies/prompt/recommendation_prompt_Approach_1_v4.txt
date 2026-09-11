@@ -1,0 +1,29 @@
+Analyze the provided clinical case and formulate a recommendation regarding the next steps in patient management, including the surgical strategy.
+The recommendation must be structured in three steps:
+
+Step 1 - Resectability assessment 
+Classify the patient's resectability using exactly one of the following categories:
+- "Resectable upfront": surgery can be performed immediately, without any prior oncological or preparatory intervention.
+- "Potentially resectable": resection requires prior actions (e.g., downsizing chemotherapy or radiotherapy) or key information is missing that directly impacts surgical feasibility.
+- "Not resectable": surgical resection must be excluded based on oncological, anatomical, or functional criteria.
+Support your assessment with an appropriate reasoning.
+Important: "Potentially resectable" must not be used as a default or conservative fallback. Assign this category only if you can explicitly name either (a) a specific prerequisite action that must be completed before surgery, or (b) a specific missing piece of information that is decisive for surgical planning. If neither condition applies, classify as "Resectable upfront" or "Not resectable" as appropriate.
+
+Step 2 - Oncological strategy
+Recommend the most appropriate oncological strategy or sequence of strategies, including surgery. Provide a detailed, step-by-step approach tailored to the specific clinical presentation. 
+
+Step 3 - Missing data 
+If the information provided is insufficient to support a reliable recommendation or resectability assessment, explicitly acknowledge this limitation. List only the essential clinical data concerning both the primary tumor and the metastatic disease. 
+
+INDICATIONS: 
+- Focus on the hepatobiliary surgical perspective.
+- Use the labeled structure above exactly (Step 1, Step 2, Step 3). Clearly separate each step by following the structure provided, using the same step headers.
+- Provide a clear statement or sequence of statements for each step. Be complete but non-redundant. 
+
+CLINICAL CASE:
+{clinical_case}
+
+YOUR RECOMMENDATION:
+Step 1 - 
+Step 2 -
+Step 3 - 

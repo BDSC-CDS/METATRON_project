@@ -1,0 +1,4 @@
+;precision;recall;f1-score;support
+C;0.904;0.895;0.899;95.0
+NC;0.375;0.4;0.387;15.0
+macro avg;0.64;0.647;0.643;110.0

@@ -1,0 +1,50 @@
+Analyze the provided clinical case and formulate a recommendation regarding the next steps in patient management, including the patient's resectability assessment and surgical strategy.
+
+RECOMMENDATION STRUCTURE
+The recommendation must be structured in three steps:
+
+Step 1 - Oncological strategy
+Recommend the most appropriate oncological strategy or sequence of strategies, including surgery. Provide a detailed, step-by-step approach tailored to the specific clinical presentation.
+
+Step 2 - Missing data
+If the information provided is insufficient to support a reliable recommendation, explicitly acknowledge this limitation.
+List only the essential clinical data concerning both the primary tumor and the metastatic disease.
+
+Step 3 - Resectability assessment
+Provide a resectability assessment using two independent compliance evaluations:
+
+3a - Oncological Status Compliance
+Evaluate whether the current oncological status permits consideration of resection:
+1. Primary tumor status (resected R0 or resectable? any uncontrolled symptoms?)
+2. Extrahepatic disease (absent, or present but completely resectable/ablatable?)
+3. Oncological response to systemic therapy (stable/responding vs progressing on adequate regimen)
+4. Tumor biology surrogates (RAS/BRAF/MSI, CEA trend, resection-free interval)
+5. Timing of presentation (synchronous vs metachronous)
+
+Classify as:
+- Oncologically compliant: The oncological situation meets conditions for safe resection consideration. No oncological contraindications exist. All parameters favorable or controlled. No absolute oncological contraindication.
+- Oncologically non-compliant: At least one absolute contraindication present. Specify which parameter fails and whether conversion is possible. Resection is excluded in the current setting due to oncological reasons, regardless of anatomical feasibility.
+
+3b - Anatomical Compliance
+Evaluate whether the tumor anatomy and patient factors permit safe surgical resection. Classify as:
+- Anatomically compliant: Surgery is technically and functionally feasible considering FLR ratio, vascular involvement, biliary involvement and margin. No anatomical, functional, or technical barriers preclude resection.
+- Anatomically non-compliant: Resection is precluded by anatomical, functional, or technical factors. Specific barriers must be explicitly named.
+
+INDICATIONS:
+- Focus on the hepatobiliary surgical perspective.
+- Use the labelled structure above exactly (Step 1, Step 2, Step 3a and Step 3b). Clearly separate each step by following the structure provided, using the same step headers.
+- For Steps 3a and 3b, always provide the classification label and a supporting rationale. Format required: Classification label: rationale. For the classification label, use one of the given options. 
+- Provide a clear statement or sequence of statements for each step. Be complete but non-redundant.
+- Use the structured analysis of the clinical case provided below. For each step of your recommendation, identify which features from the analysis are decision-relevant and explain how they drive your clinical reasoning.
+
+CLINICAL CASE
+{clinical_case}
+
+STRUCTURED ANALYSIS OF THE CLINICAL CASE
+{str_analysis}
+
+YOUR RECOMMENDATION:
+Step 1 -
+Step 2 -
+Step 3a – [Oncologically compliant / Oncologically non-compliant]: brief rationale
+Step 3b – [Anatomically compliant / Anatomically non-compliant]: brief rationale

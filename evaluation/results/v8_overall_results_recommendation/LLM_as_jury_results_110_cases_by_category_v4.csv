@@ -1,0 +1,33 @@
+Category;Approach;Overall Score
+Anatomical Resectability;LLM-baseline;4.3866000000000005
+Anatomical Resectability;RAG-LLM;4.4734
+Anatomical Resectability;WF-LLM;4.5534
+Anatomical Resectability;WF-RAG-LLM;4.4668
+LM with Extra-Hepatic Disease;LLM-baseline;4.222199999999999
+LM with Extra-Hepatic Disease;RAG-LLM;4.239000000000001
+LM with Extra-Hepatic Disease;WF-LLM;4.2666
+LM with Extra-Hepatic Disease;WF-RAG-LLM;4.327799999999999
+Liver Recurrences After Surgery;LLM-baseline;4.1692
+Liver Recurrences After Surgery;RAG-LLM;4.5282
+Liver Recurrences After Surgery;WF-LLM;4.4201999999999995
+Liver Recurrences After Surgery;WF-RAG-LLM;4.497199999999999
+Metachronous LM;LLM-baseline;4.36
+Metachronous LM;RAG-LLM;4.6666
+Metachronous LM;WF-LLM;4.542199999999999
+Metachronous LM;WF-RAG-LLM;4.7421999999999995
+Metastases After Chemotherapy;LLM-baseline;3.9068000000000005
+Metastases After Chemotherapy;RAG-LLM;4.16
+Metastases After Chemotherapy;WF-LLM;4.0466
+Metastases After Chemotherapy;WF-RAG-LLM;4.2598
+Molecular Cases and Complex Situations;LLM-baseline;4.3866
+Molecular Cases and Complex Situations;RAG-LLM;4.4344
+Molecular Cases and Complex Situations;WF-LLM;4.3572
+Molecular Cases and Complex Situations;WF-RAG-LLM;4.4346000000000005
+Sync. LM Post-Chemo Resectable;LLM-baseline;4.2668
+Sync. LM Post-Chemo Resectable;RAG-LLM;4.3666
+Sync. LM Post-Chemo Resectable;WF-LLM;4.3802
+Sync. LM Post-Chemo Resectable;WF-RAG-LLM;4.506600000000001
+Sync. Resectable LM;LLM-baseline;4.5068
+Sync. Resectable LM;RAG-LLM;4.3244
+Sync. Resectable LM;WF-LLM;4.3556
+Sync. Resectable LM;WF-RAG-LLM;4.5552

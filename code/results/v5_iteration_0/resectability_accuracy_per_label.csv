@@ -1,5 +1,0 @@
-,Count_upfront resectable,Count_potentially resectable,Count_not resectable,Accuracy_upfront resectable,Accuracy_potentially resectable,Accuracy_not resectable
-Model_Alone,11,76,13,0.818,0.671,0.077
-Model_Studies,11,76,13,0.545,0.75,0.077
-Model_Workflow,11,76,13,0.273,0.961,0.077
-Model_Workflow_Studies,11,76,13,0.091,0.947,0.077

@@ -1,5 +1,5 @@
 [project]
-name = "llm-based-eval"
+name = "metatron"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -12,10 +12,16 @@ dependencies = [
     "instructor>=1.14.5",
     "levenshtein>=0.27.3",
     "litellm>=1.82.3",
+    "llama-index-embeddings-openai>=0.7.0",
     "matplotlib>=3.10.8",
+    "numpy>=2.4.3",
     "openai>=2.26.0",
+    "pandas>=3.0.1",
     "pingouin>=0.6.1",
+    "pymilvus>=3.0.1",
+    "pymupdf4llm>=1.28.2",
     "scikit-learn>=1.8.0",
     "seaborn>=0.13.2",
     "tiktoken>=0.12.0",
+    "tqdm>=4.67.3",
 ]

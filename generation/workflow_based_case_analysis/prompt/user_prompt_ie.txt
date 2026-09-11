@@ -1,0 +1,29 @@
+Analyze the clinical case and extract the required information. 
+
+Follow these rules:
+- If the information is present, extract it exactly.
+- If the information is not mentioned, write "Missing".
+- If an item name contains the word "Presence", "Performed" or "Feasible", the value must be a boolean: 
+    - use True if the information is reported as present, 
+    - use False if it is reported as absent. 
+- Do not invent or infer information.
+- Do not use null, None, or empty strings.
+- At the end of the task, output only a valid JSON object.
+
+Clinical case: {clinical_case}
+
+Information to be extracted:
+{json_input}
+
+Here is an example of the expected output format:
+{{
+  "Tumor_Characteristic": {{
+    "Items": [
+      {{"Information 1": "Example"}},
+      {{"Information 2": "Example"}},
+      {{"Information 3": "Example"}}
+    ]
+  }}
+}}
+
+Now produce the JSON output based on the actual clinical case.

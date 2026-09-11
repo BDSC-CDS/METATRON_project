@@ -1,0 +1,481 @@
+Approach;Judge;Iteration;Criterion;Category;NValues;Mean_Score_Normalized
+Model_Alone;claude;iteration_0;Completeness;Liver Recurrences After Surgery;13;0.699
+Model_Alone;claude;iteration_0;Step_concordance;Liver Recurrences After Surgery;13;0.364
+Model_Alone;claude;iteration_0;Case_tailoring;Liver Recurrences After Surgery;13;0.398
+Model_Alone;claude;iteration_0;Missing_data_concordance;Liver Recurrences After Surgery;13;0.398
+Model_Alone;claude;iteration_0;MDT_Decision_Concordance;Liver Recurrences After Surgery;13;0.231
+Model_Alone;claude;iteration_0;Completeness;Molecular Cases and Complex Situations;25;0.791
+Model_Alone;claude;iteration_0;Step_concordance;Molecular Cases and Complex Situations;25;0.426
+Model_Alone;claude;iteration_0;Case_tailoring;Molecular Cases and Complex Situations;25;0.461
+Model_Alone;claude;iteration_0;Missing_data_concordance;Molecular Cases and Complex Situations;25;0.496
+Model_Alone;claude;iteration_0;MDT_Decision_Concordance;Molecular Cases and Complex Situations;25;0.374
+Model_Alone;claude;iteration_0;Completeness;Sync. LM Post-Chemo Resectable;10;0.739
+Model_Alone;claude;iteration_0;Step_concordance;Sync. LM Post-Chemo Resectable;10;0.348
+Model_Alone;claude;iteration_0;Case_tailoring;Sync. LM Post-Chemo Resectable;10;0.478
+Model_Alone;claude;iteration_0;Missing_data_concordance;Sync. LM Post-Chemo Resectable;10;0.391
+Model_Alone;claude;iteration_0;MDT_Decision_Concordance;Sync. LM Post-Chemo Resectable;10;0.261
+Model_Alone;claude;iteration_0;Completeness;LM with Extra-Hepatic Disease;12;0.71
+Model_Alone;claude;iteration_0;Step_concordance;LM with Extra-Hepatic Disease;12;0.42
+Model_Alone;claude;iteration_0;Case_tailoring;LM with Extra-Hepatic Disease;12;0.529
+Model_Alone;claude;iteration_0;Missing_data_concordance;LM with Extra-Hepatic Disease;12;0.457
+Model_Alone;claude;iteration_0;MDT_Decision_Concordance;LM with Extra-Hepatic Disease;12;0.312
+Model_Alone;claude;iteration_0;Completeness;Metastases After Chemotherapy;10;0.565
+Model_Alone;claude;iteration_0;Step_concordance;Metastases After Chemotherapy;10;0.087
+Model_Alone;claude;iteration_0;Case_tailoring;Metastases After Chemotherapy;10;0.13
+Model_Alone;claude;iteration_0;Missing_data_concordance;Metastases After Chemotherapy;10;0.565
+Model_Alone;claude;iteration_0;MDT_Decision_Concordance;Metastases After Chemotherapy;10;0.0
+Model_Alone;claude;iteration_0;Completeness;Metachronous LM;15;0.652
+Model_Alone;claude;iteration_0;Step_concordance;Metachronous LM;15;0.449
+Model_Alone;claude;iteration_0;Case_tailoring;Metachronous LM;15;0.478
+Model_Alone;claude;iteration_0;Missing_data_concordance;Metachronous LM;15;0.188
+Model_Alone;claude;iteration_0;MDT_Decision_Concordance;Metachronous LM;15;0.449
+Model_Alone;claude;iteration_0;Completeness;Sync. Resectable LM;15;0.768
+Model_Alone;claude;iteration_0;Step_concordance;Sync. Resectable LM;15;0.507
+Model_Alone;claude;iteration_0;Case_tailoring;Sync. Resectable LM;15;0.681
+Model_Alone;claude;iteration_0;Missing_data_concordance;Sync. Resectable LM;15;0.333
+Model_Alone;claude;iteration_0;MDT_Decision_Concordance;Sync. Resectable LM;15;0.507
+Model_Alone;claude;iteration_0;Completeness;Anatomical Resectability;10;0.826
+Model_Alone;claude;iteration_0;Step_concordance;Anatomical Resectability;10;0.522
+Model_Alone;claude;iteration_0;Case_tailoring;Anatomical Resectability;10;0.565
+Model_Alone;claude;iteration_0;Missing_data_concordance;Anatomical Resectability;10;0.261
+Model_Alone;claude;iteration_0;MDT_Decision_Concordance;Anatomical Resectability;10;0.565
+Model_Studies;claude;iteration_0;Completeness;Liver Recurrences After Surgery;13;0.9
+Model_Studies;claude;iteration_0;Step_concordance;Liver Recurrences After Surgery;13;0.565
+Model_Studies;claude;iteration_0;Case_tailoring;Liver Recurrences After Surgery;13;0.599
+Model_Studies;claude;iteration_0;Missing_data_concordance;Liver Recurrences After Surgery;13;0.632
+Model_Studies;claude;iteration_0;MDT_Decision_Concordance;Liver Recurrences After Surgery;13;0.565
+Model_Studies;claude;iteration_0;Completeness;Molecular Cases and Complex Situations;25;0.896
+Model_Studies;claude;iteration_0;Step_concordance;Molecular Cases and Complex Situations;25;0.461
+Model_Studies;claude;iteration_0;Case_tailoring;Molecular Cases and Complex Situations;25;0.635
+Model_Studies;claude;iteration_0;Missing_data_concordance;Molecular Cases and Complex Situations;25;0.652
+Model_Studies;claude;iteration_0;MDT_Decision_Concordance;Molecular Cases and Complex Situations;25;0.443
+Model_Studies;claude;iteration_0;Completeness;Sync. LM Post-Chemo Resectable;10;0.783
+Model_Studies;claude;iteration_0;Step_concordance;Sync. LM Post-Chemo Resectable;10;0.391
+Model_Studies;claude;iteration_0;Case_tailoring;Sync. LM Post-Chemo Resectable;10;0.565
+Model_Studies;claude;iteration_0;Missing_data_concordance;Sync. LM Post-Chemo Resectable;10;0.435
+Model_Studies;claude;iteration_0;MDT_Decision_Concordance;Sync. LM Post-Chemo Resectable;10;0.304
+Model_Studies;claude;iteration_0;Completeness;LM with Extra-Hepatic Disease;12;0.855
+Model_Studies;claude;iteration_0;Step_concordance;LM with Extra-Hepatic Disease;12;0.384
+Model_Studies;claude;iteration_0;Case_tailoring;LM with Extra-Hepatic Disease;12;0.457
+Model_Studies;claude;iteration_0;Missing_data_concordance;LM with Extra-Hepatic Disease;12;0.601
+Model_Studies;claude;iteration_0;MDT_Decision_Concordance;LM with Extra-Hepatic Disease;12;0.275
+Model_Studies;claude;iteration_0;Completeness;Metastases After Chemotherapy;10;0.739
+Model_Studies;claude;iteration_0;Step_concordance;Metastases After Chemotherapy;10;0.261
+Model_Studies;claude;iteration_0;Case_tailoring;Metastases After Chemotherapy;10;0.435
+Model_Studies;claude;iteration_0;Missing_data_concordance;Metastases After Chemotherapy;10;0.478
+Model_Studies;claude;iteration_0;MDT_Decision_Concordance;Metastases After Chemotherapy;10;0.13
+Model_Studies;claude;iteration_0;Completeness;Metachronous LM;15;0.942
+Model_Studies;claude;iteration_0;Step_concordance;Metachronous LM;15;0.652
+Model_Studies;claude;iteration_0;Case_tailoring;Metachronous LM;15;0.681
+Model_Studies;claude;iteration_0;Missing_data_concordance;Metachronous LM;15;0.507
+Model_Studies;claude;iteration_0;MDT_Decision_Concordance;Metachronous LM;15;0.652
+Model_Studies;claude;iteration_0;Completeness;Sync. Resectable LM;15;0.797
+Model_Studies;claude;iteration_0;Step_concordance;Sync. Resectable LM;15;0.42
+Model_Studies;claude;iteration_0;Case_tailoring;Sync. Resectable LM;15;0.536
+Model_Studies;claude;iteration_0;Missing_data_concordance;Sync. Resectable LM;15;0.449
+Model_Studies;claude;iteration_0;MDT_Decision_Concordance;Sync. Resectable LM;15;0.42
+Model_Studies;claude;iteration_0;Completeness;Anatomical Resectability;10;0.826
+Model_Studies;claude;iteration_0;Step_concordance;Anatomical Resectability;10;0.391
+Model_Studies;claude;iteration_0;Case_tailoring;Anatomical Resectability;10;0.696
+Model_Studies;claude;iteration_0;Missing_data_concordance;Anatomical Resectability;10;0.478
+Model_Studies;claude;iteration_0;MDT_Decision_Concordance;Anatomical Resectability;10;0.348
+Model_Workflow;claude;iteration_0;Completeness;Liver Recurrences After Surgery;13;0.766
+Model_Workflow;claude;iteration_0;Step_concordance;Liver Recurrences After Surgery;13;0.465
+Model_Workflow;claude;iteration_0;Case_tailoring;Liver Recurrences After Surgery;13;0.498
+Model_Workflow;claude;iteration_0;Missing_data_concordance;Liver Recurrences After Surgery;13;0.398
+Model_Workflow;claude;iteration_0;MDT_Decision_Concordance;Liver Recurrences After Surgery;13;0.465
+Model_Workflow;claude;iteration_0;Completeness;Molecular Cases and Complex Situations;25;0.809
+Model_Workflow;claude;iteration_0;Step_concordance;Molecular Cases and Complex Situations;25;0.461
+Model_Workflow;claude;iteration_0;Case_tailoring;Molecular Cases and Complex Situations;25;0.6
+Model_Workflow;claude;iteration_0;Missing_data_concordance;Molecular Cases and Complex Situations;25;0.461
+Model_Workflow;claude;iteration_0;MDT_Decision_Concordance;Molecular Cases and Complex Situations;25;0.426
+Model_Workflow;claude;iteration_0;Completeness;Sync. LM Post-Chemo Resectable;10;0.696
+Model_Workflow;claude;iteration_0;Step_concordance;Sync. LM Post-Chemo Resectable;10;0.391
+Model_Workflow;claude;iteration_0;Case_tailoring;Sync. LM Post-Chemo Resectable;10;0.435
+Model_Workflow;claude;iteration_0;Missing_data_concordance;Sync. LM Post-Chemo Resectable;10;0.478
+Model_Workflow;claude;iteration_0;MDT_Decision_Concordance;Sync. LM Post-Chemo Resectable;10;0.391
+Model_Workflow;claude;iteration_0;Completeness;LM with Extra-Hepatic Disease;12;0.819
+Model_Workflow;claude;iteration_0;Step_concordance;LM with Extra-Hepatic Disease;12;0.493
+Model_Workflow;claude;iteration_0;Case_tailoring;LM with Extra-Hepatic Disease;12;0.565
+Model_Workflow;claude;iteration_0;Missing_data_concordance;LM with Extra-Hepatic Disease;12;0.493
+Model_Workflow;claude;iteration_0;MDT_Decision_Concordance;LM with Extra-Hepatic Disease;12;0.457
+Model_Workflow;claude;iteration_0;Completeness;Metastases After Chemotherapy;10;0.609
+Model_Workflow;claude;iteration_0;Step_concordance;Metastases After Chemotherapy;10;0.174
+Model_Workflow;claude;iteration_0;Case_tailoring;Metastases After Chemotherapy;10;0.391
+Model_Workflow;claude;iteration_0;Missing_data_concordance;Metastases After Chemotherapy;10;0.565
+Model_Workflow;claude;iteration_0;MDT_Decision_Concordance;Metastases After Chemotherapy;10;0.174
+Model_Workflow;claude;iteration_0;Completeness;Metachronous LM;15;0.739
+Model_Workflow;claude;iteration_0;Step_concordance;Metachronous LM;15;0.536
+Model_Workflow;claude;iteration_0;Case_tailoring;Metachronous LM;15;0.594
+Model_Workflow;claude;iteration_0;Missing_data_concordance;Metachronous LM;15;0.362
+Model_Workflow;claude;iteration_0;MDT_Decision_Concordance;Metachronous LM;15;0.536
+Model_Workflow;claude;iteration_0;Completeness;Sync. Resectable LM;15;0.681
+Model_Workflow;claude;iteration_0;Step_concordance;Sync. Resectable LM;15;0.304
+Model_Workflow;claude;iteration_0;Case_tailoring;Sync. Resectable LM;15;0.536
+Model_Workflow;claude;iteration_0;Missing_data_concordance;Sync. Resectable LM;15;0.42
+Model_Workflow;claude;iteration_0;MDT_Decision_Concordance;Sync. Resectable LM;15;0.304
+Model_Workflow;claude;iteration_0;Completeness;Anatomical Resectability;10;0.739
+Model_Workflow;claude;iteration_0;Step_concordance;Anatomical Resectability;10;0.609
+Model_Workflow;claude;iteration_0;Case_tailoring;Anatomical Resectability;10;0.696
+Model_Workflow;claude;iteration_0;Missing_data_concordance;Anatomical Resectability;10;0.304
+Model_Workflow;claude;iteration_0;MDT_Decision_Concordance;Anatomical Resectability;10;0.609
+Model_Workflow_Studies;claude;iteration_0;Completeness;Liver Recurrences After Surgery;13;0.866
+Model_Workflow_Studies;claude;iteration_0;Step_concordance;Liver Recurrences After Surgery;13;0.599
+Model_Workflow_Studies;claude;iteration_0;Case_tailoring;Liver Recurrences After Surgery;13;0.666
+Model_Workflow_Studies;claude;iteration_0;Missing_data_concordance;Liver Recurrences After Surgery;13;0.532
+Model_Workflow_Studies;claude;iteration_0;MDT_Decision_Concordance;Liver Recurrences After Surgery;13;0.599
+Model_Workflow_Studies;claude;iteration_0;Completeness;Molecular Cases and Complex Situations;25;0.843
+Model_Workflow_Studies;claude;iteration_0;Step_concordance;Molecular Cases and Complex Situations;25;0.443
+Model_Workflow_Studies;claude;iteration_0;Case_tailoring;Molecular Cases and Complex Situations;25;0.687
+Model_Workflow_Studies;claude;iteration_0;Missing_data_concordance;Molecular Cases and Complex Situations;25;0.478
+Model_Workflow_Studies;claude;iteration_0;MDT_Decision_Concordance;Molecular Cases and Complex Situations;25;0.443
+Model_Workflow_Studies;claude;iteration_0;Completeness;Sync. LM Post-Chemo Resectable;10;0.826
+Model_Workflow_Studies;claude;iteration_0;Step_concordance;Sync. LM Post-Chemo Resectable;10;0.522
+Model_Workflow_Studies;claude;iteration_0;Case_tailoring;Sync. LM Post-Chemo Resectable;10;0.652
+Model_Workflow_Studies;claude;iteration_0;Missing_data_concordance;Sync. LM Post-Chemo Resectable;10;0.565
+Model_Workflow_Studies;claude;iteration_0;MDT_Decision_Concordance;Sync. LM Post-Chemo Resectable;10;0.565
+Model_Workflow_Studies;claude;iteration_0;Completeness;LM with Extra-Hepatic Disease;12;0.819
+Model_Workflow_Studies;claude;iteration_0;Step_concordance;LM with Extra-Hepatic Disease;12;0.42
+Model_Workflow_Studies;claude;iteration_0;Case_tailoring;LM with Extra-Hepatic Disease;12;0.601
+Model_Workflow_Studies;claude;iteration_0;Missing_data_concordance;LM with Extra-Hepatic Disease;12;0.638
+Model_Workflow_Studies;claude;iteration_0;MDT_Decision_Concordance;LM with Extra-Hepatic Disease;12;0.384
+Model_Workflow_Studies;claude;iteration_0;Completeness;Metastases After Chemotherapy;10;0.739
+Model_Workflow_Studies;claude;iteration_0;Step_concordance;Metastases After Chemotherapy;10;0.435
+Model_Workflow_Studies;claude;iteration_0;Case_tailoring;Metastases After Chemotherapy;10;0.522
+Model_Workflow_Studies;claude;iteration_0;Missing_data_concordance;Metastases After Chemotherapy;10;0.478
+Model_Workflow_Studies;claude;iteration_0;MDT_Decision_Concordance;Metastases After Chemotherapy;10;0.391
+Model_Workflow_Studies;claude;iteration_0;Completeness;Metachronous LM;15;1.0
+Model_Workflow_Studies;claude;iteration_0;Step_concordance;Metachronous LM;15;0.739
+Model_Workflow_Studies;claude;iteration_0;Case_tailoring;Metachronous LM;15;0.797
+Model_Workflow_Studies;claude;iteration_0;Missing_data_concordance;Metachronous LM;15;0.507
+Model_Workflow_Studies;claude;iteration_0;MDT_Decision_Concordance;Metachronous LM;15;0.768
+Model_Workflow_Studies;claude;iteration_0;Completeness;Sync. Resectable LM;15;0.913
+Model_Workflow_Studies;claude;iteration_0;Step_concordance;Sync. Resectable LM;15;0.536
+Model_Workflow_Studies;claude;iteration_0;Case_tailoring;Sync. Resectable LM;15;0.681
+Model_Workflow_Studies;claude;iteration_0;Missing_data_concordance;Sync. Resectable LM;15;0.478
+Model_Workflow_Studies;claude;iteration_0;MDT_Decision_Concordance;Sync. Resectable LM;15;0.536
+Model_Workflow_Studies;claude;iteration_0;Completeness;Anatomical Resectability;10;0.826
+Model_Workflow_Studies;claude;iteration_0;Step_concordance;Anatomical Resectability;10;0.565
+Model_Workflow_Studies;claude;iteration_0;Case_tailoring;Anatomical Resectability;10;0.783
+Model_Workflow_Studies;claude;iteration_0;Missing_data_concordance;Anatomical Resectability;10;0.478
+Model_Workflow_Studies;claude;iteration_0;MDT_Decision_Concordance;Anatomical Resectability;10;0.522
+Model_Alone;gpt;iteration_0;Completeness;Liver Recurrences After Surgery;13;1.0
+Model_Alone;gpt;iteration_0;Step_concordance;Liver Recurrences After Surgery;13;0.327
+Model_Alone;gpt;iteration_0;Case_tailoring;Liver Recurrences After Surgery;13;0.808
+Model_Alone;gpt;iteration_0;Missing_data_concordance;Liver Recurrences After Surgery;13;0.664
+Model_Alone;gpt;iteration_0;MDT_Decision_Concordance;Liver Recurrences After Surgery;13;0.567
+Model_Alone;gpt;iteration_0;Completeness;Molecular Cases and Complex Situations;25;0.975
+Model_Alone;gpt;iteration_0;Step_concordance;Molecular Cases and Complex Situations;25;0.425
+Model_Alone;gpt;iteration_0;Case_tailoring;Molecular Cases and Complex Situations;25;0.85
+Model_Alone;gpt;iteration_0;Missing_data_concordance;Molecular Cases and Complex Situations;25;0.725
+Model_Alone;gpt;iteration_0;MDT_Decision_Concordance;Molecular Cases and Complex Situations;25;0.6
+Model_Alone;gpt;iteration_0;Completeness;Sync. LM Post-Chemo Resectable;10;0.875
+Model_Alone;gpt;iteration_0;Step_concordance;Sync. LM Post-Chemo Resectable;10;0.437
+Model_Alone;gpt;iteration_0;Case_tailoring;Sync. LM Post-Chemo Resectable;10;0.875
+Model_Alone;gpt;iteration_0;Missing_data_concordance;Sync. LM Post-Chemo Resectable;10;0.562
+Model_Alone;gpt;iteration_0;MDT_Decision_Concordance;Sync. LM Post-Chemo Resectable;10;0.437
+Model_Alone;gpt;iteration_0;Completeness;LM with Extra-Hepatic Disease;12;0.896
+Model_Alone;gpt;iteration_0;Step_concordance;LM with Extra-Hepatic Disease;12;0.271
+Model_Alone;gpt;iteration_0;Case_tailoring;LM with Extra-Hepatic Disease;12;0.636
+Model_Alone;gpt;iteration_0;Missing_data_concordance;LM with Extra-Hepatic Disease;12;0.427
+Model_Alone;gpt;iteration_0;MDT_Decision_Concordance;LM with Extra-Hepatic Disease;12;0.375
+Model_Alone;gpt;iteration_0;Completeness;Metastases After Chemotherapy;10;0.813
+Model_Alone;gpt;iteration_0;Step_concordance;Metastases After Chemotherapy;10;0.0
+Model_Alone;gpt;iteration_0;Case_tailoring;Metastases After Chemotherapy;10;0.688
+Model_Alone;gpt;iteration_0;Missing_data_concordance;Metastases After Chemotherapy;10;0.625
+Model_Alone;gpt;iteration_0;MDT_Decision_Concordance;Metastases After Chemotherapy;10;0.125
+Model_Alone;gpt;iteration_0;Completeness;Metachronous LM;15;0.917
+Model_Alone;gpt;iteration_0;Step_concordance;Metachronous LM;15;0.5
+Model_Alone;gpt;iteration_0;Case_tailoring;Metachronous LM;15;0.875
+Model_Alone;gpt;iteration_0;Missing_data_concordance;Metachronous LM;15;0.542
+Model_Alone;gpt;iteration_0;MDT_Decision_Concordance;Metachronous LM;15;0.833
+Model_Alone;gpt;iteration_0;Completeness;Sync. Resectable LM;15;0.958
+Model_Alone;gpt;iteration_0;Step_concordance;Sync. Resectable LM;15;0.625
+Model_Alone;gpt;iteration_0;Case_tailoring;Sync. Resectable LM;15;0.917
+Model_Alone;gpt;iteration_0;Missing_data_concordance;Sync. Resectable LM;15;0.542
+Model_Alone;gpt;iteration_0;MDT_Decision_Concordance;Sync. Resectable LM;15;0.875
+Model_Alone;gpt;iteration_0;Completeness;Anatomical Resectability;10;0.875
+Model_Alone;gpt;iteration_0;Step_concordance;Anatomical Resectability;10;0.562
+Model_Alone;gpt;iteration_0;Case_tailoring;Anatomical Resectability;10;0.813
+Model_Alone;gpt;iteration_0;Missing_data_concordance;Anatomical Resectability;10;0.375
+Model_Alone;gpt;iteration_0;MDT_Decision_Concordance;Anatomical Resectability;10;1.0
+Model_Studies;gpt;iteration_0;Completeness;Liver Recurrences After Surgery;13;0.904
+Model_Studies;gpt;iteration_0;Step_concordance;Liver Recurrences After Surgery;13;0.423
+Model_Studies;gpt;iteration_0;Case_tailoring;Liver Recurrences After Surgery;13;0.711
+Model_Studies;gpt;iteration_0;Missing_data_concordance;Liver Recurrences After Surgery;13;0.759
+Model_Studies;gpt;iteration_0;MDT_Decision_Concordance;Liver Recurrences After Surgery;13;0.759
+Model_Studies;gpt;iteration_0;Completeness;Molecular Cases and Complex Situations;25;0.975
+Model_Studies;gpt;iteration_0;Step_concordance;Molecular Cases and Complex Situations;25;0.4
+Model_Studies;gpt;iteration_0;Case_tailoring;Molecular Cases and Complex Situations;25;0.75
+Model_Studies;gpt;iteration_0;Missing_data_concordance;Molecular Cases and Complex Situations;25;0.775
+Model_Studies;gpt;iteration_0;MDT_Decision_Concordance;Molecular Cases and Complex Situations;25;0.625
+Model_Studies;gpt;iteration_0;Completeness;Sync. LM Post-Chemo Resectable;10;0.938
+Model_Studies;gpt;iteration_0;Step_concordance;Sync. LM Post-Chemo Resectable;10;0.375
+Model_Studies;gpt;iteration_0;Case_tailoring;Sync. LM Post-Chemo Resectable;10;0.688
+Model_Studies;gpt;iteration_0;Missing_data_concordance;Sync. LM Post-Chemo Resectable;10;0.562
+Model_Studies;gpt;iteration_0;MDT_Decision_Concordance;Sync. LM Post-Chemo Resectable;10;0.625
+Model_Studies;gpt;iteration_0;Completeness;LM with Extra-Hepatic Disease;12;0.739
+Model_Studies;gpt;iteration_0;Step_concordance;LM with Extra-Hepatic Disease;12;0.375
+Model_Studies;gpt;iteration_0;Case_tailoring;LM with Extra-Hepatic Disease;12;0.792
+Model_Studies;gpt;iteration_0;Missing_data_concordance;LM with Extra-Hepatic Disease;12;0.739
+Model_Studies;gpt;iteration_0;MDT_Decision_Concordance;LM with Extra-Hepatic Disease;12;0.479
+Model_Studies;gpt;iteration_0;Completeness;Metastases After Chemotherapy;10;0.813
+Model_Studies;gpt;iteration_0;Step_concordance;Metastases After Chemotherapy;10;0.125
+Model_Studies;gpt;iteration_0;Case_tailoring;Metastases After Chemotherapy;10;0.688
+Model_Studies;gpt;iteration_0;Missing_data_concordance;Metastases After Chemotherapy;10;0.688
+Model_Studies;gpt;iteration_0;MDT_Decision_Concordance;Metastases After Chemotherapy;10;0.25
+Model_Studies;gpt;iteration_0;Completeness;Metachronous LM;15;1.0
+Model_Studies;gpt;iteration_0;Step_concordance;Metachronous LM;15;0.625
+Model_Studies;gpt;iteration_0;Case_tailoring;Metachronous LM;15;0.917
+Model_Studies;gpt;iteration_0;Missing_data_concordance;Metachronous LM;15;0.792
+Model_Studies;gpt;iteration_0;MDT_Decision_Concordance;Metachronous LM;15;0.958
+Model_Studies;gpt;iteration_0;Completeness;Sync. Resectable LM;15;0.917
+Model_Studies;gpt;iteration_0;Step_concordance;Sync. Resectable LM;15;0.375
+Model_Studies;gpt;iteration_0;Case_tailoring;Sync. Resectable LM;15;0.833
+Model_Studies;gpt;iteration_0;Missing_data_concordance;Sync. Resectable LM;15;0.625
+Model_Studies;gpt;iteration_0;MDT_Decision_Concordance;Sync. Resectable LM;15;0.75
+Model_Studies;gpt;iteration_0;Completeness;Anatomical Resectability;10;1.0
+Model_Studies;gpt;iteration_0;Step_concordance;Anatomical Resectability;10;0.688
+Model_Studies;gpt;iteration_0;Case_tailoring;Anatomical Resectability;10;0.938
+Model_Studies;gpt;iteration_0;Missing_data_concordance;Anatomical Resectability;10;0.875
+Model_Studies;gpt;iteration_0;MDT_Decision_Concordance;Anatomical Resectability;10;0.813
+Model_Workflow;gpt;iteration_0;Completeness;Liver Recurrences After Surgery;13;0.952
+Model_Workflow;gpt;iteration_0;Step_concordance;Liver Recurrences After Surgery;13;0.327
+Model_Workflow;gpt;iteration_0;Case_tailoring;Liver Recurrences After Surgery;13;0.808
+Model_Workflow;gpt;iteration_0;Missing_data_concordance;Liver Recurrences After Surgery;13;0.711
+Model_Workflow;gpt;iteration_0;MDT_Decision_Concordance;Liver Recurrences After Surgery;13;0.711
+Model_Workflow;gpt;iteration_0;Completeness;Molecular Cases and Complex Situations;25;0.975
+Model_Workflow;gpt;iteration_0;Step_concordance;Molecular Cases and Complex Situations;25;0.45
+Model_Workflow;gpt;iteration_0;Case_tailoring;Molecular Cases and Complex Situations;25;0.8
+Model_Workflow;gpt;iteration_0;Missing_data_concordance;Molecular Cases and Complex Situations;25;0.6
+Model_Workflow;gpt;iteration_0;MDT_Decision_Concordance;Molecular Cases and Complex Situations;25;0.6
+Model_Workflow;gpt;iteration_0;Completeness;Sync. LM Post-Chemo Resectable;10;0.938
+Model_Workflow;gpt;iteration_0;Step_concordance;Sync. LM Post-Chemo Resectable;10;0.437
+Model_Workflow;gpt;iteration_0;Case_tailoring;Sync. LM Post-Chemo Resectable;10;0.938
+Model_Workflow;gpt;iteration_0;Missing_data_concordance;Sync. LM Post-Chemo Resectable;10;0.625
+Model_Workflow;gpt;iteration_0;MDT_Decision_Concordance;Sync. LM Post-Chemo Resectable;10;0.562
+Model_Workflow;gpt;iteration_0;Completeness;LM with Extra-Hepatic Disease;12;0.896
+Model_Workflow;gpt;iteration_0;Step_concordance;LM with Extra-Hepatic Disease;12;0.323
+Model_Workflow;gpt;iteration_0;Case_tailoring;LM with Extra-Hepatic Disease;12;0.688
+Model_Workflow;gpt;iteration_0;Missing_data_concordance;LM with Extra-Hepatic Disease;12;0.427
+Model_Workflow;gpt;iteration_0;MDT_Decision_Concordance;LM with Extra-Hepatic Disease;12;0.531
+Model_Workflow;gpt;iteration_0;Completeness;Metastases After Chemotherapy;10;0.875
+Model_Workflow;gpt;iteration_0;Step_concordance;Metastases After Chemotherapy;10;0.063
+Model_Workflow;gpt;iteration_0;Case_tailoring;Metastases After Chemotherapy;10;0.562
+Model_Workflow;gpt;iteration_0;Missing_data_concordance;Metastases After Chemotherapy;10;0.437
+Model_Workflow;gpt;iteration_0;MDT_Decision_Concordance;Metastases After Chemotherapy;10;0.312
+Model_Workflow;gpt;iteration_0;Completeness;Metachronous LM;15;1.0
+Model_Workflow;gpt;iteration_0;Step_concordance;Metachronous LM;15;0.583
+Model_Workflow;gpt;iteration_0;Case_tailoring;Metachronous LM;15;0.958
+Model_Workflow;gpt;iteration_0;Missing_data_concordance;Metachronous LM;15;0.625
+Model_Workflow;gpt;iteration_0;MDT_Decision_Concordance;Metachronous LM;15;0.958
+Model_Workflow;gpt;iteration_0;Completeness;Sync. Resectable LM;15;0.958
+Model_Workflow;gpt;iteration_0;Step_concordance;Sync. Resectable LM;15;0.417
+Model_Workflow;gpt;iteration_0;Case_tailoring;Sync. Resectable LM;15;0.833
+Model_Workflow;gpt;iteration_0;Missing_data_concordance;Sync. Resectable LM;15;0.583
+Model_Workflow;gpt;iteration_0;MDT_Decision_Concordance;Sync. Resectable LM;15;0.833
+Model_Workflow;gpt;iteration_0;Completeness;Anatomical Resectability;10;1.0
+Model_Workflow;gpt;iteration_0;Step_concordance;Anatomical Resectability;10;0.75
+Model_Workflow;gpt;iteration_0;Case_tailoring;Anatomical Resectability;10;0.938
+Model_Workflow;gpt;iteration_0;Missing_data_concordance;Anatomical Resectability;10;0.562
+Model_Workflow;gpt;iteration_0;MDT_Decision_Concordance;Anatomical Resectability;10;1.0
+Model_Workflow_Studies;gpt;iteration_0;Completeness;Liver Recurrences After Surgery;13;0.952
+Model_Workflow_Studies;gpt;iteration_0;Step_concordance;Liver Recurrences After Surgery;13;0.423
+Model_Workflow_Studies;gpt;iteration_0;Case_tailoring;Liver Recurrences After Surgery;13;0.904
+Model_Workflow_Studies;gpt;iteration_0;Missing_data_concordance;Liver Recurrences After Surgery;13;0.808
+Model_Workflow_Studies;gpt;iteration_0;MDT_Decision_Concordance;Liver Recurrences After Surgery;13;0.808
+Model_Workflow_Studies;gpt;iteration_0;Completeness;Molecular Cases and Complex Situations;25;0.975
+Model_Workflow_Studies;gpt;iteration_0;Step_concordance;Molecular Cases and Complex Situations;25;0.55
+Model_Workflow_Studies;gpt;iteration_0;Case_tailoring;Molecular Cases and Complex Situations;25;0.9
+Model_Workflow_Studies;gpt;iteration_0;Missing_data_concordance;Molecular Cases and Complex Situations;25;0.675
+Model_Workflow_Studies;gpt;iteration_0;MDT_Decision_Concordance;Molecular Cases and Complex Situations;25;0.775
+Model_Workflow_Studies;gpt;iteration_0;Completeness;Sync. LM Post-Chemo Resectable;10;1.0
+Model_Workflow_Studies;gpt;iteration_0;Step_concordance;Sync. LM Post-Chemo Resectable;10;0.562
+Model_Workflow_Studies;gpt;iteration_0;Case_tailoring;Sync. LM Post-Chemo Resectable;10;0.875
+Model_Workflow_Studies;gpt;iteration_0;Missing_data_concordance;Sync. LM Post-Chemo Resectable;10;0.688
+Model_Workflow_Studies;gpt;iteration_0;MDT_Decision_Concordance;Sync. LM Post-Chemo Resectable;10;0.813
+Model_Workflow_Studies;gpt;iteration_0;Completeness;LM with Extra-Hepatic Disease;12;0.844
+Model_Workflow_Studies;gpt;iteration_0;Step_concordance;LM with Extra-Hepatic Disease;12;0.271
+Model_Workflow_Studies;gpt;iteration_0;Case_tailoring;LM with Extra-Hepatic Disease;12;0.688
+Model_Workflow_Studies;gpt;iteration_0;Missing_data_concordance;LM with Extra-Hepatic Disease;12;0.739
+Model_Workflow_Studies;gpt;iteration_0;MDT_Decision_Concordance;LM with Extra-Hepatic Disease;12;0.583
+Model_Workflow_Studies;gpt;iteration_0;Completeness;Metastases After Chemotherapy;10;0.813
+Model_Workflow_Studies;gpt;iteration_0;Step_concordance;Metastases After Chemotherapy;10;0.375
+Model_Workflow_Studies;gpt;iteration_0;Case_tailoring;Metastases After Chemotherapy;10;0.562
+Model_Workflow_Studies;gpt;iteration_0;Missing_data_concordance;Metastases After Chemotherapy;10;0.625
+Model_Workflow_Studies;gpt;iteration_0;MDT_Decision_Concordance;Metastases After Chemotherapy;10;0.562
+Model_Workflow_Studies;gpt;iteration_0;Completeness;Metachronous LM;15;1.0
+Model_Workflow_Studies;gpt;iteration_0;Step_concordance;Metachronous LM;15;0.792
+Model_Workflow_Studies;gpt;iteration_0;Case_tailoring;Metachronous LM;15;1.0
+Model_Workflow_Studies;gpt;iteration_0;Missing_data_concordance;Metachronous LM;15;0.75
+Model_Workflow_Studies;gpt;iteration_0;MDT_Decision_Concordance;Metachronous LM;15;0.917
+Model_Workflow_Studies;gpt;iteration_0;Completeness;Sync. Resectable LM;15;1.0
+Model_Workflow_Studies;gpt;iteration_0;Step_concordance;Sync. Resectable LM;15;0.625
+Model_Workflow_Studies;gpt;iteration_0;Case_tailoring;Sync. Resectable LM;15;1.0
+Model_Workflow_Studies;gpt;iteration_0;Missing_data_concordance;Sync. Resectable LM;15;0.667
+Model_Workflow_Studies;gpt;iteration_0;MDT_Decision_Concordance;Sync. Resectable LM;15;0.833
+Model_Workflow_Studies;gpt;iteration_0;Completeness;Anatomical Resectability;10;0.938
+Model_Workflow_Studies;gpt;iteration_0;Step_concordance;Anatomical Resectability;10;0.5
+Model_Workflow_Studies;gpt;iteration_0;Case_tailoring;Anatomical Resectability;10;0.875
+Model_Workflow_Studies;gpt;iteration_0;Missing_data_concordance;Anatomical Resectability;10;0.75
+Model_Workflow_Studies;gpt;iteration_0;MDT_Decision_Concordance;Anatomical Resectability;10;0.75
+Model_Alone;llama;iteration_0;Completeness;Liver Recurrences After Surgery;13;0.763
+Model_Alone;llama;iteration_0;Step_concordance;Liver Recurrences After Surgery;13;0.468
+Model_Alone;llama;iteration_0;Case_tailoring;Liver Recurrences After Surgery;13;0.763
+Model_Alone;llama;iteration_0;Missing_data_concordance;Liver Recurrences After Surgery;13;0.29
+Model_Alone;llama;iteration_0;MDT_Decision_Concordance;Liver Recurrences After Surgery;13;0.29
+Model_Alone;llama;iteration_0;Completeness;Molecular Cases and Complex Situations;25;0.938
+Model_Alone;llama;iteration_0;Step_concordance;Molecular Cases and Complex Situations;25;0.723
+Model_Alone;llama;iteration_0;Case_tailoring;Molecular Cases and Complex Situations;25;0.938
+Model_Alone;llama;iteration_0;Missing_data_concordance;Molecular Cases and Complex Situations;25;0.631
+Model_Alone;llama;iteration_0;MDT_Decision_Concordance;Molecular Cases and Complex Situations;25;0.785
+Model_Alone;llama;iteration_0;Completeness;Sync. LM Post-Chemo Resectable;10;0.846
+Model_Alone;llama;iteration_0;Step_concordance;Sync. LM Post-Chemo Resectable;10;0.769
+Model_Alone;llama;iteration_0;Case_tailoring;Sync. LM Post-Chemo Resectable;10;0.846
+Model_Alone;llama;iteration_0;Missing_data_concordance;Sync. LM Post-Chemo Resectable;10;0.385
+Model_Alone;llama;iteration_0;MDT_Decision_Concordance;Sync. LM Post-Chemo Resectable;10;0.846
+Model_Alone;llama;iteration_0;Completeness;LM with Extra-Hepatic Disease;12;0.808
+Model_Alone;llama;iteration_0;Step_concordance;LM with Extra-Hepatic Disease;12;0.615
+Model_Alone;llama;iteration_0;Case_tailoring;LM with Extra-Hepatic Disease;12;0.808
+Model_Alone;llama;iteration_0;Missing_data_concordance;LM with Extra-Hepatic Disease;12;0.552
+Model_Alone;llama;iteration_0;MDT_Decision_Concordance;LM with Extra-Hepatic Disease;12;0.744
+Model_Alone;llama;iteration_0;Completeness;Metastases After Chemotherapy;10;0.615
+Model_Alone;llama;iteration_0;Step_concordance;Metastases After Chemotherapy;10;0.308
+Model_Alone;llama;iteration_0;Case_tailoring;Metastases After Chemotherapy;10;0.615
+Model_Alone;llama;iteration_0;Missing_data_concordance;Metastases After Chemotherapy;10;0.615
+Model_Alone;llama;iteration_0;MDT_Decision_Concordance;Metastases After Chemotherapy;10;0.077
+Model_Alone;llama;iteration_0;Completeness;Metachronous LM;15;0.948
+Model_Alone;llama;iteration_0;Step_concordance;Metachronous LM;15;0.898
+Model_Alone;llama;iteration_0;Case_tailoring;Metachronous LM;15;0.948
+Model_Alone;llama;iteration_0;Missing_data_concordance;Metachronous LM;15;0.436
+Model_Alone;llama;iteration_0;MDT_Decision_Concordance;Metachronous LM;15;0.948
+Model_Alone;llama;iteration_0;Completeness;Sync. Resectable LM;15;1.0
+Model_Alone;llama;iteration_0;Step_concordance;Sync. Resectable LM;15;1.0
+Model_Alone;llama;iteration_0;Case_tailoring;Sync. Resectable LM;15;1.0
+Model_Alone;llama;iteration_0;Missing_data_concordance;Sync. Resectable LM;15;0.538
+Model_Alone;llama;iteration_0;MDT_Decision_Concordance;Sync. Resectable LM;15;1.0
+Model_Alone;llama;iteration_0;Completeness;Anatomical Resectability;10;0.923
+Model_Alone;llama;iteration_0;Step_concordance;Anatomical Resectability;10;0.846
+Model_Alone;llama;iteration_0;Case_tailoring;Anatomical Resectability;10;0.923
+Model_Alone;llama;iteration_0;Missing_data_concordance;Anatomical Resectability;10;0.0
+Model_Alone;llama;iteration_0;MDT_Decision_Concordance;Anatomical Resectability;10;0.923
+Model_Studies;llama;iteration_0;Completeness;Liver Recurrences After Surgery;13;0.941
+Model_Studies;llama;iteration_0;Step_concordance;Liver Recurrences After Surgery;13;0.822
+Model_Studies;llama;iteration_0;Case_tailoring;Liver Recurrences After Surgery;13;0.941
+Model_Studies;llama;iteration_0;Missing_data_concordance;Liver Recurrences After Surgery;13;0.941
+Model_Studies;llama;iteration_0;MDT_Decision_Concordance;Liver Recurrences After Surgery;13;0.763
+Model_Studies;llama;iteration_0;Completeness;Molecular Cases and Complex Situations;25;0.877
+Model_Studies;llama;iteration_0;Step_concordance;Molecular Cases and Complex Situations;25;0.692
+Model_Studies;llama;iteration_0;Case_tailoring;Molecular Cases and Complex Situations;25;0.877
+Model_Studies;llama;iteration_0;Missing_data_concordance;Molecular Cases and Complex Situations;25;0.631
+Model_Studies;llama;iteration_0;MDT_Decision_Concordance;Molecular Cases and Complex Situations;25;0.6
+Model_Studies;llama;iteration_0;Completeness;Sync. LM Post-Chemo Resectable;10;1.0
+Model_Studies;llama;iteration_0;Step_concordance;Sync. LM Post-Chemo Resectable;10;0.769
+Model_Studies;llama;iteration_0;Case_tailoring;Sync. LM Post-Chemo Resectable;10;1.0
+Model_Studies;llama;iteration_0;Missing_data_concordance;Sync. LM Post-Chemo Resectable;10;0.692
+Model_Studies;llama;iteration_0;MDT_Decision_Concordance;Sync. LM Post-Chemo Resectable;10;0.923
+Model_Studies;llama;iteration_0;Completeness;LM with Extra-Hepatic Disease;12;0.744
+Model_Studies;llama;iteration_0;Step_concordance;LM with Extra-Hepatic Disease;12;0.359
+Model_Studies;llama;iteration_0;Case_tailoring;LM with Extra-Hepatic Disease;12;0.744
+Model_Studies;llama;iteration_0;Missing_data_concordance;LM with Extra-Hepatic Disease;12;0.808
+Model_Studies;llama;iteration_0;MDT_Decision_Concordance;LM with Extra-Hepatic Disease;12;0.167
+Model_Studies;llama;iteration_0;Completeness;Metastases After Chemotherapy;10;0.846
+Model_Studies;llama;iteration_0;Step_concordance;Metastases After Chemotherapy;10;0.538
+Model_Studies;llama;iteration_0;Case_tailoring;Metastases After Chemotherapy;10;0.846
+Model_Studies;llama;iteration_0;Missing_data_concordance;Metastases After Chemotherapy;10;0.692
+Model_Studies;llama;iteration_0;MDT_Decision_Concordance;Metastases After Chemotherapy;10;0.615
+Model_Studies;llama;iteration_0;Completeness;Metachronous LM;15;1.0
+Model_Studies;llama;iteration_0;Step_concordance;Metachronous LM;15;1.0
+Model_Studies;llama;iteration_0;Case_tailoring;Metachronous LM;15;1.0
+Model_Studies;llama;iteration_0;Missing_data_concordance;Metachronous LM;15;0.795
+Model_Studies;llama;iteration_0;MDT_Decision_Concordance;Metachronous LM;15;1.0
+Model_Studies;llama;iteration_0;Completeness;Sync. Resectable LM;15;0.846
+Model_Studies;llama;iteration_0;Step_concordance;Sync. Resectable LM;15;0.59
+Model_Studies;llama;iteration_0;Case_tailoring;Sync. Resectable LM;15;0.846
+Model_Studies;llama;iteration_0;Missing_data_concordance;Sync. Resectable LM;15;0.436
+Model_Studies;llama;iteration_0;MDT_Decision_Concordance;Sync. Resectable LM;15;0.538
+Model_Studies;llama;iteration_0;Completeness;Anatomical Resectability;10;0.923
+Model_Studies;llama;iteration_0;Step_concordance;Anatomical Resectability;10;0.769
+Model_Studies;llama;iteration_0;Case_tailoring;Anatomical Resectability;10;0.923
+Model_Studies;llama;iteration_0;Missing_data_concordance;Anatomical Resectability;10;0.385
+Model_Studies;llama;iteration_0;MDT_Decision_Concordance;Anatomical Resectability;10;0.769
+Model_Workflow;llama;iteration_0;Completeness;Liver Recurrences After Surgery;13;0.941
+Model_Workflow;llama;iteration_0;Step_concordance;Liver Recurrences After Surgery;13;0.882
+Model_Workflow;llama;iteration_0;Case_tailoring;Liver Recurrences After Surgery;13;0.941
+Model_Workflow;llama;iteration_0;Missing_data_concordance;Liver Recurrences After Surgery;13;0.763
+Model_Workflow;llama;iteration_0;MDT_Decision_Concordance;Liver Recurrences After Surgery;13;0.882
+Model_Workflow;llama;iteration_0;Completeness;Molecular Cases and Complex Situations;25;0.846
+Model_Workflow;llama;iteration_0;Step_concordance;Molecular Cases and Complex Situations;25;0.723
+Model_Workflow;llama;iteration_0;Case_tailoring;Molecular Cases and Complex Situations;25;0.877
+Model_Workflow;llama;iteration_0;Missing_data_concordance;Molecular Cases and Complex Situations;25;0.323
+Model_Workflow;llama;iteration_0;MDT_Decision_Concordance;Molecular Cases and Complex Situations;25;0.723
+Model_Workflow;llama;iteration_0;Completeness;Sync. LM Post-Chemo Resectable;10;0.923
+Model_Workflow;llama;iteration_0;Step_concordance;Sync. LM Post-Chemo Resectable;10;0.846
+Model_Workflow;llama;iteration_0;Case_tailoring;Sync. LM Post-Chemo Resectable;10;0.923
+Model_Workflow;llama;iteration_0;Missing_data_concordance;Sync. LM Post-Chemo Resectable;10;0.692
+Model_Workflow;llama;iteration_0;MDT_Decision_Concordance;Sync. LM Post-Chemo Resectable;10;0.923
+Model_Workflow;llama;iteration_0;Completeness;LM with Extra-Hepatic Disease;12;0.744
+Model_Workflow;llama;iteration_0;Step_concordance;LM with Extra-Hepatic Disease;12;0.487
+Model_Workflow;llama;iteration_0;Case_tailoring;LM with Extra-Hepatic Disease;12;0.744
+Model_Workflow;llama;iteration_0;Missing_data_concordance;LM with Extra-Hepatic Disease;12;0.552
+Model_Workflow;llama;iteration_0;MDT_Decision_Concordance;LM with Extra-Hepatic Disease;12;0.487
+Model_Workflow;llama;iteration_0;Completeness;Metastases After Chemotherapy;10;0.692
+Model_Workflow;llama;iteration_0;Step_concordance;Metastases After Chemotherapy;10;0.462
+Model_Workflow;llama;iteration_0;Case_tailoring;Metastases After Chemotherapy;10;0.692
+Model_Workflow;llama;iteration_0;Missing_data_concordance;Metastases After Chemotherapy;10;0.692
+Model_Workflow;llama;iteration_0;MDT_Decision_Concordance;Metastases After Chemotherapy;10;0.308
+Model_Workflow;llama;iteration_0;Completeness;Metachronous LM;15;1.0
+Model_Workflow;llama;iteration_0;Step_concordance;Metachronous LM;15;1.0
+Model_Workflow;llama;iteration_0;Case_tailoring;Metachronous LM;15;1.0
+Model_Workflow;llama;iteration_0;Missing_data_concordance;Metachronous LM;15;0.744
+Model_Workflow;llama;iteration_0;MDT_Decision_Concordance;Metachronous LM;15;1.0
+Model_Workflow;llama;iteration_0;Completeness;Sync. Resectable LM;15;0.948
+Model_Workflow;llama;iteration_0;Step_concordance;Sync. Resectable LM;15;0.744
+Model_Workflow;llama;iteration_0;Case_tailoring;Sync. Resectable LM;15;0.948
+Model_Workflow;llama;iteration_0;Missing_data_concordance;Sync. Resectable LM;15;0.59
+Model_Workflow;llama;iteration_0;MDT_Decision_Concordance;Sync. Resectable LM;15;0.898
+Model_Workflow;llama;iteration_0;Completeness;Anatomical Resectability;10;1.0
+Model_Workflow;llama;iteration_0;Step_concordance;Anatomical Resectability;10;1.0
+Model_Workflow;llama;iteration_0;Case_tailoring;Anatomical Resectability;10;1.0
+Model_Workflow;llama;iteration_0;Missing_data_concordance;Anatomical Resectability;10;0.385
+Model_Workflow;llama;iteration_0;MDT_Decision_Concordance;Anatomical Resectability;10;1.0
+Model_Workflow_Studies;llama;iteration_0;Completeness;Liver Recurrences After Surgery;13;0.822
+Model_Workflow_Studies;llama;iteration_0;Step_concordance;Liver Recurrences After Surgery;13;0.704
+Model_Workflow_Studies;llama;iteration_0;Case_tailoring;Liver Recurrences After Surgery;13;0.822
+Model_Workflow_Studies;llama;iteration_0;Missing_data_concordance;Liver Recurrences After Surgery;13;0.586
+Model_Workflow_Studies;llama;iteration_0;MDT_Decision_Concordance;Liver Recurrences After Surgery;13;0.704
+Model_Workflow_Studies;llama;iteration_0;Completeness;Molecular Cases and Complex Situations;25;0.877
+Model_Workflow_Studies;llama;iteration_0;Step_concordance;Molecular Cases and Complex Situations;25;0.692
+Model_Workflow_Studies;llama;iteration_0;Case_tailoring;Molecular Cases and Complex Situations;25;0.846
+Model_Workflow_Studies;llama;iteration_0;Missing_data_concordance;Molecular Cases and Complex Situations;25;0.508
+Model_Workflow_Studies;llama;iteration_0;MDT_Decision_Concordance;Molecular Cases and Complex Situations;25;0.662
+Model_Workflow_Studies;llama;iteration_0;Completeness;Sync. LM Post-Chemo Resectable;10;0.846
+Model_Workflow_Studies;llama;iteration_0;Step_concordance;Sync. LM Post-Chemo Resectable;10;0.769
+Model_Workflow_Studies;llama;iteration_0;Case_tailoring;Sync. LM Post-Chemo Resectable;10;0.846
+Model_Workflow_Studies;llama;iteration_0;Missing_data_concordance;Sync. LM Post-Chemo Resectable;10;0.615
+Model_Workflow_Studies;llama;iteration_0;MDT_Decision_Concordance;Sync. LM Post-Chemo Resectable;10;0.846
+Model_Workflow_Studies;llama;iteration_0;Completeness;LM with Extra-Hepatic Disease;12;0.744
+Model_Workflow_Studies;llama;iteration_0;Step_concordance;LM with Extra-Hepatic Disease;12;0.552
+Model_Workflow_Studies;llama;iteration_0;Case_tailoring;LM with Extra-Hepatic Disease;12;0.744
+Model_Workflow_Studies;llama;iteration_0;Missing_data_concordance;LM with Extra-Hepatic Disease;12;0.808
+Model_Workflow_Studies;llama;iteration_0;MDT_Decision_Concordance;LM with Extra-Hepatic Disease;12;0.487
+Model_Workflow_Studies;llama;iteration_0;Completeness;Metastases After Chemotherapy;10;0.769
+Model_Workflow_Studies;llama;iteration_0;Step_concordance;Metastases After Chemotherapy;10;0.538
+Model_Workflow_Studies;llama;iteration_0;Case_tailoring;Metastases After Chemotherapy;10;0.769
+Model_Workflow_Studies;llama;iteration_0;Missing_data_concordance;Metastases After Chemotherapy;10;0.615
+Model_Workflow_Studies;llama;iteration_0;MDT_Decision_Concordance;Metastases After Chemotherapy;10;0.615
+Model_Workflow_Studies;llama;iteration_0;Completeness;Metachronous LM;15;1.0
+Model_Workflow_Studies;llama;iteration_0;Step_concordance;Metachronous LM;15;1.0
+Model_Workflow_Studies;llama;iteration_0;Case_tailoring;Metachronous LM;15;1.0
+Model_Workflow_Studies;llama;iteration_0;Missing_data_concordance;Metachronous LM;15;0.795
+Model_Workflow_Studies;llama;iteration_0;MDT_Decision_Concordance;Metachronous LM;15;1.0
+Model_Workflow_Studies;llama;iteration_0;Completeness;Sync. Resectable LM;15;0.948
+Model_Workflow_Studies;llama;iteration_0;Step_concordance;Sync. Resectable LM;15;0.795
+Model_Workflow_Studies;llama;iteration_0;Case_tailoring;Sync. Resectable LM;15;0.948
+Model_Workflow_Studies;llama;iteration_0;Missing_data_concordance;Sync. Resectable LM;15;0.744
+Model_Workflow_Studies;llama;iteration_0;MDT_Decision_Concordance;Sync. Resectable LM;15;0.795
+Model_Workflow_Studies;llama;iteration_0;Completeness;Anatomical Resectability;10;0.923
+Model_Workflow_Studies;llama;iteration_0;Step_concordance;Anatomical Resectability;10;0.692
+Model_Workflow_Studies;llama;iteration_0;Case_tailoring;Anatomical Resectability;10;0.846
+Model_Workflow_Studies;llama;iteration_0;Missing_data_concordance;Anatomical Resectability;10;0.385
+Model_Workflow_Studies;llama;iteration_0;MDT_Decision_Concordance;Anatomical Resectability;10;0.692

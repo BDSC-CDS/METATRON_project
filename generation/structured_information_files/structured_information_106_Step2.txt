@@ -1,0 +1,31 @@
+
+Information concerning Liver_Metastases_Timing
+Description: Liver metastases are defined as "Synchronous" if detected before or at the same time as the primary colorectal tumor; they are considered "Metachronous" if diagnosed at least one month after the colorectal primary tumor.
+- Timing: Synchronous
+
+Information concerning Liver_Metastases_Characterization
+- Number_Of_Metastases: 1
+- Maximum_Lesion_Diameter: 4 cm
+- Minimum_Lesion_Diameter: 4 cm
+- Hepatic_Segments_Involved: VII
+- Presence_Of_Vascular_Contact_Or_Invasion: True
+- Presence_Of_Biliary_Structures_Involved: Missing
+- Presence_Of_Necrosis: Missing
+- Presence_Of_Fibrosis: Missing
+- Presence_Of_Associated_Calcifications: Missing
+- Presence_Of_Associated_Cystic_Changes: Missing
+- Presence_Of_Associated_Portal_Thrombosis: Missing
+- Arterial_Anatomy: Missing
+- Presence_Of_Atypical_Features: Missing
+
+Information concerning ImagingExams
+- Thoraco_CT_Scan_Performed: False
+- Abdomen_CT_Scan_Performed: True
+- Has liver MRI been performed? Missing
+
+Information concerning Liver_Metastases_Under_Systemic_Treatment
+Description: Post chemotherapy characterization of the liver metastases.
+- Has a systemic treatment (chemotherapy) already been performed? Missing
+
+Information concerning Liver_Metastases_Occurrance
+- Does the current liver metastases represent a recurrence — meaning, were there previous liver metastases that had been treated surgically or with microwave or radiofrequency ablation? Missing

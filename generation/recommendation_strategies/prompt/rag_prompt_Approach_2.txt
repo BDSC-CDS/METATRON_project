@@ -1,0 +1,4 @@
+Based on this clinical case, determine whether the patient is resectable, potentially resectable, or unresectable according to hepatobiliary oncologic criteria, and identify the most appropriate oncological strategy or sequence of strategies, including surgery. 
+
+CLINICAL CASE:
+{clinical_case}

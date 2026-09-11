@@ -1,0 +1,15 @@
+Identify the following information related to the given study:
+- title
+- first author surname
+- year of publication
+
+Return the output strictly following the specified schema.
+{{
+    "Title":"",
+    "First_Author_Surname":"",
+    "Year_Publication":""
+}}
+Do not include any additional text or explanations outside the model fields.
+
+STUDY:
+{study}

@@ -1,0 +1,16 @@
+
+Information concerning Colorectal_Primary_Tumor_Characterization
+- Location: left colon
+- Grade_Of_Differentation: Missing
+- Molecular_Phenotype: RAS mutant, MSS
+
+Information concerning Colorectal_Primary_Tumor_Post_Resection_Characterization
+- Has the colorectal primary tumor been already resected? False
+
+Information concerning Colorectal_Primary_Tumor_Symptomatology
+- Presence_Of_Symptoms_For_Obstruction: False
+- Presence_Of_Symptoms_For_Perforation: False
+- Presence_Of_Symptoms_For_Bleeding: False
+
+Information concerning Colorectal_Primary_Tumor_CEA_Level
+- CEA_Level: 95 ng/mL

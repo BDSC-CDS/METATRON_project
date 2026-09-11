@@ -1,0 +1,28 @@
+
+Information concerning Extrahepatic_Pulmonary_Involvement
+- Do imaging studies show evidence of metastatic extrahepatic pulmonary involvement without discussion of differential diagnosis? Missing
+
+Information concerning Extrahepatic_Peritoneal_Involvement
+- Do imaging studies show evidence of metastatic extrahepatic peritoneal involvement without discussion of differential diagnosis? Missing
+
+Information concerning Extrahepatic_Lymph_Node_Involvement
+- Do imaging studies show evidence of metastatic extrahepatic lymph node involvement without discussion of differential diagnosis? Missing
+
+Information concerning Extrahepatic_Bone_Involvement
+Description: Metastatic bone lesions description.
+- Do imaging studies show evidence of metastatic extrahepatic bone involvement without discussion of differential diagnosis? Missing
+
+Information concerning Extrahepatic_Brain_Involvement
+Description: Metastatic brain lesions description.
+- Do imaging studies show evidence of metastatic extrahepatic brain involvement without discussion of differential diagnosis? True
+- Timing: Missing
+- Number_Of_Lensions: single
+- Size_Of_Lesions: Missing
+- Topography_Of_Lesions: cerebellar
+- Presence_Of_Edema: Missing
+- Presence_Of_Mass_Effect: Missing
+- Presence_Of_Midline_Shift: Missing
+- Hemorrhagic_Character: Missing
+- Necrotic_Character: Missing
+- Cystic_Character: Missing
+- Has a FDG-PET scan or amino-acid PET scan been performed? Missing

@@ -1,0 +1,14 @@
+Analyze the clinical case and and determine whether the condition stated in the question is true based on the case details. 
+
+Respond with:
+- "Yes" if the condition is confirmed,
+- "No" if it is explicitly denied,
+- "Missing" if the information is not mentioned.
+
+Do not infer, assume, or interpret beyond what is explicitly stated in the clinical case. Only use the information provided. 
+
+Clinical case: {clinical_case}
+
+Question: {question}
+
+Answer: "Yes" or "No" or "Missing". 

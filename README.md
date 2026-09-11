@@ -1,34 +1,204 @@
-# Automatic Evaluation of LLM-Driven Oncological Recommendations - METATRON Project
+# METATRON
 
-This repository performs automatic evaluation of LLM-generated answers against reference (expert) answers using an LLM-as-judge framework.
+METATRON aims to develop an LLM‑based assistant designed to support hepatobiliary (HPB) surgeons during Multidisciplinary Tumor Board discussions by helping them provide treatment recommendations for specific clinical cases. 
 
-The evaluation is carried out in two ways:
-1. Whole answer judgment, where the full generated answer is scored against the expert reference.
-2. Step-wise judgment, where the generated answer is split into substeps and each is evaluated individually, then aggregated.
+**Delivering such recommendations requires a detailed analysis of the clinical cases:** our approach consists of defining and implementing an **expert‑driven structured workflow** that guides the analysis of each clinical case in the identification and extraction of all the relevant information.
 
-It also performs **semantic analysis** by comparing structured information extracted from texts.
-Extraction sources include:
-- LLM-based structured extraction using a domain-specific taxonomy (e.g., resectability assessment labels).
-- Zero-shot clinical NER models from the John Snow Labs library (oncology-focused entity extraction).
+## Repository overview
 
-The LLM-as-judge workflow uses high-performance models via API calls and AWS Bedrock.
+The repository is organized into two main phases:
 
+- [`generation/`](generation/) generates
+  the recommendations using different prompting strategies (among which a specific approach based on the implemented expert-derived workflow).
+- [`evaluation/`](evaluation/) evaluates the generated recommendations with
+  LLM-as-a-judge and named-entity-recognition (NER) analyses.
 
-## Code description
+The **generation phase** contains three components:
 
-- `00_arrange_data.py` - dataset preparation 
-- `00_session_token.py` - AWS bedrock session token handling
-- `01_LLM_as_Judge_OneText.py` - one-text LLM judging 
-- `01_LLM_as_Judge_OneText_bedrock.py` - Bedrock-specific variant for one-text evaluation
-- `01_LLM_as_judge_StepWise.py` - multi-step evaluation/prompts to improve concordance
-- `01B_LLM_as_judge_table_results.py` - result formatting and table reporting
-- `02_ner_analysis.py` - NER-centric analysis (based on pre-collected entities)
-- `EvaluationOutput.py` - Pydantic class for structured LLM-based evaluation
-- `utils_call_bedrock_models.py` - Bedrock API call wrappers
-- `utils_metrics.py` - metric calculation utilities (accuracy, concordance, etc.)
-- `utils_prompt.py` - prompt builder helpers and prompt templates
-- `utils_variables.py` - common constants and configuration values
+- [`generation/rag_db/`](generation/rag_db/) builds the Milvus document store
+  used for retrieval-augmented generation (RAG). This phase is optional, since you can use pre-saved paragraphs already extracted using the corresponding queries for each case, available in `generation/rag_results`.
 
-- `analyze_results.ipynb` - exploratory data analysis notebook for LLM evaluation results, including metrics visualization, concordance summaries, and model comparison plots.
+- [`generation/workflow_based_case_analysis/`](generation/workflow_based_case_analysis/)
+  extracts structured clinical information by following the expert-defined
+  workflow.
+- [`generation/recommendation_strategies/`](generation/recommendation_strategies/)
+  generates and validates recommendations using four approaches: LLM-baseline, RAG-LLM, WF-LLM, WF-RAG-LLM.
 
+See the README files in each repository for further details.
 
+## Pipeline order
+
+Run the phases in this order:
+
+```text
+Optional: build RAG database
+    ↓
+Workflow-based case analysis
+    ↓
+Recommendation generation and structure validation
+    ↓
+LLM-based evaluation and/or NER evaluation
+    ↓
+Result analysis
+```
+
+### Generate workflow-based structured information
+
+From [`generation/workflow_based_case_analysis/`](generation/workflow_based_case_analysis/),
+run:
+
+```bash
+# Comments about the input args
+# Use test_structured_information_files to save your structured analyses. 
+# The original files containing the structured analyses of all 110 cases are provided in structured_information_files
+uv run main_workflow_executor.py \
+  --cases ../data/HPB_cases.csv \
+  --structured-information-path ../test_structured_information_files \
+  --output-dir results
+```
+
+This reads `workflow/workflow_information_extraction.json`, analyzes each
+case through Steps 1–4, and writes structured-information files and tabular
+workflow results. The input CSV must be semicolon-separated and contain
+`Case_Number` and `Content` columns. For a smaller test run, replace
+`../data/HPB_cases.csv` with `../data/data_short.csv`.
+
+### Generate and validate recommendations
+
+From [`generation/recommendation_strategies/`](generation/recommendation_strategies/),
+run:
+
+```bash
+# Comments about the input args
+# v8 is the latest prompt version.
+# As structured analyses dir, you can choose your files in test_structured_information_files or the original files in structured_information_files
+uv run main_generate_recommendation.py \
+  --cases ../data/HPB_cases.csv \
+  --structured-information-dir ../test_structured_information_files \
+  --expert-recommendation ../data/expert_recommendations_v8.csv \
+  --prompt-version v8 \
+  --output-dir test_results
+```
+
+The recommendation stage consumes the case data and the structured
+information produced by the previous stage. It writes generated
+recommendations, extracted recommendation steps, model/expert comparison
+files, and step-format errors. Use `data_short.csv` for a smaller run.
+
+The four generated approaches are:
+
+1. Model alone - LLM-baseline (`Model_Alone`)
+2. Model with retrieved studies - RAG-LLM (`Model_Studies`)
+3. Model with workflow information - WF-LLM (`Model_Workflow`)
+4. Model with workflow information and retrieved studies - WF-RAG-LLM
+   (`Model_Workflow_Studies`)
+
+### 4. Evaluate the generated recommendations
+
+Run evaluation only after recommendation generation has produced the
+comparison CSV consumed by the evaluation scripts. Evaluation commands are
+run from [`evaluation/`](evaluation/).
+
+#### LLM-based evaluation
+
+For an OpenAI-compatible API-key model:
+
+```bash
+uv run main_llm_based_evaluation.py \
+  --n-selected-cases 10 \
+  --model-env apikey \
+  --model-name gpt-4o \
+  --data-version v8 \
+  --data-path ../generation/recommendation_strategies/provided_results
+```
+
+For an AWS Bedrock model:
+
+```bash
+uv run main_llm_based_evaluation.py \
+  --n-selected-cases 10 \
+  --model-env aws \
+  --model-name us.anthropic.claude-sonnet-4-6 \
+  --data-version v8 \
+  --data-path ../generation/recommendation_strategies/provided_results
+```
+
+The LLM judge reports completeness, step concordance, case tailoring,
+missing-data concordance, and MDT decision concordance. API-key evaluation
+requires `OPENAI_APIKEY` in `evaluation/.env`. Bedrock evaluation requires
+the credentials described in
+[`evaluation/README.md`](evaluation/README.md), and the AWS workflow also
+uses `00_session_token.py`.
+
+#### NER evaluation
+
+The NER workflow uses the provided `oncological_ner.ipynb` notebook, intended
+to be run in Google Colab with the John Snow Labs NER pipeline. Place the
+resulting entity JSON and CSV files under `evaluation/data/<data-version>/`,
+then run from [`evaluation/`](evaluation/):
+
+```bash
+uv run main_ner_analysis.py \
+  --data-path ./data \
+  --data-version v8 \
+  --n-selected-cases 10
+```
+
+NER results are written to `evaluation/results_ner/<data-version>/`.
+Use `analyze_results.ipynb` to inspect scores, metrics, comparisons, and
+visualizations from either evaluation path.
+
+## Setup and runtime requirements
+
+### Python and uv
+
+The project targets Python 3.12 (see `.python-version`) and uses
+[`uv`](https://docs.astral.sh/uv/) for dependency and command management.
+From the repository root, create or synchronize the project environment:
+
+```bash
+uv sync
+```
+
+### Ollama (default local LLM framework)
+
+Generation is configured by default to use a local
+[Ollama](https://ollama.com/) server through its OpenAI-compatible endpoint:
+
+```text
+http://localhost:11434/v1
+```
+
+Start Ollama before running generation, and make the configured models
+available locally. The default model configuration is maintained in the
+`models.py` file for each generation component:
+
+```text
+LLM: gpt-oss:120b-cloud
+Embedding model: qwen3-embedding:0.6b
+API endpoint: http://localhost:11434/v1
+```
+
+For a local Ollama installation, start the server with:
+
+```bash
+ollama serve
+```
+
+Pull or otherwise configure the model names listed above before running the
+pipeline. The exact model availability depends on the Ollama installation and
+the selected model provider.
+
+If a different Ollama model, hosted endpoint, or inference server such as
+vLLM is used, update the corresponding `url` and `model_name` values in
+`generation/workflow_based_case_analysis/models.py`,
+`generation/recommendation_strategies/models.py`, and, when applicable,
+`generation/rag_db/models.py`.
+
+## Component documentation
+
+- [Generation overview](generation/README.md)
+- [Workflow-based case analysis](generation/workflow_based_case_analysis/README.md)
+- [Recommendation strategies](generation/recommendation_strategies/README.md)
+- [RAG database](generation/rag_db/README.md)
+- [Evaluation](evaluation/README.md)

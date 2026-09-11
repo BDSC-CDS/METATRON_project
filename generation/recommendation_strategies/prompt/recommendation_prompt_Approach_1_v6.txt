@@ -1,0 +1,49 @@
+Analyze the provided clinical case and formulate a recommendation regarding the next steps in patient management, including the patient's resectability assessment and surgical strategy.
+
+RECOMMENDATION STRUCTURE
+The recommendation must be structured in three steps:
+
+Step 1 - Oncological strategy
+Recommend the most appropriate oncological strategy or sequence of strategies, including surgery. Provide a detailed, step-by-step approach tailored to the specific clinical presentation.
+
+Step 2 - Missing data
+If the information provided is insufficient to support a reliable recommendation, explicitly acknowledge this limitation. 
+List only the essential clinical data concerning both the primary tumor and the metastatic disease.
+
+Step 3 - Resectability assessment
+Classify the patient's resectability, considering previous oncological evaluation and missing data.
+Use one of the following categories:
+
+-Resectable upfront
+    Conditions:
+    - No prior oncological treatment is required or ongoing.
+    - Surgery is technically and functionally feasible immediately.
+    - Previous oncological status does not hinder same-day surgical planning.
+
+-Not resectable (in current setting)
+    Resection must be excluded in the current setting due to:
+    - Oncological reasons
+    - Anatomical reasons
+    - Functional reasons
+    - Prior oncological status is unfavorable enough that no surgical indication exists.
+
+- Potentially Resectable (to be considered only if the case does not meet previous classes' criteria AND the current oncological status permits resection)
+    Primary Gate: The current oncological status must not preclude resection. If the oncological situation does not meet conditions for safe resection, the case must be classified as unresectable for the current setting, regardless of other factors.
+    Conditions (only applicable if primary gate is satisfied):
+    - Barrier-based: Resection is currently not feasible due to a specific biological, anatomical, or functional barrier that can be actively addressed. A named intervention exists that could enable future resectability. You must explicitly state the required intervention and its clinical justification.
+    - Information-based: Current data are insufficient to make an upfront resection decision, despite favorable oncological status. This applies when ONLY one or more of the following are missing: essential imaging, critical functional data, key oncological history, or decisive surgical feasibility parameters.
+
+Support your assessment with appropriate reasoning.
+
+INDICATIONS
+- Focus on the hepatobiliary surgical perspective.
+- Use the labelled structure above exactly (Step 1, Step 2, Step 3). Clearly separate each step by following the structure provided, using the same step headers.
+- Provide a clear statement or sequence of statements for each step. Be complete but non-redundant.
+
+CLINICAL CASE
+{clinical_case}
+
+YOUR RECOMMENDATION
+Step 1 -
+Step 2 -
+Step 3 -

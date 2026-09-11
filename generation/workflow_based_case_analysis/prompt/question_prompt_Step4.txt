@@ -1,0 +1,13 @@
+Analyze the clinical case and and determine whether the condition stated in the question is true based on the case details. 
+
+Respond with:
+- "Yes" if you determine that the case meets the condition, based on the clinical findings,
+- "No" if you determine that the case does not meet the condition. 
+
+Apply standard clinical reasoning: you may infer the condition from documented findings, parameters, or diagnoses. 
+
+Clinical case: {clinical_case}
+
+Question: {question}
+
+Answer: "Yes" or "No".

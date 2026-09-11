@@ -1,0 +1,161 @@
+Approach;Criterion;Category;NValues;Mean;STD
+LLM-baseline;Completeness;Liver Recurrences After Surgery;13;0.821;0.129
+LLM-baseline;Completeness;Molecular Cases and Complex Situations;25;0.901;0.079
+LLM-baseline;Completeness;Sync. LM Post-Chemo Resectable;10;0.82;0.058
+LLM-baseline;Completeness;LM with Extra-Hepatic Disease;12;0.805;0.076
+LLM-baseline;Completeness;Metastases After Chemotherapy;10;0.664;0.107
+LLM-baseline;Completeness;Metachronous LM;15;0.839;0.133
+LLM-baseline;Completeness;Sync. Resectable LM;15;0.909;0.101
+LLM-baseline;Completeness;Anatomical Resectability;10;0.875;0.04
+LLM-baseline;Step_concordance;Liver Recurrences After Surgery;13;0.386;0.06
+LLM-baseline;Step_concordance;Molecular Cases and Complex Situations;25;0.525;0.14
+LLM-baseline;Step_concordance;Sync. LM Post-Chemo Resectable;10;0.518;0.181
+LLM-baseline;Step_concordance;LM with Extra-Hepatic Disease;12;0.435;0.141
+LLM-baseline;Step_concordance;Metastases After Chemotherapy;10;0.132;0.13
+LLM-baseline;Step_concordance;Metachronous LM;15;0.616;0.201
+LLM-baseline;Step_concordance;Sync. Resectable LM;15;0.711;0.21
+LLM-baseline;Step_concordance;Anatomical Resectability;10;0.643;0.144
+LLM-baseline;Case_tailoring;Liver Recurrences After Surgery;13;0.656;0.184
+LLM-baseline;Case_tailoring;Molecular Cases and Complex Situations;25;0.75;0.207
+LLM-baseline;Case_tailoring;Sync. LM Post-Chemo Resectable;10;0.733;0.181
+LLM-baseline;Case_tailoring;LM with Extra-Hepatic Disease;12;0.658;0.115
+LLM-baseline;Case_tailoring;Metastases After Chemotherapy;10;0.478;0.248
+LLM-baseline;Case_tailoring;Metachronous LM;15;0.767;0.207
+LLM-baseline;Case_tailoring;Sync. Resectable LM;15;0.866;0.135
+LLM-baseline;Case_tailoring;Anatomical Resectability;10;0.767;0.15
+LLM-baseline;Missing_data_concordance;Liver Recurrences After Surgery;13;0.451;0.157
+LLM-baseline;Missing_data_concordance;Molecular Cases and Complex Situations;25;0.617;0.094
+LLM-baseline;Missing_data_concordance;Sync. LM Post-Chemo Resectable;10;0.446;0.082
+LLM-baseline;Missing_data_concordance;LM with Extra-Hepatic Disease;12;0.479;0.053
+LLM-baseline;Missing_data_concordance;Metastases After Chemotherapy;10;0.602;0.026
+LLM-baseline;Missing_data_concordance;Metachronous LM;15;0.389;0.148
+LLM-baseline;Missing_data_concordance;Sync. Resectable LM;15;0.471;0.098
+LLM-baseline;Missing_data_concordance;Anatomical Resectability;10;0.212;0.157
+LLM-baseline;MDT_Decision_Concordance;Liver Recurrences After Surgery;13;0.363;0.146
+LLM-baseline;MDT_Decision_Concordance;Molecular Cases and Complex Situations;25;0.586;0.168
+LLM-baseline;MDT_Decision_Concordance;Sync. LM Post-Chemo Resectable;10;0.515;0.245
+LLM-baseline;MDT_Decision_Concordance;LM with Extra-Hepatic Disease;12;0.477;0.191
+LLM-baseline;MDT_Decision_Concordance;Metastases After Chemotherapy;10;0.067;0.051
+LLM-baseline;MDT_Decision_Concordance;Metachronous LM;15;0.743;0.213
+LLM-baseline;MDT_Decision_Concordance;Sync. Resectable LM;15;0.794;0.209
+LLM-baseline;MDT_Decision_Concordance;Anatomical Resectability;10;0.829;0.19
+RAG-LLM;Completeness;Liver Recurrences After Surgery;13;0.915;0.018
+RAG-LLM;Completeness;Molecular Cases and Complex Situations;25;0.916;0.042
+RAG-LLM;Completeness;Sync. LM Post-Chemo Resectable;10;0.907;0.091
+RAG-LLM;Completeness;LM with Extra-Hepatic Disease;12;0.779;0.054
+RAG-LLM;Completeness;Metastases After Chemotherapy;10;0.799;0.045
+RAG-LLM;Completeness;Metachronous LM;15;0.981;0.027
+RAG-LLM;Completeness;Sync. Resectable LM;15;0.853;0.049
+RAG-LLM;Completeness;Anatomical Resectability;10;0.916;0.071
+RAG-LLM;Step_concordance;Liver Recurrences After Surgery;13;0.603;0.165
+RAG-LLM;Step_concordance;Molecular Cases and Complex Situations;25;0.518;0.126
+RAG-LLM;Step_concordance;Sync. LM Post-Chemo Resectable;10;0.512;0.182
+RAG-LLM;Step_concordance;LM with Extra-Hepatic Disease;12;0.373;0.01
+RAG-LLM;Step_concordance;Metastases After Chemotherapy;10;0.308;0.172
+RAG-LLM;Step_concordance;Metachronous LM;15;0.759;0.171
+RAG-LLM;Step_concordance;Sync. Resectable LM;15;0.462;0.093
+RAG-LLM;Step_concordance;Anatomical Resectability;10;0.616;0.162
+RAG-LLM;Case_tailoring;Liver Recurrences After Surgery;13;0.75;0.142
+RAG-LLM;Case_tailoring;Molecular Cases and Complex Situations;25;0.754;0.099
+RAG-LLM;Case_tailoring;Sync. LM Post-Chemo Resectable;10;0.751;0.183
+RAG-LLM;Case_tailoring;LM with Extra-Hepatic Disease;12;0.664;0.148
+RAG-LLM;Case_tailoring;Metastases After Chemotherapy;10;0.656;0.169
+RAG-LLM;Case_tailoring;Metachronous LM;15;0.866;0.135
+RAG-LLM;Case_tailoring;Sync. Resectable LM;15;0.738;0.143
+RAG-LLM;Case_tailoring;Anatomical Resectability;10;0.852;0.111
+RAG-LLM;Missing_data_concordance;Liver Recurrences After Surgery;13;0.777;0.127
+RAG-LLM;Missing_data_concordance;Molecular Cases and Complex Situations;25;0.686;0.064
+RAG-LLM;Missing_data_concordance;Sync. LM Post-Chemo Resectable;10;0.563;0.105
+RAG-LLM;Missing_data_concordance;LM with Extra-Hepatic Disease;12;0.716;0.086
+RAG-LLM;Missing_data_concordance;Metastases After Chemotherapy;10;0.619;0.1
+RAG-LLM;Missing_data_concordance;Metachronous LM;15;0.698;0.135
+RAG-LLM;Missing_data_concordance;Sync. Resectable LM;15;0.503;0.086
+RAG-LLM;Missing_data_concordance;Anatomical Resectability;10;0.579;0.212
+RAG-LLM;MDT_Decision_Concordance;Liver Recurrences After Surgery;13;0.696;0.092
+RAG-LLM;MDT_Decision_Concordance;Molecular Cases and Complex Situations;25;0.556;0.081
+RAG-LLM;MDT_Decision_Concordance;Sync. LM Post-Chemo Resectable;10;0.617;0.253
+RAG-LLM;MDT_Decision_Concordance;LM with Extra-Hepatic Disease;12;0.307;0.129
+RAG-LLM;MDT_Decision_Concordance;Metastases After Chemotherapy;10;0.332;0.206
+RAG-LLM;MDT_Decision_Concordance;Metachronous LM;15;0.87;0.155
+RAG-LLM;MDT_Decision_Concordance;Sync. Resectable LM;15;0.569;0.137
+RAG-LLM;MDT_Decision_Concordance;Anatomical Resectability;10;0.643;0.21
+WF-LLM;Completeness;Liver Recurrences After Surgery;13;0.886;0.085
+WF-LLM;Completeness;Molecular Cases and Complex Situations;25;0.877;0.071
+WF-LLM;Completeness;Sync. LM Post-Chemo Resectable;10;0.852;0.111
+WF-LLM;Completeness;LM with Extra-Hepatic Disease;12;0.82;0.062
+WF-LLM;Completeness;Metastases After Chemotherapy;10;0.725;0.111
+WF-LLM;Completeness;Metachronous LM;15;0.913;0.123
+WF-LLM;Completeness;Sync. Resectable LM;15;0.862;0.128
+WF-LLM;Completeness;Anatomical Resectability;10;0.913;0.123
+WF-LLM;Step_concordance;Liver Recurrences After Surgery;13;0.558;0.236
+WF-LLM;Step_concordance;Molecular Cases and Complex Situations;25;0.545;0.126
+WF-LLM;Step_concordance;Sync. LM Post-Chemo Resectable;10;0.558;0.205
+WF-LLM;Step_concordance;LM with Extra-Hepatic Disease;12;0.434;0.079
+WF-LLM;Step_concordance;Metastases After Chemotherapy;10;0.233;0.168
+WF-LLM;Step_concordance;Metachronous LM;15;0.706;0.209
+WF-LLM;Step_concordance;Sync. Resectable LM;15;0.488;0.187
+WF-LLM;Step_concordance;Anatomical Resectability;10;0.786;0.162
+WF-LLM;Case_tailoring;Liver Recurrences After Surgery;13;0.749;0.186
+WF-LLM;Case_tailoring;Molecular Cases and Complex Situations;25;0.759;0.117
+WF-LLM;Case_tailoring;Sync. LM Post-Chemo Resectable;10;0.765;0.234
+WF-LLM;Case_tailoring;LM with Extra-Hepatic Disease;12;0.666;0.075
+WF-LLM;Case_tailoring;Metastases After Chemotherapy;10;0.548;0.123
+WF-LLM;Case_tailoring;Metachronous LM;15;0.851;0.182
+WF-LLM;Case_tailoring;Sync. Resectable LM;15;0.772;0.174
+WF-LLM;Case_tailoring;Anatomical Resectability;10;0.878;0.131
+WF-LLM;Missing_data_concordance;Liver Recurrences After Surgery;13;0.624;0.161
+WF-LLM;Missing_data_concordance;Molecular Cases and Complex Situations;25;0.461;0.113
+WF-LLM;Missing_data_concordance;Sync. LM Post-Chemo Resectable;10;0.598;0.089
+WF-LLM;Missing_data_concordance;LM with Extra-Hepatic Disease;12;0.491;0.051
+WF-LLM;Missing_data_concordance;Metastases After Chemotherapy;10;0.565;0.104
+WF-LLM;Missing_data_concordance;Metachronous LM;15;0.577;0.16
+WF-LLM;Missing_data_concordance;Sync. Resectable LM;15;0.531;0.079
+WF-LLM;Missing_data_concordance;Anatomical Resectability;10;0.417;0.108
+WF-LLM;MDT_Decision_Concordance;Liver Recurrences After Surgery;13;0.686;0.171
+WF-LLM;MDT_Decision_Concordance;Molecular Cases and Complex Situations;25;0.583;0.122
+WF-LLM;MDT_Decision_Concordance;Sync. LM Post-Chemo Resectable;10;0.625;0.222
+WF-LLM;MDT_Decision_Concordance;LM with Extra-Hepatic Disease;12;0.492;0.03
+WF-LLM;MDT_Decision_Concordance;Metastases After Chemotherapy;10;0.265;0.064
+WF-LLM;MDT_Decision_Concordance;Metachronous LM;15;0.831;0.21
+WF-LLM;MDT_Decision_Concordance;Sync. Resectable LM;15;0.678;0.266
+WF-LLM;MDT_Decision_Concordance;Anatomical Resectability;10;0.87;0.184
+WF-RAG-LLM;Completeness;Liver Recurrences After Surgery;13;0.88;0.054
+WF-RAG-LLM;Completeness;Molecular Cases and Complex Situations;25;0.898;0.056
+WF-RAG-LLM;Completeness;Sync. LM Post-Chemo Resectable;10;0.891;0.078
+WF-RAG-LLM;Completeness;LM with Extra-Hepatic Disease;12;0.802;0.042
+WF-RAG-LLM;Completeness;Metastases After Chemotherapy;10;0.774;0.03
+WF-RAG-LLM;Completeness;Metachronous LM;15;1.0;0.0
+WF-RAG-LLM;Completeness;Sync. Resectable LM;15;0.954;0.036
+WF-RAG-LLM;Completeness;Anatomical Resectability;10;0.896;0.05
+WF-RAG-LLM;Step_concordance;Liver Recurrences After Surgery;13;0.575;0.116
+WF-RAG-LLM;Step_concordance;Molecular Cases and Complex Situations;25;0.562;0.102
+WF-RAG-LLM;Step_concordance;Sync. LM Post-Chemo Resectable;10;0.618;0.108
+WF-RAG-LLM;Step_concordance;LM with Extra-Hepatic Disease;12;0.414;0.115
+WF-RAG-LLM;Step_concordance;Metastases After Chemotherapy;10;0.449;0.067
+WF-RAG-LLM;Step_concordance;Metachronous LM;15;0.844;0.113
+WF-RAG-LLM;Step_concordance;Sync. Resectable LM;15;0.652;0.107
+WF-RAG-LLM;Step_concordance;Anatomical Resectability;10;0.586;0.08
+WF-RAG-LLM;Case_tailoring;Liver Recurrences After Surgery;13;0.797;0.099
+WF-RAG-LLM;Case_tailoring;Molecular Cases and Complex Situations;25;0.811;0.09
+WF-RAG-LLM;Case_tailoring;Sync. LM Post-Chemo Resectable;10;0.791;0.099
+WF-RAG-LLM;Case_tailoring;LM with Extra-Hepatic Disease;12;0.678;0.059
+WF-RAG-LLM;Case_tailoring;Metastases After Chemotherapy;10;0.618;0.108
+WF-RAG-LLM;Case_tailoring;Metachronous LM;15;0.932;0.096
+WF-RAG-LLM;Case_tailoring;Sync. Resectable LM;15;0.876;0.14
+WF-RAG-LLM;Case_tailoring;Anatomical Resectability;10;0.835;0.038
+WF-RAG-LLM;Missing_data_concordance;Liver Recurrences After Surgery;13;0.642;0.119
+WF-RAG-LLM;Missing_data_concordance;Molecular Cases and Complex Situations;25;0.554;0.087
+WF-RAG-LLM;Missing_data_concordance;Sync. LM Post-Chemo Resectable;10;0.623;0.051
+WF-RAG-LLM;Missing_data_concordance;LM with Extra-Hepatic Disease;12;0.728;0.07
+WF-RAG-LLM;Missing_data_concordance;Metastases After Chemotherapy;10;0.573;0.067
+WF-RAG-LLM;Missing_data_concordance;Metachronous LM;15;0.684;0.126
+WF-RAG-LLM;Missing_data_concordance;Sync. Resectable LM;15;0.63;0.112
+WF-RAG-LLM;Missing_data_concordance;Anatomical Resectability;10;0.538;0.155
+WF-RAG-LLM;MDT_Decision_Concordance;Liver Recurrences After Surgery;13;0.704;0.085
+WF-RAG-LLM;MDT_Decision_Concordance;Molecular Cases and Complex Situations;25;0.627;0.138
+WF-RAG-LLM;MDT_Decision_Concordance;Sync. LM Post-Chemo Resectable;10;0.741;0.125
+WF-RAG-LLM;MDT_Decision_Concordance;LM with Extra-Hepatic Disease;12;0.485;0.081
+WF-RAG-LLM;MDT_Decision_Concordance;Metastases After Chemotherapy;10;0.523;0.096
+WF-RAG-LLM;MDT_Decision_Concordance;Metachronous LM;15;0.895;0.096
+WF-RAG-LLM;MDT_Decision_Concordance;Sync. Resectable LM;15;0.721;0.132
+WF-RAG-LLM;MDT_Decision_Concordance;Anatomical Resectability;10;0.655;0.097

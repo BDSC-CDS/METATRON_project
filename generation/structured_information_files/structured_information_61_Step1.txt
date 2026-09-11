@@ -1,0 +1,16 @@
+
+Information concerning Colorectal_Primary_Tumor_Characterization
+- Location: Missing
+- Grade_Of_Differentation: Missing
+- Molecular_Phenotype: Missing
+
+Information concerning Colorectal_Primary_Tumor_Post_Resection_Characterization
+- Has the colorectal primary tumor been already resected? Missing
+
+Information concerning Colorectal_Primary_Tumor_Symptomatology
+- Presence_Of_Symptoms_For_Obstruction: Missing
+- Presence_Of_Symptoms_For_Perforation: Missing
+- Presence_Of_Symptoms_For_Bleeding: Missing
+
+Information concerning Colorectal_Primary_Tumor_CEA_Level
+- CEA_Level: 200 ng/mL

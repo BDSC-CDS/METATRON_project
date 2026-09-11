@@ -1,0 +1,219 @@
+Approach: Model_Workflow
+Case 82
+You are given two recommendations. Your task is to evaluate their similarity by scoring each of the following criteria: completeness, step-by-step concordance, case-tailoring concordance, and missing data concordance. To perform your evaluation, follow the sequence of actions indicated below. 
+Action 1 - PRE-SCORING DECISION EXTRACTION
+Before assigning any score, identify the key clinical decisions contained in both recommendations. For each recommendation, summarize the following elements: 
+- Overall oncological strategy
+- Systemic therapy strategy
+- Surgical strategy
+- Timing of surgery
+- Key staging/restaging investigations
+- Anatomical compliance assessment
+- Critical missing data
+- Final MDT decision
+Important: The purpose of this step is to identify the underlying clinical decisions. Thus, 
+- Do not evaluate wording, style, length, formatting, or level of detail.
+- Only extract the clinical meaning of each recommendation.
+The subsequent scoring should be based primarily on the extracted decisions rather than on the original text.
+
+Action 2 - EVALUATION CRITERIA
+Criterion 1 — Clinical Coverage
+Evaluate whether Recommendation 2 addresses the same major clinical domains as Recommendation 1.
+Examples include:
+- resectability assessment
+- systemic therapy
+- imaging and staging
+- surgical management
+- postoperative management
+- surveillance strategy
+Scoring:
+5 = Same clinically relevant domains covered
+4 = Minor omissions with no impact on management
+3 = Some relevant domains missing
+2 = Major clinical domains missing
+1 = Multiple critical domains absent
+
+Criterion 2 — Step-By-Step Concordance
+Evaluate whether Recommendation 2 reproduces the same major clinical decisions and management sequence as Recommendation 1.
+Focus on:
+Step 1
+- overall treatment strategy
+- timing of surgery
+- systemic therapy decisions
+- staging/restaging decisions
+- treatment sequencing
+Step 3: anatomical compliance assessment
+Scoring:
+5 = Same management strategy and same resectability conclusions
+4 = Same overall strategy with minor differences
+3 = Partially overlapping strategy
+2 = Important strategic disagreements
+1 = Opposite management strategy or opposite resectability assessment
+Minor differences in wording, sequencing, or level of detail should not reduce the score.
+
+Criterion 3 — Case-Tailoring Concordance
+Evaluate whether Recommendation 2 incorporates the same case-specific clinical factors used by Recommendation 1. Focus on whether similar patient-specific reasoning is applied.
+Examples include:
+- molecular profile
+- tumor biology
+- chemotherapy response
+- lesion distribution
+- vascular involvement
+- extrahepatic disease
+- patient-related factors
+- timing of metastatic presentation
+Scoring:
+5 = Same case-specific reasoning
+4 = Minor differences
+3 = Partial overlap
+2 = Important patient-specific factors ignored
+1 = Major case-specific reasoning absent
+
+Criterion 4 — Missing Data Concordance
+Determine whether Recommendation 2 identifies the same decision-critical missing information as Recommendation 1.
+Instructions:
+- Evaluate Step 2 only.
+- Assess the overlap in missing data identified across the different categories (A, B, C, D).
+- Focus exclusively on information that could realistically alter treatment decisions.
+- Do not penalize Recommendation 2 for omitting desirable but non-essential information.
+Scoring:
+5 = Same critical missing data identified
+4 = Minor differences
+3 = Partial overlap
+2 = Important discrepancies
+1 = Completely different missing-data assessment
+
+Criterion 5 — MDT DECISION CONCORDANCE
+Evaluate whether Recommendation 2 would ultimately lead to the same MDT decision as Recommendation 1.
+Focus on the final treatment recommendation rather than individual details.
+Examples of high concordance:
+- upfront surgery vs upfront surgery
+- conversion chemotherapy vs conversion chemotherapy
+- two-stage hepatectomy vs two-stage hepatectomy
+- surgery contraindicated vs surgery contraindicated
+Examples of low concordance:
+- upfront surgery vs induction chemotherapy
+- resectable vs unresectable
+- surgery vs no surgery
+Consider the final treatment pathway that would be proposed to the patient.
+Scoring:
+5 = Same MDT decision
+- Same overall treatment pathway
+- Same resectability conclusion
+- Differences limited to details or supporting arguments
+4 = Highly similar MDT decision
+- Minor differences in sequencing
+- Final treatment recommendation remains essentially unchanged
+3 = Partially similar MDT decision
+- Similar therapeutic goals
+- Important implementation differences
+2 = Different MDT decision
+- Significant management differences
+- Different treatment pathway likely
+1 = Opposite MDT decision
+- Opposite conclusions regarding surgery, resectability, or treatment intent
+- Fundamentally different patient management
+
+Action 3 - EVALUATION PROCESS
+Using the clinical decisions extracted in Action 1, compare the two recommendations against each criterion, applying the definitions provided for each score value in Action 2. Support your scores with a brief reasoning for each criterion, based on the clinical decisions identified in Action 1 and the content of the two recommendations.
+Important: Scores should reflect agreement in clinical reasoning and management decisions rather than textual similarity.
+
+OUTPUT FORMAT
+{
+	"completeness": <integer from 1 to 5>,
+	"step_concordance": <integer from 1 to 5>,
+	"case_tailoring": <integer from 1 to 5>,
+	"missing_data_concordance": <integer from 1 to 5>,
+	“mdt_decision_concordance”: <integer from 1 to 5>,
+	"reasoning":""
+}
+
+
+CLINICAL CASE
+Man, 64 years old, left colon adenocarcinoma with four bilobar liver metastases. CEA 900 ng/mL, RAS wild-type. Liver MRI: segment VII lesion invading the IVC over 1 cm.
+
+RECOMMENDATION 1 (EXPERT REFERENCE)
+Step 1 – Oncological strategy
+A. Primary tumor management
+• Left colon adenocarcinoma with four bilobar liver metastases.
+• Primary tumor resection should be coordinated after systemic therapy and liver reassessment.
+• Left hemicolectomy can be performed in a staged or combined strategy if hepatic conversion becomes feasible.
+B. Systemic therapy
+• Indication: mandatory conversion chemotherapy.
+• Regimen: intensive chemotherapy ± anti-EGFR therapy given RAS wild-type status.
+• Objective: tumor downsizing, reduction of IVC invasion, and biologic assessment.
+C. Reassessment
+• Liver MRI and CT after 2–3 months.
+• PET-CT given CEA 900.
+• Evaluate response of the segment VII lesion and relationship to the IVC.
+• FLR calculation mandatory.
+D. Liver-directed strategy
+• Surgery only if major response and acceptable vascular reconstruction strategy.
+• Consider one- or two-stage hepatectomy with parenchymal-sparing resections.
+• Partial IVC resection/reconstruction may be necessary.
+• Intraoperative ultrasound mandatory.
+• Multidisciplinary vascular surgery involvement required.
+E. Postoperative strategy
+• Complete approximately 6 months of systemic therapy.
+• Close surveillance with imaging and CEA.
+Step 2 – Missing data
+1.	Patient Assessment: Patient’s current performance status and comorbidities. Patient’s surgical fitness for major procedures. Treatment tolerance
+2.	Primary Tumor Status: MSI/MSS status and differentiation.
+3.	Liver Metastatic Disease Assessment: Exact extent/depth of IVC invasion.
+Full segmental distribution of all lesions. FLR estimation.
+4.	Extrahepatic Metastatic Disease Assessment: Chest CT scan.
+
+Step 3 – Resectability assessment
+Anatomical Compliance
+• Four bilobar lesions.
+• Segment VII lesion invading the IVC.
+• Complex vascular surgery required for R0 resection.
+→ Conclusion: Anatomically borderline/non-compliant upfront.
+Potentially convertible after downsizing.
+
+RECOMMENDATION 2 (CANDIDATE)
+
+Step 1 – Oncological strategy  
+- Initiate systemic therapy (e.g., FOLFOX ± bevacizumab) as neoadjuvant treatment because the primary tumor status is unknown, the liver disease is bilobar with four lesions, and there is IVC invasion that may require down‑staging.  
+- Re‑stage after 2–3 months of chemotherapy with repeat liver MRI and a high‑quality thoraco‑abdominal CT or PET‑CT to:  
+   • Assess response of liver lesions (size reduction, loss of IVC contact).  
+   • Determine presence of occult extra‑hepatic disease.  
+   • Obtain volumetric data for future liver remnant (FLR).  
+- If imaging shows sufficient tumor shrinkage and FLR ≥30 % (or ≥40 % if chemotherapy‑associated liver injury is suspected), proceed to surgical planning:  
+   • Plan a staged or combined colorectal primary resection (if still in situ) and liver resection.  
+   • For the segment VII lesion with IVC involvement, evaluate feasibility of IVC segmental resection with primary repair or graft reconstruction; involve vascular surgery early.  
+   • Consider portal vein embolization (PVE) if FLR is marginal.  
+- If after chemotherapy the disease remains unresectable (persistent IVC encasement, inadequate FLR, or new extra‑hepatic metastases), continue systemic therapy or consider conversion strategies (e.g., hepatic arterial infusion, targeted agents) and reassess periodically.  
+
+Step 2 – Missing data  
+A) Patient Assessment (essential for surgical decision):  
+- Current performance status / ECOG score.  
+- Cardiopulmonary evaluation (e.g., cardiac echo, pulmonary function).  
+- Baseline liver function tests (bilirubin, INR, albumin, platelet count).  
+- Assessment of chemotherapy‑associated liver injury (e.g., ICG clearance, steatosis on imaging).  
+- Quantitative FLR volume and FLR/total liver ratio.  
+
+B) Primary Tumor Status (essential):  
+- Whether the left‑colon primary has already been resected.  
+- If not resected: tumor stage (T, N), presence of obstructive, perforation or bleeding symptoms.  
+- Need for synchronous colon resection versus delayed approach.  
+
+C) Liver Metastatic Disease Assessment (essential):  
+- Maximum and minimum lesion diameters of all four metastases.  
+- Exact segmental distribution (which segments besides VII are involved).  
+- Detailed description of IVC invasion (length, circumferential involvement, relationship to hepatic veins).  
+- Presence of portal vein or hepatic artery involvement.  
+- Planned surgical margins achievable (R0 vs R1 vascular resection).  
+
+D) Extra‑hepatic disease (essential):  
+- Results of a thoraco‑abdominal CT or PET‑CT to rule out lung, peritoneal, nodal, bone or brain metastases.  
+
+Step 3 – Anatomical resectability  
+Compliant, provided that:  
+- FLR ratio is adequate for the planned extent of hepatectomy (≥30 % in a chemotherapy‑injured liver).  
+- IVC involvement can be managed with segmental resection and safe reconstruction without sacrificing outflow of the future liver remnant.  
+- Portal inflow and hepatic venous outflow of the FLR are preserved (no need to resect all three hepatic veins or both portal branches).  
+- Biliary drainage of the FLR remains intact.  
+
+Rationale: The only confirmed anatomical concern is IVC invasion; this does not automatically preclude resection if reconstruction is feasible. All other critical anatomical parameters (FLR volume, portal/hepatic venous outflow, biliary drainage) are currently missing, so compliance is conditional on those data being favorable.
+

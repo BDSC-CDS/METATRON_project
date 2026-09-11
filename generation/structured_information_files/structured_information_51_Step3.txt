@@ -1,0 +1,17 @@
+
+Information concerning Extrahepatic_Pulmonary_Involvement
+- Do imaging studies show evidence of metastatic extrahepatic pulmonary involvement without discussion of differential diagnosis? Missing
+
+Information concerning Extrahepatic_Peritoneal_Involvement
+- Do imaging studies show evidence of metastatic extrahepatic peritoneal involvement without discussion of differential diagnosis? False
+
+Information concerning Extrahepatic_Lymph_Node_Involvement
+- Do imaging studies show evidence of metastatic extrahepatic lymph node involvement without discussion of differential diagnosis? False
+
+Information concerning Extrahepatic_Bone_Involvement
+Description: Metastatic bone lesions description.
+- Do imaging studies show evidence of metastatic extrahepatic bone involvement without discussion of differential diagnosis? Missing
+
+Information concerning Extrahepatic_Brain_Involvement
+Description: Metastatic brain lesions description.
+- Do imaging studies show evidence of metastatic extrahepatic brain involvement without discussion of differential diagnosis? Missing

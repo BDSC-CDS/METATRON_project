@@ -1,0 +1,16 @@
+judge;criterion;friedman p-value
+claude;Completeness;0.0
+claude;Step_concordance;0.0018
+claude;Case_tailoring;0.0
+claude;Missing_data_concordance;0.0005
+claude;MDT_Decision_Concordance;0.0004
+gpt;Completeness;0.2252
+gpt;Step_concordance;0.0109
+gpt;Case_tailoring;0.0872
+gpt;Missing_data_concordance;0.0227
+gpt;MDT_Decision_Concordance;0.0166
+llama;Completeness;0.9058
+llama;Step_concordance;0.6153
+llama;Case_tailoring;0.8997
+llama;Missing_data_concordance;0.0383
+llama;MDT_Decision_Concordance;0.4409

@@ -1,0 +1,17 @@
+
+Information concerning Future_Liver_Remnant_FLR_Ratio
+Description: FLR-Ratio (FLR/total liver volume) is compatible with surgery (liver metastases resection) when >25% in healthy livers; >30% in chemotherapy-damaged livers; >40% in cholestatic livers, and >50% in cirrhotic livers. FLR considerations become mandatory only when available information suggests one of the following conditions: major hepatectomy, extended hepatectomy, bilobar disease requiring staged procedures, vascular reconstruction, significant chemotherapy-associated liver injury, cirrhosis, cholestasis, or marginal liver reserve.
+- Does the case require management under any of the following conditions: major hepatectomy, extended hepatectomy, bilobar disease requiring staged procedures, vascular reconstruction, significant chemotherapy-associated liver injury, cirrhosis, cholestasis, or marginal liver reserve? True
+- FLR_Ratio_Compatibility_Surgery: True
+
+Information concerning Vascular_Involvement
+Description: Surgical feasibility requires preserved portal inflow and hepatic venous outflow of future liver remnant (FLR), with vascular involvement amenable to unilateral resection/reconstruction. Surgery is contraindicated when resection of all three hepatic veins, both portal vein branches, and/or the retrohepatic inferior vena cava is required.
+- Vascular_Involvement_Compatibility_Surgery: True
+
+Information concerning Biliary_Drainage
+Description: Surgical feasibility requires preserved biliary drainage of the future liver remnant (FLR). Impaired biliary drainage of the FLR contraindicates surgery.
+- Biliary_Drainage_Compatibility_Surgery: Missing
+
+Information concerning R0_Surgical_Margins
+Description: Surgical feasibility requires the possibility of achieving R0 resection or R1 vascular resection margins. R1 parenchymal margins and R2 resection contraindicate surgery.
+- Surgical_Margins_Compatibility_Surgery: True

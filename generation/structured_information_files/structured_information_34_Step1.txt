@@ -1,0 +1,25 @@
+
+Information concerning Colorectal_Primary_Tumor_Characterization
+- Location: right colon
+- Grade_Of_Differentation: Missing
+- Molecular_Phenotype: RAS wild-type
+
+Information concerning Colorectal_Primary_Tumor_Post_Resection_Characterization
+- Has the colorectal primary tumor been already resected? True
+- Surgery_Timing: 2 years ago
+- Previous_Resection_Residual_Tumor_Classification: Missing
+- Previous_Resection_Margins: Missing
+- Presence_Of_Peritoneal_Invasion: Missing
+- Presence_Of_Invasion_Of_Adjacent_Organs_pT4b: Missing
+- T_Stage: T3
+- N_Stage: N1
+- Presence_Of_Emboli_In_Colonic_Specimen: Missing
+- TRG: Missing
+
+Information concerning Colorectal_Primary_Tumor_Symptomatology
+- Presence_Of_Symptoms_For_Obstruction: Missing
+- Presence_Of_Symptoms_For_Perforation: Missing
+- Presence_Of_Symptoms_For_Bleeding: Missing
+
+Information concerning Colorectal_Primary_Tumor_CEA_Level
+- CEA_Level: 140 ng/mL

@@ -1,0 +1,41 @@
+Category;Criterion;Best Approach;Improvement from baseline
+Anatomical Resectability;Completeness;RAG-LLM;-
+Anatomical Resectability;Step_concordance;WF-LLM;0.23399999999999999
+Anatomical Resectability;Case_tailoring;WF-LLM;0.032999999999999474
+Anatomical Resectability;Missing_data_concordance;RAG-LLM;-
+Anatomical Resectability;MDT_Decision_Concordance;WF-LLM;0.06700000000000017
+LM with Extra-Hepatic Disease;Completeness;WF-LLM;0.054999999999999716
+LM with Extra-Hepatic Disease;Step_concordance;WF-LLM;0.02799999999999958
+LM with Extra-Hepatic Disease;Case_tailoring;WF-RAG-LLM;0.05600000000000005
+LM with Extra-Hepatic Disease;Missing_data_concordance;WF-RAG-LLM;0.02799999999999958
+LM with Extra-Hepatic Disease;MDT_Decision_Concordance;WF-LLM;0.08300000000000018
+Liver Recurrences After Surgery;Completeness;RAG-LLM;-
+Liver Recurrences After Surgery;Step_concordance;RAG-LLM;-
+Liver Recurrences After Surgery;Case_tailoring;WF-RAG-LLM;0.10200000000000031
+Liver Recurrences After Surgery;Missing_data_concordance;RAG-LLM;-
+Liver Recurrences After Surgery;MDT_Decision_Concordance;WF-RAG-LLM;0.025000000000000355
+Metachronous LM;Completeness;WF-RAG-LLM;0.043999999999999595
+Metachronous LM;Step_concordance;WF-RAG-LLM;0.1559999999999997
+Metachronous LM;Case_tailoring;WF-RAG-LLM;0.133
+Metachronous LM;Missing_data_concordance;RAG-LLM;-
+Metachronous LM;MDT_Decision_Concordance;WF-RAG-LLM;0.06699999999999928
+Metastases After Chemotherapy;Completeness;RAG-LLM;-
+Metastases After Chemotherapy;Step_concordance;WF-RAG-LLM;0.26600000000000046
+Metastases After Chemotherapy;Case_tailoring;RAG-LLM;-
+Metastases After Chemotherapy;Missing_data_concordance;LLM-baseline;-
+Metastases After Chemotherapy;MDT_Decision_Concordance;WF-RAG-LLM;0.3660000000000001
+Molecular Cases and Complex Situations;Completeness;RAG-LLM;-
+Molecular Cases and Complex Situations;Step_concordance;WF-RAG-LLM;0.06700000000000017
+Molecular Cases and Complex Situations;Case_tailoring;WF-RAG-LLM;0.10699999999999932
+Molecular Cases and Complex Situations;Missing_data_concordance;RAG-LLM;-
+Molecular Cases and Complex Situations;MDT_Decision_Concordance;WF-RAG-LLM;0.0940000000000003
+Sync. LM Post-Chemo Resectable;Completeness;RAG-LLM;-
+Sync. LM Post-Chemo Resectable;Step_concordance;WF-RAG-LLM;0.20000000000000018
+Sync. LM Post-Chemo Resectable;Case_tailoring;WF-RAG-LLM;0.09999999999999964
+Sync. LM Post-Chemo Resectable;Missing_data_concordance;WF-RAG-LLM;0.133
+Sync. LM Post-Chemo Resectable;MDT_Decision_Concordance;WF-RAG-LLM;0.26700000000000035
+Sync. Resectable LM;Completeness;WF-RAG-LLM;0.11099999999999977
+Sync. Resectable LM;Step_concordance;LLM-baseline;-
+Sync. Resectable LM;Case_tailoring;WF-RAG-LLM;0.021999999999999353
+Sync. Resectable LM;Missing_data_concordance;WF-RAG-LLM;0.17799999999999994
+Sync. Resectable LM;MDT_Decision_Concordance;LLM-baseline;-
