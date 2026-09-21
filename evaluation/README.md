@@ -28,7 +28,7 @@ Run commands from this directory so that the prompt files and relative output
 directories are resolved correctly:
 
 ```bash
-cd path\to\LLM_based_eval\evaluation
+cd evaluation
 ```
 
 ### 1. LLM-based evaluation
@@ -46,24 +46,24 @@ The entry point is `main_llm_based_evaluation.py`. It:
 For an API-key model:
 
 ```bash
-uv run main_llm_based_evaluation.py `
-  --n-selected-cases 10 `
-  --model-env apikey `
-  --model-name gpt-4o `
-  --data-version v8 `
-  --data-path ..\generation\recommendation_strategies\provided_results
+uv run main_llm_based_evaluation.py \
+  --n-selected-cases 10 \
+  --model-env apikey \
+  --model-name gpt-4o \
+  --data-version v8 \
+  --data-path ../generation/recommendation_strategies/provided_results
 ```
 
 For AWS Bedrock:
 
 ```bash
 # Use the model ID as registered on AWS Bedrock. We used: us.anthropic.claude-sonnet-4-6, us.meta.llama3-3-70b-instruct-v1:0
-uv run main_llm_based_evaluation.py `
-  --n-selected-cases 10 `
-  --model-env aws `
+uv run main_llm_based_evaluation.py \
+  --n-selected-cases 10 \
+  --model-env aws \
   --model-name us.anthropic.claude-sonnet-4-6 
-  --data-version v8 `
-  --data-path ..\generation\recommendation_strategies\provided_results
+  --data-version v8 \
+  --data-path ../generation/recommendation_strategies/provided_results
 ```
 
 To use Amazon Bedrock models, the required AWS credentials must be provided in `bedrock_cred/permanent_cred.env`:
@@ -104,9 +104,9 @@ After running the notebook and placing the generated files under the
 version-specific directory, run:
 
 ```bash
-uv run main_ner_analysis.py `
-  --data-path .\data `
-  --data-version v8 `
+uv run main_ner_analysis.py \
+  --data-path ./data \
+  --data-version v8 \
   --n-selected-cases 10
 ```
 

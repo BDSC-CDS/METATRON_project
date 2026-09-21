@@ -50,8 +50,11 @@ def main(
     """Run the AWS session-token setup when needed, then the LLM judge."""
     if n_selected_cases < 1:
         raise ValueError("N_SELECTED_CASES must be greater than zero.")
-    if not Path(data_path).is_absolute():
-        raise ValueError("data_path must be a complete absolute path.")
+    data_path = Path(data_path).resolve()
+    if not data_path.exists():
+        raise FileNotFoundError(
+            f"Data path does not exist: {data_path}"
+        )
 
     if model_env.lower() == "aws":
         run_script("00_session_token.py")
