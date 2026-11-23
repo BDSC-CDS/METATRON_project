@@ -1,0 +1,25 @@
+{
+  "seed": 2025,
+  "bootstrap_B": 2000,
+  "bootstrap": "case-level cluster bootstrap (same case indices for both strategies), percentile 95% CI",
+  "friedman_gate": 0.05,
+  "posthoc": "scipy.stats.wilcoxon defaults (zero_method='wilcox'), Holm within judge x criterion",
+  "r_rb_sign": "r_rb > 0 means the first strategy of the comparison scored higher",
+  "n_nan_bootstrap_replicates_total": 0,
+  "n_nan_bootstrap_replicates_total_kendall_w": 0,
+  "validation": {
+    "kendall_w_in_ci": "15/15",
+    "r_rb_in_ci": "54/54",
+    "sign_exceptions_median_diff": 0,
+    "sign_exceptions_mean_diff": 0,
+    "pingouin": "OK (3 comparisons, pingouin 0.6.1)",
+    "v1_identity": "NOT CONFIRMED: name 'results_df_1' is not defined"
+  },
+  "packages": {
+    "numpy": "2.4.3",
+    "pandas": "3.0.1",
+    "scipy": "1.17.1",
+    "statsmodels": "0.14.6",
+    "pingouin": "0.6.1"
+  }
+}

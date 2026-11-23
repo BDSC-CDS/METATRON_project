@@ -1,0 +1,25 @@
+{
+  "seed": 2025,
+  "bootstrap_B": 2000,
+  "bootstrap": "case-level cluster bootstrap, percentile CI",
+  "unit": "Case_Number x strategy",
+  "judges": [
+    "Claude Sonnet 4.6",
+    "GPT-4o",
+    "Llama 3.3 70B"
+  ],
+  "criteria": [
+    "Completeness",
+    "Step_concordance",
+    "Case_tailoring",
+    "Missing_data_concordance",
+    "MDT_Decision_Concordance"
+  ],
+  "packages": {
+    "numpy": "2.4.3",
+    "pandas": "3.0.1",
+    "krippendorff": "0.9.0",
+    "pingouin": "0.6.1",
+    "scikit-learn": "1.8.0"
+  }
+}

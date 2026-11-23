@@ -1,0 +1,16 @@
+﻿Judge;Criterion;χ²;n;Kendall's W (95% CI);p
+Claude Sonnet 4.6;Completeness;40.60;110;0.12 (0.07–0.20);<0.001
+Claude Sonnet 4.6;Step_concordance;14.99;110;0.05 (0.02–0.11);0.002
+Claude Sonnet 4.6;Case_tailoring;39.75;110;0.12 (0.07–0.20);<0.001
+Claude Sonnet 4.6;Missing_data_concordance;17.64;110;0.05 (0.02–0.12);<0.001
+Claude Sonnet 4.6;MDT_Decision_Concordance;18.22;110;0.06 (0.02–0.12);<0.001
+GPT-4o;Completeness;4.36;110;0.01 (0.00–0.05);0.225
+GPT-4o;Step_concordance;11.16;110;0.03 (0.01–0.09);0.011
+GPT-4o;Case_tailoring;6.56;110;0.02 (0.01–0.06);0.087
+GPT-4o;Missing_data_concordance;9.56;110;0.03 (0.01–0.08);0.023
+GPT-4o;MDT_Decision_Concordance;10.24;110;0.03 (0.01–0.08);0.017
+Llama 3.3 70B;Completeness;0.56;110;0.00 (0.00–0.03);0.906
+Llama 3.3 70B;Step_concordance;1.80;110;0.01 (0.00–0.04);0.615
+Llama 3.3 70B;Case_tailoring;0.59;110;0.00 (0.00–0.03);0.900
+Llama 3.3 70B;Missing_data_concordance;8.41;110;0.03 (0.01–0.08);0.038
+Llama 3.3 70B;MDT_Decision_Concordance;2.70;110;0.01 (0.00–0.05);0.441
